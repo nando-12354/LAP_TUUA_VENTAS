@@ -1,0 +1,9 @@
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Release\UTIL.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Release\UTIL.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\obj\Release\UTIL.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\obj\Release\UTIL.pdb

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<boarding>
+	<formato nombre="format_code" 		tipo="S">
+		<campo nombre = "format_code"					 		tam="1"/>
+		<campo nombre = "passenger_name"				 		tam="20"/>
+		<campo nombre = "operating_carrier_pnr_code"			tam="7"/>
+		<campo nombre = "servicing_provider_pnr"				tam="3"/>
+		<campo nombre = "passenger_description"					tam="1"/>
+		<campo nombre = "date_issue_doc_accepted_in_exchange"	tam="4"/>
+		<campo nombre = "date_issue"							tam="4"/>
+		<campo nombre = "x/o indicator"							tam="1"/>
+		<campo nombre = "from_city_airport_code"				tam="3"/>
+		<campo nombre = "airline_code"							tam="8"/>
+		<campo nombre = "to_city_airport_code"					tam="3"/>
+		<campo nombre = "airline_designator"					tam="3"/>
+		<campo nombre = "flight_number"							tam="5"/>
+		<campo nombre = "date_flight"							tam="3"/>
+		<campo nombre = "compartment_code"						tam="1"/>
+		<campo nombre = "airport_processing_indicator"			tam="2"/>
+		<campo nombre = "id_ad_indicator"						tam="1"/>
+		<campo nombre = "seat_number"							tam="4"/>
+		<campo nombre = "checkin_sequence_number"				tam="5"/>
+		<campo nombre = "international_doc_verification"		tam="1"/>
+		<campo nombre = "passenger_status"						tam="1"/>
+		<campo nombre = "free_baggage_allowance"				tam="3"/>
+		<campo nombre = "coupon_number"		 					tam="1"/>
+		<campo nombre = "airline_numeric_code"		 			tam="3"/>
+		<campo nombre = "document_form_serial_number"			tam="10"/>
+		<campo nombre = "document_number_check_digit"		 	tam="1"/>
+		<campo nombre = "origin"		 						tam="3"/>
+		<campo nombre = "destination"		 					tam="3"/>
+		<campo nombre = "frequent_flyer_number"		 			tam="16"/>
+		<campo nombre = "change_in_gauge_seat_number"		 	tam="4"/>
+		<campo nombre = "electronic_ticket_indicator"			tam="1"/>
+	</formato>
+</boarding>

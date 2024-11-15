@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<procedures>
+	<SP nombre="usp_adm_pcs_obtenerlistadecampo_xnombre_sel" alias="LCSP_OBTENER_LISTACAMPONOMBRE">
+		<argumentos>
+		  <argumento nombre="Nom_Campo"            alias="Nom_Campo" />
+		  <argumento nombre="Cod_Campo"            alias="Cod_Campo" />
+		  <argumento nombre="Cod_Relativo"         alias="Cod_Relativo" />
+		  <argumento nombre="Dsc_Campo"            alias="Dsc_Campo" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_cns_pcs_obtener_bcbp_sel"   alias="BPSP_BOARDING_HISTORICO">
+		<argumentos>
+			<argumento nombre="Num_Secuencial_Bcbp"      	alias="Num_Secuencial_Bcbp" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_cns_pcs_listarboardingesthist_sel"   alias="BPSP_OBTENER_xNUMSEC_BOARDINGESTHIST">
+		<argumentos>
+			<argumento nombre="Num_Secuencial_Bcbp"      	alias="Num_Secuencial_Bcbp" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_cns_pcs_listar_bcbp_asociada_sel"   alias="BPSP_BOARDING_ASOCIADO">
+		<argumentos>
+			<argumento nombre="Num_Secuencial_Bcbp"      	alias="Num_Secuencial_Bcbp" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_cns_pcs_parametrogeneral_sel" alias="PARAMGEN_OBTENERVALORPARAMGENER">
+		<argumentos>
+		  <argumento nombre="Identificador"       alias="Identificador" />
+		  <argumento nombre="Descripcion"         alias="Descripcion" />
+		  <argumento nombre="TipoParametro"       alias="TipoParametro" />
+		  <argumento nombre="TipoValor"           alias="TipoValor" />
+		  <argumento nombre="Valor"               alias="Valor" />
+		  <argumento nombre="CampoLista"          alias="CampoLista" />
+		  <argumento nombre="IdentificadorPadre"  alias="IdentificadorPadre" />
+		  <argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+		  <argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		  <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+	
+	<SP nombre="usp_ext_cns_validarcompania_bcbp_sel"   alias="BPSP_VALIDAR_COMPANIA_BCBP">
+		<argumentos>
+			<argumento nombre="Cod_IATA"      	alias="Cod_IATA" />
+		</argumentos>
+	</SP>
+
+	<!-- Boarding Pass-->
+	<SP nombre="usp_ext_cns_mensualbcbpleidos_sel"   alias="BPSP_CNS_MENSUAL">
+		<argumentos>
+		</argumentos>
+	</SP>
+	<SP nombre="usp_ext_cns_resumensualbcbpleidos_sel"   alias="BPSP_CNS_RESUMENMENSUAL">
+		<argumentos>
+		</argumentos>
+	</SP>
+	<SP nombre="usp_ext_rpt_BoardingLeidosMolinete"   alias="BPSP_OBTENERBPMOLINETE">
+		<argumentos>
+			<argumento nombre="Fch_Vuelo"      		alias="Fch_Vuelo" />
+			<argumento nombre="Num_Vuelo"         alias="Num_Vuelo" />
+			<argumento nombre="Num_Asiento"       alias="Num_Asiento" />
+			<argumento nombre="Nom_Pasajero"      alias="Nom_Pasajero" />
+			<argumento nombre="Nro_Boarding"    	alias="Nro_Boarding" />
+			<argumento nombre="Cod_ETicket"       alias="Cod_ETicket" />
+			<argumento nombre="Tip_Estado"      	alias="Tip_Estado" />
+		</argumentos>
+	</SP>
+	<!-- kinzi	-	20.12.2010	- Boarding Pass Usado / Rehabilitado -->
+	<SP nombre="usp_ext_rpt_bcbpdiario_sel"   alias="BPSP_RPT_BCBPDIARIO">
+		<argumentos>
+		</argumentos>
+	</SP>	
+</procedures>

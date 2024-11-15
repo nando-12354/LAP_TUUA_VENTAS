@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ERRORTYPES>
+	<ERRORTYPE>
+		<CODE>000</CODE>
+		<NAME>ERROR NO IDENTIFICADO</NAME>
+		<MESSAGE>Error no identificado.</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>001</CODE>
+		<NAME>ARCHIVO NO ENCONTRADO</NAME>
+		<MESSAGE>El archivo de configuracion no existe.</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>002</CODE>
+		<NAME>ARCHIVO NO ENCONTRADO</NAME>
+		<MESSAGE>El archivo de configuracion de stores no existe.</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>003</CODE>
+		<NAME>ERROR EN CONFIGURACION</NAME>
+		<MESSAGE>El archivo de stores no esta configurado correctamente.</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>004</CODE>
+		<NAME>ERROR EN ARCHIVO DE RECURSOS</NAME>
+		<MESSAGE>El archivo de Recursos no encontrado.</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>005</CODE>
+		<NAME>Operación invalida</NAME>
+		<MESSAGE>No existe objeto en Base de Datos.</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>006</CODE>
+		<NAME>ERROR EN CONEXION</NAME>
+		<MESSAGE>Base de Datos no iniciada</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>007</CODE>
+		<NAME>ERROR EN CONFIGURACION</NAME>
+		<MESSAGE>Error en configuracion de Archivo: Config.Properties</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>008</CODE>
+		<NAME>ERROR EN CONFIGURACION</NAME>
+		<MESSAGE>Error de configuracion de Archivo: Label.Properties</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>009</CODE>
+		<NAME>PAGINA NO ENCONTRADA</NAME>
+		<MESSAGE>Archivo no encontrado</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>010</CODE>
+		<NAME>ERROR CONEXION SERVIDOR FTP</NAME>
+		<MESSAGE>ERROR CONEXION SERVIDOR FTP</MESSAGE>
+	</ERRORTYPE>
+	<!-- Additional Error - Tasa Cambio - kinzi -->
+	<ERRORTYPE>
+		<CODE>401</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR TASA DE CAMBIO</NAME>
+		<MESSAGE>Error la T.C. ingresada es igual a la T.C. vigente</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>404</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR TASA DE CAMBIO</NAME>
+		<MESSAGE>Error la T.C. ingresada debe ser mayor a 0.0000</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>403</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR TASA DE CAMBIO PROGRAMADA</NAME>
+		<MESSAGE>Error la T.C. ingresada es igual a la ultima T.C. programada</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>402</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR TASA DE CAMBIO</NAME>
+		<MESSAGE>Error al registrar T.C. ingresada</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>405</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR TASA DE CAMBIO</NAME>
+		<MESSAGE>Error al registrar T.C. formato de monto inválido</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>406</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR TASA DE CAMBIO PROGRAMADA</NAME>
+		<MESSAGE>Error ya existe una T.C. programada para la fecha ingresada</MESSAGE>
+	</ERRORTYPE>
+	<!-- Additional Error - Precio Ticket - kinzi -->
+	<ERRORTYPE>
+		<CODE>501</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR PRECIO DE TICKET</NAME>
+		<MESSAGE>Error el precio del ticket ingresado es igual al precio vigente</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>504</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR PRECIO DE TICKET</NAME>
+		<MESSAGE>Error el precio del ticket ingresado debe ser mayor a 0.00</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>503</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR PRECIO DE TICKET PROGRAMADO</NAME>
+		<MESSAGE>Error el precio del ticket ingresado es igual al último precio programado</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>502</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR PRECIO DE TICKET</NAME>
+		<MESSAGE>Error al registrar el precio del ticket ingresado</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>505</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR PRECIO DE TICKET</NAME>
+		<MESSAGE>Error al registrar el precio del ticket ingresado, formato de monto inválido</MESSAGE>
+	</ERRORTYPE>
+	<ERRORTYPE>
+		<CODE>506</CODE>
+		<NAME>ERROR EN OPERACION INGRESAR PRECIO DE TICKET PROGRAMADO</NAME>
+		<MESSAGE>Error ya existe un precio de ticket programado para la fecha ingresada</MESSAGE>
+	</ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>507</CODE>
+    <NAME>ERROR EN OPERACION INGRESAR PRECIO DE TICKET</NAME>
+    <MESSAGE>Error al registrar el precio del ticket ingresado, la moneda del precio no tiene tasas de cambio registradas</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>510</CODE>
+    <NAME>ERROR EN OPERACION ELIMINAR PRECIO DE TICKET PROGRAMADO</NAME>
+    <MESSAGE>Error al eliminar el precio de ticket programado</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>511</CODE>
+    <NAME>ERROR EN OPERACION ELIMINAR TASA DE CAMBIO PROGRAMADA</NAME>
+    <MESSAGE>Error al eliminar la tasa de cambio programada</MESSAGE>
+  </ERRORTYPE>
+</ERRORTYPES>

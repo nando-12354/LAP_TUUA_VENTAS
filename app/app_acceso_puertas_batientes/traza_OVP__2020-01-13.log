@@ -1,0 +1,128 @@
+WARNING:root:Inicio LAP_SP_OVP :2020-01-13 11:52:02.317144
+INFO:root:2020-01-13 11:52:02.317144 Conectado LAP_SP_OVP
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+ERROR:root:2020-01-13 12:15:30.300617 Error en puerta en linea :     66     (MaxRetryError("HTTPConnectionPool(host='172.20.0.125', port=80): Max retries exceeded with url: /tuua_api/api/TuuaAccesos/getstatus (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x025422D0>, 'Connection to 172.20.0.125 timed out. (connect timeout=10)'))"),)
+Traceback (most recent call last):
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 160, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 80, in create_connection
+    raise err
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 70, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 603, in urlopen
+    chunked=chunked)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 355, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1244, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1290, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1239, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 183, in connect
+    conn = self._new_conn()
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 165, in _new_conn
+    (self.host, self.timeout))
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x025422D0>, 'Connection to 172.20.0.125 timed out. (connect timeout=10)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\adapters.py", line 449, in send
+    timeout=timeout
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 641, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 399, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='172.20.0.125', port=80): Max retries exceeded with url: /tuua_api/api/TuuaAccesos/getstatus (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x025422D0>, 'Connection to 172.20.0.125 timed out. (connect timeout=10)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\desarrolloPY\puerta.py", line 66, in estado_webservice
+    r = requests.get(configuracionParametros.urlVerificarRed(), timeout=configuracionParametros.urlVerificarRed_timeout())
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='172.20.0.125', port=80): Max retries exceeded with url: /tuua_api/api/TuuaAccesos/getstatus (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x025422D0>, 'Connection to 172.20.0.125 timed out. (connect timeout=10)'))
+INFO:root:2020-01-13 12:15:31.533020 es una llave
+INFO:root:2020-01-13 12:15:33.545423es llave de apertura
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+ERROR:root:2020-01-13 12:15:48.677450 Error en puerta en linea :     66     (MaxRetryError("HTTPConnectionPool(host='172.20.0.125', port=80): Max retries exceeded with url: /tuua_api/api/TuuaAccesos/getstatus (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x02542170>, 'Connection to 172.20.0.125 timed out. (connect timeout=10)'))"),)
+Traceback (most recent call last):
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 160, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 80, in create_connection
+    raise err
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\connection.py", line 70, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 603, in urlopen
+    chunked=chunked)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 355, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1244, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1290, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1239, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 183, in connect
+    conn = self._new_conn()
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connection.py", line 165, in _new_conn
+    (self.host, self.timeout))
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x02542170>, 'Connection to 172.20.0.125 timed out. (connect timeout=10)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\adapters.py", line 449, in send
+    timeout=timeout
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py", line 641, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\util\retry.py", line 399, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='172.20.0.125', port=80): Max retries exceeded with url: /tuua_api/api/TuuaAccesos/getstatus (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x02542170>, 'Connection to 172.20.0.125 timed out. (connect timeout=10)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\desarrolloPY\puerta.py", line 66, in estado_webservice
+    r = requests.get(configuracionParametros.urlVerificarRed(), timeout=configuracionParametros.urlVerificarRed_timeout())
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\requests\adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='172.20.0.125', port=80): Max retries exceeded with url: /tuua_api/api/TuuaAccesos/getstatus (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x02542170>, 'Connection to 172.20.0.125 timed out. (connect timeout=10)'))
+INFO:root:2020-01-13 12:15:49.847452 es una llave
+INFO:root:2020-01-13 12:16:02.452274 Informacion del estado :     TODT

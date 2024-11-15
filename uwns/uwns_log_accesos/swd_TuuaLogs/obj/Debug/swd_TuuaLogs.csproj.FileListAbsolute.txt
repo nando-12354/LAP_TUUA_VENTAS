@@ -1,0 +1,39 @@
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\obj\Debug\swd_TuuaLogs.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\obj\Debug\LAP.TUUA.LOGS.ACS_FormLogs.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\obj\Debug\LAP.TUUA.LOGS.SVC_Installer.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\obj\Debug\swd_TuuaLogs.csproj.GenerateResource.Cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\swd_TuuaLogs.exe.config
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\swd_TuuaLogs.exe
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\swd_TuuaLogs.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\DATAACCESS.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\ENTIDADES.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\ENTIDADES.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\DATAACCESS.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\UTIL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\obj\Debug\swd_TuuaLogs.exe
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\swd_TuuaLogs.exe.config
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\obj\Debug\swd_TuuaLogs.exe
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\obj\Debug\swd_TuuaLogs.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\obj\Debug\LAP.TUUA.LOGS.ACS_FormLogs.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\obj\Debug\LAP.TUUA.LOGS.SVC_Installer.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\obj\Debug\swd_TuuaLogs.csproj.GenerateResource.Cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\swd_TuuaLogs.exe
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\swd_TuuaLogs.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\DATAACCESS.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\ENTIDADES.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\ENTIDADES.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\DATAACCESS.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\swd_TuuaLogs\bin\Debug\UTIL.pdb

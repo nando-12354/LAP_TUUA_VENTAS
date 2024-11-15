@@ -1,0 +1,348 @@
+WARNING:root:Inicio LAP_SP_OVP :2019-10-18 09:30:31.583874
+INFO:root:2019-10-18 09:30:31.583874 Conectado LAP_SP_OVP
+INFO:root:2019-10-18 09:33:34.038228 es una llave
+INFO:root:2019-10-18 09:33:37.049033es llave de destrabe
+WARNING:root:Inicio LAP_SP_OVP :2019-10-18 10:02:23.466948
+INFO:root:2019-10-18 10:02:23.466948 Conectado LAP_SP_OVP
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:02:52.465962 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:02:52.497162 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:02:52.497162 es un ticket
+INFO:root:2019-10-18 10:02:52.497162 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 78
+INFO:root:2019-10-18 10:02:56.038368 Nombre 		: ALLAIN/PAUL         
+INFO:root:2019-10-18 10:02:56.038368 Trama 		: M1ALLAIN/PAUL         EXMENYT LIMCUZLA 2025 290Y005A0135 33D>10B1OO9289BLA 29045          00AA LA 51238809030         8
+INFO:root:2019-10-18 10:02:56.038368 Intento 		: 15
+INFO:root:2019-10-18 10:02:56.038368 Hora Intento 	: 2019-10-18 10:02:52.465962
+INFO:root:2019-10-18 10:02:56.038368 Razon		: no paso
+INFO:root:2019-10-18 10:02:56.038368 Numero de pase	: 0
+WARNING:root:Inicio LAP_SP_OVP :2019-10-18 10:03:37.815242
+INFO:root:2019-10-18 10:03:37.815242 Conectado LAP_SP_OVP
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:05:09.871003 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:05:09.933403 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:05:09.933403 es un ticket
+INFO:root:2019-10-18 10:05:09.933403 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 78
+INFO:root:2019-10-18 10:05:13.178209 Nombre 		: ALLAIN/PAUL         
+INFO:root:2019-10-18 10:05:13.178209 Trama 		: M1ALLAIN/PAUL         EXMENYT LIMCUZLA 2025 290Y005A0135 33D>10B1OO9289BLA 29045          00AA LA 51238809030         8
+INFO:root:2019-10-18 10:05:13.178209 Intento 		: 16
+INFO:root:2019-10-18 10:05:13.178209 Hora Intento 	: 2019-10-18 10:05:09.886603
+INFO:root:2019-10-18 10:05:13.178209 Razon		: no paso
+INFO:root:2019-10-18 10:05:13.178209 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:19:11.102481 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:19:11.149281 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:19:11.149281 es un ticket
+INFO:root:2019-10-18 10:19:11.149281 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 78
+INFO:root:2019-10-18 10:19:14.409687 Nombre 		: GONZALES/CHRISTIAN  
+INFO:root:2019-10-18 10:19:14.409687 Trama 		: M1GONZALES/CHRISTIAN  EEREPII LIMPIULA 2324 290Y004A0060 13D>10B1OR9289BLA 29045          00                          8
+INFO:root:2019-10-18 10:19:14.409687 Intento 		: 3
+INFO:root:2019-10-18 10:19:14.409687 Hora Intento 	: 2019-10-18 10:19:11.118081
+INFO:root:2019-10-18 10:19:14.409687 Razon		: no paso
+INFO:root:2019-10-18 10:19:14.409687 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:48:52.204409 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:48:52.251209 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:48:52.251209 es un ticket
+INFO:root:2019-10-18 10:48:52.251209 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 69
+INFO:root:2019-10-18 10:48:57.758019 Informacion del estado :     sobre paso tiempo
+INFO:root:2019-10-18 10:48:57.758019 Nombre 		: YUKIMURAHURANGA/EMMY
+INFO:root:2019-10-18 10:48:57.758019 Trama 		: M1YUKIMURAHURANGA/EMMY SISHMM LIMAQPH2 5101 291S001A0107 35D>5180 O    BH2              2A             0 H2                        N 21064893426
+INFO:root:2019-10-18 10:48:57.758019 Intento 		: 1
+INFO:root:2019-10-18 10:48:57.758019 Hora Intento 	: 2019-10-18 10:48:52.220009
+INFO:root:2019-10-18 10:48:57.758019 Razon		: no paso sobre paso tiempo
+INFO:root:2019-10-18 10:48:57.758019 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:49:04.091630 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:49:04.138430 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:49:04.138430 es un ticket
+INFO:root:2019-10-18 10:49:04.138430 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 69
+INFO:root:2019-10-18 10:49:09.629640 Informacion del estado :     sobre paso tiempo
+INFO:root:2019-10-18 10:49:09.645240 Nombre 		: VILLANUEVA/JOSEEDUAR
+INFO:root:2019-10-18 10:49:09.660840 Trama 		: M1VILLANUEVA/JOSEEDUAR JHFAOG LIMAQPH2 5101 291S002D0533 35D>5180 O    BH2              2A             0 H2                        N 21064897070
+INFO:root:2019-10-18 10:49:09.660840 Intento 		: 1
+INFO:root:2019-10-18 10:49:09.660840 Hora Intento 	: 2019-10-18 10:49:04.107230
+INFO:root:2019-10-18 10:49:09.660840 Razon		: no paso sobre paso tiempo
+INFO:root:2019-10-18 10:49:09.660840 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:49:15.854051 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:49:15.900851 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:49:15.900851 es un ticket
+INFO:root:2019-10-18 10:49:15.900851 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 69
+INFO:root:2019-10-18 10:49:21.501261 Informacion del estado :     sobre paso tiempo
+INFO:root:2019-10-18 10:49:21.501261 Nombre 		: VILLANUEVA/ISMAEL   
+INFO:root:2019-10-18 10:49:21.501261 Trama 		: M1VILLANUEVA/ISMAEL    YOGHKR LIMAQPH2 5101 291B001D0532 35D>5180 O    BH2              2A             0 H2                        N 21064897066
+INFO:root:2019-10-18 10:49:21.516861 Intento 		: 1
+INFO:root:2019-10-18 10:49:21.516861 Hora Intento 	: 2019-10-18 10:49:15.869651
+INFO:root:2019-10-18 10:49:21.516861 Razon		: no paso sobre paso tiempo
+INFO:root:2019-10-18 10:49:21.516861 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:49:29.738075 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:49:29.784875 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:49:29.784875 es un ticket
+INFO:root:2019-10-18 10:49:29.784875 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 69
+INFO:root:2019-10-18 10:49:35.276085 Informacion del estado :     sobre paso tiempo
+INFO:root:2019-10-18 10:49:35.276085 Nombre 		: VEGASANCHEZ/MARTHAJU
+INFO:root:2019-10-18 10:49:35.276085 Trama 		: M1VEGASANCHEZ/MARTHAJUEJHLILN LIMCUZLA 2005 291Y003J0144 13D>10B2OO9291BLA 29045          00                          8
+INFO:root:2019-10-18 10:49:35.276085 Intento 		: 1
+INFO:root:2019-10-18 10:49:35.276085 Hora Intento 	: 2019-10-18 10:49:29.753675
+INFO:root:2019-10-18 10:49:35.276085 Razon		: no paso sobre paso tiempo
+INFO:root:2019-10-18 10:49:35.276085 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:49:46.757705 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:49:46.820105 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:49:46.820105 es un ticket
+INFO:root:2019-10-18 10:49:46.820105 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 69
+INFO:root:2019-10-18 10:49:52.311315 Informacion del estado :     sobre paso tiempo
+INFO:root:2019-10-18 10:49:52.311315 Nombre 		: VALENCIACASTILLO/ISA
+INFO:root:2019-10-18 10:49:52.311315 Trama 		: M1VALENCIACASTILLO/ISAEGFMROM LIMAQPH2 5101 291Z001C0540 35D>5180 O    BH2              2A             0 H2                        N 21064902596
+INFO:root:2019-10-18 10:49:52.311315 Intento 		: 1
+INFO:root:2019-10-18 10:49:52.311315 Hora Intento 	: 2019-10-18 10:49:46.788905
+INFO:root:2019-10-18 10:49:52.311315 Razon		: no paso sobre paso tiempo
+INFO:root:2019-10-18 10:49:52.311315 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:49:58.535726 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:49:58.582526 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:49:58.582526 es un ticket
+INFO:root:2019-10-18 10:49:58.582526 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 69
+INFO:root:2019-10-18 10:50:04.073735 Informacion del estado :     sobre paso tiempo
+INFO:root:2019-10-18 10:50:04.089335 Nombre 		: TRELLESVELIZ/ALMENDR
+INFO:root:2019-10-18 10:50:04.089335 Trama 		: M1TRELLESVELIZ/ALMENDREMLDBLM LIMCUZLA 2005 291Y003K0026 13D&lt;10B2RR9291BLA 29045          00   LA 510768186985
+INFO:root:2019-10-18 10:50:04.089335 Intento 		: 1
+INFO:root:2019-10-18 10:50:04.089335 Hora Intento 	: 2019-10-18 10:49:58.551326
+INFO:root:2019-10-18 10:50:04.089335 Razon		: no paso sobre paso tiempo
+INFO:root:2019-10-18 10:50:04.089335 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:50:14.416554 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:50:14.463354 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:50:14.463354 es un ticket
+INFO:root:2019-10-18 10:50:14.463354 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 69
+INFO:root:2019-10-18 10:50:19.970163 Informacion del estado :     sobre paso tiempo
+INFO:root:2019-10-18 10:50:19.970163 Nombre 		: TEJADA/VICTOR       
+INFO:root:2019-10-18 10:50:19.970163 Trama 		: M1TEJADA/VICTOR       EQZKMJI LIMCUZLA 2025 291Y001A0096 13D>10B1RR9290BLA 29045          00   LA 51046418046         3
+INFO:root:2019-10-18 10:50:19.970163 Intento 		: 1
+INFO:root:2019-10-18 10:50:19.970163 Hora Intento 	: 2019-10-18 10:50:14.432154
+INFO:root:2019-10-18 10:50:19.970163 Razon		: no paso sobre paso tiempo
+INFO:root:2019-10-18 10:50:19.970163 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:50:26.397375 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:50:26.444175 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:50:26.444175 es un ticket
+INFO:root:2019-10-18 10:50:26.444175 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 74
+INFO:root:2019-10-18 10:50:29.720180 Nombre 		: SURCO/JAIME         
+INFO:root:2019-10-18 10:50:29.720180 Trama 		: M1SURCO/JAIME         ER3DR3Y LIMAQPVV 0800 291Y001E0163 647>1181 W9290BVV 0000000000000296410029548002 0
+INFO:root:2019-10-18 10:50:29.720180 Intento 		: 1
+INFO:root:2019-10-18 10:50:29.720180 Hora Intento 	: 2019-10-18 10:50:26.412975
+INFO:root:2019-10-18 10:50:29.720180 Razon		: no paso
+INFO:root:2019-10-18 10:50:29.720180 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:50:39.485798 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:50:39.610598 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:50:39.610598 es un ticket
+INFO:root:2019-10-18 10:50:39.610598 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 69
+INFO:root:2019-10-18 10:50:45.242208 Informacion del estado :     sobre paso tiempo
+INFO:root:2019-10-18 10:50:45.242208 Nombre 		: SUCAYUKIMURA/ALDOTAK
+INFO:root:2019-10-18 10:50:45.242208 Trama 		: M1SUCAYUKIMURA/ALDOTAK SISHMM LIMAQPH2 5101 291S001B0106 35D>5180 O    BH2              2A             0 H2                        N 21064893430
+INFO:root:2019-10-18 10:50:45.242208 Intento 		: 1
+INFO:root:2019-10-18 10:50:45.257808 Hora Intento 	: 2019-10-18 10:50:39.563798
+INFO:root:2019-10-18 10:50:45.257808 Razon		: no paso sobre paso tiempo
+INFO:root:2019-10-18 10:50:45.257808 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:50:47.987812 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:50:48.050213 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:50:48.050213 es un ticket
+INFO:root:2019-10-18 10:50:48.050213 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 74
+INFO:root:2019-10-18 10:50:51.310618 Nombre 		: SILVADELGADO/IVAN FR
+INFO:root:2019-10-18 10:50:51.310618 Trama 		: M1SILVADELGADO/IVAN FREAHEOER LIMCUZLA 2005 291Y003B0119 63D&lt;10B1KR9290BLA 29045          00
+INFO:root:2019-10-18 10:50:51.310618 Intento 		: 1
+INFO:root:2019-10-18 10:50:51.310618 Hora Intento 	: 2019-10-18 10:50:48.019013
+INFO:root:2019-10-18 10:50:51.310618 Razon		: no paso
+INFO:root:2019-10-18 10:50:51.310618 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:51:04.633042 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:51:04.664242 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:51:04.664242 es un ticket
+INFO:root:2019-10-18 10:51:04.664242 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 78
+INFO:root:2019-10-18 10:51:07.846647 Nombre 		: ALLAIN/PAUL         
+INFO:root:2019-10-18 10:51:07.846647 Trama 		: M1ALLAIN/PAUL         EXMENYT LIMCUZLA 2025 290Y005A0135 33D>10B1OO9289BLA 29045          00AA LA 51238809030         8
+INFO:root:2019-10-18 10:51:07.846647 Intento 		: 17
+INFO:root:2019-10-18 10:51:07.846647 Hora Intento 	: 2019-10-18 10:51:04.648642
+INFO:root:2019-10-18 10:51:07.846647 Razon		: no paso
+INFO:root:2019-10-18 10:51:07.846647 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:51:09.266250 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:51:09.297450 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:51:09.297450 es un ticket
+INFO:root:2019-10-18 10:51:09.297450 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 78
+INFO:root:2019-10-18 10:51:12.479856 Nombre 		: AOYAMA/TSUTOMUMR    
+INFO:root:2019-10-18 10:51:12.479856 Trama 		: M1AOYAMA/TSUTOMUMR    EROXKHW LIMCUZLA 2025 290Y004C0150 33D>10B1OO9290BLA 29045          00                          8
+INFO:root:2019-10-18 10:51:12.479856 Intento 		: 4
+INFO:root:2019-10-18 10:51:12.479856 Hora Intento 	: 2019-10-18 10:51:09.281850
+INFO:root:2019-10-18 10:51:12.479856 Razon		: no paso
+INFO:root:2019-10-18 10:51:12.479856 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:51:14.741859 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:51:14.788660 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:51:14.788660 es un ticket
+INFO:root:2019-10-18 10:51:14.788660 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 78
+INFO:root:2019-10-18 10:51:17.955465 Nombre 		: ASCANOA/JIMMY       
+INFO:root:2019-10-18 10:51:17.955465 Trama 		: M1ASCANOA/JIMMY       ECFREAU LIMPIULA 2324 290Y001A0006 13D>10B1RR9290BLA 29045          00   LA 51102687241         2
+INFO:root:2019-10-18 10:51:17.955465 Intento 		: 1
+INFO:root:2019-10-18 10:51:17.955465 Hora Intento 	: 2019-10-18 10:51:14.773060
+INFO:root:2019-10-18 10:51:17.955465 Razon		: no paso
+INFO:root:2019-10-18 10:51:17.955465 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:51:20.014669 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:51:20.061469 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:51:20.061469 es un ticket
+INFO:root:2019-10-18 10:51:20.061469 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 79
+INFO:root:2019-10-18 10:51:23.321875 Nombre 		: BAHAMONDE/CARMEN    
+INFO:root:2019-10-18 10:51:23.321875 Trama 		: M1BAHAMONDE/CARMEN    EVUPJGH LIMCJA2I 2131 290U003A0095 100
+INFO:root:2019-10-18 10:51:23.321875 Intento 		: 1
+INFO:root:2019-10-18 10:51:23.321875 Hora Intento 	: 2019-10-18 10:51:20.030269
+INFO:root:2019-10-18 10:51:23.321875 Razon		: no paso
+INFO:root:2019-10-18 10:51:23.321875 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:51:25.490278 no es una llave de destrabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 10:51:25.537078 ESTE ES EL ESTADO DEL WEBSERVICE [200, 'ok']
+INFO:root:2019-10-18 10:51:25.537078 es un ticket
+INFO:root:2019-10-18 10:51:25.537078 entro a verificacion con webservice
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=L20 HTTP/1.1" 200 389
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "POST /tuua_api/api/TuuaAccesos/PostRegistrarTrama HTTP/1.1" 200 79
+INFO:root:2019-10-18 10:51:28.797484 Nombre 		: BAHAMONDE/CARMEN    
+INFO:root:2019-10-18 10:51:28.797484 Trama 		: M1BAHAMONDE/CARMEN    EVUPJGH LIMCJA2I 2131 290U003A0095 100
+INFO:root:2019-10-18 10:51:28.797484 Intento 		: 2
+INFO:root:2019-10-18 10:51:28.797484 Hora Intento 	: 2019-10-18 10:51:25.505878
+INFO:root:2019-10-18 10:51:28.797484 Razon		: no paso
+INFO:root:2019-10-18 10:51:28.797484 Numero de pase	: 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 11:26:57.577223 es una llave
+INFO:root:2019-10-18 11:26:57.670823 es una llave de trabe
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 172.20.0.125:80
+DEBUG:urllib3.connectionpool:http://172.20.0.125:80 "GET /tuua_api/api/TuuaAccesos/getstatus HTTP/1.1" 200 54
+INFO:root:2019-10-18 11:27:19.900862 es una llave
+INFO:root:2019-10-18 11:27:21.913266es llave de destrabe

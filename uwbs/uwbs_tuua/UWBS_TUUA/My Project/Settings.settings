@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="UWBS_TUUA_WSInterbank_wsTipoCambioLAP" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://216.244.151.15/lapextDMZ/wsTipoCambioLAP.asmx</Value>
+    </Setting>
+    <Setting Name="Usuario_WSInterbank" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">lntIisUserPrdLapext</Value>
+    </Setting>
+    <Setting Name="Password_WSInterbank" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">iisprdlapext10</Value>
+    </Setting>
+    <Setting Name="url_ftp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ftp://192.168.9.3/webLAP.dat</Value>
+    </Setting>
+    <Setting Name="usuario_ftp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">fids</Value>
+    </Setting>
+    <Setting Name="clave_ftp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">clavefids</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

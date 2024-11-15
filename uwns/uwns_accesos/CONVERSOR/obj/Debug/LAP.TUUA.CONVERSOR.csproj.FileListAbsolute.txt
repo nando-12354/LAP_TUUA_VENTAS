@@ -1,0 +1,25 @@
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Debug\LAP.TUUA.CONVERSOR.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Debug\LAP.TUUA.CONVERSOR.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Debug\LAP.TUUA.CONVERSOR.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.csproj.CoreCompileInputs.cache
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Debug\LAP.TUUA.CONVERSOR.pdb

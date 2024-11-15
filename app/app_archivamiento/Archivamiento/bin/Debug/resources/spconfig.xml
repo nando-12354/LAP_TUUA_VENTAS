@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<procedures>
+  <SP nombre="usp_seg_cns_perfilxusarioArchivamiento_sel"   alias="SP_SELECTPERFILARCHIVAMIENTO">
+    <argumentos>
+      <argumento nombre="Cta_Usuario"          alias="Cta_Usuario" />
+    </argumentos>
+  </SP>
+  <SP nombre="usp_seg_pcs_obtenerusuario_xcuenta_sel" alias="USP_OBTENER_USUARIO_BYCUENTA">
+    <argumentos>
+      <argumento nombre="Cta_Usuario"          alias="Cta_Usuario" />
+    </argumentos>
+  </SP>
+  <SP nombre="usp_cns_pcs_listarusuario_sel" alias="USP_SELECTALL">
+    <argumentos>
+      <argumento nombre="Cod_Usuario"          alias="Cod_Usuario" />
+      <argumento nombre="Nom_Usuario"          alias="Nom_Usuario" />
+      <argumento nombre="Ape_Usuario"          alias="Ape_Usuario" />
+      <argumento nombre="Cta_Usuario"          alias="Cta_Usuario" />
+      <argumento nombre="Pwd_Actual_Usuario"   alias="Pwd_Actual_Usuario" />
+      <argumento nombre="Flg_Cambio_Clave"     alias="Flg_Cambio_Clave" />
+      <argumento nombre="Tip_Estado_Actual"    alias="Tip_Estado_Actual" />
+      <argumento nombre="Dsc_EstadoActual"     alias="Dsc_EstadoActual" />
+      <argumento nombre="Fch_Vigencia"         alias="Fch_Vigencia" />
+      <argumento nombre="Tip_Grupo"            alias="Tip_Grupo" />
+      <argumento nombre="Dsc_Grupo"            alias="Dsc_Grupo" />
+      <argumento nombre="Fch_Creacion"         alias="Fch_Creacion" />
+      <argumento nombre="Hor_Creacion"         alias="Hor_Creacion" />
+      <argumento nombre="Cod_Usuario_Creacion" alias="Cod_Usuario_Creacion" />
+      <argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+      <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+      <argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+    </argumentos>
+  </SP>
+  <SP nombre="usp_seg_pcs_listararbolmodulo_xusuario" alias="AMSP_SELECTALL_BY_CODUSUARIO">
+    <argumentos>
+      <argumento nombre="Cod_Modulo"         alias="Cod_Modulo" />
+      <argumento nombre="Dsc_Modulo"         alias="Dsc_Modulo" />
+      <argumento nombre="Cod_Proceso"        alias="Cod_Proceso" />
+      <argumento nombre="Id_Proceso"         alias="Id_Proceso" />
+      <argumento nombre="Dsc_Proceso"        alias="Dsc_Proceso" />
+      <argumento nombre="Dsc_Icono"          alias="Dsc_Icono" />
+      <argumento nombre="Dsc_Archivo"        alias="Dsc_Archivo" />
+      <argumento nombre="Nom_Rol"            alias="Nom_Rol" />
+      <argumento nombre="Pos_Modulo"         alias="Pos_Modulo" />
+      <argumento nombre="Pos_Proceso"        alias="Pos_Proceso" />
+      <argumento nombre="Tip_Nivel"          alias="Tip_Nivel" />
+      <argumento nombre="Flg_Permitido"          alias="Flg_Permitido" />
+
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_cns_pcs_parametrogeneral_sel" alias="PARAMGEN_OBTENERVALORPARAMGENER">
+    <argumentos>
+      <argumento nombre="Identificador"       alias="Identificador" />
+      <argumento nombre="Descripcion"         alias="Descripcion" />
+      <argumento nombre="TipoParametro"       alias="TipoParametro" />
+      <argumento nombre="TipoValor"           alias="TipoValor" />
+      <argumento nombre="Valor"               alias="Valor" />
+      <argumento nombre="CampoLista"          alias="CampoLista" />
+      <argumento nombre="IdentificadorPadre"  alias="IdentificadorPadre" />
+      <argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+      <argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+      <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+      <argumento nombre="Xml"        		  alias="Xml" />
+    </argumentos>
+  </SP>
+  <SP nombre="usp_seg_pcs_usuarioestado_upd"   alias="USP_UPDATE_ESTADO">
+    <argumentos>
+      <argumento nombre="Cod_Usuario"         alias="Cod_Usuario" />
+      <argumento nombre="Tip_Estado_Actual"   alias="Tip_Estado_Actual" />
+      <argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+      <argumento nombre="Flg_Cambio_Clave"     alias="Flg_Cambio_Clave" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_adm_pcs_obtenerlistadecampo_xnombre_sel" alias="LCSP_OBTENER_LISTACAMPONOMBRE">
+    <argumentos>
+      <argumento nombre="Nom_Campo"            alias="Nom_Campo" />
+      <argumento nombre="Cod_Campo"            alias="Cod_Campo" />
+      <argumento nombre="Cod_Relativo"         alias="Cod_Relativo" />
+      <argumento nombre="Dsc_Campo"            alias="Dsc_Campo" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_arch_ObtieneHistorico_sel" alias="ARCH_HISTORICO">
+    <argumentos>
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_arch_CalculoFechaDisponible_sel" alias="ARCH_CALCFECHDISP">
+    <argumentos>
+      <argumento nombre="IdParamGeneral"            alias="IdParamGeneral" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_arch_ObtieneDetalleArchivamiento_sel" alias="ARCH_SELDETALLEARCH">
+    <argumentos>
+      <argumento nombre="Cod_Archivo"            alias="Cod_Archivo" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_adm_pcs_modalidadventa_xcodigo_sel"			alias="MVSP_OBTENER_MODALIDAD_CODIGO">
+    <argumentos>
+      <argumento nombre="Cod_Modalidad_Venta" alias="Cod_Modalidad_Venta" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_adm_pcs_modalidadventa_all_sel"		alias="MVSP_SELECTALL">
+    <argumentos>
+      <argumento nombre="Cod_Modalidad_Venta" alias="Cod_Modalidad_Venta" />
+      <argumento nombre="Nom_Modalidad"       alias="Nom_Modalidad" />
+      <argumento nombre="Tip_Modalidad"       alias="Tip_Modalidad" />
+      <argumento nombre="Tip_Estado"       alias="Tip_Estado" />
+      <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+      <argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+      <argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_adm_pcs_compania_xcodigo_sel" alias="CSP_SELECT_BYCODIGO">
+    <argumentos>
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_acs_cns_companiaallsel"   alias="COMPANIA_SELECTALL">
+    <argumentos>
+      <argumento nombre="Cod_Compania"   alias="Cod_Compania" />
+      <argumento nombre="Tip_Compania"        alias="Tip_Compania" />
+      <argumento nombre="Dsc_Compania"        alias="Dsc_Compania" />
+      <argumento nombre="Fch_Creacion"        alias="Fch_Creacion" />
+      <argumento nombre="Tip_Estado"        alias="Tip_Estado" />
+      <argumento nombre="Cod_Especial_Compania"        alias="Cod_Especial_Compania" />
+      <argumento nombre="Cod_OACI"            alias="Cod_OACI" />
+      <argumento nombre="Cod_IATA"            alias="Cod_IATA" />
+      <argumento nombre="Cod_Aerolinea"       alias="Cod_Aerolinea" />
+      <argumento nombre="Cod_SAP"             alias="Cod_SAP" />
+      <argumento nombre="Dsc_Ruc"        alias="Dsc_Ruc" />
+      <argumento nombre="Log_Usuario_Mod"        alias="Log_Usuario_Mod" />
+      <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+      <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+    </argumentos>
+  </SP>
+
+
+  <SP nombre="usp_arch_copiaInfoArchivamiento_ins"   alias="COPY_INFOARCHIV">
+    <argumentos>
+      <argumento nombre="host"                alias="host" />
+      <argumento nombre="DBName"              alias="DBName" />
+      <argumento nombre="DBUser"              alias="DBUser" />
+      <argumento nombre="DBPassword"          alias="DBPassword" />
+      <argumento nombre="Tablas"              alias="Tablas" />
+      <argumento nombre="rangoFechaInicial"   alias="rangoFechaInicial" />
+      <argumento nombre="rangoFechaFinal"     alias="rangoFechaFinal" />
+      <argumento nombre="Cod_Archivo"         alias="Cod_Archivo" />
+      <argumento nombre="Dsc_Message"         alias="Dsc_Message" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_arch_crearTablasArchivamiento"   alias="CREAR_TABLASARCHIV">
+    <argumentos>
+      <argumento nombre="host"                alias="host" />
+      <argumento nombre="DBName"              alias="DBName" />
+      <argumento nombre="DBUser"              alias="DBUser" />
+      <argumento nombre="DBPassword"          alias="DBPassword" />
+      <argumento nombre="Tablas"              alias="Tablas" />
+      <argumento nombre="Cod_Archivo"         alias="Cod_Archivo" />
+      <argumento nombre="Dsc_Message"         alias="Dsc_Message" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_arch_listarEstructuraTablas"   alias="LISTAR_ESTRUCTURATABLASARCHIV">
+    <argumentos>
+      <argumento nombre="Tablas"              alias="Tablas" />
+      <argumento nombre="rangoFechaInicial"   alias="rangoFechaInicial" />
+      <argumento nombre="rangoFechaFinal"     alias="rangoFechaFinal" />
+      <argumento nombre="Cod_Archivo"         alias="Cod_Archivo" />
+      <argumento nombre="Dsc_Message"         alias="Dsc_Message" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_arch_depuraInfoArchivamiento_del"   alias="DEPURA_INFOARCHIV">
+    <argumentos>
+      <argumento nombre="Tablas"              alias="Tablas" />
+      <argumento nombre="rangoFechaInicial"   alias="rangoFechaInicial" />
+      <argumento nombre="rangoFechaFinal"     alias="rangoFechaFinal" />
+      <argumento nombre="Dsc_Message"         alias="Dsc_Message" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_arch_Calculo_CodArchivo_sel"   alias="CALC_CODARCHIVO">
+    <argumentos>
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_arch_Registro_Tua_Archivo_ins"   alias="INSUPD_TUA_ARCHIVO">
+    <argumentos>
+      <argumento nombre="Cod_Archivo"             alias="Cod_Archivo" />
+      <argumento nombre="Cod_Periodo"             alias="Cod_Periodo" />
+      <argumento nombre="Fch_Ini"                 alias="Fch_Ini" />
+      <argumento nombre="Fch_Fin"                 alias="Fch_Fin" />
+      <argumento nombre="Tip_Estado"              alias="Tip_Estado" />
+      <argumento nombre="Cod_Etapa"               alias="Cod_Etapa" />
+      <argumento nombre="Xml_Rango"               alias="Xml_Rango" />
+      <argumento nombre="Log_Usuario_Mod"         alias="Log_Usuario_Mod" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_arch_ConsultaRangosPorTipo"   alias="CONSRANGOSPORTIPO_ARCHIV">
+    <argumentos>
+      <argumento nombre="tipo"                alias="tipo" />
+      <argumento nombre="Cod_Archivo"         alias="Cod_Archivo" />
+      <argumento nombre="host"                alias="host" />
+      <argumento nombre="DBName"              alias="DBName" />
+      <argumento nombre="DBUser"              alias="DBUser" />
+      <argumento nombre="DBPassword"          alias="DBPassword" />
+      <argumento nombre="Dsc_Message"         alias="Dsc_Message" />
+    </argumentos>
+  </SP>
+  <!--Inicio sesion Auditoria-->
+
+  <SP nombre="usp_audit_auditoria_ins"  alias="USP_AUDIT_INSERT">
+    <argumentos>
+      <argumento nombre="Cod_Modulo_Mod"       alias="Cod_Modulo_Mod" />
+      <argumento nombre="Cod_SubModulo_Mod"    alias="Cod_SubModulo_Mod" />
+      <argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+      <argumento nombre="Tip_Operacion"    alias="Tip_Operacion" />
+    </argumentos>
+  </SP>
+
+  <!--Inicio sesion Auditoria-->
+  <SP nombre="usp_audit_logaccesos_ins"  alias="USP_LOGACCESOS_INSERT">
+    <argumentos>
+      <argumento nombre="Log_Modulo "             alias="Log_Modulo" />
+      <argumento nombre="Log_Usuario"             alias="Log_Usuario" />
+      <argumento nombre="Log_Proceso"             alias="Log_Proceso" />
+      <argumento nombre="Log_Tipo"                alias="Log_Tipo" />
+      <argumento nombre="Log_Estado"              alias="Log_Estado" />
+      <argumento nombre="Cod_Usuario"             alias="Cod_Usuario" />
+      <argumento nombre="Log_Usuario_Windows"     alias="Log_Usuario_Windows" />
+      <argumento nombre="Log_Dominio_Windows"     alias="Log_Dominio_Windows" />
+      <argumento nombre="Log_Ip"                  alias="Log_Ip" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_arch_VerificarEstadistico_sel"   alias="ARCH_VERIF_ESTADISTICO">
+    <argumentos>
+      <argumento nombre="FechaRangoFinalArch"    				alias="FechaRangoFinalArch" />
+      <argumento nombre="EstadisticoRealizado"    		alias="EstadisticoRealizado" />
+    </argumentos>
+  </SP>
+
+</procedures>

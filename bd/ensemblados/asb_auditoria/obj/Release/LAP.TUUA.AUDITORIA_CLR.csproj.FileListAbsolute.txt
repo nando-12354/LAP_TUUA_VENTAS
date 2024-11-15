@@ -1,0 +1,6 @@
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\LAP.TUUA.AUDITORIA_CLR\obj\Release\ResolveAssemblyReference.cache
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\LAP.TUUA.AUDITORIA_CLR\bin\Release\CLRAuditoria.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\LAP.TUUA.AUDITORIA_CLR\obj\Release\CLRAuditoria.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\LAP.TUUA.AUDITORIA_CLR\bin\Release\CLRAuditoria.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\LAP.TUUA.AUDITORIA_CLR\obj\Release\ResolveAssemblyReference.cache
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\LAP.TUUA.AUDITORIA_CLR\obj\Release\CLRAuditoria.dll

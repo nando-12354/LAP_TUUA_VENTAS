@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<boarding>
+<formato nombre="format_code" 		tipo="M">
+      <key>
+            <campo nombre="airline_designator" />
+            <campo nombre="flight_number" />
+            <campo nombre="date_flight" />
+            <campo nombre="seat_number" />
+            <campo nombre="passenger_name" />
+      </key>
+      <general_information>
+            <campo nombre = "format_code"					 	tam="1"/>
+            <campo nombre = "number_segments_encoded"		 	tam="1"/>
+            <campo nombre = "passenger_name"				 	tam="20"/>
+            <campo nombre = "electronic_ticket_indicator"		tam="01"/>
+      </general_information>      
+      <flight_information>
+            <campo nombre = "operating_carrier_pnrcode"	tam="7"/>
+            <campo nombre = "from_city_airport_code"	tam="3"/>
+            <campo nombre = "to_city_airport_code"		tam="3"/>
+            <campo nombre = "airline_designator"		tam="3"/>
+            <campo nombre = "flight_number"				tam="5"/>
+            <campo nombre = "date_flight"				tam="3"/>
+            <campo nombre = "compartment_code"			tam="1"/>
+            <campo nombre = "seat_number"				tam="4"/>
+            <campo nombre = "checkin_sequence_number"	tam="5"/>
+            <campo nombre = "passenger_status"			tam="1"/>
+            <campo nombre = "field_size_individual_use"	tam="2"/>
+      </flight_information>
+  
+      <optional_information>
+            <campo nombre = "begining_version_number"	tam="1"/>
+            <campo nombre = "version_number"	tam="1"/>
+            <campo nombre = "field_size_following_structure"		tam="2"/>
+            <campo nombre = "passenger_description"		tam="1"/>
+            <campo nombre = "source_check_in"				tam="1"/>
+            <campo nombre = "source_boarding_pass_issuance"				tam="1"/>
+            <campo nombre = "date_issue_boarding_pass"			tam="4"/>
+            <campo nombre = "document_type"				tam="1"/>
+            <campo nombre = "airline_designetor_boarding_pass_issuer"	tam="3"/>
+            <campo nombre = "baggage_tag_licence_plate_number"			tam="13"/>
+    </optional_information>
+  
+</formato>
+
+</boarding>

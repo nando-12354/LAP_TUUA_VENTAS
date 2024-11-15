@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ConsultarRepresXRehabilitacionYCia">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCia" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarRepresXRehabilitacionYCiaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultarRepresXRehabilitacionYCiaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="registrarRehabilitacionTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objTicketEstHist" type="tns:TicketEstHist" />
+            <s:element minOccurs="1" maxOccurs="1" name="flag" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="sizeOutput" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="TicketEstHist">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodNumeroTicket" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscTicketEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodEquipoMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscNumVuelo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="IntNum_Secuencial" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCausalRehabilitacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscMotivo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNroOperacion" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="registrarRehabilitacionTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="registrarRehabilitacionTicketResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="objTicketEstHist" type="tns:TicketEstHist" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="consultarVuelosTicketPorCiaFecha">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fechaVuelo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="consultarVuelosTicketPorCiaFechaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="consultarVuelosTicketPorCiaFechaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="consultarTicketsPorVuelo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fechaVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dsc_Num_Vuelo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="consultarTicketsPorVueloResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="consultarTicketsPorVueloResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="consultarVuelosBCBPPorCiaFecha">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fechaVuelo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="consultarVuelosBCBPPorCiaFechaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="consultarVuelosBCBPPorCiaFechaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="registrarRehabilitacionBCBP">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="boardingBcbpEstHist" type="tns:BoardingBcbpEstHist" />
+            <s:element minOccurs="1" maxOccurs="1" name="flag" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="sizeOutput" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="BoardingBcbpEstHist">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="INumSecuencial" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="INumSecuencialBoarding" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscBoardingEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodEquipoMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscNumVuelo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCausalRehabilitacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SListaBcbPs" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SEstadoAsoc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCompaniaAsoc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFechaVueloAsoc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNroVueloAsoc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNroAsientoAsoc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SPasajeroAsoc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Lst_Bloqueados" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SListaOperBcbp" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFechaRehab" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDesCompania" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDesMotivo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="registrarRehabilitacionBCBPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="registrarRehabilitacionBCBPResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="boardingBcbpEstHist" type="tns:BoardingBcbpEstHist" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="registrarRehabilitacionBCBPAmpliacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="boardingBcbpEstHist" type="tns:BoardingBcbpEstHist" />
+            <s:element minOccurs="1" maxOccurs="1" name="flag" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="sizeOutput" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="registrarRehabilitacionBCBPAmpliacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="registrarRehabilitacionBCBPAmpliacionResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="boardingBcbpEstHist" type="tns:BoardingBcbpEstHist" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarCompania_xCodigoEspecial">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="codigoEspecial" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarCompania_xCodigoEspecialResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarCompania_xCodigoEspecialResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obteneterBoardingsByRangoFechas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraHasta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obteneterBoardingsByRangoFechasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obteneterBoardingsByRangoFechasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ConsultarRepresXRehabilitacionYCiaSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultarRepresXRehabilitacionYCia" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarRepresXRehabilitacionYCiaSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultarRepresXRehabilitacionYCiaResponse" />
+  </wsdl:message>
+  <wsdl:message name="registrarRehabilitacionTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:registrarRehabilitacionTicket" />
+  </wsdl:message>
+  <wsdl:message name="registrarRehabilitacionTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:registrarRehabilitacionTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="consultarVuelosTicketPorCiaFechaSoapIn">
+    <wsdl:part name="parameters" element="tns:consultarVuelosTicketPorCiaFecha" />
+  </wsdl:message>
+  <wsdl:message name="consultarVuelosTicketPorCiaFechaSoapOut">
+    <wsdl:part name="parameters" element="tns:consultarVuelosTicketPorCiaFechaResponse" />
+  </wsdl:message>
+  <wsdl:message name="consultarTicketsPorVueloSoapIn">
+    <wsdl:part name="parameters" element="tns:consultarTicketsPorVuelo" />
+  </wsdl:message>
+  <wsdl:message name="consultarTicketsPorVueloSoapOut">
+    <wsdl:part name="parameters" element="tns:consultarTicketsPorVueloResponse" />
+  </wsdl:message>
+  <wsdl:message name="consultarVuelosBCBPPorCiaFechaSoapIn">
+    <wsdl:part name="parameters" element="tns:consultarVuelosBCBPPorCiaFecha" />
+  </wsdl:message>
+  <wsdl:message name="consultarVuelosBCBPPorCiaFechaSoapOut">
+    <wsdl:part name="parameters" element="tns:consultarVuelosBCBPPorCiaFechaResponse" />
+  </wsdl:message>
+  <wsdl:message name="registrarRehabilitacionBCBPSoapIn">
+    <wsdl:part name="parameters" element="tns:registrarRehabilitacionBCBP" />
+  </wsdl:message>
+  <wsdl:message name="registrarRehabilitacionBCBPSoapOut">
+    <wsdl:part name="parameters" element="tns:registrarRehabilitacionBCBPResponse" />
+  </wsdl:message>
+  <wsdl:message name="registrarRehabilitacionBCBPAmpliacionSoapIn">
+    <wsdl:part name="parameters" element="tns:registrarRehabilitacionBCBPAmpliacion" />
+  </wsdl:message>
+  <wsdl:message name="registrarRehabilitacionBCBPAmpliacionSoapOut">
+    <wsdl:part name="parameters" element="tns:registrarRehabilitacionBCBPAmpliacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarCompania_xCodigoEspecialSoapIn">
+    <wsdl:part name="parameters" element="tns:listarCompania_xCodigoEspecial" />
+  </wsdl:message>
+  <wsdl:message name="listarCompania_xCodigoEspecialSoapOut">
+    <wsdl:part name="parameters" element="tns:listarCompania_xCodigoEspecialResponse" />
+  </wsdl:message>
+  <wsdl:message name="obteneterBoardingsByRangoFechasSoapIn">
+    <wsdl:part name="parameters" element="tns:obteneterBoardingsByRangoFechas" />
+  </wsdl:message>
+  <wsdl:message name="obteneterBoardingsByRangoFechasSoapOut">
+    <wsdl:part name="parameters" element="tns:obteneterBoardingsByRangoFechasResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSRehabilitacionSoap">
+    <wsdl:operation name="ConsultarRepresXRehabilitacionYCia">
+      <wsdl:input message="tns:ConsultarRepresXRehabilitacionYCiaSoapIn" />
+      <wsdl:output message="tns:ConsultarRepresXRehabilitacionYCiaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="registrarRehabilitacionTicket">
+      <wsdl:input message="tns:registrarRehabilitacionTicketSoapIn" />
+      <wsdl:output message="tns:registrarRehabilitacionTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarVuelosTicketPorCiaFecha">
+      <wsdl:input message="tns:consultarVuelosTicketPorCiaFechaSoapIn" />
+      <wsdl:output message="tns:consultarVuelosTicketPorCiaFechaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarTicketsPorVuelo">
+      <wsdl:input message="tns:consultarTicketsPorVueloSoapIn" />
+      <wsdl:output message="tns:consultarTicketsPorVueloSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="consultarVuelosBCBPPorCiaFecha">
+      <wsdl:input message="tns:consultarVuelosBCBPPorCiaFechaSoapIn" />
+      <wsdl:output message="tns:consultarVuelosBCBPPorCiaFechaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="registrarRehabilitacionBCBP">
+      <wsdl:input message="tns:registrarRehabilitacionBCBPSoapIn" />
+      <wsdl:output message="tns:registrarRehabilitacionBCBPSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="registrarRehabilitacionBCBPAmpliacion">
+      <wsdl:input message="tns:registrarRehabilitacionBCBPAmpliacionSoapIn" />
+      <wsdl:output message="tns:registrarRehabilitacionBCBPAmpliacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarCompania_xCodigoEspecial">
+      <wsdl:input message="tns:listarCompania_xCodigoEspecialSoapIn" />
+      <wsdl:output message="tns:listarCompania_xCodigoEspecialSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obteneterBoardingsByRangoFechas">
+      <wsdl:input message="tns:obteneterBoardingsByRangoFechasSoapIn" />
+      <wsdl:output message="tns:obteneterBoardingsByRangoFechasSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSRehabilitacionSoap" type="tns:WSRehabilitacionSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultarRepresXRehabilitacionYCia">
+      <soap:operation soapAction="http://tempuri.org/ConsultarRepresXRehabilitacionYCia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarRehabilitacionTicket">
+      <soap:operation soapAction="http://tempuri.org/registrarRehabilitacionTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultarVuelosTicketPorCiaFecha">
+      <soap:operation soapAction="http://tempuri.org/consultarVuelosTicketPorCiaFecha" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultarTicketsPorVuelo">
+      <soap:operation soapAction="http://tempuri.org/consultarTicketsPorVuelo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultarVuelosBCBPPorCiaFecha">
+      <soap:operation soapAction="http://tempuri.org/consultarVuelosBCBPPorCiaFecha" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarRehabilitacionBCBP">
+      <soap:operation soapAction="http://tempuri.org/registrarRehabilitacionBCBP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarRehabilitacionBCBPAmpliacion">
+      <soap:operation soapAction="http://tempuri.org/registrarRehabilitacionBCBPAmpliacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarCompania_xCodigoEspecial">
+      <soap:operation soapAction="http://tempuri.org/listarCompania_xCodigoEspecial" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obteneterBoardingsByRangoFechas">
+      <soap:operation soapAction="http://tempuri.org/obteneterBoardingsByRangoFechas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSRehabilitacionSoap12" type="tns:WSRehabilitacionSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultarRepresXRehabilitacionYCia">
+      <soap12:operation soapAction="http://tempuri.org/ConsultarRepresXRehabilitacionYCia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarRehabilitacionTicket">
+      <soap12:operation soapAction="http://tempuri.org/registrarRehabilitacionTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultarVuelosTicketPorCiaFecha">
+      <soap12:operation soapAction="http://tempuri.org/consultarVuelosTicketPorCiaFecha" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultarTicketsPorVuelo">
+      <soap12:operation soapAction="http://tempuri.org/consultarTicketsPorVuelo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultarVuelosBCBPPorCiaFecha">
+      <soap12:operation soapAction="http://tempuri.org/consultarVuelosBCBPPorCiaFecha" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarRehabilitacionBCBP">
+      <soap12:operation soapAction="http://tempuri.org/registrarRehabilitacionBCBP" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarRehabilitacionBCBPAmpliacion">
+      <soap12:operation soapAction="http://tempuri.org/registrarRehabilitacionBCBPAmpliacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarCompania_xCodigoEspecial">
+      <soap12:operation soapAction="http://tempuri.org/listarCompania_xCodigoEspecial" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obteneterBoardingsByRangoFechas">
+      <soap12:operation soapAction="http://tempuri.org/obteneterBoardingsByRangoFechas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSRehabilitacion">
+    <wsdl:port name="WSRehabilitacionSoap" binding="tns:WSRehabilitacionSoap">
+      <soap:address location="http://localhost:40758/WSDAO/WSRehabilitacion.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSRehabilitacionSoap12" binding="tns:WSRehabilitacionSoap12">
+      <soap12:address location="http://localhost:40758/WSDAO/WSRehabilitacion.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,53 @@
+﻿Instalando ensamblado 'D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe
+   i = 
+   logfile = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.InstallLog
+Instalando el servicio TUUAAccesos...
+El servicio TUUAAccesos se ha instalado correctamente.
+Creando el origen de EventLog TUUAAccesos en el registro Application...
+Confirmando ensamblado 'D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe
+   i = 
+   logfile = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.InstallLog
+Instalando ensamblado 'D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe
+   i = 
+   logfile = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.InstallLog
+Instalando el servicio TUUAAccesos...
+Creando el origen de EventLog TUUAAccesos en el registro Application...
+Deshaciendo ensamblado 'D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe
+   i = 
+   logfile = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen TUUAAccesos.
+Desinstalando ensamblado 'D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe
+   logfile = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.InstallLog
+Quitando el origen de EventLog TUUAAccesos.
+Se está quitando el servicio TUUAAccesos del sistema...
+El servicio TUUAAccesos se ha quitado correctamente del sistema.
+Instalando ensamblado 'D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe
+   i = 
+   logfile = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.InstallLog
+Instalando el servicio TUUAAccesos...
+El servicio TUUAAccesos se ha instalado correctamente.
+Creando el origen de EventLog TUUAAccesos en el registro Application...
+Confirmando ensamblado 'D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.exe
+   i = 
+   logfile = D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos.InstallLog

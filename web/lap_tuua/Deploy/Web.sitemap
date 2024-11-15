@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~\Principal.aspx" title="Home" description="">
+
+    <siteMapNode url="" title="Seguridad" description="">
+
+      <siteMapNode url="~\Seg_VerRol.aspx"  title="Roles" description="">
+        <siteMapNode url="~\Seg_CrearRol.aspx"  title="Nuevo" description=""/>
+        <siteMapNode url="~\Seg_ModificarRol.aspx"  title="Modificar" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="~\Seg_VerUsuario.aspx"  title="Usuarios" description="">
+        <siteMapNode url="~\Seg_CrearUsuario.aspx"  title="Nuevo" description=""/>
+        <siteMapNode url="~\Seg_ModificarUsuario.aspx"  title="Modificar" description=""/>
+      </siteMapNode>
+
+    </siteMapNode>
+
+    <siteMapNode url="" title="Configuración General" description="">
+
+      <siteMapNode url="~\Cfg_ParametroGeneral.aspx"  title="Parámetros Generales" description=""/>
+      <siteMapNode url="~\Cfg_Sincronizacion.aspx"  title="Configuración Sincronización" description=""/>
+      
+      <siteMapNode url="~\Cfg_VerListaCampo.aspx"  title="Lista de Campos" description="">
+        <siteMapNode url="~\Cfg_CrearListaCampo.aspx"  title="Nuevo" description=""/>
+      </siteMapNode>
+      <siteMapNode url="~\Cfg_GenArchVentas.aspx"  title="Configuración Archivo Ventas" description=""/>
+
+    </siteMapNode>
+
+    <siteMapNode url="" title="Mantenimiento" description="">
+
+      <siteMapNode url="~\Mnt_PuntoVenta.aspx"  title="Estación de punto de venta" description="">
+        <siteMapNode url="~\Mnt_CrearPuntoVenta.aspx"  title="Nuevo" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="~\Mnt_TipoMonedas.aspx"  title="Moneda" description="">
+        <siteMapNode url="~\Mnt_CrearTipoMonedas.aspx"  title="Nuevo" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="~\Mnt_VerCompania.aspx"  title="Compañía" description="">
+        <siteMapNode url="~\Mnt_CrearCompania.aspx"  title="Nuevo" description=""/>
+        <siteMapNode url="~\Mnt_ModificarCompania.aspx"  title="Modificar" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="~\Mnt_VerModalidadVenta.aspx"  title="Modalidad de venta" description="">
+        <siteMapNode url="~\Mnt_CrearModalidadVenta.aspx"  title="Nuevo" description=""/>
+        <siteMapNode url="~\Mnt_ModificarModalidadVenta.aspx"  title="Modificar" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="~\Mnt_VerTipoTicket.aspx"  title="Tipo de ticket" description="">
+        <siteMapNode url="~\Mnt_CrearTipoTicket.aspx"  title="Nuevo" description=""/>
+        <siteMapNode url="~\Mnt_ModificarTipoTicket.aspx"  title="Modificar" description=""/>
+      </siteMapNode>
+
+    </siteMapNode>
+
+    <siteMapNode url="" title="Operación" description="">
+
+      <siteMapNode url="~\Ope_VerTasaCambio.aspx"  title="Ingresar Tasa de Cambio" description="">
+        <siteMapNode url="~\Ope_CrearTasaCambio.aspx"  title="Ingresar" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="~\Ope_VerPrecioTicket.aspx"  title="Gestión Precio Tickets" description="">
+        <siteMapNode url="~\Ope_CrearPrecioTicket.aspx"  title="Ingresar" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="" title="Gestión Ticket Contingencia" description="">
+        <siteMapNode url="~\Ope_TicketContingencia.aspx"  title="Pre-Emisión Tickets Contingencia" description=""/>
+        <siteMapNode url="~\Ope_VentaContingencia.aspx"  title="Registro Tickets Contingencia" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="" title="Gestión ATM" description="">
+        <siteMapNode url="~\Ope_TicketATM.aspx"  title="Generación tickets ATM" description=""/>
+        <siteMapNode url="~\Ope_VentaATM.aspx"  title="Registro Venta ATM" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="" title="Extorno" description="">
+        <siteMapNode url="~\Ope_ExtornoMoneda.aspx"  title="Extorno Operaciones" description=""/>
+        <siteMapNode url="~\Ope_ExtornoTicket.aspx"  title="Extorno Tickets" description=""/>
+        <siteMapNode url="~\Ope_ExtornarRehabilitacion.aspx"  title="Extorno de Rehabilitación" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="" title="Anulación" description="">
+        <siteMapNode url="~\Ope_AnulacionTicket.aspx"  title="Anulación de ticket" description=""/>
+        <siteMapNode url="~\Ope_AnulacionBCBP.aspx"  title="Anulación de BCBP" description=""/>
+      </siteMapNode>
+
+      <siteMapNode url="~\Ope_VentaCredito.aspx"  title="Venta Masiva Credito" description=""/>
+      <siteMapNode url="~\Ope_ExtenderVigencia.aspx"  title="Extension Fecha Vigencia Tickets" description=""/>
+      <siteMapNode url="~\Ope_GestionMolinete.aspx"  title="Gestión de molinete" description=""/>
+
+      <siteMapNode url="~\Mnt_Molinete.aspx"  title="Gestión de molinete" description="">
+        <siteMapNode url="~\Mnt_ModificarMolinete.aspx"  title="Modificar" description=""/>
+      </siteMapNode>      
+      
+      <siteMapNode url="~\Ope_ArchivoVenta.aspx"  title="Generacion Archivo Venta" description=""/>
+      <siteMapNode url="~\Ope_CierreTurno.aspx"  title="Cerrar Turno" description=""/>
+	    <siteMapNode url="~\Ope_Conciliacion.aspx"  title="Conciliación" description=""/>
+      <siteMapNode url="~\Ope_ComprobanteSEAE.aspx"  title="Comprobante SEAE" description=""/>
+		
+
+	</siteMapNode>
+
+    <siteMapNode url="" title="Rehabilitación" description="">
+
+      <siteMapNode url="" title="Ticket" description="">
+        <siteMapNode url="~\Reh_Tickets.aspx"  title="Ticket Normal" description=""/>
+        <siteMapNode url="~\Reh_TicketsMasivo.aspx"  title="Tickets Masivo" description=""/>
+        <siteMapNode url="~\Reh_TicketsPorVuelo.aspx"  title="Tickets Por Vuelo " description=""/>
+        <siteMapNode url="~\Reh_TicketsPorRango.aspx"  title="Tickets Por Rango" description=""/>
+        <siteMapNode url="~\Reh_TicketsPorFecha.aspx"  title="Tickets Por Fecha" description=""/>
+      </siteMapNode>
+      <siteMapNode url="" title="Boarding Pass" description="">
+        <siteMapNode url="~\Reh_Bcbp.aspx"  title="Boarding Pass Normal" description=""/>
+        <siteMapNode url="~\Reh_BcbpMasivo.aspx"  title="Boarding Pass Masivo" description=""/>
+        <siteMapNode url="~\Reh_BcbpPorVuelo.aspx"  title="Boarding Pass Por Vuelo" description=""/>
+        <siteMapNode url="~\Reh_BcbpPorFecha.aspx"  title="Boarding Pass Por Fecha" description=""/>
+      </siteMapNode>
+
+    </siteMapNode>
+
+    <siteMapNode url="" title="Consultas" description="">
+      <siteMapNode url="~\Cns_Usuarios.aspx"  title="Usuarios" description=""/>
+      <siteMapNode url="~\Cns_Companias.aspx"  title="Compañías" description=""/>
+      <siteMapNode url="~\Cns_Turnos.aspx"  title="Turnos" description=""/>
+      <siteMapNode url="~\Cns_DetalleTicket.aspx"  title="Detalle de Ticket / BP" description=""/>
+      <siteMapNode url="~\Cns_TicketxFecha.aspx"  title="Tickets / BP Por Fecha" description=""/>
+      <siteMapNode url="~\Cns_CuadreTicketsEmitidos.aspx"  title="Cuadre de Ticket Emitidos" description=""/>
+      <siteMapNode url="~\Cns_CompraVenta.aspx"  title="Operación Compra / Venta" description=""/>
+      <siteMapNode url="~\Cns_BoardingUsados.aspx"  title="Ticket / BP usados" description=""/>
+      <siteMapNode url="~\Cns_StickersAnulados.aspx"  title="Tickets Anulados" description=""/>
+      <siteMapNode url="~\Cns_Auditoria.aspx"  title="Auditoría" description=""/>
+      <siteMapNode url="~\Cns_TransaccionCritica.aspx"  title="Auditoría Crítica" description=""/>
+      <siteMapNode url="~\Cns_TicketProcesado.aspx"  title="Tickets Procesados" description=""/>
+      <siteMapNode url="~\Cns_Log_ErroresMolinete.aspx"  title="Log de Errores de Molinetes" description=""/>
+      <siteMapNode url="~\Cns_Sincronizacion.aspx"  title="Sincronización" description=""/>
+      <siteMapNode url="~\Cns_Depuracion.aspx"  title="Depuración" description=""/>
+      <siteMapNode url="~\Cns_DetalleTicketProcesado.aspx"  title="Detalle de Tickets Procesados" description=""/>
+    </siteMapNode>
+
+
+    <siteMapNode url="" title="Reportes" description="">
+      <siteMapNode url="~\Rpt_LiquiSticker.aspx"  title="Liquidación Stickers" description=""/>
+      <siteMapNode url="~\Rpt_ResumenDiario.aspx"  title="Resumen Diario" description=""/>
+      <siteMapNode url="~\Rpt_MovimientoTicketContingencia.aspx"  title="Movimiento Tickets Contingencia" description=""/>
+      <siteMapNode url="~\Rpt_StockTicketContingencia.aspx"  title="Stock Tickets Contingencia" description=""/>
+      <siteMapNode url="~\Rpt_DetalleLineaVuelo.aspx"  title="Detalle por Linea de Vuelo" description=""/>
+      <siteMapNode url="~\rpt_BoardingLeidosMolinete.aspx"  title="BP leidos en el molinete" description=""/>
+      <siteMapNode url="~\Rpt_ResumenTicketVendidosCredito.aspx"  title="Tickets Vendidos a Credito o al Contado" description=""/>
+      <siteMapNode url="~\Rpt_ResumenCompania.aspx"  title="Detalle Compañia" description=""/>
+      <siteMapNode url="~\Rpt_TicketBoardingUsadosMediaHoraDiaMes.aspx"  title="Tickets / BP Usados por Media Hora, Hora, Día o Mes" description=""/>
+      <siteMapNode url="~\Rpt_TicketBoardingUsadosDiaMes.aspx"  title="Tickets / BP Usados por Día - Mes" description=""/>
+      <siteMapNode url="~\Rpt_RecaudacionMensual.aspx"  title="Recaudacion mensual" description=""/>
+      <siteMapNode url="~\Rpt_LiquidacionVenta.aspx"  title="Liquidación Venta" description=""/>
+      <siteMapNode url="~\Rpt_TicketsVencidos.aspx"  title="Tickets Vencidos" description=""/>
+      <siteMapNode url="~\Rpt_CuadreTicketsVendidos.aspx"  title="Cuadre Stickers vendidos / BP usados" description=""/>
+      <siteMapNode url="~\Rpt_TicketBoardingRehabilitados.aspx"  title="Ticket / BP Rehabilitados " description=""/>
+      <siteMapNode url="~\Rpt_BoardingRehabilitados.aspx"  title="BP Rehabilitados" description=""/>
+      <siteMapNode url="~\Rpt_ResumenTurno.aspx"  title="Resumen Diario por Turno" description=""/>
+      <siteMapNode url="~\Ext_Rpt_BcbpDiario.aspx"  title="Extranet BP Diarios (Usados/Rehabilitados)" description=""/>
+      <siteMapNode url="~\Ext_Rpt_BcbpMensual.aspx"  title="Extranet BP Mensual (Usados/Rehabilitados)" description=""/>
+    </siteMapNode>
+
+
+    <siteMapNode url="" title="Alarmas" description="">
+      <siteMapNode url="~\Alr_VerAlarma.aspx"  title="Configurar Alarmas" description="">
+        <siteMapNode url="~\Alr_CrearAlarma.aspx"  title="Nuevo" description=""/>
+        <siteMapNode url="~\Alr_ModificarAlarma.aspx"  title="Modificar" description=""/>
+      </siteMapNode>
+      <siteMapNode url="~\Alr_MonitorearAlarma.aspx"  title="Monitorear Alarmas" description=""/>
+      <siteMapNode url="~\Alr_ConsultarAlarma.aspx"  title="Alarmas Generaradas " description=""/>
+    </siteMapNode>
+
+  </siteMapNode>
+</siteMap>
+
+

@@ -1,0 +1,28 @@
+<publishData>
+  <publishTarget publishUrl="D:\Compartido\UWBS_TUUA 4.0\">
+    <file relUrl="bin/LogicaNegocio.dll" publishTime="04/19/2011 17:13:49" />
+    <file relUrl="bin/AccesoDatos.xml" publishTime="04/18/2011 16:06:42" />
+    <file relUrl="bin/AccesoDatos.pdb" publishTime="04/18/2011 16:06:42" />
+    <file relUrl="Web.config" publishTime="04/20/2011 10:37:31" />
+    <file relUrl="bin/UWBS_TUUA.xml" publishTime="04/26/2011 15:41:50" />
+    <file relUrl="bin/UWBS_TUUA.dll" publishTime="04/26/2011 15:41:50" />
+    <file relUrl="UWBS_TUUA.asmx" publishTime="10/17/2009 10:11:45" />
+    <file relUrl="bin/LogicaNegocio.xml" publishTime="04/19/2011 17:13:49" />
+    <file relUrl="bin/AccesoDatos.dll" publishTime="04/18/2011 16:06:42" />
+    <file relUrl="bin/LogicaNegocio.pdb" publishTime="04/19/2011 17:13:49" />
+    <file relUrl="bin/UWBS_TUUA.pdb" publishTime="04/26/2011 15:41:50" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Inetpub\wwwroot\UWBS_TUUA\">
+    <file relUrl="bin/LogicaNegocio.dll" publishTime="04/19/2011 17:13:49" />
+    <file relUrl="bin/AccesoDatos.xml" publishTime="04/18/2011 16:06:42" />
+    <file relUrl="bin/AccesoDatos.pdb" publishTime="04/18/2011 16:06:42" />
+    <file relUrl="Web.config" publishTime="04/20/2011 10:37:31" />
+    <file relUrl="bin/UWBS_TUUA.xml" publishTime="04/20/2011 10:45:32" />
+    <file relUrl="bin/UWBS_TUUA.dll" publishTime="04/20/2011 10:45:32" />
+    <file relUrl="UWBS_TUUA.asmx" publishTime="10/17/2009 10:11:45" />
+    <file relUrl="bin/LogicaNegocio.xml" publishTime="04/19/2011 17:13:49" />
+    <file relUrl="bin/AccesoDatos.dll" publishTime="04/18/2011 16:06:42" />
+    <file relUrl="bin/LogicaNegocio.pdb" publishTime="04/19/2011 17:13:49" />
+    <file relUrl="bin/UWBS_TUUA.pdb" publishTime="04/20/2011 10:45:32" />
+  </publishTarget>
+</publishData>

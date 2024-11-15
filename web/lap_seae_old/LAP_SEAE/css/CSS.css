@@ -1,0 +1,593 @@
+﻿BODY
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	color: #264B94;
+	margin: 0px;
+	background-color: #FFFFFF;
+}
+A
+{
+	color: #008754;
+}
+BODY TABLE
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	background-color: Transparent;
+	border-top-style: None;
+	border-bottom-style: None;
+	border-right-style: None;
+	border-left-style: None;
+	
+}
+.Login
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: Bold;
+	color: #264B94;
+}
+
+.TamanoTabla
+{
+	WIDTH: 100%;
+}
+
+.SpacingGrid
+{
+	WIDTH: 2%;
+}
+
+.CenterGrid
+{
+	WIDTH: 96%;
+	TEXT-ALIGN: center;
+}
+
+.EspacioSubTablaPrincipal
+{
+	WIDTH: 100%;
+}
+
+
+
+.Espacio1FilaTabla
+{
+	WIDTH: 2%;
+}
+
+.EspacioLinea
+{
+	width: 100%;
+	height: 0px;
+	BACKGROUND-COLOR: #0099cc;
+}
+.SpacingBotoninTable
+{
+	WIDTH: 17%;
+}
+
+.combo
+{
+font-size:10px;
+}
+
+.arbol
+{
+	font-size: 8pt;
+	color:#000000;
+	font-family: Verdana;
+	border:0px;	
+	text-transform: capitalize;
+	padding-right: 1pt;
+	padding-left: 1pt;
+	padding-bottom: 4pt;
+	margin: 1pt;
+	padding-top: 4pt;
+}
+
+.cssTextBox
+{
+	border-right: #2d559f 1px solid;
+	border-top: #2d559f 1px solid;
+	font-size: 11px; /*FILTER: alpha(opacity=80);*/
+	border-left: #2d559f 1px solid;
+	color: #000000;
+	border-bottom: #2d559f 1px solid;
+	font-family: Verdana,verdana, arial;
+	background-color: #edf1fa;
+	font-size: 8pt;
+}
+
+.Linea
+{
+	background-color: #0000cc;
+}
+
+.TextoMinuscula
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-align: Left;
+	color: #FF0000;
+	background-color: #FFFFFF;
+	height: 19px;
+}
+
+.TextoControl
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-align: Left;
+	color: #264b94;
+	background-color: #FFFFFF;
+	height: 12px;
+}
+
+.Texto
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-align: Left;
+	text-transform: UpperCase;
+	background-color: #FFFFFF;
+	height: 19px;
+}
+.TextoObligatorio
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-align: Left;
+	text-transform: UpperCase;
+	background-color: #FFFFCC;
+	height: 19px;
+}
+.TextoDesactivado
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-align: Left;
+	text-transform: UpperCase;
+	color: #264b94;
+	background-color: #FFFFFF;
+	height: 19px;
+	border-top-style: None;
+	border-bottom-style: None;
+	border-left-style: None;
+	border-right-style: None;
+}
+.Numero
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-align: Right;
+	background-color: #FFFFFF;
+	height: 19px;
+}
+.NumeroObligatorio
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-align: Right;
+	background-color: #FFFFCC;
+	height: 19px;
+}
+.NumeroDesactivado
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-align: Right;
+	color: #264b94;
+	background-color: #FFFFFF;
+	height: 19px;
+	border-top-style: None;
+	border-bottom-style: None;
+	border-left-style: None;
+	border-right-style: None;
+}
+.Lista
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-transform: UpperCase;
+}
+.ListaObligatoria
+{
+	font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-transform: UpperCase;
+	background-color: #FFFFCC;
+}
+.TituloPrincipal
+{
+	font-family: Tahoma;
+	font-size: 13pt;
+	font-weight: Bold;
+	color: #003366;
+	text-align: Right;
+}
+.TituloSecundario
+{
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: Bold;
+	color: #264B94;
+	text-align: Right;
+	height: 25px;
+}
+.TituloInformativo
+{
+	font-weight: Bold;
+	background-color: #008754;
+	color: #FFFFFF;
+	height: 21px;
+}
+.TituloUbicacion
+{
+	text-align: Center;
+}
+.TituloLista
+{
+	font-weight: Bold;
+	color: White;
+	text-align: Center;
+	background-color: #264B94;
+	height: 19px;
+}
+.TituloDetalle
+{
+	color: #FFFFFF;
+	color: #264B94;
+	font-weight: Bold;
+	background-color: #264B94;
+	background-color: #FFFFFF;
+}
+.Titulo
+{
+	font-weight: bold;
+	font-size: 12px;
+	color: #264b94;
+	font-style: italic;
+	font-family: Arial;
+}
+
+.Descripcion
+{
+	color: #696969;
+	border-top-style: None;
+	border-bottom-style: None;
+	border-left-style: None;
+	border-right-style: None;
+	height: 14px;
+}
+.Dato
+{
+	text-transform: UpperCase;
+	height: 16px;
+	margin-top: 3px;
+}
+.Paginacion
+{
+	font-weight: Bold;
+}
+.Error
+{
+	border-top-style: None;
+	border-bottom-style: None;
+	border-left-style: None;
+	border-right-style: None;
+	color: #FF0000;
+	display: none;
+}
+.MsgError
+{
+   font-family: Tahoma, Verdana;
+   font-size: xx-small;
+   text-align: Center;
+   border: 1pxsolid#000000;
+   color: #FF0000;
+   width: auto;
+}
+.SinBorde
+{
+   font-family: Tahoma, Verdana;
+	font-size: xx-small;
+	text-align: Left;
+	background-color: #FFFFFF;
+   border: 1pxsolid#000000;
+	color: #FF0000;
+	height: 19px;
+}
+.Seleccion
+{
+	color: #008754;
+	text-decoration: UnderLine;
+}
+.LinkActivo
+{
+	color: #264B94;
+	text-decoration: None;
+}
+.Boton
+{
+	FONT-SIZE: 8pt;
+	/*FILTER: alpha(opacity=80);*/
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Helvetica, sans-serif;
+	BACKGROUND-COLOR: #D2D2D2;
+	font-style: normal;
+	line-height: normal;
+	text-decoration: blink;
+	font-weight: bold;
+	border: 1pt solid #999999;
+}
+
+.BotonImprimir
+{
+	width: 32px; 
+	height: 32px;
+}
+
+.Tabla
+{
+	
+	overflow: Scroll;
+	width: 100%;
+	height: 234px;
+	border-right: Black 1px Solid;
+	border-top: Black 1px Solid;
+	border-left: Black 1px Solid;
+	border-bottom: Black 1px Solid;
+}
+
+
+
+.TablaSeleccion
+{
+	
+	overflow: Scroll;
+	width: 100%;
+	height: 222px;
+	border-right: Black 1px Solid;
+	border-top: Black 1px Solid;
+	border-left: Black 1px Solid;
+	border-bottom: Black 1px Solid;
+}
+.Oculto
+{
+	display: None;
+}
+.Con_Cuadro1Titulo
+{
+	font-family:Arial,Tahoma;
+	font-size:11pt;
+	color:White;
+	background-color:#008754;
+	text-align:center;
+	
+}
+.filaOperacionA
+{
+	background-color: #d2c7c0;
+}
+.filaOperacion
+{
+	background-color: #ffffff;
+}
+.clsNombreOperacionA
+{
+	font-size: 8pt;
+	text-transform: uppercase;
+	font-family: Tahoma, Verdana;
+	height: 19px;
+	background-color: #99cccc;
+	text-align: left;
+}
+.clsCeldaOperacionA
+{
+	font-size: 8pt;
+	text-transform: uppercase;
+	font-family: Tahoma, Verdana;
+	height: 19px;
+	background-color: #99cccc;
+	text-align: left;
+}
+
+.clsNombreOperacion
+{
+	
+
+}
+.menu
+{
+	vertical-align: top;
+	height: 24px;
+	background-image: url('Imagenes/pro_6/background_parent.gif' );
+	font-family: Verdana, Tahoma;
+	color: #ffffff;
+	font-size: xx-small;
+}
+
+
+.estilotabla
+{
+	position: absolute;
+	width: 1024px;
+	height: 768px;
+	top: 0px;
+}
+
+
+
+.clsCeldaOperacion
+{
+	font-size: 8pt;
+	text-transform: uppercase;
+	font-family: Tahoma, Verdana;
+	height: 19px;
+	text-align: left;
+}
+.clsTablaInput
+{
+	border-right: #003366 1pt solid;
+	border-top: #003366 1pt solid;
+	border-left: #003366 1pt solid;
+	border-bottom: #003366 1pt solid;
+	background-color: #cccc99;
+}
+
+
+.Cab_Separador
+{
+  font-size:3px;
+}
+
+TD.Cab_LogoGrupoPacifico
+{
+	padding-right: 3px;
+	background-image: url(../images/nLogoPacificoGrupo.jpg);
+	vertical-align: top;
+	width: 160px;
+	background-repeat: no-repeat;
+	height: 39px;
+	text-align: right;
+}
+
+
+ TD.Cab_LogoEmpresa
+{
+	background-position: right top;
+	background-image: url(../images/nLogoPPS.jpg);
+	vertical-align: top;
+	width: 550px;
+	background-repeat: no-repeat;
+	height: 39px;
+}
+
+
+.Cab_FechaActual
+{
+	font-weight: bold;
+	font-size: 14px;
+	color: #264d94;
+	font-style: italic;
+	font-family: Arial;
+}
+
+
+.Cab_Bienvenida
+{
+	font-size:14px;
+	font-style:italic;
+	font-family:Arial;
+	color: #264d94;
+	text-align:right;
+}
+
+
+.Cab_NombreUsuario
+{
+	font-weight: bold;
+	font-size: 15px;
+	font-style: italic;
+	font-family: Arial;
+	color: #264d94;
+}
+
+
+.Cab_MenuFranjaVerde
+{
+	height:11px;
+	background-color:#008754;
+	font-size:3px;
+}
+
+
+
+TABLE.Menu_Contenedor
+{
+	font-size: 10px;
+	color: #264d94;
+	font-family: Arial;
+	background-color: rgb(207,213,230);
+	border-top: solid 1px rgb(207,213,230);
+	border-bottom: solid 1px rgb(207,213,230);
+	border-collapse: collapse;
+	height: 17px;
+}
+
+
+A.Menu_Item
+{
+	padding-top:2px;
+	color: #264d94;
+	text-align: center;
+	height:17px;
+	text-decoration:none;
+	font-size: 10px;
+}
+
+
+TD.Menu_ItemSeparador
+{
+	width: 1px;
+	background-color: #264d94;
+	font-size: 7px;
+}
+
+
+DIV.Cab_TituloAplicacion
+{
+	font-size: 50px;
+	vertical-align: baseline;
+	
+	width: 600px;
+	color: rgb(188,188,219);
+	padding-top: 0px;
+	font-style: italic;
+	font-family: 'Arial';
+	height: 64px;
+	background-color: #264b94;
+	text-align: right;
+}
+
+.cHR
+{
+	font-size: 1pt;
+	color: #003399;
+	font-family: Verdana;
+	height: 1pt;
+	background-color: #000099;
+}
+
+.MensajeError
+{
+	font-size: 11px;
+	vertical-align: middle;
+	color: #cc0000;
+	font-family: Arial;
+	border-style: none;
+	border-width: 0;
+
+}
+
+.CabeceraDIV
+{
+	text-align: center; 
+
+}
+
+.piedepagina
+{
+width: 1024px; 
+}
+
+.tamanocabecera
+{
+	width: 1024px;
+}
+.alineaderecha
+{
+TEXT-ALIGN: right	
+}

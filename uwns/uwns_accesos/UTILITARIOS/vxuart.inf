@@ -1,0 +1,62 @@
+[Version] 
+DriverVer=08/17/2006
+Signature="$Windows NT$" 
+Class = Ports
+ClassGuid = {4d36e978-e325-11ce-bfc1-08002be10318}
+Provider=%VFI% 
+LayoutFile=layout.inf
+
+[Manufacturer]
+%VFI%=VxUART
+
+[Strings]
+VFI="VeriFone Inc."
+VxUART_VMP="V5 PIN Pad"
+VxUART_810="Vx810 PIN Pad"
+VxUART_510="Vx510 USB UART Device"
+VxUART_570="Vx570 USB UART Device"
+VxUART_610="Vx610 USB UART Device"
+VxUART_670="Vx670 USB UART Device"
+VxUART_VMT="V5/VMT USB UART Device"
+VxUART_700="Vx700 PIN Pad"
+VxUART_51G="Vx510G USB UART Device"
+VxUARTDESC="VeriFone USB UART"
+
+[VxUART]
+%VxUART_VMP%=VxUART_Install, USB\VID_11CA&PID_0206
+%VxUART_810%=VxUART_Install, USB\VID_11CA&PID_0207
+%VxUART_510%=VxUART_Install, USB\VID_11CA&PID_0203
+%VxUART_570%=VxUART_Install, USB\VID_11CA&PID_0208
+%VxUART_610%=VxUART_Install, USB\VID_11CA&PID_0209
+%VxUART_670%=VxUART_Install, USB\VID_11CA&PID_0213
+%VxUART_VMT%=VxUART_Install, USB\VID_11CA&PID_0214
+%VxUART_700%=VxUART_Install, USB\VID_11CA&PID_0215
+%VxUART_51G%=VxUART_Install, USB\VID_11CA&PID_0216
+
+[DestinationDirs]
+DefaultDestDir=10,System32\Drivers
+
+[VxUART_Install.nt]
+CopyFiles=VxUART_Install.nt.Copy
+AddReg=VxUART_Install.nt.AddReg
+
+[VxUART_Install.nt.Copy]
+usbser.sys
+
+[VxUART_Install.nt.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,usbser.sys
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[VxUART_Install.nt.Services]
+AddService=usbser,0x0002,Service_Inst
+
+[Service_Inst]
+DisplayName=%VxUARTDESC%
+ServiceType=1       ; SERVICE_KERNEL_DRIVER
+StartType=3         ; SERVICE_DEMAND_START
+ErrorControl=1      ; SERVICE_ERROR_NORMAL
+ServiceBinary=%12%\usbser.sys
+LoadOrderGroup=Base
+
+

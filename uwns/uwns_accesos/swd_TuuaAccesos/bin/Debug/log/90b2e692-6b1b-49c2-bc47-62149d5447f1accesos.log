@@ -1,0 +1,24 @@
+20/09/2015 20:24:01:369  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 20:24:01:813  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+20/09/2015 20:24:01:836  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+20/09/2015 20:24:01:840  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Pin Pad
+20/09/2015 20:24:01:840  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Semaforo Molinete
+20/09/2015 20:24:05:899  LAP.TUUA.ACCESOS.ACS_InterfazLector   INICIA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 20:24:05:900  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:0?3DES000006?
+20/09/2015 20:24:06:027  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 20:24:06:031  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 20:24:06:031  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 20:32:48:182  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Inactiva 
+20/09/2015 20:32:48:195  LAP.TUUA.ACCESOS.ACS_InterfazLector   Usuario no autorizado, No se Destraba Molinete
+20/09/2015 20:32:48:195  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 20:32:48:196  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 20:32:48:203  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+20/09/2015 20:32:48:229  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Inactiva 
+20/09/2015 20:32:48:231  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+20/09/2015 20:32:48:246  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Inactiva 
+20/09/2015 20:32:48:249  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+20/09/2015 20:32:48:252  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Inactiva 
+20/09/2015 20:32:48:255  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+20/09/2015 20:32:48:264  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Inactiva 
+20/09/2015 20:32:48:266  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+20/09/2015 20:36:28:943  LAP.TUUA.ACCESOS.ACS_InterfazLector   LECTOR NO RESPONDE

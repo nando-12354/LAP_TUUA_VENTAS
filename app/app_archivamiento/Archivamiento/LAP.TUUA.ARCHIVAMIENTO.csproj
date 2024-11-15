@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{20050224-DDE6-4F7B-A5A3-A6563002B252}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LAP.TUUA.ARCHIVAMIENTO</RootNamespace>
+    <AssemblyName>Archivamiento</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.ObjectBuilder2, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SQLServer.ManagedDTS, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Archieving.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Archieving.Designer.cs">
+      <DependentUpon>Archieving.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BDTUUAHistorica.cs" />
+    <Compile Include="DetalleArchivamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleArchivamiento.Designer.cs">
+      <DependentUpon>DetalleArchivamiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoldOnWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoldOnWindow.Designer.cs">
+      <DependentUpon>HoldOnWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageFilter.cs" />
+    <Compile Include="ResultadoProceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultadoProceso.Designer.cs">
+      <DependentUpon>ResultadoProceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Archieving.resx">
+      <DependentUpon>Archieving.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleArchivamiento.resx">
+      <DependentUpon>DetalleArchivamiento.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoldOnWindow.resx">
+      <DependentUpon>HoldOnWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultadoProceso.resx">
+      <DependentUpon>ResultadoProceso.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="bin\Debug\Archivamiento.exe.config" />
+    <None Include="bin\Debug\Archivamiento.vshost.exe.config" />
+    <None Include="bin\Debug\Archivamiento.vshost.exe.manifest" />
+    <None Include="bin\Debug\resources\config.properties" />
+    <None Include="bin\Debug\resources\CopiaInformacion.dtsx" />
+    <None Include="bin\Debug\resources\Depuracion.dtsx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Archivamiento.exe" />
+    <Content Include="bin\Debug\Archivamiento.pdb" />
+    <Content Include="bin\Debug\Archivamiento.vshost.exe" />
+    <Content Include="bin\Debug\CONTROL.dll" />
+    <Content Include="bin\Debug\CONTROL.pdb" />
+    <Content Include="bin\Debug\CryptoHelper.dll" />
+    <Content Include="bin\Debug\DATAACCESS.dll" />
+    <Content Include="bin\Debug\DATAACCESS.pdb" />
+    <Content Include="bin\Debug\ENTIDADES.dll" />
+    <Content Include="bin\Debug\ENTIDADES.pdb" />
+    <Content Include="bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll" />
+    <Content Include="bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml" />
+    <Content Include="bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll" />
+    <Content Include="bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml" />
+    <Content Include="bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll" />
+    <Content Include="bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml" />
+    <Content Include="bin\Debug\Microsoft.Practices.ObjectBuilder2.dll" />
+    <Content Include="bin\Debug\UTIL.dll" />
+    <Content Include="bin\Debug\UTIL.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\componentes comunes\ENTIDADES\LAP.TUUA.ENTIDADES.csproj">
+      <Project>{113FFE71-C275-4A6A-BD2B-70E76F0AC4A8}</Project>
+      <Name>LAP.TUUA.ENTIDADES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\componentes comunes\UTIL\LAP.TUUA.UTIL.csproj">
+      <Project>{92A7A1C8-96F5-4992-A363-C6FC4C60E85E}</Project>
+      <Name>LAP.TUUA.UTIL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CONTROL\LAP.TUUA.CONTROL.csproj">
+      <Project>{491410EA-1D0B-48A4-B872-B1F42C979B83}</Project>
+      <Name>LAP.TUUA.CONTROL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

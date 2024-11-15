@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="VueloProgramado">
+        <s:complexType />
+      </s:element>
+      <s:element name="VueloProgramadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="VueloProgramadoResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VueloTemporada">
+        <s:complexType />
+      </s:element>
+      <s:element name="VueloTemporadaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="VueloTemporadaResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Compania">
+        <s:complexType />
+      </s:element>
+      <s:element name="CompaniaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CompaniaResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TasaCambio">
+        <s:complexType />
+      </s:element>
+      <s:element name="TasaCambioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TasaCambioResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VueloProgramadoFTP">
+        <s:complexType />
+      </s:element>
+      <s:element name="VueloProgramadoFTPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="VueloProgramadoFTPResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="VueloProgramadoSoapIn">
+    <wsdl:part name="parameters" element="tns:VueloProgramado" />
+  </wsdl:message>
+  <wsdl:message name="VueloProgramadoSoapOut">
+    <wsdl:part name="parameters" element="tns:VueloProgramadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="VueloTemporadaSoapIn">
+    <wsdl:part name="parameters" element="tns:VueloTemporada" />
+  </wsdl:message>
+  <wsdl:message name="VueloTemporadaSoapOut">
+    <wsdl:part name="parameters" element="tns:VueloTemporadaResponse" />
+  </wsdl:message>
+  <wsdl:message name="CompaniaSoapIn">
+    <wsdl:part name="parameters" element="tns:Compania" />
+  </wsdl:message>
+  <wsdl:message name="CompaniaSoapOut">
+    <wsdl:part name="parameters" element="tns:CompaniaResponse" />
+  </wsdl:message>
+  <wsdl:message name="TasaCambioSoapIn">
+    <wsdl:part name="parameters" element="tns:TasaCambio" />
+  </wsdl:message>
+  <wsdl:message name="TasaCambioSoapOut">
+    <wsdl:part name="parameters" element="tns:TasaCambioResponse" />
+  </wsdl:message>
+  <wsdl:message name="VueloProgramadoFTPSoapIn">
+    <wsdl:part name="parameters" element="tns:VueloProgramadoFTP" />
+  </wsdl:message>
+  <wsdl:message name="VueloProgramadoFTPSoapOut">
+    <wsdl:part name="parameters" element="tns:VueloProgramadoFTPResponse" />
+  </wsdl:message>
+  <wsdl:portType name="UWBS_TUUASoap">
+    <wsdl:operation name="VueloProgramado">
+      <wsdl:input message="tns:VueloProgramadoSoapIn" />
+      <wsdl:output message="tns:VueloProgramadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="VueloTemporada">
+      <wsdl:input message="tns:VueloTemporadaSoapIn" />
+      <wsdl:output message="tns:VueloTemporadaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Compania">
+      <wsdl:input message="tns:CompaniaSoapIn" />
+      <wsdl:output message="tns:CompaniaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="TasaCambio">
+      <wsdl:input message="tns:TasaCambioSoapIn" />
+      <wsdl:output message="tns:TasaCambioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="VueloProgramadoFTP">
+      <wsdl:input message="tns:VueloProgramadoFTPSoapIn" />
+      <wsdl:output message="tns:VueloProgramadoFTPSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="UWBS_TUUASoap" type="tns:UWBS_TUUASoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="VueloProgramado">
+      <soap:operation soapAction="http://tempuri.org/VueloProgramado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VueloTemporada">
+      <soap:operation soapAction="http://tempuri.org/VueloTemporada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Compania">
+      <soap:operation soapAction="http://tempuri.org/Compania" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TasaCambio">
+      <soap:operation soapAction="http://tempuri.org/TasaCambio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VueloProgramadoFTP">
+      <soap:operation soapAction="http://tempuri.org/VueloProgramadoFTP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="UWBS_TUUASoap12" type="tns:UWBS_TUUASoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="VueloProgramado">
+      <soap12:operation soapAction="http://tempuri.org/VueloProgramado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VueloTemporada">
+      <soap12:operation soapAction="http://tempuri.org/VueloTemporada" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Compania">
+      <soap12:operation soapAction="http://tempuri.org/Compania" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TasaCambio">
+      <soap12:operation soapAction="http://tempuri.org/TasaCambio" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VueloProgramadoFTP">
+      <soap12:operation soapAction="http://tempuri.org/VueloProgramadoFTP" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="UWBS_TUUA">
+    <wsdl:port name="UWBS_TUUASoap" binding="tns:UWBS_TUUASoap">
+      <soap:address location="http://172.24.2.150/uwbs_tuua/uwbs_tuua.asmx" />
+    </wsdl:port>
+    <wsdl:port name="UWBS_TUUASoap12" binding="tns:UWBS_TUUASoap12">
+      <soap12:address location="http://172.24.2.150/uwbs_tuua/uwbs_tuua.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

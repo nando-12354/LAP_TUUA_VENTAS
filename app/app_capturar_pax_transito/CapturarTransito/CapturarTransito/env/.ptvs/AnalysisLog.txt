@@ -1,0 +1,1291 @@
+﻿
+2018-02-19T16:59:19: Start analysis
+2018-02-19T16:59:19: [WARNING] Library was set explicitly - skipping path detection
+2018-02-19T16:59:19: IncludeModulesFromModulePath = win32com
+2018-02-19T16:59:22: Deleting 0 files
+2018-02-19T16:59:22: Scraping builtin modules
+2018-02-19T16:59:22: Command: D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2018-02-19T16:59:25: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2018-02-19T16:59:25: Scraped builtin modules
+2018-02-19T16:59:25: astropy.CallDepth = 0
+2018-02-19T16:59:25: matplotlib.CallDepth = 3
+2018-02-19T16:59:25: pandas.CallDepth = 0
+2018-02-19T16:59:25: sympy.CallDepth = 0
+2018-02-19T16:59:25: Start group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages" with 1 files
+2018-02-19T16:59:25: Parsing "easy_install" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\easy_install.py")
+2018-02-19T16:59:25: Parsing complete
+2018-02-19T16:59:25: Analyzing "easy_install"
+2018-02-19T16:59:25: Starting analysis of 1 modules
+2018-02-19T16:59:25: Analysis complete
+2018-02-19T16:59:25: Saving group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages"
+2018-02-19T16:59:29: End of group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages"
+2018-02-19T16:59:29: Start group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip" with 233 files
+2018-02-19T16:59:30: Parsing "pip.basecommand" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\basecommand.py")
+2018-02-19T16:59:30: Parsing "pip.baseparser" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\baseparser.py")
+2018-02-19T16:59:30: Parsing "pip.cmdoptions" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\cmdoptions.py")
+2018-02-19T16:59:30: Parsing "pip.download" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\download.py")
+2018-02-19T16:59:30: Parsing "pip.exceptions" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\exceptions.py")
+2018-02-19T16:59:30: Parsing "pip.index" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\index.py")
+2018-02-19T16:59:30: Parsing "pip.locations" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\locations.py")
+2018-02-19T16:59:30: Parsing "pip.pep425tags" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\pep425tags.py")
+2018-02-19T16:59:30: Parsing "pip.status_codes" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\status_codes.py")
+2018-02-19T16:59:30: Parsing "pip.wheel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\wheel.py")
+2018-02-19T16:59:30: Parsing "pip" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\__init__.py")
+2018-02-19T16:59:30: Parsing "pip.__main__" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\__main__.py")
+2018-02-19T16:59:30: Parsing "pip.commands.completion" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\completion.py")
+2018-02-19T16:59:30: Parsing "pip.commands.download" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\download.py")
+2018-02-19T16:59:30: Parsing "pip.commands.freeze" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\freeze.py")
+2018-02-19T16:59:30: Parsing "pip.commands.hash" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\hash.py")
+2018-02-19T16:59:30: Parsing "pip.commands.help" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\help.py")
+2018-02-19T16:59:30: Parsing "pip.commands.install" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\install.py")
+2018-02-19T16:59:30: Parsing "pip.commands.list" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\list.py")
+2018-02-19T16:59:30: Parsing "pip.commands.search" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\search.py")
+2018-02-19T16:59:30: Parsing "pip.commands.show" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\show.py")
+2018-02-19T16:59:30: Parsing "pip.commands.uninstall" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\uninstall.py")
+2018-02-19T16:59:30: Parsing "pip.commands.wheel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\wheel.py")
+2018-02-19T16:59:30: Parsing "pip.commands" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\__init__.py")
+2018-02-19T16:59:30: Parsing "pip.compat.dictconfig" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\compat\dictconfig.py")
+2018-02-19T16:59:30: Parsing "pip.compat.ordereddict" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\compat\ordereddict.py")
+2018-02-19T16:59:30: Parsing "pip.compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\compat\__init__.py")
+2018-02-19T16:59:30: Parsing "pip.models.index" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\models\index.py")
+2018-02-19T16:59:30: Parsing "pip.models" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\models\__init__.py")
+2018-02-19T16:59:30: Parsing "pip.operations.freeze" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\operations\freeze.py")
+2018-02-19T16:59:30: Parsing "pip.operations" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\operations\__init__.py")
+2018-02-19T16:59:30: Parsing "pip.req.req_file" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\req\req_file.py")
+2018-02-19T16:59:30: Parsing "pip.req.req_install" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\req\req_install.py")
+2018-02-19T16:59:30: Parsing "pip.req.req_set" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\req\req_set.py")
+2018-02-19T16:59:30: Parsing "pip.req.req_uninstall" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\req\req_uninstall.py")
+2018-02-19T16:59:30: Parsing "pip.req" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\req\__init__.py")
+2018-02-19T16:59:30: Parsing "pip.utils.appdirs" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\appdirs.py")
+2018-02-19T16:59:30: Parsing "pip.utils.build" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\build.py")
+2018-02-19T16:59:30: Parsing "pip.utils.deprecation" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\deprecation.py")
+2018-02-19T16:59:30: Parsing "pip.utils.encoding" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\encoding.py")
+2018-02-19T16:59:30: Parsing "pip.utils.filesystem" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\filesystem.py")
+2018-02-19T16:59:30: Parsing "pip.utils.hashes" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\hashes.py")
+2018-02-19T16:59:30: Parsing "pip.utils.logging" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\logging.py")
+2018-02-19T16:59:30: Parsing "pip.utils.outdated" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\outdated.py")
+2018-02-19T16:59:30: Parsing "pip.utils.setuptools_build" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\setuptools_build.py")
+2018-02-19T16:59:30: Parsing "pip.utils.ui" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\ui.py")
+2018-02-19T16:59:30: Parsing "pip.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\__init__.py")
+2018-02-19T16:59:30: Parsing "pip.vcs.bazaar" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\vcs\bazaar.py")
+2018-02-19T16:59:30: Parsing "pip.vcs.git" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\vcs\git.py")
+2018-02-19T16:59:30: Parsing "pip.vcs.mercurial" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\vcs\mercurial.py")
+2018-02-19T16:59:30: Parsing "pip.vcs.subversion" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\vcs\subversion.py")
+2018-02-19T16:59:30: Parsing "pip.vcs" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\vcs\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.ipaddress" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\ipaddress.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.pyparsing" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\pyparsing.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.retrying" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\retrying.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.six" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\six.py")
+2018-02-19T16:59:30: Parsing "pip._vendor" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.adapter" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.cache" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.controller" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.filewrapper" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.heuristics" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.serialize" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.wrapper" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol._cmd" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.cachecontrol.caches" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.colorama.ansi" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.colorama.ansitowin32" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.colorama.initialise" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.colorama.win32" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.colorama.winterm" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.colorama" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.database" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.index" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.locators" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.manifest" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.markers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.metadata" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.resources" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.scripts" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.util" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.version" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib.wheel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib._backport.misc" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib._backport.shutil" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib._backport.sysconfig" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib._backport.tarfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.distlib._backport" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.constants" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.html5parser" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.ihatexml" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.inputstream" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.sanitizer" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.tokenizer" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.filters.lint" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.filters.optionaltags" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.filters.sanitizer" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.filters.whitespace" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.filters._base" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.filters" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.serializer" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.treeadapters.sax" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.treeadapters" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.treebuilders.dom" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.treebuilders.etree" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2018-02-19T16:59:30: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.treebuilders._base" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.treebuilders" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.treewalkers.dom" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.treewalkers.etree" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.treewalkers._base" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.treewalkers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.trie.datrie" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.trie.py" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.trie._base" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.html5lib.trie" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.lockfile.linklockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.lockfile.mkdirlockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.lockfile.pidlockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.lockfile.sqlitelockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.lockfile.symlinklockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.lockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.packaging.markers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.packaging.requirements" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.packaging.specifiers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.packaging.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.packaging.version" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\version.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.packaging._compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.packaging._structures" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.packaging.__about__" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.packaging" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.pkg_resources" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.progress.bar" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\progress\bar.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.progress.counter" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\progress\counter.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.progress.helpers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.progress.spinner" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.progress" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.adapters" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.api" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.auth" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.certs" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.cookies" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.exceptions" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.hooks" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.models" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.sessions" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.status_codes" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.structures" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.constants" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.escprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.escsm" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.chardet" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.connection" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.fields" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.request" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.response" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3._collections" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.packages" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2018-02-19T16:59:31: Parsing "pip._vendor.requests.packages.urllib3.util" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2018-02-19T16:59:31: Parsing "pip._vendor._markerlib.markers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2018-02-19T16:59:31: Parsing "pip._vendor._markerlib" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2018-02-19T16:59:31: Parsing complete
+2018-02-19T16:59:31: Analyzing "pip.basecommand"
+2018-02-19T16:59:31: Analyzing "pip.baseparser"
+2018-02-19T16:59:31: Analyzing "pip.cmdoptions"
+2018-02-19T16:59:31: Analyzing "pip.download"
+2018-02-19T16:59:31: Analyzing "pip.exceptions"
+2018-02-19T16:59:31: Analyzing "pip.index"
+2018-02-19T16:59:31: Analyzing "pip.locations"
+2018-02-19T16:59:31: Analyzing "pip.pep425tags"
+2018-02-19T16:59:31: Analyzing "pip.status_codes"
+2018-02-19T16:59:31: Analyzing "pip.wheel"
+2018-02-19T16:59:31: Analyzing "pip"
+2018-02-19T16:59:31: Analyzing "pip.__main__"
+2018-02-19T16:59:31: Analyzing "pip.commands.completion"
+2018-02-19T16:59:31: Analyzing "pip.commands.download"
+2018-02-19T16:59:31: Analyzing "pip.commands.freeze"
+2018-02-19T16:59:31: Analyzing "pip.commands.hash"
+2018-02-19T16:59:31: Analyzing "pip.commands.help"
+2018-02-19T16:59:31: Analyzing "pip.commands.install"
+2018-02-19T16:59:31: Analyzing "pip.commands.list"
+2018-02-19T16:59:31: Analyzing "pip.commands.search"
+2018-02-19T16:59:31: Analyzing "pip.commands.show"
+2018-02-19T16:59:31: Analyzing "pip.commands.uninstall"
+2018-02-19T16:59:31: Analyzing "pip.commands.wheel"
+2018-02-19T16:59:31: Analyzing "pip.commands"
+2018-02-19T16:59:31: Analyzing "pip.compat.dictconfig"
+2018-02-19T16:59:31: Analyzing "pip.compat.ordereddict"
+2018-02-19T16:59:31: Analyzing "pip.compat"
+2018-02-19T16:59:31: Analyzing "pip.models.index"
+2018-02-19T16:59:31: Analyzing "pip.models"
+2018-02-19T16:59:31: Analyzing "pip.operations.freeze"
+2018-02-19T16:59:31: Analyzing "pip.operations"
+2018-02-19T16:59:31: Analyzing "pip.req.req_file"
+2018-02-19T16:59:31: Analyzing "pip.req.req_install"
+2018-02-19T16:59:31: Analyzing "pip.req.req_set"
+2018-02-19T16:59:31: Analyzing "pip.req.req_uninstall"
+2018-02-19T16:59:31: Analyzing "pip.req"
+2018-02-19T16:59:31: Analyzing "pip.utils.appdirs"
+2018-02-19T16:59:31: Analyzing "pip.utils.build"
+2018-02-19T16:59:31: Analyzing "pip.utils.deprecation"
+2018-02-19T16:59:31: Analyzing "pip.utils.encoding"
+2018-02-19T16:59:31: Analyzing "pip.utils.filesystem"
+2018-02-19T16:59:31: Analyzing "pip.utils.hashes"
+2018-02-19T16:59:31: Analyzing "pip.utils.logging"
+2018-02-19T16:59:31: Analyzing "pip.utils.outdated"
+2018-02-19T16:59:31: Analyzing "pip.utils.setuptools_build"
+2018-02-19T16:59:31: Analyzing "pip.utils.ui"
+2018-02-19T16:59:31: Analyzing "pip.utils"
+2018-02-19T16:59:31: Analyzing "pip.vcs.bazaar"
+2018-02-19T16:59:31: Analyzing "pip.vcs.git"
+2018-02-19T16:59:31: Analyzing "pip.vcs.mercurial"
+2018-02-19T16:59:31: Analyzing "pip.vcs.subversion"
+2018-02-19T16:59:31: Analyzing "pip.vcs"
+2018-02-19T16:59:31: Analyzing "pip._vendor.ipaddress"
+2018-02-19T16:59:31: Analyzing "pip._vendor.pyparsing"
+2018-02-19T16:59:31: Analyzing "pip._vendor.retrying"
+2018-02-19T16:59:31: Analyzing "pip._vendor.six"
+2018-02-19T16:59:31: Analyzing "pip._vendor"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.adapter"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.cache"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.compat"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.controller"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.heuristics"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.serialize"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.wrapper"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol._cmd"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2018-02-19T16:59:31: Analyzing "pip._vendor.cachecontrol.caches"
+2018-02-19T16:59:31: Analyzing "pip._vendor.colorama.ansi"
+2018-02-19T16:59:31: Analyzing "pip._vendor.colorama.ansitowin32"
+2018-02-19T16:59:31: Analyzing "pip._vendor.colorama.initialise"
+2018-02-19T16:59:31: Analyzing "pip._vendor.colorama.win32"
+2018-02-19T16:59:31: Analyzing "pip._vendor.colorama.winterm"
+2018-02-19T16:59:31: Analyzing "pip._vendor.colorama"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.compat"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.database"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.index"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.locators"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.manifest"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.markers"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.metadata"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.resources"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.scripts"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.util"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.version"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib.wheel"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib._backport.misc"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib._backport.shutil"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib._backport.tarfile"
+2018-02-19T16:59:31: Analyzing "pip._vendor.distlib._backport"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.constants"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.html5parser"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.ihatexml"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.inputstream"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.sanitizer"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.tokenizer"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.utils"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.filters.lint"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.filters._base"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.filters"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.serializer"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treeadapters"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treebuilders"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.treewalkers"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.trie.datrie"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.trie.py"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.trie._base"
+2018-02-19T16:59:31: Analyzing "pip._vendor.html5lib.trie"
+2018-02-19T16:59:31: Analyzing "pip._vendor.lockfile.linklockfile"
+2018-02-19T16:59:31: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2018-02-19T16:59:31: Analyzing "pip._vendor.lockfile.pidlockfile"
+2018-02-19T16:59:31: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2018-02-19T16:59:31: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2018-02-19T16:59:31: Analyzing "pip._vendor.lockfile"
+2018-02-19T16:59:31: Analyzing "pip._vendor.packaging.markers"
+2018-02-19T16:59:31: Analyzing "pip._vendor.packaging.requirements"
+2018-02-19T16:59:31: Analyzing "pip._vendor.packaging.specifiers"
+2018-02-19T16:59:31: Analyzing "pip._vendor.packaging.utils"
+2018-02-19T16:59:31: Analyzing "pip._vendor.packaging.version"
+2018-02-19T16:59:31: Analyzing "pip._vendor.packaging._compat"
+2018-02-19T16:59:31: Analyzing "pip._vendor.packaging._structures"
+2018-02-19T16:59:31: Analyzing "pip._vendor.packaging.__about__"
+2018-02-19T16:59:31: Analyzing "pip._vendor.packaging"
+2018-02-19T16:59:31: Analyzing "pip._vendor.pkg_resources"
+2018-02-19T16:59:31: Analyzing "pip._vendor.progress.bar"
+2018-02-19T16:59:31: Analyzing "pip._vendor.progress.counter"
+2018-02-19T16:59:31: Analyzing "pip._vendor.progress.helpers"
+2018-02-19T16:59:31: Analyzing "pip._vendor.progress.spinner"
+2018-02-19T16:59:31: Analyzing "pip._vendor.progress"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.adapters"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.api"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.auth"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.certs"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.compat"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.cookies"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.exceptions"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.hooks"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.models"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.sessions"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.status_codes"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.structures"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.utils"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.chardet"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2018-02-19T16:59:31: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2018-02-19T16:59:31: Analyzing "pip._vendor._markerlib.markers"
+2018-02-19T16:59:31: Analyzing "pip._vendor._markerlib"
+2018-02-19T16:59:31: Starting analysis of 233 modules
+2018-02-19T16:59:47: Analysis complete
+2018-02-19T16:59:47: Saving group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip"
+2018-02-19T16:59:49: End of group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip"
+2018-02-19T16:59:49: Start group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources" with 14 files
+2018-02-19T16:59:49: Parsing "pkg_resources" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\__init__.py")
+2018-02-19T16:59:50: Parsing "pkg_resources.extern" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\extern\__init__.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.pyparsing" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.six" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\six.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.packaging.markers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.packaging.requirements" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.packaging.specifiers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.packaging.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.packaging.version" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.packaging._compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.packaging._structures" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.packaging.__about__" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2018-02-19T16:59:50: Parsing "pkg_resources._vendor.packaging" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2018-02-19T16:59:50: Parsing complete
+2018-02-19T16:59:50: Analyzing "pkg_resources"
+2018-02-19T16:59:50: Analyzing "pkg_resources.extern"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.pyparsing"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.six"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.packaging.markers"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.packaging.requirements"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.packaging.utils"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.packaging.version"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.packaging._compat"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.packaging._structures"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.packaging.__about__"
+2018-02-19T16:59:50: Analyzing "pkg_resources._vendor.packaging"
+2018-02-19T16:59:50: Starting analysis of 14 modules
+2018-02-19T16:59:57: Analysis complete
+2018-02-19T16:59:57: Saving group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources"
+2018-02-19T16:59:57: End of group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources"
+2018-02-19T16:59:57: Start group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools" with 41 files
+2018-02-19T16:59:57: Parsing "setuptools.archive_util" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\archive_util.py")
+2018-02-19T16:59:57: Parsing "setuptools.depends" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\depends.py")
+2018-02-19T16:59:57: Parsing "setuptools.dist" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\dist.py")
+2018-02-19T16:59:57: Parsing "setuptools.extension" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\extension.py")
+2018-02-19T16:59:57: Parsing "setuptools.launch" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\launch.py")
+2018-02-19T16:59:57: Parsing "setuptools.lib2to3_ex" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2018-02-19T16:59:57: Parsing "setuptools.msvc9_support" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\msvc9_support.py")
+2018-02-19T16:59:57: Parsing "setuptools.package_index" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\package_index.py")
+2018-02-19T16:59:57: Parsing "setuptools.py26compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\py26compat.py")
+2018-02-19T16:59:57: Parsing "setuptools.py27compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\py27compat.py")
+2018-02-19T16:59:57: Parsing "setuptools.py31compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\py31compat.py")
+2018-02-19T16:59:57: Parsing "setuptools.sandbox" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\sandbox.py")
+2018-02-19T16:59:57: Parsing "setuptools.ssl_support" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\ssl_support.py")
+2018-02-19T16:59:57: Parsing "setuptools.unicode_utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\unicode_utils.py")
+2018-02-19T16:59:57: Parsing "setuptools.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\utils.py")
+2018-02-19T16:59:57: Parsing "setuptools.version" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\version.py")
+2018-02-19T16:59:57: Parsing "setuptools.windows_support" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\windows_support.py")
+2018-02-19T16:59:57: Parsing "setuptools" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\__init__.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.alias" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\alias.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.bdist_egg" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.bdist_rpm" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.bdist_wininst" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.build_ext" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\build_ext.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.build_py" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\build_py.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.develop" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\develop.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.easy_install" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\easy_install.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.egg_info" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\egg_info.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.install" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\install.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.install_egg_info" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.install_lib" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\install_lib.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.install_scripts" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.register" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\register.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.rotate" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\rotate.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.saveopts" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\saveopts.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.sdist" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\sdist.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.setopt" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\setopt.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.test" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\test.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.upload" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\upload.py")
+2018-02-19T16:59:57: Parsing "setuptools.command.upload_docs" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2018-02-19T16:59:57: Parsing "setuptools.command" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\__init__.py")
+2018-02-19T16:59:57: Parsing "setuptools.extern" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\extern\__init__.py")
+2018-02-19T16:59:57: Parsing complete
+2018-02-19T16:59:57: Analyzing "setuptools.archive_util"
+2018-02-19T16:59:57: Analyzing "setuptools.depends"
+2018-02-19T16:59:57: Analyzing "setuptools.dist"
+2018-02-19T16:59:57: Analyzing "setuptools.extension"
+2018-02-19T16:59:57: Analyzing "setuptools.launch"
+2018-02-19T16:59:57: Analyzing "setuptools.lib2to3_ex"
+2018-02-19T16:59:57: Analyzing "setuptools.msvc9_support"
+2018-02-19T16:59:57: Analyzing "setuptools.package_index"
+2018-02-19T16:59:57: Analyzing "setuptools.py26compat"
+2018-02-19T16:59:57: Analyzing "setuptools.py27compat"
+2018-02-19T16:59:57: Analyzing "setuptools.py31compat"
+2018-02-19T16:59:57: Analyzing "setuptools.sandbox"
+2018-02-19T16:59:57: Analyzing "setuptools.ssl_support"
+2018-02-19T16:59:57: Analyzing "setuptools.unicode_utils"
+2018-02-19T16:59:57: Analyzing "setuptools.utils"
+2018-02-19T16:59:57: Analyzing "setuptools.version"
+2018-02-19T16:59:57: Analyzing "setuptools.windows_support"
+2018-02-19T16:59:57: Analyzing "setuptools"
+2018-02-19T16:59:57: Analyzing "setuptools.command.alias"
+2018-02-19T16:59:57: Analyzing "setuptools.command.bdist_egg"
+2018-02-19T16:59:57: Analyzing "setuptools.command.bdist_rpm"
+2018-02-19T16:59:57: Analyzing "setuptools.command.bdist_wininst"
+2018-02-19T16:59:57: Analyzing "setuptools.command.build_ext"
+2018-02-19T16:59:57: Analyzing "setuptools.command.build_py"
+2018-02-19T16:59:57: Analyzing "setuptools.command.develop"
+2018-02-19T16:59:57: Analyzing "setuptools.command.easy_install"
+2018-02-19T16:59:57: Analyzing "setuptools.command.egg_info"
+2018-02-19T16:59:57: Analyzing "setuptools.command.install"
+2018-02-19T16:59:57: Analyzing "setuptools.command.install_egg_info"
+2018-02-19T16:59:57: Analyzing "setuptools.command.install_lib"
+2018-02-19T16:59:57: Analyzing "setuptools.command.install_scripts"
+2018-02-19T16:59:57: Analyzing "setuptools.command.register"
+2018-02-19T16:59:57: Analyzing "setuptools.command.rotate"
+2018-02-19T16:59:57: Analyzing "setuptools.command.saveopts"
+2018-02-19T16:59:57: Analyzing "setuptools.command.sdist"
+2018-02-19T16:59:57: Analyzing "setuptools.command.setopt"
+2018-02-19T16:59:57: Analyzing "setuptools.command.test"
+2018-02-19T16:59:57: Analyzing "setuptools.command.upload"
+2018-02-19T16:59:57: Analyzing "setuptools.command.upload_docs"
+2018-02-19T16:59:57: Analyzing "setuptools.command"
+2018-02-19T16:59:57: Analyzing "setuptools.extern"
+2018-02-19T16:59:57: Starting analysis of 41 modules
+2018-02-19T17:00:03: Analysis complete
+2018-02-19T17:00:03: Saving group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools"
+2018-02-19T17:00:03: End of group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools"
+2018-02-19T17:00:04: Deleting 0 files
+
+2018-02-20T12:12:39: Start analysis
+2018-02-20T12:12:39: [WARNING] Library was set explicitly - skipping path detection
+2018-02-20T12:12:39: IncludeModulesFromModulePath = win32com
+2018-02-20T12:12:40: Deleting 350 files
+2018-02-20T12:12:41: Scraping builtin modules
+2018-02-20T12:12:41: Command: D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2018-02-20T12:12:44: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2018-02-20T12:12:44: Scraped builtin modules
+2018-02-20T12:12:44: Scraped 0 files
+2018-02-20T12:12:44: astropy.CallDepth = 0
+2018-02-20T12:12:44: matplotlib.CallDepth = 3
+2018-02-20T12:12:44: pandas.CallDepth = 0
+2018-02-20T12:12:44: sympy.CallDepth = 0
+2018-02-20T12:12:44: Start group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages" with 2 files
+2018-02-20T12:12:44: Parsing "easy_install" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\easy_install.py")
+2018-02-20T12:12:44: Parsing "pypyodbc" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pypyodbc.py")
+2018-02-20T12:12:45: Parsing complete
+2018-02-20T12:12:45: Analyzing "easy_install"
+2018-02-20T12:12:45: Analyzing "pypyodbc"
+2018-02-20T12:12:45: Starting analysis of 2 modules
+2018-02-20T12:12:51: Analysis complete
+2018-02-20T12:12:51: Saving group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages"
+2018-02-20T12:12:51: End of group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages"
+2018-02-20T12:12:51: Start group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip" with 233 files
+2018-02-20T12:12:51: Parsing "pip.basecommand" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\basecommand.py")
+2018-02-20T12:12:51: Parsing "pip.baseparser" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\baseparser.py")
+2018-02-20T12:12:51: Parsing "pip.cmdoptions" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\cmdoptions.py")
+2018-02-20T12:12:51: Parsing "pip.download" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\download.py")
+2018-02-20T12:12:51: Parsing "pip.exceptions" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\exceptions.py")
+2018-02-20T12:12:51: Parsing "pip.index" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\index.py")
+2018-02-20T12:12:51: Parsing "pip.locations" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\locations.py")
+2018-02-20T12:12:51: Parsing "pip.pep425tags" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\pep425tags.py")
+2018-02-20T12:12:51: Parsing "pip.status_codes" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\status_codes.py")
+2018-02-20T12:12:51: Parsing "pip.wheel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\wheel.py")
+2018-02-20T12:12:51: Parsing "pip" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\__init__.py")
+2018-02-20T12:12:51: Parsing "pip.__main__" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\__main__.py")
+2018-02-20T12:12:51: Parsing "pip.commands.completion" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\completion.py")
+2018-02-20T12:12:51: Parsing "pip.commands.download" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\download.py")
+2018-02-20T12:12:51: Parsing "pip.commands.freeze" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\freeze.py")
+2018-02-20T12:12:51: Parsing "pip.commands.hash" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\hash.py")
+2018-02-20T12:12:51: Parsing "pip.commands.help" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\help.py")
+2018-02-20T12:12:51: Parsing "pip.commands.install" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\install.py")
+2018-02-20T12:12:51: Parsing "pip.commands.list" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\list.py")
+2018-02-20T12:12:51: Parsing "pip.commands.search" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\search.py")
+2018-02-20T12:12:51: Parsing "pip.commands.show" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\show.py")
+2018-02-20T12:12:51: Parsing "pip.commands.uninstall" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\uninstall.py")
+2018-02-20T12:12:51: Parsing "pip.commands.wheel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\wheel.py")
+2018-02-20T12:12:51: Parsing "pip.commands" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\commands\__init__.py")
+2018-02-20T12:12:51: Parsing "pip.compat.dictconfig" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\compat\dictconfig.py")
+2018-02-20T12:12:51: Parsing "pip.compat.ordereddict" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\compat\ordereddict.py")
+2018-02-20T12:12:51: Parsing "pip.compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\compat\__init__.py")
+2018-02-20T12:12:51: Parsing "pip.models.index" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\models\index.py")
+2018-02-20T12:12:51: Parsing "pip.models" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\models\__init__.py")
+2018-02-20T12:12:51: Parsing "pip.operations.freeze" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\operations\freeze.py")
+2018-02-20T12:12:51: Parsing "pip.operations" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\operations\__init__.py")
+2018-02-20T12:12:51: Parsing "pip.req.req_file" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\req\req_file.py")
+2018-02-20T12:12:51: Parsing "pip.req.req_install" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\req\req_install.py")
+2018-02-20T12:12:51: Parsing "pip.req.req_set" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\req\req_set.py")
+2018-02-20T12:12:51: Parsing "pip.req.req_uninstall" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\req\req_uninstall.py")
+2018-02-20T12:12:51: Parsing "pip.req" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\req\__init__.py")
+2018-02-20T12:12:51: Parsing "pip.utils.appdirs" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\appdirs.py")
+2018-02-20T12:12:51: Parsing "pip.utils.build" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\build.py")
+2018-02-20T12:12:51: Parsing "pip.utils.deprecation" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\deprecation.py")
+2018-02-20T12:12:51: Parsing "pip.utils.encoding" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\encoding.py")
+2018-02-20T12:12:51: Parsing "pip.utils.filesystem" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\filesystem.py")
+2018-02-20T12:12:51: Parsing "pip.utils.hashes" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\hashes.py")
+2018-02-20T12:12:51: Parsing "pip.utils.logging" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\logging.py")
+2018-02-20T12:12:51: Parsing "pip.utils.outdated" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\outdated.py")
+2018-02-20T12:12:51: Parsing "pip.utils.setuptools_build" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\setuptools_build.py")
+2018-02-20T12:12:51: Parsing "pip.utils.ui" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\ui.py")
+2018-02-20T12:12:51: Parsing "pip.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\utils\__init__.py")
+2018-02-20T12:12:51: Parsing "pip.vcs.bazaar" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\vcs\bazaar.py")
+2018-02-20T12:12:51: Parsing "pip.vcs.git" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\vcs\git.py")
+2018-02-20T12:12:51: Parsing "pip.vcs.mercurial" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\vcs\mercurial.py")
+2018-02-20T12:12:51: Parsing "pip.vcs.subversion" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\vcs\subversion.py")
+2018-02-20T12:12:51: Parsing "pip.vcs" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\vcs\__init__.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.ipaddress" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\ipaddress.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.pyparsing" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\pyparsing.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.retrying" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\retrying.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.six" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\six.py")
+2018-02-20T12:12:51: Parsing "pip._vendor" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\__init__.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol.adapter" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol.cache" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol.compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol.controller" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol.filewrapper" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol.heuristics" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol.serialize" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol.wrapper" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol._cmd" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2018-02-20T12:12:51: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.cachecontrol.caches" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.colorama.ansi" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.colorama.ansitowin32" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.colorama.initialise" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.colorama.win32" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.colorama.winterm" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.colorama" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.database" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.index" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.locators" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.manifest" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.markers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.metadata" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.resources" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.scripts" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.util" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.version" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib.wheel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib._backport.misc" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib._backport.shutil" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib._backport.sysconfig" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib._backport.tarfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.distlib._backport" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.constants" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.html5parser" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.ihatexml" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.inputstream" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.sanitizer" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.tokenizer" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.filters.lint" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.filters.optionaltags" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.filters.sanitizer" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.filters.whitespace" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.filters._base" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.filters" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.serializer" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treeadapters.sax" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treeadapters" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treebuilders.dom" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treebuilders.etree" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treebuilders._base" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treebuilders" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treewalkers.dom" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treewalkers.etree" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treewalkers._base" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.treewalkers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.trie.datrie" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.trie.py" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.trie._base" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.html5lib.trie" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.lockfile.linklockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.lockfile.mkdirlockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.lockfile.pidlockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.lockfile.sqlitelockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.lockfile.symlinklockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.lockfile" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.packaging.markers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.packaging.requirements" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.packaging.specifiers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.packaging.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.packaging.version" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\version.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.packaging._compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.packaging._structures" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.packaging.__about__" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.packaging" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.pkg_resources" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.progress.bar" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\progress\bar.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.progress.counter" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\progress\counter.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.progress.helpers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.progress.spinner" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.progress" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.adapters" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.api" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.auth" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.certs" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.cookies" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.exceptions" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.hooks" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.models" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.sessions" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.status_codes" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.structures" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.constants" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.escprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.escsm" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.chardet" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.connection" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.fields" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.request" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.response" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3._collections" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2018-02-20T12:12:52: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.packages" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2018-02-20T12:12:53: Parsing "pip._vendor.requests.packages.urllib3.util" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2018-02-20T12:12:53: Parsing "pip._vendor._markerlib.markers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2018-02-20T12:12:53: Parsing "pip._vendor._markerlib" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2018-02-20T12:12:53: Parsing complete
+2018-02-20T12:12:53: Analyzing "pip.basecommand"
+2018-02-20T12:12:53: Analyzing "pip.baseparser"
+2018-02-20T12:12:53: Analyzing "pip.cmdoptions"
+2018-02-20T12:12:53: Analyzing "pip.download"
+2018-02-20T12:12:53: Analyzing "pip.exceptions"
+2018-02-20T12:12:53: Analyzing "pip.index"
+2018-02-20T12:12:53: Analyzing "pip.locations"
+2018-02-20T12:12:53: Analyzing "pip.pep425tags"
+2018-02-20T12:12:53: Analyzing "pip.status_codes"
+2018-02-20T12:12:53: Analyzing "pip.wheel"
+2018-02-20T12:12:53: Analyzing "pip"
+2018-02-20T12:12:53: Analyzing "pip.__main__"
+2018-02-20T12:12:53: Analyzing "pip.commands.completion"
+2018-02-20T12:12:53: Analyzing "pip.commands.download"
+2018-02-20T12:12:53: Analyzing "pip.commands.freeze"
+2018-02-20T12:12:53: Analyzing "pip.commands.hash"
+2018-02-20T12:12:53: Analyzing "pip.commands.help"
+2018-02-20T12:12:53: Analyzing "pip.commands.install"
+2018-02-20T12:12:53: Analyzing "pip.commands.list"
+2018-02-20T12:12:53: Analyzing "pip.commands.search"
+2018-02-20T12:12:53: Analyzing "pip.commands.show"
+2018-02-20T12:12:53: Analyzing "pip.commands.uninstall"
+2018-02-20T12:12:53: Analyzing "pip.commands.wheel"
+2018-02-20T12:12:53: Analyzing "pip.commands"
+2018-02-20T12:12:53: Analyzing "pip.compat.dictconfig"
+2018-02-20T12:12:53: Analyzing "pip.compat.ordereddict"
+2018-02-20T12:12:53: Analyzing "pip.compat"
+2018-02-20T12:12:53: Analyzing "pip.models.index"
+2018-02-20T12:12:53: Analyzing "pip.models"
+2018-02-20T12:12:53: Analyzing "pip.operations.freeze"
+2018-02-20T12:12:53: Analyzing "pip.operations"
+2018-02-20T12:12:53: Analyzing "pip.req.req_file"
+2018-02-20T12:12:53: Analyzing "pip.req.req_install"
+2018-02-20T12:12:53: Analyzing "pip.req.req_set"
+2018-02-20T12:12:53: Analyzing "pip.req.req_uninstall"
+2018-02-20T12:12:53: Analyzing "pip.req"
+2018-02-20T12:12:53: Analyzing "pip.utils.appdirs"
+2018-02-20T12:12:53: Analyzing "pip.utils.build"
+2018-02-20T12:12:53: Analyzing "pip.utils.deprecation"
+2018-02-20T12:12:53: Analyzing "pip.utils.encoding"
+2018-02-20T12:12:53: Analyzing "pip.utils.filesystem"
+2018-02-20T12:12:53: Analyzing "pip.utils.hashes"
+2018-02-20T12:12:53: Analyzing "pip.utils.logging"
+2018-02-20T12:12:53: Analyzing "pip.utils.outdated"
+2018-02-20T12:12:53: Analyzing "pip.utils.setuptools_build"
+2018-02-20T12:12:53: Analyzing "pip.utils.ui"
+2018-02-20T12:12:53: Analyzing "pip.utils"
+2018-02-20T12:12:53: Analyzing "pip.vcs.bazaar"
+2018-02-20T12:12:53: Analyzing "pip.vcs.git"
+2018-02-20T12:12:53: Analyzing "pip.vcs.mercurial"
+2018-02-20T12:12:53: Analyzing "pip.vcs.subversion"
+2018-02-20T12:12:53: Analyzing "pip.vcs"
+2018-02-20T12:12:53: Analyzing "pip._vendor.ipaddress"
+2018-02-20T12:12:53: Analyzing "pip._vendor.pyparsing"
+2018-02-20T12:12:53: Analyzing "pip._vendor.retrying"
+2018-02-20T12:12:53: Analyzing "pip._vendor.six"
+2018-02-20T12:12:53: Analyzing "pip._vendor"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.adapter"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.cache"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.compat"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.controller"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.heuristics"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.serialize"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.wrapper"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol._cmd"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2018-02-20T12:12:53: Analyzing "pip._vendor.cachecontrol.caches"
+2018-02-20T12:12:53: Analyzing "pip._vendor.colorama.ansi"
+2018-02-20T12:12:53: Analyzing "pip._vendor.colorama.ansitowin32"
+2018-02-20T12:12:53: Analyzing "pip._vendor.colorama.initialise"
+2018-02-20T12:12:53: Analyzing "pip._vendor.colorama.win32"
+2018-02-20T12:12:53: Analyzing "pip._vendor.colorama.winterm"
+2018-02-20T12:12:53: Analyzing "pip._vendor.colorama"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.compat"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.database"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.index"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.locators"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.manifest"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.markers"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.metadata"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.resources"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.scripts"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.util"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.version"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib.wheel"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib._backport.misc"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib._backport.shutil"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib._backport.tarfile"
+2018-02-20T12:12:53: Analyzing "pip._vendor.distlib._backport"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.constants"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.html5parser"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.ihatexml"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.inputstream"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.sanitizer"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.tokenizer"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.utils"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.filters.lint"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.filters._base"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.filters"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.serializer"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treeadapters"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treebuilders"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.treewalkers"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.trie.datrie"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.trie.py"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.trie._base"
+2018-02-20T12:12:53: Analyzing "pip._vendor.html5lib.trie"
+2018-02-20T12:12:53: Analyzing "pip._vendor.lockfile.linklockfile"
+2018-02-20T12:12:53: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2018-02-20T12:12:53: Analyzing "pip._vendor.lockfile.pidlockfile"
+2018-02-20T12:12:53: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2018-02-20T12:12:53: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2018-02-20T12:12:53: Analyzing "pip._vendor.lockfile"
+2018-02-20T12:12:53: Analyzing "pip._vendor.packaging.markers"
+2018-02-20T12:12:53: Analyzing "pip._vendor.packaging.requirements"
+2018-02-20T12:12:53: Analyzing "pip._vendor.packaging.specifiers"
+2018-02-20T12:12:53: Analyzing "pip._vendor.packaging.utils"
+2018-02-20T12:12:53: Analyzing "pip._vendor.packaging.version"
+2018-02-20T12:12:53: Analyzing "pip._vendor.packaging._compat"
+2018-02-20T12:12:53: Analyzing "pip._vendor.packaging._structures"
+2018-02-20T12:12:53: Analyzing "pip._vendor.packaging.__about__"
+2018-02-20T12:12:53: Analyzing "pip._vendor.packaging"
+2018-02-20T12:12:53: Analyzing "pip._vendor.pkg_resources"
+2018-02-20T12:12:53: Analyzing "pip._vendor.progress.bar"
+2018-02-20T12:12:53: Analyzing "pip._vendor.progress.counter"
+2018-02-20T12:12:53: Analyzing "pip._vendor.progress.helpers"
+2018-02-20T12:12:53: Analyzing "pip._vendor.progress.spinner"
+2018-02-20T12:12:53: Analyzing "pip._vendor.progress"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.adapters"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.api"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.auth"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.certs"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.compat"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.cookies"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.exceptions"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.hooks"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.models"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.sessions"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.status_codes"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.structures"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.utils"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.chardet"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2018-02-20T12:12:53: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2018-02-20T12:12:53: Analyzing "pip._vendor._markerlib.markers"
+2018-02-20T12:12:53: Analyzing "pip._vendor._markerlib"
+2018-02-20T12:12:53: Starting analysis of 233 modules
+2018-02-20T12:13:06: Analysis complete
+2018-02-20T12:13:06: Saving group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip"
+2018-02-20T12:13:08: End of group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pip"
+2018-02-20T12:13:08: Start group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources" with 14 files
+2018-02-20T12:13:08: Parsing "pkg_resources" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\__init__.py")
+2018-02-20T12:13:08: Parsing "pkg_resources.extern" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\extern\__init__.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.pyparsing" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.six" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\six.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.packaging.markers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.packaging.requirements" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.packaging.specifiers" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.packaging.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.packaging.version" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.packaging._compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.packaging._structures" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.packaging.__about__" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2018-02-20T12:13:08: Parsing "pkg_resources._vendor.packaging" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2018-02-20T12:13:08: Parsing complete
+2018-02-20T12:13:08: Analyzing "pkg_resources"
+2018-02-20T12:13:08: Analyzing "pkg_resources.extern"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.pyparsing"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.six"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.packaging.markers"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.packaging.requirements"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.packaging.utils"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.packaging.version"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.packaging._compat"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.packaging._structures"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.packaging.__about__"
+2018-02-20T12:13:08: Analyzing "pkg_resources._vendor.packaging"
+2018-02-20T12:13:08: Starting analysis of 14 modules
+2018-02-20T12:13:15: Analysis complete
+2018-02-20T12:13:15: Saving group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources"
+2018-02-20T12:13:15: End of group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\pkg_resources"
+2018-02-20T12:13:15: Start group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools" with 41 files
+2018-02-20T12:13:15: Parsing "setuptools.archive_util" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\archive_util.py")
+2018-02-20T12:13:15: Parsing "setuptools.depends" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\depends.py")
+2018-02-20T12:13:15: Parsing "setuptools.dist" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\dist.py")
+2018-02-20T12:13:15: Parsing "setuptools.extension" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\extension.py")
+2018-02-20T12:13:15: Parsing "setuptools.launch" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\launch.py")
+2018-02-20T12:13:15: Parsing "setuptools.lib2to3_ex" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2018-02-20T12:13:15: Parsing "setuptools.msvc9_support" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\msvc9_support.py")
+2018-02-20T12:13:15: Parsing "setuptools.package_index" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\package_index.py")
+2018-02-20T12:13:15: Parsing "setuptools.py26compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\py26compat.py")
+2018-02-20T12:13:15: Parsing "setuptools.py27compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\py27compat.py")
+2018-02-20T12:13:15: Parsing "setuptools.py31compat" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\py31compat.py")
+2018-02-20T12:13:15: Parsing "setuptools.sandbox" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\sandbox.py")
+2018-02-20T12:13:15: Parsing "setuptools.ssl_support" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\ssl_support.py")
+2018-02-20T12:13:15: Parsing "setuptools.unicode_utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\unicode_utils.py")
+2018-02-20T12:13:15: Parsing "setuptools.utils" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\utils.py")
+2018-02-20T12:13:15: Parsing "setuptools.version" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\version.py")
+2018-02-20T12:13:15: Parsing "setuptools.windows_support" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\windows_support.py")
+2018-02-20T12:13:15: Parsing "setuptools" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\__init__.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.alias" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\alias.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.bdist_egg" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.bdist_rpm" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.bdist_wininst" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.build_ext" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\build_ext.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.build_py" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\build_py.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.develop" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\develop.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.easy_install" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\easy_install.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.egg_info" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\egg_info.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.install" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\install.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.install_egg_info" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.install_lib" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\install_lib.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.install_scripts" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.register" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\register.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.rotate" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\rotate.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.saveopts" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\saveopts.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.sdist" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\sdist.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.setopt" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\setopt.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.test" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\test.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.upload" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\upload.py")
+2018-02-20T12:13:15: Parsing "setuptools.command.upload_docs" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2018-02-20T12:13:15: Parsing "setuptools.command" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\command\__init__.py")
+2018-02-20T12:13:15: Parsing "setuptools.extern" ("D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools\extern\__init__.py")
+2018-02-20T12:13:15: Parsing complete
+2018-02-20T12:13:15: Analyzing "setuptools.archive_util"
+2018-02-20T12:13:15: Analyzing "setuptools.depends"
+2018-02-20T12:13:15: Analyzing "setuptools.dist"
+2018-02-20T12:13:15: Analyzing "setuptools.extension"
+2018-02-20T12:13:15: Analyzing "setuptools.launch"
+2018-02-20T12:13:15: Analyzing "setuptools.lib2to3_ex"
+2018-02-20T12:13:15: Analyzing "setuptools.msvc9_support"
+2018-02-20T12:13:15: Analyzing "setuptools.package_index"
+2018-02-20T12:13:15: Analyzing "setuptools.py26compat"
+2018-02-20T12:13:15: Analyzing "setuptools.py27compat"
+2018-02-20T12:13:15: Analyzing "setuptools.py31compat"
+2018-02-20T12:13:15: Analyzing "setuptools.sandbox"
+2018-02-20T12:13:15: Analyzing "setuptools.ssl_support"
+2018-02-20T12:13:15: Analyzing "setuptools.unicode_utils"
+2018-02-20T12:13:15: Analyzing "setuptools.utils"
+2018-02-20T12:13:15: Analyzing "setuptools.version"
+2018-02-20T12:13:15: Analyzing "setuptools.windows_support"
+2018-02-20T12:13:15: Analyzing "setuptools"
+2018-02-20T12:13:15: Analyzing "setuptools.command.alias"
+2018-02-20T12:13:15: Analyzing "setuptools.command.bdist_egg"
+2018-02-20T12:13:15: Analyzing "setuptools.command.bdist_rpm"
+2018-02-20T12:13:15: Analyzing "setuptools.command.bdist_wininst"
+2018-02-20T12:13:15: Analyzing "setuptools.command.build_ext"
+2018-02-20T12:13:15: Analyzing "setuptools.command.build_py"
+2018-02-20T12:13:15: Analyzing "setuptools.command.develop"
+2018-02-20T12:13:15: Analyzing "setuptools.command.easy_install"
+2018-02-20T12:13:15: Analyzing "setuptools.command.egg_info"
+2018-02-20T12:13:15: Analyzing "setuptools.command.install"
+2018-02-20T12:13:15: Analyzing "setuptools.command.install_egg_info"
+2018-02-20T12:13:15: Analyzing "setuptools.command.install_lib"
+2018-02-20T12:13:15: Analyzing "setuptools.command.install_scripts"
+2018-02-20T12:13:15: Analyzing "setuptools.command.register"
+2018-02-20T12:13:15: Analyzing "setuptools.command.rotate"
+2018-02-20T12:13:15: Analyzing "setuptools.command.saveopts"
+2018-02-20T12:13:15: Analyzing "setuptools.command.sdist"
+2018-02-20T12:13:15: Analyzing "setuptools.command.setopt"
+2018-02-20T12:13:15: Analyzing "setuptools.command.test"
+2018-02-20T12:13:15: Analyzing "setuptools.command.upload"
+2018-02-20T12:13:15: Analyzing "setuptools.command.upload_docs"
+2018-02-20T12:13:15: Analyzing "setuptools.command"
+2018-02-20T12:13:15: Analyzing "setuptools.extern"
+2018-02-20T12:13:15: Starting analysis of 41 modules
+2018-02-20T12:13:22: Analysis complete
+2018-02-20T12:13:22: Saving group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools"
+2018-02-20T12:13:22: End of group "D:\DANIEL\Proyectos\TUUA\CapturarPaxTransito\CapturarTransito\CapturarTransito\env\Lib\site-packages\setuptools"
+2018-02-20T12:13:26: Deleting 0 files

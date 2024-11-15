@@ -1,0 +1,254 @@
+19/10/2016 21:32:02:444  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+19/10/2016 21:32:02:896  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+19/10/2016 21:32:30:250  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1CABEZA/RAUL         EPAJZCS LIMPCLLA 2352 293Y014K0013 63D:10B1RO2293BLA 29045        
+19/10/2016 21:32:30:798  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 21:32:30:835  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 21:32:30:835  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+19/10/2016 21:32:31:068  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+19/10/2016 21:32:31:069  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+19/10/2016 21:32:31:234  LAP.TUUA.ACCESOS.ACS_Boarding   Encender Luz Roja
+19/10/2016 21:32:31:235  LAP.TUUA.ACCESOS.ACS_Boarding   ERROR DE BOARDING;;,VUELO NO PROGRAMADO
+19/10/2016 21:32:31:312  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+19/10/2016 21:32:31:312  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+19/10/2016 21:38:20:256  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 21:38:20:654  LAP.TUUA.ACCESOS.ACS_Controlador   Estado de Molinete INACTIVO 
+19/10/2016 21:42:43:305  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 21:42:43:691  LAP.TUUA.ACCESOS.ACS_Controlador   Estado de Molinete INACTIVO 
+19/10/2016 21:44:57:374  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1CABEZA/RAUL         EPAJZCS LIMPCLLA 2352 293Y014K0013 63D:10B1RO2293BLA 29045        
+19/10/2016 21:44:57:773  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 21:44:57:826  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 21:44:57:826  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+19/10/2016 21:44:57:846  LAP.TUUA.ACCESOS.ACS_Boarding   Encender Luz Roja
+19/10/2016 21:44:57:853  LAP.TUUA.ACCESOS.ACS_Boarding   Documento debe ser 
+19/10/2016 21:44:57:854  LAP.TUUA.ACCESOS.ACS_InterfazLector   Documento debe ser 
+19/10/2016 21:44:57:854  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+19/10/2016 21:44:57:854  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+19/10/2016 21:45:31:181  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1CABEZA/RAUL         EPAJZCS LIMPCLLA 2352 293Y014K0013 63D:10B1RO2293BLA 29045        
+19/10/2016 21:45:31:181  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 21:45:31:183  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 21:45:31:183  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+19/10/2016 21:45:31:183  LAP.TUUA.ACCESOS.ACS_Boarding   Encender Luz Roja
+19/10/2016 21:45:31:189  LAP.TUUA.ACCESOS.ACS_Boarding   Documento debe ser 
+19/10/2016 21:45:31:189  LAP.TUUA.ACCESOS.ACS_InterfazLector   Documento debe ser 
+19/10/2016 21:45:31:189  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+19/10/2016 21:45:31:189  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+19/10/2016 6:44:42:732  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 6:44:43:573  LAP.TUUA.ACCESOS.ACS_Controlador   Estado de Molinete INACTIVO 
+19/10/2016 6:44:57:234  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    6M1CABEZA/RAUL         EPAJZCS LIMPCLLA 2352 293Y014K0013 63D:10B1RO2293BLA 29045          00                          8
+19/10/2016 6:44:57:911  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 6:44:58:185  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 6:44:58:365  LAP.TUUA.ACCESOS.ACS_InterfazLector   Referencia a objeto no establecida como instancia de un objeto.
+19/10/2016 6:44:58:365  LAP.TUUA.ACCESOS.ACS_InterfazLector      en LAP.TUUA.ACCESOS.ACS_Util.ObtenerDscListaDeCampos(String strCodCampo, List`1 Lst_ListaDeCampo, String strNomCampo) en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_Util.cs:línea 40
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.ProcesarTrama(String strTrama) en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 468
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.LeerLectorManualCB() en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 198
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.Ejecutar() en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 121
+19/10/2016 6:45:19:311  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    6M1CABEZA/RAUL         EPAJZCS LIMPCLLA 2352 293Y014K0013 63D:10B1RO2293BLA 29045          00                          8
+19/10/2016 6:45:19:311  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 6:45:19:331  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 6:45:19:351  LAP.TUUA.ACCESOS.ACS_InterfazLector   Referencia a objeto no establecida como instancia de un objeto.
+19/10/2016 6:45:19:351  LAP.TUUA.ACCESOS.ACS_InterfazLector      en LAP.TUUA.ACCESOS.ACS_Util.ObtenerDscListaDeCampos(String strCodCampo, List`1 Lst_ListaDeCampo, String strNomCampo) en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_Util.cs:línea 40
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.ProcesarTrama(String strTrama) en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 468
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.LeerLectorManualCB() en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 198
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.Ejecutar() en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 121
+19/10/2016 6:45:33:127  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    6M1CABEZA/RAUL         EPAJZCS LIMPCLLA 2352 293Y014K0013 63D:10B1RO2293BLA 29045          00                          8
+19/10/2016 6:45:33:127  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 6:45:33:159  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 6:45:33:176  LAP.TUUA.ACCESOS.ACS_InterfazLector   Referencia a objeto no establecida como instancia de un objeto.
+19/10/2016 6:45:33:176  LAP.TUUA.ACCESOS.ACS_InterfazLector      en LAP.TUUA.ACCESOS.ACS_Util.ObtenerDscListaDeCampos(String strCodCampo, List`1 Lst_ListaDeCampo, String strNomCampo) en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_Util.cs:línea 40
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.ProcesarTrama(String strTrama) en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 468
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.LeerLectorManualCB() en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 198
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.Ejecutar() en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 121
+19/10/2016 6:45:46:655  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1CABEZA/RAUL         EPAJZCS LIMPCLLA 2352 293Y014K0013 63D:10B1RO2293BLA 29045          00                          8
+19/10/2016 6:45:46:655  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 6:45:46:740  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 6:45:46:740  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+19/10/2016 6:45:46:760  LAP.TUUA.ACCESOS.ACS_Boarding   Encender Luz Roja
+19/10/2016 6:45:46:767  LAP.TUUA.ACCESOS.ACS_Boarding   Documento debe ser 
+19/10/2016 6:45:46:767  LAP.TUUA.ACCESOS.ACS_InterfazLector   Documento debe ser 
+19/10/2016 6:45:46:781  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+19/10/2016 6:45:46:781  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+19/10/2016 6:54:21:670  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 6:54:22:064  LAP.TUUA.ACCESOS.ACS_Controlador   Estado de Molinete INACTIVO 
+19/10/2016 6:55:07:218  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    0?
+19/10/2016 6:55:07:586  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 6:55:07:623  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 6:55:07:623  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+19/10/2016 6:55:07:645  LAP.TUUA.ACCESOS.ACS_Boarding   Encender Luz Roja
+19/10/2016 6:55:07:649  LAP.TUUA.ACCESOS.ACS_Boarding   Documento debe ser 
+19/10/2016 6:55:07:649  LAP.TUUA.ACCESOS.ACS_InterfazLector   Documento debe ser 
+19/10/2016 6:55:07:658  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+19/10/2016 6:55:07:658  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+19/10/2016 6:58:39:019  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 6:58:39:327  LAP.TUUA.ACCESOS.ACS_Controlador   Estado de Molinete INACTIVO 
+19/10/2016 7:00:26:204  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    0?
+19/10/2016 7:00:57:596  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 7:01:10:494  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 7:01:16:386  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+19/10/2016 7:04:35:399  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 7:04:35:793  LAP.TUUA.ACCESOS.ACS_Controlador   Estado de Molinete INACTIVO 
+19/10/2016 7:06:21:395  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    123
+19/10/2016 7:06:45:538  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 7:06:45:611  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 7:06:45:611  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+19/10/2016 7:11:07:197  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 7:13:08:711  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 7:13:09:180  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+19/10/2016 7:13:12:949  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+19/10/2016 7:13:35:818  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    123
+19/10/2016 7:13:45:836  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 7:13:45:906  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 7:13:45:906  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+19/10/2016 7:23:40:058  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 7:23:40:479  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+19/10/2016 7:23:40:498  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+19/10/2016 7:23:47:044  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    12312
+19/10/2016 7:23:51:005  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 7:23:51:095  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 7:23:51:095  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+19/10/2016 7:26:28:651  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 7:26:29:056  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+19/10/2016 7:26:29:081  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+19/10/2016 7:26:38:230  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    qwewqe
+19/10/2016 7:26:42:152  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 7:26:42:258  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 7:26:42:288  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+19/10/2016 7:27:47:530  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+19/10/2016 7:27:47:936  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+19/10/2016 7:27:47:955  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+19/10/2016 7:27:53:810  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    123
+19/10/2016 7:27:58:769  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+19/10/2016 7:27:58:869  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+19/10/2016 7:27:58:869  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+17/04/2016 17:04:52:889  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 17:04:53:970  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+17/04/2016 17:04:54:558  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+17/04/2016 17:05:07:524  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1HERNANDEZ/CESAR     EYHHTWM LIMAQPLA 2115 108Y001L0341 13D:10B1KK2293BLA 29045000000000001   LA 51412017785         811
+17/04/2016 17:05:27:482  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+17/04/2016 17:05:29:484  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+17/04/2016 17:05:33:439  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+17/04/2016 17:09:03:541  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+17/04/2016 17:09:12:043  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+17/04/2016 17:09:03:510  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+17/04/2016 17:09:13:126  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 17:09:27:894  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+17/04/2016 17:09:27:894  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 17:09:30:514  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+17/04/2016 17:09:30:530  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 17:13:07:431  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 17:13:07:782  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+17/04/2016 17:13:07:827  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+17/04/2016 17:13:15:407  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1HERNANDEZ/CESAR     EYHHTWM LIMAQPLA 2115 108Y001L0341 13D:10B1KK2293BLA 29045000000000001   LA 51412017785         811
+17/04/2016 17:13:15:667  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+17/04/2016 17:13:15:684  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+17/04/2016 17:13:15:684  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+17/04/2016 17:13:15:815  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+17/04/2016 17:13:15:815  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+17/04/2016 17:13:15:840  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:I
+17/04/2016 17:13:15:840  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:N - ObjvueloProgram:N
+17/04/2016 17:13:16:030  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+17/04/2016 17:13:16:030  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+17/04/2016 17:13:57:574  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 17:13:57:964  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+17/04/2016 17:13:58:045  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+17/04/2016 17:14:49:696  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1HERNANDEZ/CESAR     EYHHTWM LIMAQPLA 2115 108Y001L0341 13D:10B1KK2293BLA 29045000000000001   LA 51412017785         811
+17/04/2016 17:14:54:305  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+17/04/2016 17:14:55:831  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+17/04/2016 17:14:58:536  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+17/04/2016 17:16:21:859  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+17/04/2016 17:16:25:023  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+17/04/2016 17:16:42:595  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:I
+17/04/2016 17:16:45:707  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:N - ObjvueloProgram:N
+17/04/2016 17:24:37:675  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+17/04/2016 17:24:37:675  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+17/04/2016 17:31:21:412  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 17:31:21:870  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+17/04/2016 17:31:21:881  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+17/04/2016 17:31:42:358  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 17:31:42:853  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+17/04/2016 17:31:42:873  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+17/04/2016 17:32:11:178  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1HERNANDEZ/CESAR     EYHHTWM LIMAQPLA 2115 108Y001L0341 13D:10B1KK2293BLA 29045000000000001   LA 51412017785         811
+17/04/2016 17:32:15:115  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+17/04/2016 17:32:16:890  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+17/04/2016 17:32:20:034  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+17/04/2016 17:33:46:610  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+17/04/2016 17:33:50:987  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+17/04/2016 17:34:02:032  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:I
+17/04/2016 17:34:02:843  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:I - ObjvueloProgram:I
+17/04/2016 17:35:02:279  LAP.TUUA.ACCESOS.ACS_Boarding   Fin Validaciones Internas
+17/04/2016 17:35:17:462  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP
+17/04/2016 17:35:23:750  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1
+17/04/2016 17:35:28:653  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1.1
+17/04/2016 18:25:19:056  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 18:25:19:424  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+17/04/2016 18:25:19:439  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+17/04/2016 18:25:57:667  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 18:25:58:197  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+17/04/2016 18:25:58:218  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+17/04/2016 18:26:04:584  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1HERNANDEZ/CESAR     EYHHTWM LIMAQPLA 2115 108Y001L0341 13D:10B1KK2293BLA 29045000000000001   LA 51412017785         811
+17/04/2016 18:26:07:774  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+17/04/2016 18:26:07:803  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+17/04/2016 18:26:07:803  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+17/04/2016 18:26:42:720  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+17/04/2016 18:26:42:720  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+17/04/2016 18:26:42:741  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:I
+17/04/2016 18:26:42:741  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:I - ObjvueloProgram:I
+17/04/2016 18:26:42:780  LAP.TUUA.ACCESOS.ACS_Boarding   Fin Validaciones Internas
+17/04/2016 18:26:42:783  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP
+17/04/2016 18:26:42:783  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1
+17/04/2016 18:26:42:783  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1.1
+17/04/2016 18:26:49:895  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+17/04/2016 18:26:49:896  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+17/04/2016 18:27:12:132  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+17/04/2016 18:27:12:560  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+17/04/2016 18:27:12:579  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+17/04/2016 18:27:17:014  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1HERNANDEZ/CESAR     EYHHTWM LIMAQPLA 2115 108Y001L0341 13D:10B1KK2293BLA 29045000000000001   LA 51412017785         811
+17/04/2016 18:27:18:840  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+17/04/2016 18:27:18:863  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+17/04/2016 18:27:18:863  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+17/04/2016 18:27:22:851  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+17/04/2016 18:27:22:851  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+17/04/2016 18:27:22:915  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:I
+17/04/2016 18:27:22:915  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:I - ObjvueloProgram:I
+17/04/2016 18:27:22:933  LAP.TUUA.ACCESOS.ACS_Boarding   Fin Validaciones Internas
+17/04/2016 18:27:22:936  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP
+17/04/2016 18:27:22:936  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1
+17/04/2016 18:27:22:936  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1.1
+08/10/2019 18:30:18:704  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+08/10/2019 18:30:19:240  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Inactiva 
+08/10/2019 18:30:19:263  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+08/10/2019 18:31:22:050  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1ROMEROCCENTE/RONALELEVYCU5T LIMAQPVV 0802 281Y019A0044 147>1181 W9280BVV 0000000000000296410000000000 0
+08/10/2019 18:31:35:924  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+08/10/2019 18:31:45:777  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+08/10/2019 18:31:49:537  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+08/10/2019 18:34:54:630  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+08/10/2019 18:35:01:901  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+08/10/2019 18:35:24:126  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:I
+08/10/2019 18:35:24:888  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:N - ObjvueloProgram:N
+08/10/2019 18:35:36:305  LAP.TUUA.ACCESOS.ACS_Boarding   Encender Luz Roja
+08/10/2019 18:35:36:305  LAP.TUUA.ACCESOS.ACS_Boarding   ERROR DE BOARDING;;,TIP. VUELO
+08/10/2019 18:35:36:563  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+08/10/2019 18:35:36:563  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+08/10/2019 18:44:26:115  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+08/10/2019 18:44:26:670  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Inactiva 
+08/10/2019 18:44:26:696  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+08/10/2019 18:44:48:384  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1ROMEROCCENTE/RONALELEVYCU5T LIMAQPVV 0802 281Y019A0044 147>1181 W9280BVV 0000000000000296410000000000 0
+08/10/2019 18:44:51:484  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+08/10/2019 18:44:51:595  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+08/10/2019 18:44:51:596  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+08/10/2019 18:45:40:154  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+08/10/2019 18:45:43:509  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+08/10/2019 18:46:11:787  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:N
+08/10/2019 18:46:12:643  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:N - ObjvueloProgram:N
+08/10/2019 18:50:14:373  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+08/10/2019 18:50:14:843  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Inactiva 
+08/10/2019 18:50:14:934  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+08/10/2019 18:50:52:315  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1ROMEROCCENTE/RONALELEVYCU5T LIMAQPVV 0802 281Y019A0044 147>1181 W9280BVV 0000000000000296410000000000 0
+08/10/2019 18:50:59:125  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+08/10/2019 18:50:59:265  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+08/10/2019 18:50:59:270  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+08/10/2019 18:51:14:295  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+08/10/2019 18:51:14:296  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+08/10/2019 18:51:14:381  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:N
+08/10/2019 18:51:14:381  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:N - ObjvueloProgram:N
+08/10/2019 18:51:30:795  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+08/10/2019 18:51:30:856  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================

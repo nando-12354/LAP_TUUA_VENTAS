@@ -1,0 +1,9 @@
+{
+  "rutaCarpeta" :  "D:/DANIEL/Proyectos/TUUA/CapturarPaxTransito/archivosM1/",
+  "molinete": "M1",
+  "server": "172.20.0.206",
+  "database": "BD_TUUA_QAS",
+  "user": "usr_tuua",
+  "password": "@T3u2u1TP"
+
+}

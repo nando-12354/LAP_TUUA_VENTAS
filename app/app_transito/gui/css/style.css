@@ -1,0 +1,42 @@
+h1 {
+    color:steelblue
+}
+
+#cabecera{
+ 
+ padding: 10px;   
+}
+.contenido{
+    padding: 10px;
+}
+.azul_oscuro{
+    color:#0051A0;
+}
+.azul_claro{
+    color:#00ADEF;
+}
+.plomo{
+    color:#676767;
+}
+.exito{
+    background-color:#0BBF11;
+    display: block;
+    position: fixed;
+    color:#fff;
+    height: 100%;
+    width: 100%;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+}
+.error{
+    background-color:#ED1B24;
+    display: block;
+    position: fixed;
+    color:#fff;
+    height: 100%;
+    width: 100%;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+}

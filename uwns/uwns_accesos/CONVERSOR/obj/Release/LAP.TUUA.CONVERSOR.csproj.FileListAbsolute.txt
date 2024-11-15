@@ -1,0 +1,4 @@
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Release\LAP.TUUA.CONVERSOR.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\CONVERSOR\bin\Release\LAP.TUUA.CONVERSOR.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Release\LAP.TUUA.CONVERSOR.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\CONVERSOR\obj\Release\LAP.TUUA.CONVERSOR.pdb

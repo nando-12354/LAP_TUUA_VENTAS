@@ -1,0 +1,7 @@
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\bin\x86\Release\hConsolida.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\bin\x86\Release\hConsolida.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\bin\x86\Release\hConsolida.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\bin\x86\Release\hConsolida.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\obj\x86\Release\hConsolida.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\obj\x86\Release\hConsolida.DataSource.pdb

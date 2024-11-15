@@ -1,0 +1,5 @@
+C:\Documents and Settings\polarte.LAP\My Documents\Visual Studio 2008\Projects\CLRVuelosProgramados\CLRVuelosProgramados\bin\CLRVuelosProgramados.dll
+C:\Documents and Settings\polarte.LAP\My Documents\Visual Studio 2008\Projects\CLRVuelosProgramados\CLRVuelosProgramados\bin\CLRVuelosProgramados.XmlSerializers.dll
+C:\Documents and Settings\polarte.LAP\My Documents\Visual Studio 2008\Projects\CLRVuelosProgramados\CLRVuelosProgramados\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\polarte.LAP\My Documents\Visual Studio 2008\Projects\CLRVuelosProgramados\CLRVuelosProgramados\obj\Release\CLRVuelosProgramados.dll
+C:\Documents and Settings\polarte.LAP\My Documents\Visual Studio 2008\Projects\CLRVuelosProgramados\CLRVuelosProgramados\obj\Release\CLRVuelosProgramados.XmlSerializers.dll

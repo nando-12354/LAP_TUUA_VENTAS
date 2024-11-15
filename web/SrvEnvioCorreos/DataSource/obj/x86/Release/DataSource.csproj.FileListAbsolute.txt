@@ -1,0 +1,98 @@
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\bin\x86\Release\hConsolida.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\bin\x86\Release\hConsolida.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\obj\x86\Release\hConsolida.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\SERVICIOS\ConsolidadorNET\DataSource\obj\x86\Release\hConsolida.DataSource.pdb
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll.config
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\DataSource\bin\x86\Release\log4net.dll
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\DataSource.csprojResolveAssemblyReference.cache
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\DataSource.csprojResolveAssemblyReference.cache
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\DataSource\bin\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\DataSource\obj\x86\Release\DataSource.csprojResolveAssemblyReference.cache
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\DataSource\obj\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\DataSource\obj\x86\Release\Modelo.DataSource.pdb
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\DataSource\bin\x86\Release\Modelo.DataSource.dll
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\DataSource\bin\x86\Release\Modelo.DataSource.pdb
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.dll
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\DataSource\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\DataSource\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\DataSource\obj\x86\Release\Modelo.DataSource.dll
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\DataSource\obj\x86\Release\Modelo.DataSource.pdb

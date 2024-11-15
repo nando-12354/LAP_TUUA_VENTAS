@@ -1,0 +1,24 @@
+WARNING:root:Inicio LAP_SP_OBD :2019-10-17
+INFO:root:2019-10-17 Conectado LAP_SP_OBD
+ERROR:root:2019-10-17 12:02:54.279375 Error en ticket en linea :     368     (1054, '1054 (42S22): Unknown error 1054', '42S22')
+Traceback (most recent call last):
+  File "c:\desarrollo_LAP2\ticket.py", line 368, in Borrar_lista_caducados
+    my_cursor.execute(my_sql)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\mysql\connector\cursor.py", line 569, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\mysql\connector\connection.py", line 590, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\mysql\connector\connection.py", line 478, in _handle_result
+    raise errors.get_exception(packet)
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown error 1054
+ERROR:root:2019-10-17 12:02:55.308976 Error en ticket en linea :     368     (1054, '1054 (42S22): Unknown error 1054', '42S22')
+Traceback (most recent call last):
+  File "c:\desarrollo_LAP2\ticket.py", line 368, in Borrar_lista_caducados
+    my_cursor.execute(my_sql)
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\mysql\connector\cursor.py", line 569, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\mysql\connector\connection.py", line 590, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "C:\Users\Catsa\AppData\Local\Programs\Python\Python37-32\lib\site-packages\mysql\connector\connection.py", line 478, in _handle_result
+    raise errors.get_exception(packet)
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown error 1054

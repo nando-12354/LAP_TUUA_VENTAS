@@ -1,0 +1,104 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using LAP.TUUA.UTIL;
+using LAP.TUUA.CONTROL;
+
+public partial class ReporteRPT_RptLiquiVenta : System.Web.UI.Page
+{
+
+    protected bool Flg_Error;
+    DataTable dt_consulta = new DataTable();
+    DataSet dsLiqui = new DataSet();
+    BO_Reportes objConsulta = new BO_Reportes();
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        string strFecIni = Request.QueryString["fecIni"];
+        string strFecFin = Request.QueryString["fecFin"];
+
+        if (Session["dtLiquiVenta"] != null)
+        {
+            dt_consulta = (DataTable)Session["dtLiquiVenta"];
+            generarReporte(strFecIni, strFecFin);
+        }
+        else
+        {
+            consultarDatos(strFecIni, strFecFin);
+            generarReporte(strFecIni, strFecFin);
+        }
+    }
+
+    public void generarReporte(string strFecIni, string strFecFin)
+    {
+        try
+        {
+            if (dsLiqui.Tables[0].Rows.Count == 0 && dsLiqui.Tables[1].Rows.Count == 0)
+            {
+                lblmensaje.Text = "La busqueda no retorna resultado, regrese a la consulta para un nuevo filtro";
+                //Response.Write("La busqueda no retorna resultado, regrese a la consulta para un nuevo filtro");
+            }
+            else
+            {
+                //Pintar el reporte                 
+                CrystalDecisions.CrystalReports.Engine.ReportDocument obRpt = new CrystalDecisions.CrystalReports.Engine.ReportDocument();
+                obRpt.Load(Server.MapPath("").ToString() + @"\rptLiquiSticker.rpt");
+                obRpt.SetDataSource(dsLiqui);
+                obRpt.SetParameterValue("pFechaInicial", strFecIni);
+                obRpt.SetParameterValue("pFechaFinal", strFecFin);
+                //icano 24-06-10 validar info
+                if (dsLiqui.Tables[1].Rows.Count == 0)
+                    obRpt.SetParameterValue("textoLiquiContiUso", "NO HAY INFORMACION DE CONTINGENCIA VENDIDA");
+                else
+                    obRpt.SetParameterValue("textoLiquiContiUso", "");
+
+                if (dsLiqui.Tables[2].Rows.Count == 0)
+                    obRpt.SetParameterValue("textoLiquiContiUsado", "NO HAY INFORMACION DE CONTINGENCIA USADO");
+                else
+                    obRpt.SetParameterValue("textoLiquiContiUsado", "");
+
+                crptvLiquiVenta.ReportSource = obRpt;
+            }
+        }
+        catch (Exception ex)
+        {
+            Flg_Error = true;
+            ErrorHandler.Trace(ErrorHandler.Desc_Mensaje, ex.Message);
+        }
+        finally
+        {
+            if (Flg_Error)
+            {
+                Response.Redirect("PaginaError.aspx");
+            }
+        }
+    }
+
+    public void consultarDatos(string strFecIni, string strFecFin)
+    {
+        if (strFecIni != "" && strFecIni != null)
+        {
+            string[] wordsFechaDesde = strFecIni.Split('/');
+            strFecIni = wordsFechaDesde[2] + "" + wordsFechaDesde[1] + "" + wordsFechaDesde[0];
+        }
+        if (strFecFin != "" && strFecFin != null)
+        {
+            string[] wordsFechaHasta = strFecFin.Split('/');
+            strFecFin = wordsFechaHasta[2] + "" + wordsFechaHasta[1] + "" + wordsFechaHasta[0];
+        }
+        dt_consulta = objConsulta.ConsultarLiquidacionVenta(strFecIni, strFecFin);
+        dt_consulta.TableName = "dtLiquidVenta";
+        dsLiqui.Tables.Add(dt_consulta.Copy());
+
+        dt_consulta = objConsulta.ConsultarUsoContingencia(strFecIni, strFecFin);
+        dt_consulta.TableName = "dtLiquiConti";
+        dsLiqui.Tables.Add(dt_consulta.Copy());
+
+        dt_consulta = objConsulta.ConsultarUsoContingenciaUsado(strFecIni, strFecFin);
+        dt_consulta.TableName = "dtLiquiContiUsado";
+        dsLiqui.Tables.Add(dt_consulta.Copy());
+    }
+}

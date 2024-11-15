@@ -1,0 +1,159 @@
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe.config
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\DATAACCESS.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\UTIL.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\DATAACCESS.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\UTIL.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\obj\Debug\Sincronizador.exe
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\obj\Debug\Sincronizador.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Sincronizador.exe.config
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\obj\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\obj\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Sincronizador.exe.config
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\obj\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\obj\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe.config
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\obj\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\obj\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe.config
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincronizacion\Sincronizador\obj\Debug\Sincronizador.exe
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincronizacion\Sincronizador\obj\Debug\Sincronizador.pdb
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.exe.config
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\obj\Debug\Sincronizador.exe
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\obj\Debug\Sincronizador.pdb
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.exe
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.pdb
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\DATAACCESS.dll
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\UTIL.dll
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\DATAACCESS.pdb
+D:\Proyectos\TUUA\V1.4.6.0\uwns\uwns_sincroligth\Sincronizador\bin\Debug\UTIL.pdb
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.exe.config
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.exe
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.pdb
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\DATAACCESS.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\UTIL.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\DATAACCESS.pdb
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\UTIL.pdb
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\obj\Debug\Sincronizador.exe
+D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\obj\Debug\Sincronizador.pdb
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.exe.config
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\obj\Debug\Sincronizador.exe
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\obj\Debug\Sincronizador.pdb
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.exe
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.pdb
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\DATAACCESS.dll
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\UTIL.dll
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\DATAACCESS.pdb
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\UTIL.pdb
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+D:\Luz\LAP\Repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe.config
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\obj\Debug\Sincronizador.exe
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\obj\Debug\Sincronizador.pdb
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.pdb
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\DATAACCESS.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\UTIL.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\DATAACCESS.pdb
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\UTIL.pdb
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+D:\Proyectos\TUUA\repositorio\V1.4.6.2\Fuentes\uwns\uwns_sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe.config
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\obj\Debug\Sincronizador.exe
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\obj\Debug\Sincronizador.pdb
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.pdb
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\DATAACCESS.dll
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\UTIL.dll
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\DATAACCESS.pdb
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\UTIL.pdb
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+D:\Proyectos\TUUA\9163\Repositorio\V1.4.7.0\Fuentes\uwns\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe.config
+D:\Proyectos\TUUA\9163\Repositorio\V1.4.7.0\Fuentes\uwns\uwns_sincronizacion\Sincronizador\obj\Debug\Sincronizador.exe
+D:\Proyectos\TUUA\9163\Repositorio\V1.4.7.0\Fuentes\uwns\uwns_sincronizacion\Sincronizador\obj\Debug\Sincronizador.pdb

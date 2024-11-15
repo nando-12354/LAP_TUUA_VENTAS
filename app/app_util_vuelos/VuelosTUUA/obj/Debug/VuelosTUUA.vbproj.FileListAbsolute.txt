@@ -1,0 +1,11 @@
+D:\Proyectos\VuelosTUUA\VuelosTUUA\bin\Debug\VuelosTUUA.exe.config
+D:\Proyectos\VuelosTUUA\VuelosTUUA\bin\Debug\VuelosTUUA.exe
+D:\Proyectos\VuelosTUUA\VuelosTUUA\bin\Debug\VuelosTUUA.pdb
+D:\Proyectos\VuelosTUUA\VuelosTUUA\bin\Debug\VuelosTUUA.xml
+D:\Proyectos\VuelosTUUA\VuelosTUUA\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\VuelosTUUA\VuelosTUUA\obj\Debug\VuelosTUUA.Form1.resources
+D:\Proyectos\VuelosTUUA\VuelosTUUA\obj\Debug\VuelosTUUA.Resources.resources
+D:\Proyectos\VuelosTUUA\VuelosTUUA\obj\Debug\VuelosTUUA.vbproj.GenerateResource.Cache
+D:\Proyectos\VuelosTUUA\VuelosTUUA\obj\Debug\VuelosTUUA.exe
+D:\Proyectos\VuelosTUUA\VuelosTUUA\obj\Debug\VuelosTUUA.xml
+D:\Proyectos\VuelosTUUA\VuelosTUUA\obj\Debug\VuelosTUUA.pdb

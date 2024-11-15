@@ -1,0 +1,68 @@
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe.config
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\DATAACCESS.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\UTIL.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\DATAACCESS.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\UTIL.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\obj\Debug\Sincronizador.exe
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\obj\Debug\Sincronizador.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Sincronizador.exe.config
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\obj\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\obj\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Sincronizador.exe.config
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\obj\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\obj\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe.config
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\obj\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\obj\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Sincronizador.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.SVC_Sincronizer.resources
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\Sincronizador\obj\Debug\LAP.TUUA.SINCRONIZADOR.csproj.GenerateResource.Cache

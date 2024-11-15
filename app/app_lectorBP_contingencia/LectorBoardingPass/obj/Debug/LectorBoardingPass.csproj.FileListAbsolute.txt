@@ -1,0 +1,13 @@
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\bin\Debug\LectorBoardingPass.exe
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\bin\Debug\LectorBoardingPass.pdb
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\obj\Debug\LectorBoardingPass.Form1.resources
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\obj\Debug\LectorBoardingPass.Properties.Resources.resources
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\obj\Debug\LectorBoardingPass.csproj.GenerateResource.Cache
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\obj\Debug\LectorBoardingPass.exe
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\obj\Debug\LectorBoardingPass.pdb
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\bin\Debug\LectorBoardingPass.exe.config
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\bin\Debug\LectorBoardingPass.exe.manifest
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\bin\Debug\LectorBoardingPass.application
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\obj\Debug\LectorBoardingPass.exe.manifest
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\obj\Debug\LectorBoardingPass.application
+c:\users\dcastillo\documents\visual studio 2015\Projects\LectorBoardingPass\LectorBoardingPass\obj\Debug\LectorBoardingPass.csprojResolveAssemblyReference.cache

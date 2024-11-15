@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 16.875" name="DB_LAP_VUELOS">
+  <DataContextMoniker Name="/DB_LAP_VUELOSDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b49d0b1a-9fe0-4e2d-a680-d6ad8eb39661" absoluteBounds="0.875, 6.25, 2, 6.0265730794270826">
+      <DataClassMoniker Name="/DB_LAP_VUELOSDataContext/lap_entidad" />
+      <nestedChildShapes>
+        <elementListCompartment Id="96288730-d88f-4f98-b60a-ac3f309ba34e" absoluteBounds="0.89000000000000012, 6.71, 1.9700000000000002, 5.466573079427083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9cce3e37-4957-41df-a3c5-fc1f41d20bea" absoluteBounds="0.875, 0.5, 2, 4.8761417643229157">
+      <DataClassMoniker Name="/DB_LAP_VUELOSDataContext/lap_vuelo_dia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0e7d127c-6744-4187-a39d-57f76586323c" absoluteBounds="0.89000000000000012, 0.96, 1.9700000000000002, 4.3161417643229161" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4416ba5b-c1e5-4f1f-b4cf-70fba61e9e75" absoluteBounds="0.875, 13.125, 2, 3.5613631184895826">
+      <DataClassMoniker Name="/DB_LAP_VUELOSDataContext/lap_vuelo_temporada" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6ef3502e-cb00-4fa3-9668-134e4b522ee9" absoluteBounds="0.89000000000000012, 13.585, 1.9700000000000002, 3.001363118489583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="C:\Inetpub\wwwroot\WS_SERVICIOS\">
+    <file relUrl="bin/WS_SERVICIOS.xml" publishTime="02/17/2011 14:30:37" />
+    <file relUrl="bin/WS_SERVICIOS.dll" publishTime="02/17/2011 14:30:37" />
+    <file relUrl="bin/WS_SERVICIOS.pdb" publishTime="02/17/2011 14:30:37" />
+    <file relUrl="ws_servicios.asmx" publishTime="02/11/2011 21:08:25" />
+    <file relUrl="Web.config" publishTime="02/17/2011 08:27:50" />
+  </publishTarget>
+</publishData>

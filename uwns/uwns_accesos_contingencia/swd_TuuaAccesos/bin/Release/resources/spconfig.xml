@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<procedures>
+
+    <!--Habilita Molinete  -->
+	<SP nombre="usp_acs_pcs_habilitamolinete_ins"          alias="HABMOLINETE_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Acceso"         alias="Cod_Acceso" />
+			<argumento nombre="Cod_Web"            alias="Cod_Web" />
+			<argumento nombre="Cod_Molinete"       alias="Cod_Molinete" />
+		</argumentos>
+	</SP>
+	
+	<!-- TipoTicket -->
+	<SP nombre="usp_adm_pcs_tipoticket_ins"          alias="TTSP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Tipo_Ticket"      alias="Cod_Tipo_Ticket" />
+			<argumento nombre="Tip_Vuelo"            alias="Tip_Vuelo" />
+			<argumento nombre="Imp_Precio"           alias="Imp_Precio" />
+			<argumento nombre="Tip_Estado"           alias="Tip_Estado" />
+			<argumento nombre="Cod_Moneda"           alias="Cod_Moneda" />
+			<argumento nombre="Tip_Pasajero"         alias="Tip_Pasajero" />
+			<argumento nombre="Tip_Trasbordo"        alias="Tip_Trasbordo" />
+			<argumento nombre="Log_Usuario_Mod"		 alias="Log_Usuario_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_TipoTicketUpdate"              alias="TTSP_UPDATE">
+		<argumentos>
+			<argumento nombre="Cod_Tipo_Ticket"      alias="Cod_Tipo_Ticket" />
+			<argumento nombre="Tip_Vuelo"            alias="Tip_Vuelo" />
+			<argumento nombre="Imp_Precio"           alias="Imp_Precio" />
+			<argumento nombre="Tip_Estado"           alias="Tip_Estado" />
+			<argumento nombre="Cod_Moneda"           alias="Cod_Moneda" />
+			<argumento nombre="Tip_Pasajero"         alias="Tip_Pasajero" />
+			<argumento nombre="Tip_Trasbordo"        alias="Tip_Trasbordo" />
+			<argumento nombre="Log_Usuario_Mod"		 alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"		 alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+	
+	<SP nombre="usp_adm_pcs_tipoticketall_sel"          alias="TTSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Cod_Tipo_Ticket"      alias="Cod_Tipo_Ticket" />
+			<argumento nombre="Dsc_Tipo_Ticket"      alias="Dsc_Tipo_Ticket" />
+			<argumento nombre="Tip_Vuelo"            alias="Tip_Vuelo" />
+			<argumento nombre="Dsc_Tip_Vuelo"        alias="Dsc_Tip_Vuelo" />
+			<argumento nombre="Imp_Precio"           alias="Imp_Precio" />
+			<argumento nombre="Tip_Estado"           alias="Tip_Estado" />
+			<argumento nombre="Dsc_Tip_Estado"       alias="Dsc_Tip_Estado" />
+			<argumento nombre="Cod_Moneda"           alias="Cod_Moneda" />
+			<argumento nombre="Dsc_Moneda"           alias="Dsc_Moneda" />
+			<argumento nombre="Tip_Pasajero"         alias="Tip_Pasajero" />
+			<argumento nombre="Dsc_Tip_Pasajero"     alias="Dsc_Tip_Pasajero" />
+			<argumento nombre="Tip_Trasbordo"        alias="Tip_Trasbordo" />
+			<argumento nombre="Dsc_Tip_Trasbordo"    alias="Dsc_Tip_Trasbordo" />
+			<argumento nombre="Log_Usuario_Mod"		   alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"		     alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+	
+
+	<!-- UsuarioRol -->
+	<SP nombre="usp_adm_pcs_usuariorol_ins"      alias="URSP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Usuario"          alias="Cod_Usuario" />
+			<argumento nombre="Cod_Rol"              alias="Cod_Rol" />
+			<argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_usuariorol_del"      alias="URSP_DELETE">
+		<argumentos>
+			<argumento nombre="Cod_Usuario"          alias="Cod_Usuario" />
+			<argumento nombre="Cod_Rol"              alias="Cod_Rol" />
+		</argumentos>
+	</SP>
+
+
+  <SP nombre="usp_adm_pcs_obtenerusuariorol_xrol_xusuario_sel"    alias="URSP_OBTENER_USUARIO_ROL">
+    <argumentos>
+      <argumento nombre="Cod_Usuario"          alias="Cod_Usuario"/>
+      <argumento nombre="Cod_Rol"              alias="Cod_Rol" />
+      <argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+      <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+      <argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+    </argumentos>
+  </SP>
+
+
+  <SP nombre="usp_adm_pcs_obtenerusuariorol_xrol_sel"    alias="URSP_OBTENER_USUARIO_ROL_BY_CODROL">
+    <argumentos>
+      <argumento nombre="Cod_Usuario"          alias="Cod_Usuario"/>
+      <argumento nombre="Cod_Rol"              alias="Cod_Rol" />
+      <argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+      <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+      <argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_adm_pcs_obtenerusuariorol_xusuario_sel"    alias="URSP_OBTENER_USUARIO_ROL_BY_CODUSUARIO">
+    <argumentos>
+      <argumento nombre="Cod_Usuario"          alias="Cod_Usuario"/>
+      <argumento nombre="Cod_Rol"              alias="Cod_Rol" />
+      <argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+      <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+      <argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="TUA_UsuarioRolSelectAll"    alias="URSP_SELECTALL">
+    <argumentos>
+      <argumento nombre="Cod_Usuario"          alias="Cod_Usuario"/>
+      <argumento nombre="Cod_Rol"              alias="Cod_Rol" />
+      <argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+      <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+      <argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+    </argumentos>
+  </SP>
+
+
+
+	<!-- *********************  TABLA COMPANIA  ******************** -->
+
+
+	<SP nombre="TUA_CompaniaInsert" alias="CSP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Compania"            alias="Cod_Compania" />
+			<argumento nombre="Tip_Compania"            alias="Tip_Compania" />
+			<argumento nombre="Dsc_Compania"            alias="Dsc_Compania" />
+			<argumento nombre="Fch_Creacion"            alias="Fch_Creacion" />
+			<argumento nombre="Tip_Estado"              alias="Tip_Estado" />
+			<argumento nombre="Cod_Especial_Compania"   alias="Cod_Especial_Compania" />
+			<argumento nombre="Dsc_Ruc"                 alias="Dsc_Ruc" />
+			<argumento nombre="Log_Usuario_Mod"         alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"           alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"            alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="TUA_CompaniaUpdate"              alias="CSP_UPDATE">
+		<argumentos>
+			<argumento nombre="Cod_Compania"            alias="Cod_Compania" />
+			<argumento nombre="Tip_Compania"            alias="Tip_Compania" />
+			<argumento nombre="Dsc_Compania"            alias="Dsc_Compania" />
+			<argumento nombre="Fch_Creacion"            alias="Fch_Creacion" />
+			<argumento nombre="Tip_Estado"              alias="Tip_Estado" />
+			<argumento nombre="Cod_Especial_Compania"   alias="Cod_Especial_Compania" />
+			<argumento nombre="Dsc_Ruc"                 alias="Dsc_Ruc" />
+			<argumento nombre="Log_Usuario_Mod"         alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"           alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"            alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="TUA_CompaniaDelete" alias="CSP_DELETE">
+		<argumentos>
+			<argumento nombre="Cod_Compania"            alias="Cod_Compania" />
+			<argumento nombre="Tip_Compania"            alias="Tip_Compania" />
+			<argumento nombre="Dsc_Compania"            alias="Dsc_Compania" />
+			<argumento nombre="Fch_Creacion"            alias="Fch_Creacion" />
+			<argumento nombre="Tip_Estado"              alias="Tip_Estado" />
+			<argumento nombre="Cod_Especial_Compania"   alias="Cod_Especial_Compania" />
+			<argumento nombre="Dsc_Ruc"                 alias="Dsc_Ruc" />
+			<argumento nombre="Log_Usuario_Mod"         alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"           alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"            alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="TUA_CompaniaSelectAll"              alias="CSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Cod_Compania"            alias="Cod_Compania" />
+			<argumento nombre="Tip_Compania"            alias="Tip_Compania" />
+			<argumento nombre="Dsc_Compania"            alias="Dsc_Compania" />
+			<argumento nombre="Fch_Creacion"            alias="Fch_Creacion" />
+			<argumento nombre="Tip_Estado"              alias="Tip_Estado" />
+			<argumento nombre="Cod_Especial_Compania"   alias="Cod_Especial_Compania" />
+			<argumento nombre="Dsc_Ruc"                 alias="Dsc_Ruc" />
+			<argumento nombre="Log_Usuario_Mod"         alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"           alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"            alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="TUA_CompaniaSelect" alias="CSP_OBTENER_COMPANIA">
+		<argumentos>
+			<argumento nombre="Cod_Compania"            alias="Cod_Compania" />
+			<argumento nombre="Tip_Compania"            alias="Tip_Compania" />
+			<argumento nombre="Dsc_Compania"            alias="Dsc_Compania" />
+			<argumento nombre="Fch_Creacion"            alias="Fch_Creacion" />
+			<argumento nombre="Tip_Estado"              alias="Tip_Estado" />
+			<argumento nombre="Cod_Especial_Compania"   alias="Cod_Especial_Compania" />
+			<argumento nombre="Dsc_Ruc"                 alias="Dsc_Ruc" />
+			<argumento nombre="Log_Usuario_Mod"         alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"           alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"            alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_cns_pcs_filtrocompania_sel" alias="CSP_CONSULTARCOMPANIAFILTRO">
+		<argumentos>
+			<argumento nombre="Cod_Compania"            alias="Cod_Compania" />
+			<argumento nombre="Tip_Compania"            alias="Tip_Compania" />
+			<argumento nombre="Dsc_Compania"            alias="Dsc_Compania" />
+			<argumento nombre="Fch_Creacion"            alias="Fch_Creacion" />
+			<argumento nombre="Est_Compania"            alias="Est_Compania" />
+			<argumento nombre="Cod_OACI"                alias="Cod_OACI" />
+			<argumento nombre="Cod_IATA"                alias="Cod_IATA" />
+			<argumento nombre="Dsc_Ruc"                 alias="Dsc_Ruc" />
+		</argumentos>
+	</SP>
+
+  
+  <SP nombre="usp_cns_pcs_listarcompania_sel" alias="CSP_LISTARALLCOMPANIA">
+    <argumentos>
+      <argumento nombre="Cod_Compania"            alias="Cod_Compania" />
+      <argumento nombre="Tip_Compania"            alias="Tip_Compania" />
+      <argumento nombre="Dsc_Compania"            alias="Dsc_Compania" />
+      <argumento nombre="Fch_Creacion"            alias="Fch_Creacion" />
+      <argumento nombre="Est_Compania"            alias="Est_Compania" />
+      <argumento nombre="Cod_OACI"                alias="Cod_OACI" />
+      <argumento nombre="Cod_IATA"                alias="Cod_IATA" />
+      <argumento nombre="Dsc_Ruc"                 alias="Dsc_Ruc" />
+    </argumentos>
+  </SP>
+
+	<!-- *********************  TABLA LISTADECAMPOS  ******************** -->
+
+
+	<SP nombre="TUA_ListaDeCamposInsert"         alias="LCSP_INSERT">
+		<argumentos>
+			<argumento nombre="Nom_Campo"            alias="Nom_Campo" />
+			<argumento nombre="Cod_Campo"            alias="Cod_Campo" />
+			<argumento nombre="Cod_Relativo"         alias="Cod_Relativo" />
+			<argumento nombre="Dsc_Campo"            alias="Dsc_Campo" />
+			<argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="TUA_ListaDeCamposUpdate"         alias="LCSP_UPDATE">
+		<argumentos>
+			<argumento nombre="Nom_Campo"            alias="Nom_Campo" />
+			<argumento nombre="Cod_Campo"            alias="Cod_Campo" />
+			<argumento nombre="Cod_Relativo"         alias="Cod_Relativo" />
+			<argumento nombre="Dsc_Campo"            alias="Dsc_Campo" />
+			<argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="TUA_ListaDeCamposDelete"         alias="LCSP_DELETE">
+		<argumentos>
+			<argumento nombre="Nom_Campo"            alias="Nom_Campo" />
+			<argumento nombre="Cod_Campo"            alias="Cod_Campo" />
+			<argumento nombre="Cod_Relativo"         alias="Cod_Relativo" />
+			<argumento nombre="Dsc_Campo"            alias="Dsc_Campo" />
+			<argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+
+	
+
+	<SP nombre="TUA_ListaDeCamposSelect" alias="LCSP_OBTENER_LISTACAMPO">
+		<argumentos>
+			<argumento nombre="Nom_Campo"            alias="Nom_Campo" />
+			<argumento nombre="Cod_Campo"            alias="Cod_Campo" />
+			<argumento nombre="Cod_Relativo"         alias="Cod_Relativo" />
+			<argumento nombre="Dsc_Campo"            alias="Dsc_Campo" />
+			<argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_obtenerlistadecampo_xnombre_sel" alias="LCSP_OBTENER_LISTACAMPONOMBRE">
+		<argumentos>
+			<argumento nombre="Nom_Campo"            alias="Nom_Campo" />
+			<argumento nombre="Cod_Campo"            alias="Cod_Campo" />
+			<argumento nombre="Cod_Relativo"         alias="Cod_Relativo" />
+			<argumento nombre="Dsc_Campo"            alias="Dsc_Campo" />
+		</argumentos>
+	</SP>
+
+
+
+	<!-- *********************  TABLA ARBOLMODULO  ******************** -->
+
+	<SP nombre="usp_adm_pcs_listararbolmodulo_xusuario" alias="AMSP_SELECTALL_BY_CODUSUARIO">
+		<argumentos>
+			<argumento nombre="Cod_Modulo"         alias="Cod_Modulo" />
+			<argumento nombre="Dsc_Modulo"         alias="Dsc_Modulo" />
+			<argumento nombre="Cod_Proceso"        alias="Cod_Proceso" />
+			<argumento nombre="Id_Proceso"         alias="Id_Proceso" />
+			<argumento nombre="Dsc_Proceso"        alias="Dsc_Proceso" />
+			<argumento nombre="Dsc_Icono"          alias="Dsc_Icono" />
+			<argumento nombre="Dsc_Archivo"        alias="Dsc_Archivo" />
+			<argumento nombre="Nom_Rol"            alias="Nom_Rol" />
+			<argumento nombre="Pos_Modulo"         alias="Pos_Modulo" />
+			<argumento nombre="Pos_Proceso"        alias="Pos_Proceso" />
+			<argumento nombre="Tip_Nivel"          alias="Tip_Nivel" />
+
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_obtenerarbolmodulo_xproceso_xmodulo_xrol_sel" alias="AMSP_OBTENER_ARBOLMODULO">
+		<argumentos>
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_listararbolmodulo_xrol" alias="AMSP_SELECTALL_BY_CODROL">
+		<argumentos>
+			<argumento nombre="Cod_Modulo"         alias="Cod_Modulo" />
+			<argumento nombre="Dsc_Modulo"         alias="Dsc_Modulo" />
+			<argumento nombre="Cod_Proceso"        alias="Cod_Proceso" />
+			<argumento nombre="Id_Proceso"         alias="Id_Proceso" />
+			<argumento nombre="Dsc_Proceso"        alias="Dsc_Proceso" />
+			<argumento nombre="Dsc_Icono"          alias="Dsc_Icono" />
+			<argumento nombre="Dsc_Archivo"        alias="Dsc_Archivo" />
+			<argumento nombre="Nom_Rol"            alias="Nom_Rol" />
+			<argumento nombre="Tip_Nivel"          alias="Tip_Nivel" />
+			<argumento nombre="Cod_Proceso_Padre"  alias="Cod_Proceso_Padre" />
+			<argumento nombre="Flg_Permitido"      alias="Flg_Permitido" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_arbolmodulo_all_sel" alias="AMSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Cod_Modulo"         alias="Cod_Modulo" />
+			<argumento nombre="Dsc_Modulo"         alias="Dsc_Modulo" />
+			<argumento nombre="Cod_Proceso"        alias="Cod_Proceso" />
+			<argumento nombre="Id_Proceso"         alias="Id_Proceso" />
+			<argumento nombre="Dsc_Proceso"        alias="Dsc_Proceso" />
+			<argumento nombre="Cod_Proceso_Padre"  alias="Cod_Proceso_Padre" />
+			<argumento nombre="Dsc_Icono"          alias="Dsc_Icono" />
+			<argumento nombre="Dsc_Archivo"        alias="Dsc_Archivo" />
+			<argumento nombre="Nom_Rol"            alias="Nom_Rol" />
+			<argumento nombre="Flg_Permitido"      alias="Flg_Permitido" />
+			<argumento nombre="Num_Pos_Modulo"     alias="Num_Pos_Modulo" />
+			<argumento nombre="Num_Pos_Proceso"    alias="Num_Pos_Proceso" />
+			<argumento nombre="Dsc_Texto_Ayuda"    alias="Dsc_Texto_Ayuda" />
+			<argumento nombre="Tip_Estado"         alias="Tip_Estado" />
+			<argumento nombre="Tip_Nivel"          alias="Tip_Nivel" />
+			<argumento nombre="Dsc_Ind_Critic"     alias="Dsc_Ind_Critic" />
+			<argumento nombre="Dsc_Color_Critic"     alias="Dsc_Color_Critic" />
+			<argumento nombre="Dsc_Tab_Filtro"     alias="Dsc_Tab_Filtro" />
+			<argumento nombre="Dsc_Licencia"       alias="Dsc_Licencia" />
+		</argumentos>
+	</SP>
+
+
+
+	<!-- *********************  TABLA TUA_ParameGeneral  ******************** -->
+  <SP nombre="usp_cns_pcs_parametrogeneral_sel" alias="PARAMGEN_OBTENERVALORPARAMGENER">
+    <argumentos>
+      <argumento nombre="Identificador"       alias="Identificador" />
+      <argumento nombre="Descripcion"         alias="Descripcion" />
+      <argumento nombre="TipoParametro"       alias="TipoParametro" />
+      <argumento nombre="TipoValor"           alias="TipoValor" />
+      <argumento nombre="Valor"               alias="Valor" />
+      <argumento nombre="CampoLista"          alias="CampoLista" />
+      <argumento nombre="IdentificadorPadre"  alias="IdentificadorPadre" />
+      <argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+      <argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+      <argumento nombre="Log_Log_Hora_Mod"    alias="Log_Log_Hora_Mod" />
+    </argumentos>
+  </SP>
+
+
+	<!-- MANTENIMIENTO DE USUARIOS-->
+	<SP nombre="usp_adm_pcs_usuario_ins" alias="USP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Usuario"         alias="Cod_Usuario" />
+			<argumento nombre="Nom_Usuario"         alias="Nom_Usuario" />
+			<argumento nombre="Ape_Usuario"         alias="Ape_Usuario" />
+			<argumento nombre="Cta_Usuario"         alias="Cta_Usuario" />
+			<argumento nombre="Pwd_Actual_Usuario"  alias="Pwd_Actual_Usuario" />
+			<argumento nombre="Fch_Vigencia"        alias="Fch_Vigencia" />
+			<argumento nombre="Tip_Grupo"           alias="Tip_Grupo" />
+			<argumento nombre="Fch_Creacion"        alias="Fch_Creacion" />
+			<argumento nombre="Cod_Usuario_Creacion" alias="Cod_Usuario_Creacion" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_usuario_upd"   alias="USP_UPDATE">
+		<argumentos>
+			<argumento nombre="Cod_Usuario"         alias="Cod_Usuario" />
+			<argumento nombre="Nom_Usuario"         alias="Nom_Usuario" />
+			<argumento nombre="Ape_Usuario"         alias="Ape_Usuario" />
+			<argumento nombre="Cta_Usuario"         alias="Cta_Usuario" />
+			<argumento nombre="Tip_Estado_Actual"   alias="Tip_Estado_Actual" />
+			<argumento nombre="Pwd_Actual_Usuario"  alias="Pwd_Actual_Usuario" />
+			<argumento nombre="Fch_Vigencia"        alias="Fch_Vigencia" />
+			<argumento nombre="Tip_Grupo"           alias="Tip_Grupo" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_usuario_del" alias="USP_DELETE">
+		<argumentos>
+			<argumento nombre="Cod_Usuario"         alias="Cod_Usuario" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_obtenerusuario_sel" alias="USP_OBTENER_USUARIO">
+		<argumentos>
+			<argumento nombre="Cod_Usuario"         alias="Cod_Usuario" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_autenticarusuario_sel" alias="USP_AUTENTICAR">
+		<argumentos>
+			<argumento nombre="Cta_Usuario"         alias="Cta_Usuario" />
+			<argumento nombre="Pwd_Actual_Usuario"  alias="Pwd_Actual_Usuario" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_cns_pcs_listarusuario_sel" alias="USP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Cod_Usuario"          alias="Cod_Usuario" />
+			<argumento nombre="Nom_Usuario"          alias="Nom_Usuario" />
+			<argumento nombre="Ape_Usuario"          alias="Ape_Usuario" />
+			<argumento nombre="Cta_Usuario"          alias="Cta_Usuario" />
+			<argumento nombre="Pwd_Actual_Usuario"   alias="Pwd_Actual_Usuario" />
+			<argumento nombre="Flg_Cambio_Clave"     alias="Flg_Cambio_Clave" />
+			<argumento nombre="Tip_Estado_Actual"    alias="Tip_Estado_Actual" />
+			<argumento nombre="Dsc_EstadoActual"     alias="Dsc_EstadoActual" />
+			<argumento nombre="Fch_Vigencia"         alias="Fch_Vigencia" />
+			<argumento nombre="Tip_Grupo"            alias="Tip_Grupo" />
+			<argumento nombre="Dsc_Grupo"            alias="Dsc_Grupo" />
+			<argumento nombre="Fch_Creacion"         alias="Fch_Creacion" />
+			<argumento nombre="Hor_Creacion"         alias="Hor_Creacion" />
+			<argumento nombre="Cod_Usuario_Creacion" alias="Cod_Usuario_Creacion" />
+			<argumento nombre="Log_Usuario_Mod"      alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+
+
+	<SP nombre="usp_cns_pcs_ConsultaUsuarioxFiltros" alias="LC_CONSULTARUSUARIOS">
+		<argumentos>
+			<argumento nombre="Cod_Consulta"        alias="Cod_Consulta" />
+			<argumento nombre="Cod_Usuario"         alias="Cod_Usuario" />
+			<argumento nombre="Nom_Usuario"         alias="Nom_Usuario" />
+			<argumento nombre="Nom_Rol"             alias="Nom_Rol" />
+			<argumento nombre="Cod_Estado"          alias="Cod_Estado" />
+			<argumento nombre="Nom_Estado"          alias="Nom_Estado" />
+			<argumento nombre="Cod_Grupo"           alias="Cod_Grupo" />
+			<argumento nombre="Nom_Grupo"           alias="Nom_Grupo" />
+			<argumento nombre="Fch_Vigencia"        alias="Fch_Vigencia" />
+		</argumentos>
+	</SP>
+
+
+	<!-- LOG DE PRECIOS DE TICKETS-->
+	<SP nombre="TUA_LogPrecioTicketInsert"              alias="LPTSP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Tipo_Ticket"     alias="Cod_Tipo_Ticket" />
+			<argumento nombre="Cod_Moneda"          alias="Cod_Moneda" />
+			<argumento nombre="Imp_Precio_Actual"   alias="Imp_Precio_Actual" />
+			<argumento nombre="Imp_Precio_Anterior" alias="Imp_Precio_Anterior" />
+			<argumento nombre="Cod_Moneda_Base"     alias="Cod_Moneda_Base" />
+			<argumento nombre="Fch_Inicio"          alias="Fch_Inicio" />
+
+			<argumento nombre="Fch_Final"           alias="Fch_Final" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_LogPrecioTicketSelectAll"   alias="LPTSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Num_Secuencial"      alias="Num_Secuencial" />
+			<argumento nombre="Cod_Tipo_Ticket"     alias="Cod_Tipo_Ticket" />
+			<argumento nombre="Cod_Moneda"          alias="Cod_Moneda" />
+			<argumento nombre="Imp_Precio_Actual"   alias="Imp_Precio_Actual" />
+			<argumento nombre="Imp_Precio_Anterior" alias="Imp_Precio_Anterior" />
+			<argumento nombre="Cod_Moneda_Base"     alias="Cod_Moneda_Base" />
+			<argumento nombre="Fch_Inicio"          alias="Fch_Inicio" />
+
+			<argumento nombre="Fch_Final"           alias="Fch_Final" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+	<!-- MANTENIMIENTO DE ROLES-->
+	<SP nombre="usp_adm_pcs_rol_ins"   alias="RSP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Cod_Padre_Rol"       alias="Cod_Padre_Rol" />
+			<argumento nombre="Nom_Rol"             alias="Nom_Rol" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_RolUpdate"   alias="RSP_UPDATE">
+		<argumentos>
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Nom_Rol"             alias="Nom_Rol" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_rol_del"   alias="RSP_DELETE">
+		<argumentos>
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_obtenerrol_sel"   alias="RSP_OBTENER_ROL">
+		<argumentos>
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Nom_Rol"             alias="Nom_Rol" />
+			<argumento nombre="Cod_Padre_Rol"       alias="Cod_Padre_Rol" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_obtenernombrerol_sel"   alias="RSP_OBTENER_ROL_NOMBRE">
+		<argumentos>
+			<argumento nombre="Nom_Rol"             alias="Nom_Rol" />
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Cod_Padre_Rol"       alias="Cod_Padre_Rol" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_rol_all_sel"   alias="RSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Cod_Padre_Rol"       alias="Cod_Padre_Rol" />
+			<argumento nombre="Nom_Rol"             alias="Nom_Rol" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_obtenerrolasignados_sel"   alias="RSP_SELECTALLASIG">
+		<argumentos>
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Cod_Padre_Rol"       alias="Cod_Padre_Rol" />
+			<argumento nombre="Nom_Rol"             alias="Nom_Rol" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_obtenerrolnoasignados_sel"   alias="RSP_SELECTALLNOASIG">
+		<argumentos>
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Cod_Padre_Rol"       alias="Cod_Padre_Rol" />
+			<argumento nombre="Nom_Rol"             alias="Nom_Rol" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+
+	<!-- MANTENIMIENTO DE MONEDAS-->
+	<SP nombre="usp_adm_pcs_moneda_ins"   alias="MSP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Moneda"          alias="Cod_Moneda" />
+			<argumento nombre="Dsc_Moneda"          alias="Dsc_Moneda" />
+			<argumento nombre="Dsc_Simbolo"         alias="Dsc_Simbolo" />
+			<argumento nombre="Tip_Estado"          alias="Tip_Estado" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_moneda_udp"   alias="MSP_UPDATE">
+		<argumentos>
+			<argumento nombre="Cod_Moneda"          alias="Cod_Moneda" />
+			<argumento nombre="Dsc_Moneda"          alias="Dsc_Moneda" />
+			<argumento nombre="Dsc_Simbolo"         alias="Dsc_Simbolo" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_moneda_del"   alias="MSP_DELETE">
+		<argumentos>
+			<argumento nombre="Cod_Moneda"          alias="Cod_Moneda" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_MonedaSelect"   alias="RSP_OBTENER_MONEDA">
+		<argumentos>
+			<argumento nombre="Cod_Moneda"          alias="Cod_Moneda" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_detallemoneda_sel"   alias="MSP_DETALLEMONEDA">
+		<argumentos>
+			<argumento nombre="Cod_Moneda"          alias="Cod_Moneda" />
+			<argumento nombre="Dsc_Moneda"          alias="Dsc_Moneda" />
+			<argumento nombre="Dsc_Simbolo"         alias="Dsc_Simbolo" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_listarmonedas_sel"   alias="MSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Cod_Moneda"          alias="Cod_Moneda" />
+			<argumento nombre="Dsc_Moneda"          alias="Dsc_Moneda" />
+			<argumento nombre="Nom_Rol"             alias="Dsc_Simbolo" />
+			<argumento nombre="Tip_Estado"          alias="Tip_Estado" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+		</argumentos>
+	</SP>
+	<!-- MODULOS-->
+	<SP nombre="TUA_ModuloSelectAll"   alias="MODSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Cod_Moneda"          alias="Cod_Moneda" />
+			<argumento nombre="Dsc_Moneda"          alias="Dsc_Moneda" />
+			<argumento nombre="Nom_Rol"             alias="Dsc_Simbolo" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+
+	<!-- MANTENIMIENTO DE MODALIDADES DE VENTA-->
+	<SP nombre="TUA_ModalidadVentaInsert"   alias="MVSP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Modalidad_Venta" alias="Cod_Modalidad_Venta" />
+			<argumento nombre="Nom_Modalidad"       alias="Nom_Modalidad" />
+			<argumento nombre="Nom_Rol"             alias="Tip_Modalidad" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_ModalidadVentaUpdate"   alias="MVSP_UPDATE">
+		<argumentos>
+			<argumento nombre="Cod_Modalidad_Venta" alias="Cod_Modalidad_Venta" />
+			<argumento nombre="Nom_Modalidad"       alias="Nom_Modalidad" />
+			<argumento nombre="Nom_Rol"             alias="Tip_Modalidad" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_ModalidadVentaDelete"   alias="MVSP_DELETE">
+		<argumentos>
+			<argumento nombre="Cod_Modalidad_Venta" alias="Cod_Modalidad_Venta" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_ModalidadVentaSelect"   alias="MVSP_OBTENER_MODALIDAD">
+		<argumentos>
+			<argumento nombre="Cod_Modalidad_Venta" alias="Cod_Modalidad_Venta" />
+		</argumentos>
+	</SP>
+	<!--<SP nombre="TUA_ModalidadVentaSelectAll"   alias="MVSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Cod_Modalidad_Venta" alias="Cod_Modalidad_Venta" />
+			<argumento nombre="Nom_Modalidad"       alias="Nom_Modalidad" />
+			<argumento nombre="Tip_Modalidad"             alias="Tip_Modalidad" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>-->
+
+      <!-- Servicios : Modificado por Ramiro -->
+      <SP nombre="usp_adm_pcs_modalidadventa_all_sel"		alias="MVSP_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Cod_Modalidad_Venta" alias="Cod_Modalidad_Venta" />
+                  <argumento nombre="Nom_Modalidad"       alias="Nom_Modalidad" />
+                  <argumento nombre="Tip_Modalidad"       alias="Tip_Modalidad" />
+                  <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+                  <argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+                  <argumento nombre="Tip_Estado"       alias="Tip_Estado" />
+
+            </argumentos>
+      </SP>
+
+	<!-- MANTENIMIENTO DE PARAMETROS GENERALES-->
+	<SP nombre="TUA_ParameGeneralInsert"   alias="PGSP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Campo"           alias="Cod_Campo" />
+			<argumento nombre="Dsc_Valor"           alias="Dsc_Valor" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_ParameGeneralUpdate"   alias="PGSP_UPDATE">
+		<argumentos>
+			<argumento nombre="Cod_Campo"           alias="Cod_Campo" />
+			<argumento nombre="Dsc_Valor"           alias="Dsc_Valor" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_ParameGeneralDelete"   alias="PGSP_DELETE">
+		<argumentos>
+			<argumento nombre="Cod_Campo"           alias="Cod_Campo" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_ParameGeneralSelect"   alias="PGSP_OBTENER_PARAM">
+		<argumentos>
+			<argumento nombre="Cod_Campo"          alias="Cod_Campo" />
+		</argumentos>
+	</SP>
+
+
+	<!-- SECUENCIAL-->
+	<SP nombre="TUA_SecuencialInsert"   alias="SSP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Secuencial"      alias="Cod_Secuencial" />
+			<argumento nombre="Dsc_Ultimo_Valor"    alias="Dsc_Ultimo_Valor" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_SecuencialUpdate"   alias="SSP_UPDATE">
+		<argumentos>
+			<argumento nombre="Cod_Secuencial"      alias="Cod_Secuencial" />
+			<argumento nombre="Dsc_Ultimo_Valor"    alias="Dsc_Ultimo_Valor" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_SecuencialSelect"   alias="SSP_OBTENER_PARAM">
+		<argumentos>
+			<argumento nombre="Cod_Secuencial"      alias="Cod_Secuencial" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_SecuencialSelectAll"   alias="SSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Cod_Secuencial"      alias="Cod_Secuencial" />
+			<argumento nombre="Dsc_Ultimo_Valor"    alias="Dsc_Ultimo_Valor" />
+		</argumentos>
+	</SP>
+	<!-- PERFIL ROL-->
+	<SP nombre="usp_adm_pcs_perfilrol_ins"   alias="PRSP_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Proceso"         alias="Cod_Proceso" />
+			<argumento nombre="Cod_Modulo"          alias="Cod_Modulo" />
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_adm_pcs_perfilrol_upd"   alias="PRSP_UPDATE">
+		<argumentos>
+			<argumento nombre="Cod_Proceso"         alias="Cod_Proceso" />
+			<argumento nombre="Cod_Modulo"          alias="Cod_Modulo" />
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Flg_Permitido"       alias="Flg_Permitido" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_PerfilRolSelect"   alias="PRSP_OBTENER_PERFILROL">
+		<argumentos>
+			<argumento nombre="Cod_Proceso"         alias="Cod_Proceso" />
+			<argumento nombre="Cod_Modulo"          alias="Cod_Modulo" />
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_listarperfilrol_xrol_sel"   alias="PRSP_SELECTALL_BY_CODROL">
+		<argumentos>
+			<argumento nombre="Cod_Proceso"         alias="Cod_Proceso" />
+			<argumento nombre="Dsc_Proceso"         alias="Dsc_Proceso" />
+			<argumento nombre="Cod_Modulo"          alias="Cod_Modulo" />
+			<argumento nombre="Dsc_Modulo"          alias="Dsc_Modulo" />
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Flg_Permitido"       alias="Flg_Permitido" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+			<argumento nombre="Pos_Proceso"       alias="Pos_Proceso" />
+			<argumento nombre="Pos_Modulo"       alias="Pos_Modulo" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_adm_pcs_perfilrol_all_sel"   alias="PRSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Cod_Proceso"         alias="Cod_Proceso" />
+			<argumento nombre="Cod_Modulo"          alias="Cod_Modulo" />
+			<argumento nombre="Cod_Rol"             alias="Cod_Rol" />
+			<argumento nombre="Flg_Permitido"       alias="Flg_Permitido" />
+			<argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+			<argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+			<argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+		</argumentos>
+	</SP>
+	<!-- ******************* TABLA TUA_TICKET *****************************  -->
+	<SP nombre="usp_cns_pcs_consultarticket_sel"   alias="TICKETSP_DETALLETICKET">
+		<argumentos>
+			<argumento nombre="Cod_Numero_Ticket"    alias="Cod_Numero_Ticket" />
+			<argumento nombre="Tipo_Ticket"          alias="Tipo_Ticket" />
+			<argumento nombre="Dsc_Compania"         alias="Dsc_Compania" />
+			<argumento nombre="Dsc_Num_Vuelo"        alias="Dsc_Num_Vuelo" />
+			<argumento nombre="Dsc_Campo"            alias="Dsc_Campo" />
+			<argumento nombre="Fch_Vencimiento"      alias="Fch_Vencimiento" />
+			<argumento nombre="Nom_Modalidad"        alias="Nom_Modalidad" />
+		</argumentos>
+	</SP>
+
+  <SP nombre="usp_cns_pcs_ticketxfecha_sel"   alias="TICKETSP_TICKETXFECHA">
+    <argumentos>
+      <argumento nombre="Cod_Numero_Ticket"    alias="Cod_Numero_Ticket" />
+      <argumento nombre="Dsc_Compania"         alias="Dsc_Compania" />
+      <argumento nombre="Dsc_Num_Vuelo"        alias="Dsc_Num_Vuelo" />
+      <argumento nombre="Fch_Creacion"         alias="Fch_Creacion" />
+      <argumento nombre="Fch_Vuelo"            alias="Fch_Vuelo" />
+      <argumento nombre="Dsc_Campo"            alias="Dsc_Campo" />
+    </argumentos>
+  </SP>
+
+
+
+
+
+  <!--*******************  TABLA TUA_TURNOS *****************************-->
+	<SP nombre="TUA_CreateTurno"   alias="TUR_CREATE">
+		<argumentos>
+			<argumento nombre="Cod_Secuencial"      alias="Cod_Secuencial" />
+			<argumento nombre="Cod_Usuario"         alias="Cod_Usuario" />
+			<argumento nombre="Cod_Equipo"          alias="Cod_Equipo" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_vta_pcs_turno_upd"   alias="TURSP_UPDATE">
+		<argumentos>
+			<argumento nombre="Cod_Turno"           alias="Cod_Turno" />
+			<argumento nombre="Cod_Usuario_Cierre"  alias="Cod_Usuario_Cierre" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="TUA_ObtenerTurnoIniciado"   alias="TURSP_INICIADO">
+		<argumentos>
+			<argumento nombre="Cod_Usuario"         alias="Cod_Usuario" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_TurnoMontosInsert"   alias="TURMONT_INSERT">
+		<argumentos>
+			<argumento nombre="Cod_Secuencial"      alias="Cod_Secuencial" />
+			<argumento nombre="Cod_Usuario"         alias="Cod_Usuario" />
+			<argumento nombre="Cod_Equipo"          alias="Cod_Equipo" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_vta_pcs_turmonto_upd"   alias="TURMONT_UPDATE">
+		<argumentos>
+			<argumento nombre="Imp_Monto_Inicial"      alias="Imp_Monto_Inicial" />
+			<argumento nombre="Imp_Monto_Final"        alias="Imp_Monto_Final" />
+			<argumento nombre="Imp_Monto_Actual"       alias="Imp_Monto_Actual" />
+			<argumento nombre="Cod_Turno"              alias="Cod_Turno" />
+			<argumento nombre="Cod_Moneda"             alias="Cod_Moneda" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_cns_pcs_listarturno_sel"   alias="TURSP_LISTARALLTURNO">
+		<argumentos>
+			<argumento nombre="Cod_Turno"           alias="Cod_Turno" />
+      <argumento nombre="Cod_Usuario"         alias="Nom_Usuario" />
+			<argumento nombre="Fch_Inicio"          alias="Fch_Inicio" />
+			<argumento nombre="Fch_Fin"             alias="Fch_Fin" />
+			<argumento nombre="Cod_Usuario_Cierre"  alias="Cod_Usuario_Cierre" />
+      <argumento nombre="Cod_Equipo"          alias="Cod_Equipo" />
+		</argumentos>
+	</SP>
+
+
+  <SP nombre="TUA_TurnoSelectAll"   alias="TURSP_SELECTALL">
+    <argumentos>
+      <argumento nombre="Cod_Turno"           alias="Cod_Turno" />
+      <argumento nombre="Fch_Inicio"          alias="Fch_Inicio" />
+      <argumento nombre="Fch_Fin"             alias="Fch_Fin" />
+      <argumento nombre="Cod_Usuario_Cierre"  alias="Cod_Usuario_Cierre" />
+      <argumento nombre="Cod_Usuario"         alias="Cod_Usuario" />
+      <argumento nombre="Cod_Equipo"          alias="Cod_Equipo" />
+    </argumentos>
+  </SP>
+  
+	<SP nombre="TUA_TurnoSelectCountByUser"   alias="TURSP_SELECTCOUNTUSER">
+		<argumentos>
+			<argumento nombre="cant_turnos"      alias="cant_turnos" />
+		</argumentos>
+	</SP>
+	<SP nombre="TUA_TurnoSelectCountByPC"   alias="TURSP_SELECTCOUNTPTOVTA">
+		<argumentos>
+			<argumento nombre="cant_turnos"      alias="cant_turnos" />
+		</argumentos>
+	</SP>
+
+	<SP nombre="usp_cns_pcs_filtrarturno_sel"   alias="TURSP_LISTARTURNOFILTRO">
+		<argumentos>
+			<argumento nombre="Cod_Turno"         alias="Cod_Turno" />
+			<argumento nombre="Usuario"           alias="Usuario" />
+			<argumento nombre="cod_equipo"        alias="cod_equipo" />
+			<argumento nombre="Fch_Inicio"        alias="Fch_Inicio" />
+			<argumento nombre="Fch_Fin"           alias="Fch_Fin" />
+			<argumento nombre="ImporteIniSoles"   alias="ImporteIniSoles" />
+			<argumento nombre="ImporteFinSoles"   alias="ImporteFinSoles" />
+			<argumento nombre="ImporteIniDol"     alias="ImporteIniDol" />
+			<argumento nombre="ImporteFinDol"     alias="ImporteFinDol" />
+			<argumento nombre="Cod_Equipo"        alias="Cod_Equipo" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_vta_cns_turmontoall_sel"   alias="TURMONSP_SELECTALL">
+		<argumentos>
+			<argumento nombre="Imp_Monto_Inicial"    alias="Imp_Monto_Inicial" />
+			<argumento nombre="Imp_Monto_Final"      alias="Imp_Monto_Final" />
+			<argumento nombre="Imp_Monto_Actual"     alias="Imp_Monto_Actual" />
+			<argumento nombre="Cod_Turno"            alias="Cod_Turno" />
+			<argumento nombre="Cod_Moneda"           alias="Cod_Moneda" />
+		</argumentos>
+	</SP>
+	<SP nombre="usp_vta_cns_limite_sel"   alias="LIMSP_SELECTBYOPE">
+		<argumentos>
+			<argumento nombre="Cod_Moneda"           alias="Cod_Moneda" />
+			<argumento nombre="Cod_Tipo_Operacion"   alias="Cod_Tipo_Operacion" />
+			<argumento nombre="LimMax"               alias="LimMax" />
+			<argumento nombre="LimMin"               alias="LimMin" />
+			<argumento nombre="Margen"               alias="Margen" />
+		</argumentos>
+	</SP>
+
+  
+  <SP nombre="usp_cns_pcs_cantmonedaturno_sel"   alias="TURNONUMMDA_SELECT">
+    <argumentos>
+      <argumento nombre="Cod_Moneda"           alias="Cod_Moneda" />
+      <argumento nombre="Dsc_Moneda"           alias="Dsc_Moneda" />      
+    </argumentos>
+  </SP>
+
+
+  <SP nombre="usp_cns_pcs_detmonedaturno_sel"   alias="TURNODETALLADONUMMDA_SELECT">
+    <argumentos>
+      <argumento nombre="Descripcion"           alias="Descripcion" />
+      <argumento nombre="Cantidad"              alias="Cantidad" />
+      <argumento nombre="Monto"                 alias="Monto" />
+    </argumentos>
+  </SP>
+
+<!-- Mantenimiento Tickets Ramiro-->
+
+      <SP nombre="usp_cns_pcs_listarticketesthist_sel"   alias="TICKETESTHITSP_SELECT">
+            <argumentos>
+                  <argumento nombre="Num_Secuencial"      alias="Num_Secuencial" />
+                  <argumento nombre="Cod_Numero_Ticket"   alias="Cod_Numero_Ticket" />
+                  <argumento nombre="Tip_Estado"          alias="Tip_Estado" />
+                  <argumento nombre="Dsc_Ticket_Estado"   alias="Dsc_Ticket_Estado" />
+                  <argumento nombre="Cod_Equipo_Mod"      alias="Cod_Equipo_Mod" />
+                  <argumento nombre="Dsc_Num_Vuelo"       alias="Dsc_Num_Vuelo" />
+                  <argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+            </argumentos>
+      </SP>
+
+
+      <SP nombre="usp_acs_cns_tickethist_sel"   alias="THSP_SELECT">
+            <argumentos>
+                  <argumento nombre="Cod_Numero_Ticket"        alias="Cod_Numero_Ticket" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="THSP_SELECTALL"   alias="THSP_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Cod_Numero_Ticket"        alias="Cod_Numero_Ticket" />
+                  <argumento nombre="Num_Secuencial"        alias="Num_Secuencial" />
+                  <argumento nombre="Tip_Estado"        alias="Tip_Estado" />
+                  <argumento nombre="Dsc_Ticket_Estado"        alias="Dsc_Ticket_Estado" />
+                  <argumento nombre="Dsc_Num_Vuelo"        alias="Dsc_Num_Vuelo" />
+                  <argumento nombre="Log_Usuario_Mod"        alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+                  <argumento nombre="Causal_Rehabilitacion"        alias="Causal_Rehabilitacion" />
+                  <argumento nombre="Dsc_Motivo"        alias="Dsc_Motivo" />
+                  <argumento nombre="Nro_Operacion"        alias="Nro_Operacion" />
+                  <argumento nombre="Cod_Equipo_Mod"        alias="Cod_Equipo_Mod" />
+                  
+            </argumentos>
+      </SP>
+      
+      <SP nombre="usp_intz_cns_modventacompatrall_sel"   alias="MVCASP_SELECT">
+            <argumentos>
+                  <argumento nombre="Cod_Modalidad_Venta"        alias="Cod_Modalidad_Venta" />
+                  <argumento nombre="Cod_Compania"        alias="Cod_Compania" />
+                  <argumento nombre="Cod_Atributo"        alias="Cod_Atributo" />
+                  <argumento nombre="Tip_Atributo"        alias="Tip_Atributo" />
+                  <argumento nombre="Cod_Tipo_Ticket"        alias="Cod_Tipo_Ticket" />
+                  <argumento nombre="Dsc_Valor"        alias="Dsc_Valor" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_adm_pcs_paramgenerales_all_sel"   alias="PGSP_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Identificador"        alias="Identificador" />
+                  <argumento nombre="Descripcion"        alias="Descripcion" />
+                  <argumento nombre="TipoParametro"        alias="TipoParametro" />
+                  <argumento nombre="TipoParametroDet"        alias="TipoParametroDet" />
+                  <argumento nombre="TipoValor"        alias="TipoValor" />
+                  <argumento nombre="Valor"        alias="Valor" />
+                  <argumento nombre="CampoLista"        alias="CampoLista" />
+                  <argumento nombre="IdentificadorPadre"        alias="IdentificadorPadre" />
+                  <argumento nombre="Log_Usuario_Mod"        alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_adm_pcs_modalidadventa_xnombre_sel"			alias="MVSP_OBTENER_MODALIDAD_NOMBRE">
+            <argumentos>
+                  <argumento nombre="Nom_Modalidad"		alias="Nom_Modalidad" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_intz_cns_modalidadatrib_sel"   alias="MASP_SELECT">
+            <argumentos>
+                  <argumento nombre="Cod_Modalidad_Venta"        alias="Cod_Modalidad_Venta" />
+                  <argumento nombre="Cod_Atributo"        alias="Cod_Atributo" />
+                  <argumento nombre="Tip_Atributo"        alias="Tip_Atributo" />
+                  <argumento nombre="Cod_Tipo_Ticket"        alias="Cod_Tipo_Ticket" />
+                  <argumento nombre="Dsc_Valor"        alias="Dsc_Valor" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_acs_pcs_compania_sel"   alias="CSP_SELECT_BYCODIGO">
+            <argumentos>
+                  <argumento nombre="Cod_Compania"         alias="Cod_Compania" />
+                  <argumento nombre="Tip_Compania"         alias="Tip_Compania" />
+                  <argumento nombre="Dsc_Compania"         alias="Dsc_Compania" />
+                  <argumento nombre="Fch_Creacion"         alias="Fch_Creacion" />
+                  <argumento nombre="Tip_Estado"         alias="Tip_Estado" />
+                  <argumento nombre="Cod_Especial_Compania"         alias="Cod_Especial_Compania" />
+                  <argumento nombre="Cod_OACI"         alias="Cod_OACI" />
+                  <argumento nombre="Cod_IATA"         alias="Cod_IATA" />
+                  <argumento nombre="Cod_Aerolinea"         alias="Cod_Aerolinea" />
+                  <argumento nombre="Cod_SAP"         alias="Cod_SAP" />
+                  <argumento nombre="Dsc_Ruc"         alias="Dsc_Ruc" />
+                  <argumento nombre="Log_Usuario_Mod"         alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"         alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+            </argumentos>
+      </SP>
+      
+      <SP nombre="usp_acs_cns_ticket_sel"   alias="TSP_OBTENER_TICKET">
+            <argumentos>
+                 <argumento nombre="Cod_Numero_Ticket"         alias="Cod_Numero_Ticket" />
+            </argumentos>
+      </SP>
+      <SP nombre="TUA_TicketSelectAll"   alias="TICKETSP_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Cod_Numero_Ticket"         alias="Cod_Numero_Ticket" />
+                  <argumento nombre="Cod_Compania"              alias="Cod_Compania" />
+                  <argumento nombre="Cod_Venta_Masiva"          alias="Cod_Venta_Masiva" />
+                  <argumento nombre="Dsc_Num_Vuelo"             alias="Dsc_Num_Vuelo" />
+                  <argumento nombre="Fch_Vuelo"                 alias="Fch_Vuelo" />
+                  <argumento nombre="Tip_Estado_Actual"         alias="Tip_Estado_Actual" />
+                  <argumento nombre="Fch_Creacion"              alias="Fch_Creacion" />
+                  <argumento nombre="Hor_Creacion"              alias="Hor_Creacion" />
+                  <argumento nombre="Cod_Turno"                 alias="Cod_Turno" />
+                  <argumento nombre="Cod_Usuario_Venta"         alias="Cod_Usuario_Venta" />
+                  <argumento nombre="Imp_Precio"                alias="Imp_Precio" />
+                  <argumento nombre="Cod_Moneda"                alias="Cod_Moneda" />
+                  <argumento nombre="Fch_Vencimiento"           alias="Fch_Vencimiento" />
+                  <argumento nombre="Cod_Modalidad_Venta"       alias="Cod_Modalidad_Venta" />
+                  <argumento nombre="Num_Rehabilitaciones"      alias="Num_Rehabilitaciones" />
+                  <argumento nombre="Cod_Tipo_Ticket"           alias="Cod_Tipo_Ticket" />
+
+                  <argumento nombre="Log_Usuario_Mod"           alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"             alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"              alias="Log_Hora_Mod" />
+                  
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_acs_pcs_ticketesthist_ins"   alias="TICKETESTHIST_INSERT">
+            <argumentos>
+                  <argumento nombre="Cod_Numero_Ticket"         alias="Cod_Numero_Ticket" />
+                  <argumento nombre="Tip_Estado"         alias="Tip_Estado" />
+                  <argumento nombre="Dsc_Ticket_Estado"         alias="Dsc_Ticket_Estado" />
+                  <argumento nombre="Cod_Equipo_Mod"         alias="Cod_Equipo_Mod" />
+                  <argumento nombre="Dsc_Num_Vuelo"         alias="Dsc_Num_Vuelo" />
+                  <argumento nombre="Log_Usuario_Mod"         alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"         alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_acs_pcs_ticketerr_ins"   alias="TICKETERROR_INSERT">
+            <argumentos>
+                  <argumento nombre="Cod_Numero_Ticket"         alias="Cod_Numero_Ticket" />
+                  <argumento nombre="Cod_Molinete"         alias="Cod_Molinete" />
+                  <argumento nombre="Cod_Tipo_Ticket"         alias="Cod_Tipo_Ticket" />
+                  <argumento nombre="Dsc_Error"         alias="Dsc_Error" />
+                  <argumento nombre="Tip_Ingreso"         alias="Tip_Ingreso" />
+                  <argumento nombre="Tip_Error"         alias="Tip_Error" />
+                  <argumento nombre="Log_Usuario_Mod"         alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"         alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"         alias="Log_Hora_Mod" />
+                  <argumento nombre="Cod_Modulo"         alias="Cod_Modulo" />
+                  <argumento nombre="Cod_SubModulo"         alias="Cod_SubModulo" />
+                  <argumento nombre="Cod_Rol"         alias="Cod_Rol" />
+            </argumentos>
+      </SP>
+
+
+
+      <!-- Mantenimiento de Boarding Pass-->
+
+      <SP nombre="usp_svc_pcs_boardingbcbp_upd"   alias="BSP_UPDATE">
+            <argumentos>
+                  <argumento nombre="Num_Secuencial_Bcbp"        alias="Num_Secuencial_Bcbp" />
+                  <argumento nombre="Cod_Compania"        alias="Cod_Compania" />
+                  <argumento nombre="Num_Vuelo"        alias="Num_Vuelo" />
+                  <argumento nombre="Fch_Vuelo"        alias="Fch_Vuelo" />
+                  <argumento nombre="Num_Asiento"        alias="Num_Asiento" />
+                  <argumento nombre="Nom_Pasajero"        alias="Nom_Pasajero" />
+                  <argumento nombre="Dsc_Trama_Bcbp"        alias="Dsc_Trama_Bcbp" />
+                  <argumento nombre="Log_Usuario_Mod"        alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+                  <argumento nombre="Tip_Ingreso"        alias="Tip_Ingreso" />
+                  <argumento nombre="Tip_Estado"        alias="Tip_Estado" />
+                  <argumento nombre="Cod_Equipo_Mod"        alias="Cod_Equipo_Mod" />
+                  <argumento nombre="Dsc_Boarding_Estado"        alias="Dsc_Boarding_Estado" />
+            </argumentos>
+      </SP>
+
+
+      
+
+      <SP nombre="usp_acs_cns_boardinghist_sel"   alias="BPSP_OBTENER_BOARDINGESTHIST">
+            <argumentos>
+                  <argumento nombre="Cod_Compania"      alias="Cod_Compania" />
+				  <argumento nombre="Num_Vuelo"      alias="Num_Vuelo" />
+				  <argumento nombre="Fch_Vuelo"      alias="Fch_Vuelo" />
+				  <argumento nombre="Num_Asiento"      alias="Num_Asiento" />
+				  <argumento nombre="Nom_Pasajero"      alias="Nom_Pasajero" />
+            </argumentos>
+      </SP>
+      
+      
+      <SP nombre="usp_acs_cns_boardingbcbp_sel"   alias="BPSP_OBTENER_BOARDING">
+            <argumentos>
+                  <argumento nombre="Cod_Compania"      alias="Cod_Compania" />
+                  <argumento nombre="Num_Vuelo"         alias="Num_Vuelo" />
+                  <argumento nombre="Fch_Vuelo"         alias="Fch_Vuelo" />
+                  <argumento nombre="Num_Asiento"       alias="Num_Asiento" />
+                  <argumento nombre="Nom_Pasajero"      alias="Nom_Pasajero" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_acs_cns_boardingbcbpunico_sel"   alias="BPUNICOSP_OBTENER_BOARDING">
+            <argumentos>
+                  <argumento nombre="Cod_Compania"      alias="Cod_Compania" />
+                  <argumento nombre="Cod_Unico_Bcbp"    alias="Cod_Unico_Bcbp" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="TUA_BoardingBcbpSelectAll"   alias="BOARDINGSP_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Num_Secuencial_Bcbp"        alias="Num_Secuencial_Bcbp" />
+                  <argumento nombre="Cod_Compania"        alias="Cod_Compania" />
+                  <argumento nombre="Num_Vuelo"        alias="Num_Vuelo" />
+                  <argumento nombre="Fch_Vuelo"        alias="Fch_Vuelo" />
+                  <argumento nombre="Num_Asiento"        alias="Num_Asiento" />
+                  <argumento nombre="Nom_Pasajero"        alias="Nom_Pasajero" />
+                  <argumento nombre="Dsc_Trama_Bcbp"        alias="Dsc_Trama_Bcbp" />
+                  <argumento nombre="Log_Usuario_Mod"        alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+                  <argumento nombre="Tip_Ingreso"        alias="Tip_Ingreso" />
+                  <argumento nombre="Tip_Estado"        alias="Tip_Estado" />
+                  <argumento nombre="Num_Rehabilitaciones"        alias="Num_Rehabilitaciones" />
+                  <argumento nombre="Cod_Unico_Bcbp"        alias="Cod_Unico_Bcbp" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_acs_pcs_boardingbcbp_ins"   alias="BOARDINGSP_INSERT">
+            <argumentos>
+
+                  <argumento nombre="Cod_Compania"          alias="Cod_Compania" />
+                  <argumento nombre="Num_Vuelo"             alias="Num_Vuelo" />
+                  <argumento nombre="Fch_Vuelo"             alias="Fch_Vuelo" />
+                  <argumento nombre="Num_Asiento"           alias="Num_Asiento" />
+                  <argumento nombre="Nom_Pasajero"          alias="Nom_Pasajero" />
+                  <argumento nombre="Dsc_Trama_Bcbp"        alias="Dsc_Trama_Bcbp" />
+
+                  <argumento nombre="Log_Usuario_Mod"       alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"         alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"          alias="Log_Hora_Mod" />
+                  <argumento nombre="Tip_Ingreso"           alias="Tip_Ingreso" />
+                  <argumento nombre="Tip_Estado"            alias="Tip_Estado" />
+
+                  <argumento nombre="Cod_Equipo_Mod"        alias="Cod_Equipo_Mod" />
+                  <argumento nombre="Dsc_Boarding_Estado"   alias="Dsc_Boarding_Estado" />
+                  <argumento nombre="Cod_Modulo_Mod"        alias="Cod_Modulo_Mod" />
+                  <argumento nombre="Cod_SubModulo_Mod"     alias="Cod_SubModulo_Mod" />
+                  <argumento nombre="Cod_Rol"               alias="Cod_Rol" />
+                  <argumento nombre="Cod_Unico_Bcbp"        alias="Cod_Unico_Bcbp" />
+                  <argumento nombre="Cod_Unico_Bcbp_Rel"    alias="Cod_Unico_Bcbp_Rel" />
+            </argumentos>
+      </SP>
+
+      <!-- Mantenimiento de Boarding Pass Error-->
+      <SP nombre="usp_acs_pcs_boardingbcbperr_ins"   alias="BOARDINGERRSP_INSERT">
+            <argumentos>
+                  <argumento nombre="Dsc_Trama_Bcbp"        alias="Dsc_Trama_Bcbp" />
+                  <argumento nombre="Tip_Error"             alias="Tip_Error" />
+
+                  <argumento nombre="Log_Usuario_Mod"       alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"         alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"          alias="Log_Hora_Mod" />
+                  <argumento nombre="Tip_Ingreso"           alias="Tip_Ingreso" />
+
+                  <argumento nombre="Cod_Modulo"            alias="Cod_Modulo" />
+                  <argumento nombre="Cod_SubModulo"         alias="Cod_SubModulo" />
+                  <argumento nombre="Cod_Rol"               alias="Cod_Rol" />
+                  
+                  
+            </argumentos>
+      </SP>
+
+      <!-- Mantenimiento de Lista de Campos-->
+      <SP nombre="usp_acs_cns_listadecamposall_sel"   alias="LCSP_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Nom_Campo"   alias="Nom_Campo" />
+                  <argumento nombre="Cod_Campo"        alias="Cod_Campo" />
+                  <argumento nombre="Cod_Relativo"        alias="Cod_Relativo" />
+                  <argumento nombre="Dsc_Campo"        alias="Dsc_Campo" />
+            </argumentos>
+      </SP>
+      
+      <!-- Mantenimiento de Companias-->
+      <SP nombre="usp_acs_cns_companiaallsel"   alias="COMPANIA_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Cod_Compania"   alias="Cod_Compania" />
+                  <argumento nombre="Tip_Compania"        alias="Tip_Compania" />
+                  <argumento nombre="Dsc_Compania"        alias="Dsc_Compania" />
+                  <argumento nombre="Fch_Creacion"        alias="Fch_Creacion" />
+                  <argumento nombre="Tip_Estado"        alias="Tip_Estado" />
+                  <argumento nombre="Cod_Especial_Compania"        alias="Cod_Especial_Compania" />
+                  <argumento nombre="Cod_OACI"        alias="Cod_OACI" />
+                  <argumento nombre="Cod_IATA"        alias="Cod_IATA" />
+                  <argumento nombre="Cod_Aerolinea"        alias="Cod_Aerolinea" />
+                  <argumento nombre="Cod_SAP"        alias="Cod_SAP" />
+                  <argumento nombre="Dsc_Ruc"        alias="Dsc_Ruc" />
+                  <argumento nombre="Log_Usuario_Mod"        alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"        alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+            </argumentos>
+      </SP>
+
+      <!-- Mantenimiento de tickets-->
+      <SP nombre="usp_acs_pcs_ticket_upd"   alias="TICKET_UPDATE">
+            <argumentos>
+                  <argumento nombre="Cod_Numero_Ticket"   alias="Cod_Numero_Ticket" />
+                  <argumento nombre="Cod_Compania"   alias="Cod_Compania" />
+                  <argumento nombre="Cod_Venta_Masiva"   alias="Cod_Venta_Masiva" />
+                  <argumento nombre="Dsc_Num_Vuelo"   alias="Dsc_Num_Vuelo" />
+                  <argumento nombre="Fch_Vuelo"   alias="Fch_Vuelo" />
+                  <argumento nombre="Tip_Estado_Actual"   alias="Tip_Estado_Actual" />
+                  <argumento nombre="Fch_Creacion"   alias="Fch_Creacion" />
+                  <argumento nombre="Cod_Turno"   alias="Cod_Turno" />
+                  <argumento nombre="Cod_Usuario_Venta"   alias="Cod_Usuario_Venta" />
+                  <argumento nombre="Imp_Precio"   alias="Imp_Precio" />
+                  <argumento nombre="Cod_Moneda"   alias="Cod_Moneda" />
+                  <argumento nombre="Fch_Vencimiento"   alias="Fch_Vencimiento" />
+                  <argumento nombre="Cod_Modalidad_Venta"   alias="Cod_Modalidad_Venta" />
+                  <argumento nombre="Num_Rehabilitaciones"   alias="Num_Rehabilitaciones" />
+                  <argumento nombre="Cod_Tipo_Ticket"   alias="Cod_Tipo_Ticket" />
+                  <argumento nombre="Flg_Sincroniza"   alias="Flg_Sincroniza" />
+
+            </argumentos>
+      </SP>
+      
+      <!-- Mantenimiento Usuarios-->
+      <SP nombre="usp_acs_cns_consultausuariopinpad_sel" alias="USP_AUTENTICAR_PINPAD">
+      <argumentos>
+                 <argumento nombre="Pwd_Actual_Usuario"  alias="Pwd_Actual_Usuario" />
+      </argumentos>
+      </SP>
+
+      
+      <!-- Mantenimiento de modalidad venta compañia-->
+
+      <SP nombre="usp_acs_cns_modventacomp_sel" alias="MODVENTACOMP_SELECT">
+            <argumentos>
+                  <argumento nombre="Cod_Compania"  alias="Cod_Compania" />
+                  <argumento nombre="Nom_Modalidad"  alias="Nom_Modalidad" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="MODVENTACOMP_SELECTALL" alias="MODVENTACOMP_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Cod_Compania"  alias="Cod_Compania" />
+                  <argumento nombre="Cod_Modalidad_Venta"  alias="Cod_Modalidad_Venta" />
+                  <argumento nombre="Dsc_Valor_Acumulado"  alias="Dsc_Valor_Acumulado" />
+            </argumentos>
+      </SP>
+      
+      <!-- Mantenimiento de vuelos programados -->
+
+      <SP nombre="usp_acs_cns_vueloprogramado_sel" alias="VUELOPROGRAMADO_SELECT">
+            <argumentos>
+                  <argumento nombre="Fch_Vuelo"  alias="Fch_Vuelo" />
+                  <argumento nombre="Num_Vuelo"  alias="Num_Vuelo" />
+            </argumentos>
+      </SP>
+      
+      <SP nombre="usp_acs_cns_numvueloprogramado_sel" alias="NUMVUELOPROGRAMADO_SELECT">
+            <argumentos>
+                  <argumento nombre="Cod_Compania"  alias="Cod_Compania" />
+                  <argumento nombre="Fch_Vuelo"  alias="Fch_Vuelo" />
+                  <argumento nombre="Num_Vuelo"  alias="Num_Vuelo" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_acs_cns_numvueloprogramado_sel" alias="NUMVUELOPROGRAMADO_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Cod_Compania"  alias="Cod_Compania" />
+                  <argumento nombre="Num_Vuelo"  alias="Num_Vuelo" />
+                  <argumento nombre="Fch_Vuelo"  alias="Fch_Vuelo" />
+                  <argumento nombre="Hor_Vuelo"  alias="Hor_Vuelo" />
+                  <argumento nombre="Dsc_Vuelo"  alias="Dsc_Vuelo" />
+                  <argumento nombre="Tip_Vuelo"  alias="Tip_Vuelo" />
+                  <argumento nombre="Tip_Estado"  alias="Tip_Estado" />
+                  <argumento nombre="Dsc_Destino"  alias="Dsc_Destino" />
+                  <argumento nombre="Log_Usuario_Mod"  alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"  alias="Log_Fecha_Mod" />
+                  <argumento nombre="Log_Hora_Mod"  alias="Log_Hora_Mod" />
+            </argumentos>
+      </SP>
+
+
+      <!-- ALARMAS GENERADAS-->
+
+      <SP nombre="usp_alr_pcs_alarma_gen_ins"			alias="AGSP_INSERT">
+            <argumentos>
+                  <argumento nombre="Cod_Alarma"        alias="Cod_Alarma" />
+                  <argumento nombre="Cod_Modulo"		    alias="Cod_Modulo" />
+                  <argumento nombre="Dsc_Equipo"          alias="Dsc_Equipo" />
+                  <argumento nombre="Tip_Importancia"   alias="Tip_Importancia" />
+                  <argumento nombre="Dsc_Subject"		    alias="Dsc_Subject" />
+                  <argumento nombre="Dsc_Body"		      alias="Dsc_Body" />
+                  <argumento nombre="Log_Usuario_Mod"		  alias="Log_Usuario_Mod" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_alr_pcs_alarma_gen_upd"			alias="AGSP_UPDATE">
+            <argumentos>
+                  <argumento nombre="Cod_AlarmaGenerada"  alias="Cod_AlarmaGenerada" />
+                  <argumento nombre="Tip_Estado"		      alias="Tip_Estado" />
+                  <argumento nombre="Flg_Estado_Mail"     alias="Flg_Estado_Mail" />
+                  <argumento nombre="Dsc_Atencion"		    alias="Dsc_Atencion" />
+                  <argumento nombre="Log_Usuario_Mod"		  alias="Log_Usuario_Mod" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_alr_pcs_alarma_gen_obtener_sel" alias="AGSP_OBTENER_ALARMA_GENERADA">
+            <argumentos>
+                  <argumento nombre="Cod_AlarmaGenerada"  alias="Cod_AlarmaGenerada" />
+                  <argumento nombre="Cod_Alarma"		      alias="Cod_Alarma" />
+                  <argumento nombre="Cod_Modulo"          alias="Cod_Modulo" />
+                  <argumento nombre="Dsc_Equipo"          alias="Dsc_Equipo" />
+                  <argumento nombre="Fch_Generacion"		  alias="Fch_Generacion" />
+                  <argumento nombre="Fch_Actualizacion"		alias="Fch_Actualizacion" />
+                  <argumento nombre="Tip_Estado"		      alias="Tip_Estado" />
+                  <argumento nombre="Tip_Importancia"		  alias="Tip_Importancia" />
+                  <argumento nombre="Flg_Estado_Mail"     alias="Flg_Estado_Mail" />
+                  <argumento nombre="Dsc_Subject"         alias="Dsc_Subject" />
+                  <argumento nombre="Dsc_Body"            alias="Dsc_Body" />
+                  <argumento nombre="Dsc_Atencion"        alias="Dsc_Atencion" />
+                  <argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_alr_cns_alarma_gen_all_sel"	alias="AGSP_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Cod_AlarmaGenerada"  alias="Cod_AlarmaGenerada" />
+                  <argumento nombre="Cod_Alarma"		      alias="Cod_Alarma" />
+                  <argumento nombre="Cod_Modulo"          alias="Cod_Modulo" />
+                  <argumento nombre="Dsc_Equipo"          alias="Dsc_Equipo" />
+                  <argumento nombre="Fch_Generacion"		  alias="Fch_Generacion" />
+                  <argumento nombre="Fch_Actualizacion"		alias="Fch_Actualizacion" />
+                  <argumento nombre="Tip_Estado"		      alias="Tip_Estado" />
+                  <argumento nombre="Tip_Importancia"		  alias="Tip_Importancia" />
+                  <argumento nombre="Flg_Estado_Mail"     alias="Flg_Estado_Mail" />
+                  <argumento nombre="Dsc_Subject"         alias="Dsc_Subject" />
+                  <argumento nombre="Dsc_Body"            alias="Dsc_Body" />
+                  <argumento nombre="Dsc_Atencion"        alias="Dsc_Atencion" />
+                  <argumento nombre="Log_Usuario_Mod"     alias="Log_Usuario_Mod" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_alr_cns_alarma_gen_enviadas_sel"	alias="AGSP_SELEC_ENVIADAS">
+            <argumentos>
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_alr_cns_alarma_gen_filtro_sel"	alias="AGSP_SELEC_FILTRO">
+            <argumentos>
+            </argumentos>
+      </SP>
+
+      <!-- CONFIGURACION DE ALARMAS-->
+
+      <SP nombre="usp_alr_pcs_conf_alarma_ins"			alias="ACSP_INSERT">
+            <argumentos>
+                  <argumento nombre="Cod_Alarma"  alias="Cod_Alarma" />
+                  <argumento nombre="Cod_Modulo"		alias="Cod_Modulo" />
+                  <argumento nombre="Dsc_Fin_Mensaje"  alias="Dsc_Fin_Mensaje" />
+                  <argumento nombre="Xml_Destinatarios"		alias="Xml_Destinatarios" />
+                  <argumento nombre="Log_Usuario_Mod"		alias="Log_Usuario_Mod" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_alr_pcs_conf_alarma_upd"			alias="ACSP_UPDATE">
+            <argumentos>
+                  <argumento nombre="Cod_Alarma"  alias="Cod_Alarma" />
+                  <argumento nombre="Cod_Modulo"		alias="Cod_Modulo" />
+                  <argumento nombre="Dsc_Fin_Mensaje"  alias="Dsc_Fin_Mensaje" />
+                  <argumento nombre="Xml_Destinatarios"		alias="Xml_Destinatarios" />
+                  <argumento nombre="Log_Usuario_Mod"		alias="Log_Usuario_Mod" />
+            </argumentos>
+      </SP>
+
+
+      <SP nombre="usp_alr_pcs_conf_alarma_del"			alias="ACSP_DELETE">
+            <argumentos>
+                  <argumento nombre="Cod_Alarma"  alias="Cod_Alarma" />
+                  <argumento nombre="Cod_Modulo"		alias="Cod_Modulo" />
+            </argumentos>
+      </SP>
+
+
+
+      <SP nombre="usp_alr_pcs_conf_alarma_obtener_sel" alias="ACSP_OBTENER_ALARMA">
+            <argumentos>
+                  <argumento nombre="Cod_Alarma"  alias="Cod_Alarma" />
+                  <argumento nombre="Cod_Modulo"		alias="Cod_Modulo" />
+                  <argumento nombre="Dsc_Fin_Mensaje"  alias="Dsc_Fin_Mensaje" />
+                  <argumento nombre="Xml_Destinatarios"		alias="Xml_Destinatarios" />
+                  <argumento nombre="Log_Usuario_Mod"		alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_alr_pcs_conf_alarma_all_sel"	alias="ACSP_SELECTALL">
+            <argumentos>
+                  <argumento nombre="Cod_Alarma"  alias="Cod_Alarma" />
+                  <argumento nombre="Cod_Modulo"		alias="Cod_Modulo" />
+                  <argumento nombre="Dsc_Fin_Mensaje"  alias="Dsc_Fin_Mensaje" />
+                  <argumento nombre="Xml_Destinatarios"		alias="Xml_Destinatarios" />
+                  <argumento nombre="Log_Usuario_Mod"		alias="Log_Usuario_Mod" />
+                  <argumento nombre="Log_Hora_Mod"        alias="Log_Hora_Mod" />
+                  <argumento nombre="Log_Fecha_Mod"       alias="Log_Fecha_Mod" />
+            </argumentos>
+      </SP>
+
+      <SP nombre="usp_cfg_pcs_obtenerparametrosgenerales_sel" alias="PGSP_OBTENERPARAMETROSGENERALES">
+            <argumentos>
+                  <argumento nombre="Identificador"       alias="Identificador" />
+            </argumentos>
+      </SP>
+
+</procedures>

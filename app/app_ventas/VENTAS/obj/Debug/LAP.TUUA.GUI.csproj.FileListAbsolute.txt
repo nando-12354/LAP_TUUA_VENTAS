@@ -1,0 +1,603 @@
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\ResolveAssemblyReference.cache
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.CajaEgreso.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.CajaIngreso.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.Calculo.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.Cierre.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.Clave.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.ClaveTurno.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.CompraVenta.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.Cuadre.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.Principal.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.Logueo.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.Supervisor.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.TurnoInicio.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.Cache
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\VENTAS.exe.config
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\VENTAS.exe
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\VENTAS.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\CONTROL.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\ENTIDADES.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\UTIL.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\RESOLVER.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\CLIENTEWS.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\NATIVO.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\CryptoHelper.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\DATAACCESS.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\Microsoft.Practices.Unity.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\RESOLVER.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\CLIENTEWS.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\NATIVO.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\CONTROL.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\DATAACCESS.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\ENTIDADES.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\UTIL.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\VENTAS.exe
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\VENTAS.pdb
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.Masivo.resources
+I:\PROYECTOS\LAP-TUUA4621\FUENTES\VENTAS-IMP\VENTAS\obj\Debug\uwd_TuuaVentas.Normal.resources
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\VENTAS.exe.config
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\VENTAS.exe
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\VENTAS.pdb
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\ResolveAssemblyReference.cache
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaEgreso.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaIngreso.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Calculo.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cierre.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Clave.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ClaveTurno.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CompraVenta.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cuadre.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Masivo.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Normal.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Principal.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Logueo.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Supervisor.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.TurnoInicio.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.Cache
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\VENTAS.exe
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\VENTAS.pdb
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\CONTROL.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\ENTIDADES.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\UTIL.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\RESOLVER.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\CLIENTEWS.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\NATIVO.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\CryptoHelper.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\DATAACCESS.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\Microsoft.Practices.Unity.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\RESOLVER.pdb
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\CLIENTEWS.pdb
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\NATIVO.pdb
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\CONTROL.pdb
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\DATAACCESS.pdb
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\ENTIDADES.pdb
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\UTIL.pdb
+D:\zICANO\modulo ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Efectivo.resources
+D:\zICANO\modulo ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Venta.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe.config
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\VENTAS.exe
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\VENTAS.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaEgreso.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaIngreso.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Calculo.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cierre.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Clave.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ClaveTurno.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CompraVenta.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cuadre.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Efectivo.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Masivo.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Normal.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Principal.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Logueo.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Supervisor.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.TurnoInicio.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Venta.resources
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.Cache
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.ALARMAS.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\UTIL.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\RESOLVER.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\NATIVO.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\CryptoHelper.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\RESOLVER.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\NATIVO.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\UTIL.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe.config
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\VENTAS.exe
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\VENTAS.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\UTIL.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\RESOLVER.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\NATIVO.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\CryptoHelper.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\RESOLVER.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\NATIVO.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\UTIL.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\ResolveAssemblyReference.cache
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaEgreso.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaIngreso.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Calculo.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cierre.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Clave.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ClaveTurno.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CompraVenta.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cuadre.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Efectivo.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Masivo.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Normal.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Principal.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Logueo.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Supervisor.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.TurnoInicio.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Venta.resources
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.Cache
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.AssemblyReference.cache
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaEgreso.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaIngreso.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Calculo.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cierre.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Clave.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ClaveTurno.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CompraVenta.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cuadre.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Efectivo.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ExtornoTicket.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Masivo.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Normal.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Principal.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Logueo.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Supervisor.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.TurnoInicio.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Venta.resources
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.cache
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.CoreCompileInputs.cache
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe.config
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\UTIL.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\CryptoHelper.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\RESOLVER.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\NATIVO.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\UTIL.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll.config
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.xml
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\RESOLVER.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll.config
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\bin\Debug\NATIVO.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.CopyComplete
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\VENTAS.exe
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\VENTAS.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.DetalleTicket.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe.config
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\VENTAS.exe
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\VENTAS.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\UTIL.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\CryptoHelper.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\RESOLVER.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\NATIVO.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\UTIL.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.xml
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\RESOLVER.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\bin\Debug\NATIVO.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csprojResolveAssemblyReference.cache
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaEgreso.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaIngreso.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Calculo.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cierre.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Clave.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ClaveTurno.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CompraVenta.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cuadre.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.DetalleTicket.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Efectivo.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ExtornoTicket.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Masivo.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Normal.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Principal.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Logueo.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Supervisor.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.TurnoInicio.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Venta.resources
+D:\LAP\Ventas\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.Cache
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe.config
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\VENTAS.pdb
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\UTIL.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\CryptoHelper.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\RESOLVER.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\NATIVO.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.pdb
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\UTIL.pdb
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.pdb
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll.config
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.xml
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\RESOLVER.pdb
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.pdb
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.pdb
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll.config
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\bin\Debug\NATIVO.pdb
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.AssemblyReference.cache
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaEgreso.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaIngreso.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Calculo.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cierre.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Clave.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ClaveTurno.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CompraVenta.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cuadre.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.DetalleTicket.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Efectivo.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ExtornoTicket.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Masivo.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Normal.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Principal.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Logueo.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Supervisor.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.TurnoInicio.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Venta.resources
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.cache
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.CoreCompileInputs.cache
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.46C41E0E.Up2Date
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\VENTAS.exe
+D:\APP VENTA - LAP\Fuentes\app\app_ventas\VENTAS\obj\Debug\VENTAS.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe.config
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\VENTAS.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\UTIL.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\CryptoHelper.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\RESOLVER.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\NATIVO.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\UTIL.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\CONTROL.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll.config
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.xml
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\RESOLVER.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll.config
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\bin\Debug\NATIVO.pdb
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.AssemblyReference.cache
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaEgreso.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaIngreso.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Calculo.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cierre.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Clave.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ClaveTurno.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CompraVenta.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cuadre.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.DetalleTicket.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Efectivo.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ExtornoTicket.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Masivo.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Normal.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Principal.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Logueo.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Supervisor.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.TurnoInicio.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Venta.resources
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.cache
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.CoreCompileInputs.cache
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.46C41E0E.Up2Date
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\VENTAS.exe
+D:\APP VENTA - LAP\Fuentes_v1\app\app_ventas\VENTAS\obj\Debug\VENTAS.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe.config
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\VENTAS.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\UTIL.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\CryptoHelper.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\RESOLVER.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\NATIVO.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\UTIL.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\CONTROL.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll.config
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.xml
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\RESOLVER.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll.config
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\bin\Debug\NATIVO.pdb
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.AssemblyReference.cache
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaEgreso.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaIngreso.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Calculo.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cierre.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Clave.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ClaveTurno.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CompraVenta.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cuadre.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.DetalleTicket.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Efectivo.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ExtornoTicket.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Masivo.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Normal.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Principal.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Logueo.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Supervisor.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.TurnoInicio.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Venta.resources
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.cache
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.CoreCompileInputs.cache
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.46C41E0E.Up2Date
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\VENTAS.exe
+D:\APP VENTA - LAP\Fuentes_v1.3\app\app_ventas\VENTAS\obj\Debug\VENTAS.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe.config
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\VENTAS.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.ALARMAS.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\UTIL.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\CryptoHelper.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\RESOLVER.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\NATIVO.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\UTIL.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\CONTROL.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll.config
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.xml
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\RESOLVER.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll.config
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\bin\Debug\NATIVO.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.AssemblyReference.cache
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaEgreso.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaIngreso.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Calculo.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cierre.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Clave.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ClaveTurno.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CompraVenta.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cuadre.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.DetalleTicket.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Efectivo.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ExtornoTicket.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Masivo.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Normal.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Principal.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Logueo.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Supervisor.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.TurnoInicio.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Venta.resources
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.cache
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.46C41E0E.Up2Date
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\VENTAS.exe
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\VENTAS\obj\Debug\VENTAS.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe.config
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\VENTAS.exe
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\VENTAS.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.ALARMAS.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\UTIL.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\CryptoHelper.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\RESOLVER.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\NATIVO.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\DATAACCESS.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\ENTIDADES.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\UTIL.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\CONTROL.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\CONTROL.dll.config
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.PRINTER.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\Renci.SshNet.xml
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\LAP.TUUA.CONEXION.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\RESOLVER.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\CLIENTEWS.dll.config
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\bin\Debug\NATIVO.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.AssemblyReference.cache
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.ResolveComReference.cache
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaEgreso.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CajaIngreso.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Calculo.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cierre.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Clave.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ClaveTurno.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.CompraVenta.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\OutlookStyleControls.OutlookBar.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Cuadre.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.DetalleTicket.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Efectivo.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.ExtornoTicket.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Masivo.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Normal.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Principal.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Logueo.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Supervisor.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.TurnoInicio.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Properties.Resources.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.VENTAS.Venta.resources
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.GenerateResource.cache
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\LAP.TUUA.46C41E0E.Up2Date
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\VENTAS.exe
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\VENTAS\obj\Debug\VENTAS.pdb

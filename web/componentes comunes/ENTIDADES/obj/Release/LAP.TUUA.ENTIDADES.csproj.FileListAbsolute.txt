@@ -1,0 +1,11 @@
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\componentes comunes\ENTIDADES\bin\Release\ENTIDADES.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\componentes comunes\ENTIDADES\bin\Release\ENTIDADES.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\componentes comunes\ENTIDADES\obj\Release\ResolveAssemblyReference.cache
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\componentes comunes\ENTIDADES\obj\Release\ENTIDADES.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\componentes comunes\ENTIDADES\obj\Release\ENTIDADES.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\componentes comunes\ENTIDADES\bin\Release\ENTIDADES.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\componentes comunes\ENTIDADES\bin\Release\ENTIDADES.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\componentes comunes\ENTIDADES\obj\Release\LAP.TUUA.ENTIDADES.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\componentes comunes\ENTIDADES\obj\Release\LAP.TUUA.ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\componentes comunes\ENTIDADES\obj\Release\ENTIDADES.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\componentes comunes\ENTIDADES\obj\Release\ENTIDADES.pdb

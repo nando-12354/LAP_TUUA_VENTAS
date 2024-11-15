@@ -1,0 +1,15 @@
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo accesos\UTIL\obj\Debug\UTIL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo accesos\UTIL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo accesos\UTIL\bin\Debug\UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo accesos\UTIL\bin\Debug\UTIL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo accesos\UTIL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo accesos\UTIL\obj\Debug\UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\UTIL\bin\Debug\UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\UTIL\bin\Debug\UTIL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\UTIL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\UTIL\obj\Debug\UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo log accesos\UTIL\obj\Debug\UTIL.pdb

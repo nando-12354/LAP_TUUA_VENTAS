@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAP.Tuua.Web", "LAP.Tuua.Web\LAP.Tuua.Web.csproj", "{B11A7A8E-6DEF-4529-A374-793E5B521610}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LAP.Tuua.Setup", "LAP.Tuua.Setup\LAP.Tuua.Setup.vdproj", "{FA9763FC-C6DC-477F-9DA3-5A54DCB384BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11A7A8E-6DEF-4529-A374-793E5B521610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11A7A8E-6DEF-4529-A374-793E5B521610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11A7A8E-6DEF-4529-A374-793E5B521610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11A7A8E-6DEF-4529-A374-793E5B521610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9763FC-C6DC-477F-9DA3-5A54DCB384BA}.Debug|Any CPU.ActiveCfg = Debug
+		{FA9763FC-C6DC-477F-9DA3-5A54DCB384BA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

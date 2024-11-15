@@ -1,0 +1,110 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4B704D3A-533A-4F74-8922-63A722146552}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LAP.TUUA.NATIVO</RootNamespace>
+    <AssemblyName>NATIVO</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|Itanium' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Itanium\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>Itanium</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Itanium' ">
+    <OutputPath>bin\Itanium\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>Itanium</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NAT_Administracion.cs" />
+    <Compile Include="NAT_Alarma.cs" />
+    <Compile Include="NAT_Auditoria.cs" />
+    <Compile Include="NAT_Compania.cs" />
+    <Compile Include="NAT_Conexion.cs" />
+    <Compile Include="NAT_Configuracion.cs" />
+    <Compile Include="NAT_Consulta.cs" />
+    <Compile Include="NAT_Correo.cs" />
+    <Compile Include="NAT_Error.cs" />
+    <Compile Include="NAT_Manager.cs" />
+    <Compile Include="NAT_Operacion.cs" />
+    <Compile Include="NAT_Rehabilitacion.cs" />
+    <Compile Include="NAT_Reportes.cs" />
+    <Compile Include="NAT_Seguridad.cs" />
+    <Compile Include="NAT_TasaCambio.cs" />
+    <Compile Include="NAT_TipoTicket.cs" />
+    <Compile Include="NAT_Turno.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CONEXION\LAP.TUUA.CONEXION.csproj">
+      <Project>{555AE05D-0223-406B-9F7F-EECB0B9DE8DB}</Project>
+      <Name>LAP.TUUA.CONEXION</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DATAACCESS\LAP.TUUA.DAO.csproj">
+      <Project>{90842E9D-9217-42D5-A693-E0759F06FAEC}</Project>
+      <Name>LAP.TUUA.DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ENTIDADES\LAP.TUUA.ENTIDADES.csproj">
+      <Project>{113FFE71-C275-4A6A-BD2B-70E76F0AC4A8}</Project>
+      <Name>LAP.TUUA.ENTIDADES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UTIL\LAP.TUUA.UTIL.csproj">
+      <Project>{92A7A1C8-96F5-4992-A363-C6FC4C60E85E}</Project>
+      <Name>LAP.TUUA.UTIL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

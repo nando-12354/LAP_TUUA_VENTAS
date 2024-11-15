@@ -1,0 +1,9 @@
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Release\Archivamiento.exe.config
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Release\ResolveAssemblyReference.cache
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Release\LAP.TUUA.ARCHIVAMIENTO.Archieving.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Release\LAP.TUUA.ARCHIVAMIENTO.DetalleArchivamiento.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Release\LAP.TUUA.ARCHIVAMIENTO.HoldOnWindow.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Release\LAP.TUUA.ARCHIVAMIENTO.LoginForm.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Release\LAP.TUUA.ARCHIVAMIENTO.ResultadoProceso.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Release\LAP.TUUA.ARCHIVAMIENTO.Properties.Resources.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Release\LAP.TUUA.ARCHIVAMIENTO.csproj.GenerateResource.Cache

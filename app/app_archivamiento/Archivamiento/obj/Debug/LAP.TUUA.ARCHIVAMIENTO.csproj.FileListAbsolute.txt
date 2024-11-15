@@ -1,0 +1,99 @@
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Archivamiento.exe
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Archivamiento.pdb
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Debug\ResolveAssemblyReference.cache
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.Properties.Resources.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.csproj.GenerateResource.Cache
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Debug\Archivamiento.exe
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Debug\Archivamiento.pdb
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.Archieving.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.LoginForm.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Archivamiento.exe.config
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\CONTROL.dll
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\ENTIDADES.dll
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\UTIL.dll
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Microsoft.Practices.Unity.dll
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\DATAACCESS.dll
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\CryptoHelper.dll
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\ENTIDADES.pdb
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\UTIL.pdb
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\DATAACCESS.pdb
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\CONTROL.pdb
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.DetalleArchivamiento.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.HoldOnWindow.resources
+C:\LAP\SVN\Modulo Archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.ResultadoProceso.resources
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\Archivamiento.exe.config
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\Archivamiento.exe
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\Archivamiento.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\CONTROL.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\ENTIDADES.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\CryptoHelper.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\CONTROL.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\ENTIDADES.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.Archieving.resources
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.DetalleArchivamiento.resources
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.HoldOnWindow.resources
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.LoginForm.resources
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.ResultadoProceso.resources
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.Properties.Resources.resources
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.csproj.GenerateResource.Cache
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\obj\Debug\Archivamiento.exe
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\Archivamiento\obj\Debug\Archivamiento.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\Archivamiento.exe.config
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\obj\Debug\Archivamiento.exe
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\obj\Debug\Archivamiento.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.Archieving.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.DetalleArchivamiento.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.HoldOnWindow.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.LoginForm.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.ResultadoProceso.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.Properties.Resources.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.csproj.GenerateResource.Cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\Archivamiento.exe
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\Archivamiento.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\CONTROL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\ENTIDADES.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\DATAACCESS.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\CryptoHelper.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\CONTROL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\DATAACCESS.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\ENTIDADES.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\Archivamiento\bin\Debug\UTIL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\Archivamiento.exe.config
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\obj\Debug\Archivamiento.exe
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\obj\Debug\Archivamiento.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\Archivamiento.exe
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\Archivamiento.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\CONTROL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\ENTIDADES.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\DATAACCESS.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\CryptoHelper.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\CONTROL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\DATAACCESS.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\ENTIDADES.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\bin\Debug\UTIL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.Archieving.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.DetalleArchivamiento.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.HoldOnWindow.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.LoginForm.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.ResultadoProceso.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.Properties.Resources.resources
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\Archivamiento\obj\Debug\LAP.TUUA.ARCHIVAMIENTO.csproj.GenerateResource.Cache
+D:\DANIEL\Proyectos\TUUA\FUENTES_HIPER\CD 2 LAP_TUUA - Fuentes\fuentes\app\app_archivamiento\Archivamiento\bin\Debug\Archivamiento.exe.config
+D:\DANIEL\Proyectos\TUUA\FUENTES_HIPER\CD 2 LAP_TUUA - Fuentes\fuentes\app\app_archivamiento\Archivamiento\obj\Debug\Archivamiento.exe
+D:\DANIEL\Proyectos\TUUA\FUENTES_HIPER\CD 2 LAP_TUUA - Fuentes\fuentes\app\app_archivamiento\Archivamiento\obj\Debug\Archivamiento.pdb

@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="insertarCnfgAlarma">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objCnfgAlarma" type="tns:CnfgAlarma" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CnfgAlarma">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodAlarma" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscFinMensaje" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodModulo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscDestinatarios" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="insertarCnfgAlarmaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="insertarCnfgAlarmaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarCnfgAlarma">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objCnfgAlarma" type="tns:CnfgAlarma" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarCnfgAlarmaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="actualizarCnfgAlarmaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="eliminarCnfgAlarma">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodAlarma" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodModulo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="eliminarCnfgAlarmaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="eliminarCnfgAlarmaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAllCnfgAlarma">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarAllCnfgAlarmaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAllCnfgAlarmaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerCnfgAlarma">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodAlarma" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodModulo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerCnfgAlarmaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerCnfgAlarmaResult" type="tns:CnfgAlarma" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertarAlarmaGenerada">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objAlarmaGenerada" type="tns:AlarmaGenerada" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="AlarmaGenerada">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="ICodAlarmaGenerada" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodAlarma" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodModulo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscEquipo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DtFchGeneracion" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="DtFchActualizacion" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipImportancia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFlgEstadoMail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscSubject" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscBody" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscAtencion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="insertarAlarmaGeneradaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="insertarAlarmaGeneradaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarAlarmaGenerada">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objAlarmaGenerada" type="tns:AlarmaGenerada" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarAlarmaGeneradaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="actualizarAlarmaGeneradaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAllAlarmaGenerada">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarAllAlarmaGeneradaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAllAlarmaGeneradaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerAlarmaGenerada">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodAlarmaGenerada" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerAlarmaGeneradaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerAlarmaGeneradaResult" type="tns:AlarmaGenerada" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAlarmaGeneradaEnviadas">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarAlarmaGeneradaEnviadasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAlarmaGeneradaEnviadasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaAlarmaGenerada">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sFchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sModulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipoAlarma" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sEstado" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaAlarmaGeneradaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaAlarmaGeneradaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerAlarmaxCodModulo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodModulo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerAlarmaxCodModuloResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerAlarmaxCodModuloResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="insertarCnfgAlarmaSoapIn">
+    <wsdl:part name="parameters" element="tns:insertarCnfgAlarma" />
+  </wsdl:message>
+  <wsdl:message name="insertarCnfgAlarmaSoapOut">
+    <wsdl:part name="parameters" element="tns:insertarCnfgAlarmaResponse" />
+  </wsdl:message>
+  <wsdl:message name="actualizarCnfgAlarmaSoapIn">
+    <wsdl:part name="parameters" element="tns:actualizarCnfgAlarma" />
+  </wsdl:message>
+  <wsdl:message name="actualizarCnfgAlarmaSoapOut">
+    <wsdl:part name="parameters" element="tns:actualizarCnfgAlarmaResponse" />
+  </wsdl:message>
+  <wsdl:message name="eliminarCnfgAlarmaSoapIn">
+    <wsdl:part name="parameters" element="tns:eliminarCnfgAlarma" />
+  </wsdl:message>
+  <wsdl:message name="eliminarCnfgAlarmaSoapOut">
+    <wsdl:part name="parameters" element="tns:eliminarCnfgAlarmaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllCnfgAlarmaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAllCnfgAlarma" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllCnfgAlarmaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAllCnfgAlarmaResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerCnfgAlarmaSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerCnfgAlarma" />
+  </wsdl:message>
+  <wsdl:message name="obtenerCnfgAlarmaSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerCnfgAlarmaResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertarAlarmaGeneradaSoapIn">
+    <wsdl:part name="parameters" element="tns:insertarAlarmaGenerada" />
+  </wsdl:message>
+  <wsdl:message name="insertarAlarmaGeneradaSoapOut">
+    <wsdl:part name="parameters" element="tns:insertarAlarmaGeneradaResponse" />
+  </wsdl:message>
+  <wsdl:message name="actualizarAlarmaGeneradaSoapIn">
+    <wsdl:part name="parameters" element="tns:actualizarAlarmaGenerada" />
+  </wsdl:message>
+  <wsdl:message name="actualizarAlarmaGeneradaSoapOut">
+    <wsdl:part name="parameters" element="tns:actualizarAlarmaGeneradaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllAlarmaGeneradaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAllAlarmaGenerada" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllAlarmaGeneradaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAllAlarmaGeneradaResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerAlarmaGeneradaSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerAlarmaGenerada" />
+  </wsdl:message>
+  <wsdl:message name="obtenerAlarmaGeneradaSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerAlarmaGeneradaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarAlarmaGeneradaEnviadasSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAlarmaGeneradaEnviadas" />
+  </wsdl:message>
+  <wsdl:message name="ListarAlarmaGeneradaEnviadasSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAlarmaGeneradaEnviadasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaAlarmaGeneradaSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaAlarmaGenerada" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaAlarmaGeneradaSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaAlarmaGeneradaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerAlarmaxCodModuloSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerAlarmaxCodModulo" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerAlarmaxCodModuloSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerAlarmaxCodModuloResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSAlarmasSoap">
+    <wsdl:operation name="insertarCnfgAlarma">
+      <wsdl:input message="tns:insertarCnfgAlarmaSoapIn" />
+      <wsdl:output message="tns:insertarCnfgAlarmaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="actualizarCnfgAlarma">
+      <wsdl:input message="tns:actualizarCnfgAlarmaSoapIn" />
+      <wsdl:output message="tns:actualizarCnfgAlarmaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="eliminarCnfgAlarma">
+      <wsdl:input message="tns:eliminarCnfgAlarmaSoapIn" />
+      <wsdl:output message="tns:eliminarCnfgAlarmaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllCnfgAlarma">
+      <wsdl:input message="tns:ListarAllCnfgAlarmaSoapIn" />
+      <wsdl:output message="tns:ListarAllCnfgAlarmaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerCnfgAlarma">
+      <wsdl:input message="tns:obtenerCnfgAlarmaSoapIn" />
+      <wsdl:output message="tns:obtenerCnfgAlarmaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertarAlarmaGenerada">
+      <wsdl:input message="tns:insertarAlarmaGeneradaSoapIn" />
+      <wsdl:output message="tns:insertarAlarmaGeneradaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="actualizarAlarmaGenerada">
+      <wsdl:input message="tns:actualizarAlarmaGeneradaSoapIn" />
+      <wsdl:output message="tns:actualizarAlarmaGeneradaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllAlarmaGenerada">
+      <wsdl:input message="tns:ListarAllAlarmaGeneradaSoapIn" />
+      <wsdl:output message="tns:ListarAllAlarmaGeneradaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerAlarmaGenerada">
+      <wsdl:input message="tns:obtenerAlarmaGeneradaSoapIn" />
+      <wsdl:output message="tns:obtenerAlarmaGeneradaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarAlarmaGeneradaEnviadas">
+      <wsdl:input message="tns:ListarAlarmaGeneradaEnviadasSoapIn" />
+      <wsdl:output message="tns:ListarAlarmaGeneradaEnviadasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaAlarmaGenerada">
+      <wsdl:input message="tns:ConsultaAlarmaGeneradaSoapIn" />
+      <wsdl:output message="tns:ConsultaAlarmaGeneradaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAlarmaxCodModulo">
+      <wsdl:input message="tns:ObtenerAlarmaxCodModuloSoapIn" />
+      <wsdl:output message="tns:ObtenerAlarmaxCodModuloSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSAlarmasSoap" type="tns:WSAlarmasSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="insertarCnfgAlarma">
+      <soap:operation soapAction="http://tempuri.org/insertarCnfgAlarma" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarCnfgAlarma">
+      <soap:operation soapAction="http://tempuri.org/actualizarCnfgAlarma" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarCnfgAlarma">
+      <soap:operation soapAction="http://tempuri.org/eliminarCnfgAlarma" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllCnfgAlarma">
+      <soap:operation soapAction="http://tempuri.org/ListarAllCnfgAlarma" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerCnfgAlarma">
+      <soap:operation soapAction="http://tempuri.org/obtenerCnfgAlarma" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertarAlarmaGenerada">
+      <soap:operation soapAction="http://tempuri.org/insertarAlarmaGenerada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarAlarmaGenerada">
+      <soap:operation soapAction="http://tempuri.org/actualizarAlarmaGenerada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllAlarmaGenerada">
+      <soap:operation soapAction="http://tempuri.org/ListarAllAlarmaGenerada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerAlarmaGenerada">
+      <soap:operation soapAction="http://tempuri.org/obtenerAlarmaGenerada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAlarmaGeneradaEnviadas">
+      <soap:operation soapAction="http://tempuri.org/ListarAlarmaGeneradaEnviadas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaAlarmaGenerada">
+      <soap:operation soapAction="http://tempuri.org/ConsultaAlarmaGenerada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAlarmaxCodModulo">
+      <soap:operation soapAction="http://tempuri.org/ObtenerAlarmaxCodModulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSAlarmasSoap12" type="tns:WSAlarmasSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="insertarCnfgAlarma">
+      <soap12:operation soapAction="http://tempuri.org/insertarCnfgAlarma" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarCnfgAlarma">
+      <soap12:operation soapAction="http://tempuri.org/actualizarCnfgAlarma" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarCnfgAlarma">
+      <soap12:operation soapAction="http://tempuri.org/eliminarCnfgAlarma" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllCnfgAlarma">
+      <soap12:operation soapAction="http://tempuri.org/ListarAllCnfgAlarma" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerCnfgAlarma">
+      <soap12:operation soapAction="http://tempuri.org/obtenerCnfgAlarma" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertarAlarmaGenerada">
+      <soap12:operation soapAction="http://tempuri.org/insertarAlarmaGenerada" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarAlarmaGenerada">
+      <soap12:operation soapAction="http://tempuri.org/actualizarAlarmaGenerada" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllAlarmaGenerada">
+      <soap12:operation soapAction="http://tempuri.org/ListarAllAlarmaGenerada" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerAlarmaGenerada">
+      <soap12:operation soapAction="http://tempuri.org/obtenerAlarmaGenerada" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAlarmaGeneradaEnviadas">
+      <soap12:operation soapAction="http://tempuri.org/ListarAlarmaGeneradaEnviadas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaAlarmaGenerada">
+      <soap12:operation soapAction="http://tempuri.org/ConsultaAlarmaGenerada" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAlarmaxCodModulo">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerAlarmaxCodModulo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSAlarmas">
+    <wsdl:port name="WSAlarmasSoap" binding="tns:WSAlarmasSoap">
+      <soap:address location="http://localhost:40758/WSDAO/WSAlarmas.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSAlarmasSoap12" binding="tns:WSAlarmasSoap12">
+      <soap12:address location="http://localhost:40758/WSDAO/WSAlarmas.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

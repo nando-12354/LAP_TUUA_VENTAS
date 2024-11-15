@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "COPIA_INFORMACION", "COPIA_INFORMACION\COPIA_INFORMACION.dtproj", "{1E75B8FA-678E-45F6-ABF4-1DB40BC191F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E75B8FA-678E-45F6-ABF4-1DB40BC191F1}.Development|Default.ActiveCfg = Development
+		{1E75B8FA-678E-45F6-ABF4-1DB40BC191F1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

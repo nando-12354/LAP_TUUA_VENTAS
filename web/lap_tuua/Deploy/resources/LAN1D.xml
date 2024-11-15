@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<boarding>
+      <individual_airline>
+            <campo nombre = "canal"	            tam="1"/>
+            <campo nombre = "flight_number"	    tam="4"/>
+            <campo nombre = "passenger_name"	tam="3"/>
+			      <campo nombre = "seat_number"	    tam="3"/>
+            <campo nombre = "No_Ident1"	    	tam="1"/>
+			      <campo nombre = "date_flight"	    tam="3"/>
+			      <campo nombre = "No_Ident2"	    	tam="2"/>
+      </individual_airline>
+      <airline_designator1 valor="LA"/>
+      <airline_designator2 valor="LP"/>
+ </boarding>

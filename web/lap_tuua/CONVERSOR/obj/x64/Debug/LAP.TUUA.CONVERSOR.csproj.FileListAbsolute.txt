@@ -1,0 +1,12 @@
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\bin\x64\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\bin\x64\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\obj\x64\Debug\LAP.TUUA.CONVERSOR.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\obj\x64\Debug\LAP.TUUA.CONVERSOR.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\obj\x64\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\obj\x64\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_tuua\CONVERSOR\bin\x64\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_tuua\CONVERSOR\bin\x64\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_tuua\CONVERSOR\obj\x64\Debug\LAP.TUUA.CONVERSOR.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_tuua\CONVERSOR\obj\x64\Debug\LAP.TUUA.CONVERSOR.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_tuua\CONVERSOR\obj\x64\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_tuua\CONVERSOR\obj\x64\Debug\LAP.TUUA.CONVERSOR.pdb

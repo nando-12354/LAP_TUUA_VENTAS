@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LAP.TUUA.CLIENTEWS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CLIENTEWS_WSConsulta_WSConsultas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://192.168.61.85/WSDAOLAP/WSConsultas.asmx</Value>
+    </Setting>
+    <Setting Name="CLIENTEWS_WSTurno_WSTurno" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:5078/WSDAO/WSTurno.asmx</Value>
+    </Setting>
+    <Setting Name="CLIENTEWS_WSSeguridad_WSSeguridad" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:5078/WSDAO/WSSeguridad.asmx</Value>
+    </Setting>
+    <Setting Name="CLIENTEWS_WSConfiguracion_WSConfiguracion" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:5078/WSDAO/WSConfiguracion.asmx</Value>
+    </Setting>
+    <Setting Name="CLIENTEWS_WSError_WSError" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:5078/WSDAO/WSError.asmx</Value>
+    </Setting>
+    <Setting Name="CLIENTEWS_WSAdministracion_WSAdministracion" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:5078/WSDAO/WSAdministracion.asmx</Value>
+    </Setting>
+    <Setting Name="CLIENTEWS_WSConsultas_WSConsultas" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:5078/WSDAO/WSConsultas.asmx</Value>
+    </Setting>
+    <Setting Name="CLIENTEWS_WSOperacion_WSOperacion" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:5078/WSDAO/WSOperacion.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,12 @@
+D:\Proyectos\App_Molinetes\App_Molinetes\bin\Debug\App_Molinetes.exe
+D:\Proyectos\App_Molinetes\App_Molinetes\bin\Debug\App_Molinetes.pdb
+D:\Proyectos\App_Molinetes\App_Molinetes\bin\Debug\App_Molinetes.xml
+D:\Proyectos\App_Molinetes\App_Molinetes\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\App_Molinetes\App_Molinetes\obj\Debug\App_Molinetes.frmMolinete.resources
+D:\Proyectos\App_Molinetes\App_Molinetes\obj\Debug\App_Molinetes.Resources.resources
+D:\Proyectos\App_Molinetes\App_Molinetes\obj\Debug\App_Molinetes.vbproj.GenerateResource.Cache
+D:\Proyectos\App_Molinetes\App_Molinetes\obj\Debug\App_Molinetes.exe
+D:\Proyectos\App_Molinetes\App_Molinetes\obj\Debug\App_Molinetes.xml
+D:\Proyectos\App_Molinetes\App_Molinetes\obj\Debug\App_Molinetes.pdb
+D:\Proyectos\App_Molinetes\App_Molinetes\bin\Debug\App_Molinetes.exe.config
+D:\Proyectos\App_Molinetes\App_Molinetes\obj\Debug\App_Molinetes.frmLog.resources

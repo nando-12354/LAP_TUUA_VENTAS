@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="RegistrarOperacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objOperacion" type="tns:LogOperacion" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="LogOperacion">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SNumOperacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodTipoOperacion" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DtFchProceso" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodTurno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="INumSecuencial" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Imp_Mon_Nac" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Imp_Mon_Int" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Imp_Tasa_Cambio" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="Simb_Moneda" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="RegistrarOperacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RegistrarOperacionResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegistrarOpeCaja">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objListaOperaCaja" type="tns:ArrayOfLogOperacCaja" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfLogOperacCaja">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="LogOperacCaja" nillable="true" type="tns:LogOperacCaja" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="LogOperacCaja">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:LogOperacion">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="SCodMoneda" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="DImpOperacion" type="s:decimal" />
+              <s:element minOccurs="0" maxOccurs="1" name="Dsc_Moneda" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Dsc_Simbolo" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="RegistrarOpeCajaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RegistrarOpeCajaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerTasaCambioPorMoneda">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strMoneda" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerTasaCambioPorMonedaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerTasaCambioPorMonedaResult" type="tns:TasaCambio" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="TasaCambio">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="STipIngreso" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodTasaCambio" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipCambio" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodMoneda" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DImpCambioActual" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="DtFchProceso" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DtFchProgramacion" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodRetorno" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarMonedasInter">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarMonedasInterResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarMonedasInterResult" type="tns:ArrayOfMoneda" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfMoneda">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Moneda" nillable="true" type="tns:Moneda" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Moneda">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodMoneda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscMoneda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscSimbolo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNemonico" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DtLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SModulo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SSubModulo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="RegistrarCompraVenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objCompraVenta" type="tns:LogCompraVenta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="LogCompraVenta">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:LogOperacion">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="DImpTasaCambio" type="s:decimal" />
+              <s:element minOccurs="1" maxOccurs="1" name="DImpACambiar" type="s:decimal" />
+              <s:element minOccurs="1" maxOccurs="1" name="DImpCambiado" type="s:decimal" />
+              <s:element minOccurs="0" maxOccurs="1" name="SCodMoneda" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="ICodTipoCambio" type="s:long" />
+              <s:element minOccurs="1" maxOccurs="1" name="DImpIngreso" type="s:decimal" />
+              <s:element minOccurs="1" maxOccurs="1" name="DImpEgreso" type="s:decimal" />
+              <s:element minOccurs="1" maxOccurs="1" name="DImpEntregarNac" type="s:decimal" />
+              <s:element minOccurs="1" maxOccurs="1" name="DImpEntregarInter" type="s:decimal" />
+              <s:element minOccurs="0" maxOccurs="1" name="Tip_Pago" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="RegistrarCompraVentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RegistrarCompraVentaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarLimitesPorOperacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="stipoope" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarLimitesPorOperacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarLimitesPorOperacionResult" type="tns:ArrayOfLimite" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfLimite">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Limite" nillable="true" type="tns:Limite" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Limite">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Cod_Moneda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cod_TipoOpera" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Imp_LimMaximo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Imp_LimMinimo" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Imp_MargenCaja" type="s:decimal" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ObtenerPrecioTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strTipoVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipoPas" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipoTrans" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerPrecioTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerPrecioTicketResult" type="tns:TipoTicket" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="TipoTicket">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodTipoTicket" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipVuelo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DImpPrecio" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodMoneda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipPasajero" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipTrasbordo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Dsc_Simbolo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNomTipoTicket" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Dsc_Moneda" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ValidarTipoTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strTipoVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipoPas" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipoTrans" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidarTipoTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidarTipoTicketResult" type="tns:TipoTicket" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarCompaniaxFiltro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strEstado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CadFiltro" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sOrdenacion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarCompaniaxFiltroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultarCompaniaxFiltroResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarVuelosxCompania">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipVuelo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarVuelosxCompaniaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarVuelosxCompaniaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegistrarTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listaTickets" type="tns:ArrayOfTicket" />
+            <s:element minOccurs="0" maxOccurs="1" name="strListaTickets" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTicket">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Ticket" nillable="true" type="tns:Ticket" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Ticket">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SLog_Usuario_Mod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLog_Hora_Mod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLog_Fecha_Mod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SHor_Creacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodNumeroTicket" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodCompania" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodVentaMasiva" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscNumVuelo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DtFchVuelo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstadoActual" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DtFchCreacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodTurno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuarioVenta" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DImpPrecio" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodMoneda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DtFchVencimiento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodModalidadVenta" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="INumRehabilitaciones" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodTipoTicket" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tip_Vuelo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Flg_Contingencia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Num_Referencia" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Cant_Ticket" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Num_TicketsGenerados" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tip_Anula" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cod_Pto_Venta" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Dsc_Motivo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="RegistrarTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RegistrarTicketResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="strListaTickets" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GenerarTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strVentaMasiva" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurno" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strUsuario" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="decPrecio" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="strMoneda" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strModVenta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipTicket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipVuelo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intTickets" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFlagCont" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumRef" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipPago" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strEmpresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strRepte" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecVence" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strListaTickets" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GenerarTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GenerarTicketResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecVence" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strListaTickets" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarRepteCia">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCia" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarRepteCiaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarRepteCiaResult" type="tns:ArrayOfRepresentantCia" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfRepresentantCia">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="RepresentantCia" nillable="true" type="tns:RepresentantCia" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="RepresentantCia">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodCompania" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="INumSecuencial" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNomRepresentante" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SApeRepresentante" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCargoRepresentante" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STDocRepresentante" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNDocRepresentante" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SPermRepresentante" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="RegistrarVentaMasiva">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objVentaMasiva" type="tns:VentaMasiva" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="VentaMasiva">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodVentaMasiva" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DtFchVenta" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DCanVenta" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="DImpMontoVenta" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodMoneda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="INumRangoInicial" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="INumRangoFinal" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodCompania" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tip_Pago" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Num_Cheque_Trans" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="RegistrarVentaMasivaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RegistrarVentaMasivaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarVentaMasiva">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objVentaMasiva" type="tns:VentaMasiva" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarVentaMasivaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarVentaMasivaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarCompaniaxModVenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCodModVenta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipComp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarCompaniaxModVentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarCompaniaxModVentaResult" type="tns:ArrayOfModVentaComp" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfModVentaComp">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ModVentaComp" nillable="true" type="tns:ModVentaComp" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ModVentaComp">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodCompania" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodModalidadVenta" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscValorAcumulado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tip_Compania" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Dsc_Compania" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Dsc_Ruc" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarAtributosxModVenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCodModVenta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAtributosxModVentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAtributosxModVentaResult" type="tns:ArrayOfModalidadAtrib" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfModalidadAtrib">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ModalidadAtrib" nillable="true" type="tns:ModalidadAtrib" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ModalidadAtrib">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodModalidadVenta" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodAtributo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscValor" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodTipoTicket" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tip_Atributo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarAtributosxModVentaCompania">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCodModVenta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCompania" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAtributosxModVentaCompaniaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAtributosxModVentaCompaniaResult" type="tns:ArrayOfModalidadAtrib" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAllTipoTicket">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarAllTipoTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAllTipoTicketResult" type="tns:ArrayOfTipoTicket" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTipoTicket">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TipoTicket" nillable="true" type="tns:TipoTicket" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ExtornarCompraVenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCodOpera" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurno" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intCantidad" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="strMessage" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExtornarCompraVentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ExtornarCompraVentaResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="strMessage" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExtornarTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strListaTickets" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurno" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intCantidad" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="strUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strMotivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strMessage" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExtornarTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ExtornarTicketResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="strMessage" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExtornoRehabilitacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strListaTickets" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intCantidad" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="strUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strEstado" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExtornoRehabilitacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ExtornoRehabilitacionResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExtenderVigenciaTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strListaTickets" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strListaFechas" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strMessage" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExtenderVigenciaTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ExtenderVigenciaTicketResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listaTickets" type="tns:ArrayOfTicket" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarTicketResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnularTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodNumeroTicket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sDscMotivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sUsuarioMod" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnularTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AnularTicketResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarEstadoBCBP">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objBoardingBcbp" type="tns:BoardingBcbp" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="BoardingBcbp">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="StrRol" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrCodSubModulo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrCodModulo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrCodUnicoBcbpRel" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="StrFch_Vencimiento" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="INum_Rehabilitaciones" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrCodUnicoBcbp" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrCod_Equipo_Mod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrDsc_Boarding_Estado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrTip_Estado" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="INumSecuencial" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodCompania" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DtFchVuelo" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNumVuelo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrFchVuelo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrNumAsiento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrNomPasajero" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrTrama" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrTipIngreso" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StrMotivo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ActualizarEstadoBCBPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarEstadoBCBPResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnularBCBP">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objBoardingBcbp" type="tns:BoardingBcbp" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnularBCBPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AnularBCBPResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerVentaTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strFecIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipVenta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFlgAero" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerVentaTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerVentaTicketResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnularTuua">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strListaTicket" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intTicket" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AnularTuuaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AnularTuuaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAllMolinete">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCodMolinete" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strDscIp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAllMolineteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAllMolineteResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarMolinete">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objMolinete" type="tns:Molinete" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Molinete">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodMolinete" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscIp" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscMolinete" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipDocumento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipVuelo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipAcceso" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DtLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SEstMaster" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscDBName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscDBUser" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscDBPassword" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ICantidad" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ActualizarMolineteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarMolineteResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegistrarVentaContingencia">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strMoneda" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipTicket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecVenta" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intTickets" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="strListaTickets" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodError" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegistrarVentaContingenciaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RegistrarVentaContingenciaResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodError" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarContingencia">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strTipTikcet" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFlgConti" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strUsuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarContingenciaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarContingenciaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerFechaActual">
+        <s:complexType />
+      </s:element>
+      <s:element name="ObtenerFechaActualResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerFechaActualResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="RegistrarOperacionSoapIn">
+    <wsdl:part name="parameters" element="tns:RegistrarOperacion" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarOperacionSoapOut">
+    <wsdl:part name="parameters" element="tns:RegistrarOperacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarOpeCajaSoapIn">
+    <wsdl:part name="parameters" element="tns:RegistrarOpeCaja" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarOpeCajaSoapOut">
+    <wsdl:part name="parameters" element="tns:RegistrarOpeCajaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerTasaCambioPorMonedaSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerTasaCambioPorMoneda" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerTasaCambioPorMonedaSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerTasaCambioPorMonedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarMonedasInterSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarMonedasInter" />
+  </wsdl:message>
+  <wsdl:message name="ListarMonedasInterSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarMonedasInterResponse" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarCompraVentaSoapIn">
+    <wsdl:part name="parameters" element="tns:RegistrarCompraVenta" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarCompraVentaSoapOut">
+    <wsdl:part name="parameters" element="tns:RegistrarCompraVentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarLimitesPorOperacionSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarLimitesPorOperacion" />
+  </wsdl:message>
+  <wsdl:message name="ListarLimitesPorOperacionSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarLimitesPorOperacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerPrecioTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerPrecioTicket" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerPrecioTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerPrecioTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidarTipoTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidarTipoTicket" />
+  </wsdl:message>
+  <wsdl:message name="ValidarTipoTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidarTipoTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarCompaniaxFiltroSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultarCompaniaxFiltro" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarCompaniaxFiltroSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultarCompaniaxFiltroResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarVuelosxCompaniaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarVuelosxCompania" />
+  </wsdl:message>
+  <wsdl:message name="ListarVuelosxCompaniaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarVuelosxCompaniaResponse" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:RegistrarTicket" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:RegistrarTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="GenerarTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:GenerarTicket" />
+  </wsdl:message>
+  <wsdl:message name="GenerarTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:GenerarTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarRepteCiaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarRepteCia" />
+  </wsdl:message>
+  <wsdl:message name="ListarRepteCiaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarRepteCiaResponse" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarVentaMasivaSoapIn">
+    <wsdl:part name="parameters" element="tns:RegistrarVentaMasiva" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarVentaMasivaSoapOut">
+    <wsdl:part name="parameters" element="tns:RegistrarVentaMasivaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarVentaMasivaSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarVentaMasiva" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarVentaMasivaSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarVentaMasivaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarCompaniaxModVentaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarCompaniaxModVenta" />
+  </wsdl:message>
+  <wsdl:message name="ListarCompaniaxModVentaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarCompaniaxModVentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarAtributosxModVentaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAtributosxModVenta" />
+  </wsdl:message>
+  <wsdl:message name="ListarAtributosxModVentaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAtributosxModVentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarAtributosxModVentaCompaniaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAtributosxModVentaCompania" />
+  </wsdl:message>
+  <wsdl:message name="ListarAtributosxModVentaCompaniaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAtributosxModVentaCompaniaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllTipoTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAllTipoTicket" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllTipoTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAllTipoTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExtornarCompraVentaSoapIn">
+    <wsdl:part name="parameters" element="tns:ExtornarCompraVenta" />
+  </wsdl:message>
+  <wsdl:message name="ExtornarCompraVentaSoapOut">
+    <wsdl:part name="parameters" element="tns:ExtornarCompraVentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExtornarTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:ExtornarTicket" />
+  </wsdl:message>
+  <wsdl:message name="ExtornarTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:ExtornarTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExtornoRehabilitacionSoapIn">
+    <wsdl:part name="parameters" element="tns:ExtornoRehabilitacion" />
+  </wsdl:message>
+  <wsdl:message name="ExtornoRehabilitacionSoapOut">
+    <wsdl:part name="parameters" element="tns:ExtornoRehabilitacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExtenderVigenciaTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:ExtenderVigenciaTicket" />
+  </wsdl:message>
+  <wsdl:message name="ExtenderVigenciaTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:ExtenderVigenciaTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarTicket" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="AnularTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:AnularTicket" />
+  </wsdl:message>
+  <wsdl:message name="AnularTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:AnularTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarEstadoBCBPSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarEstadoBCBP" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarEstadoBCBPSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarEstadoBCBPResponse" />
+  </wsdl:message>
+  <wsdl:message name="AnularBCBPSoapIn">
+    <wsdl:part name="parameters" element="tns:AnularBCBP" />
+  </wsdl:message>
+  <wsdl:message name="AnularBCBPSoapOut">
+    <wsdl:part name="parameters" element="tns:AnularBCBPResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerVentaTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerVentaTicket" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerVentaTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerVentaTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="AnularTuuaSoapIn">
+    <wsdl:part name="parameters" element="tns:AnularTuua" />
+  </wsdl:message>
+  <wsdl:message name="AnularTuuaSoapOut">
+    <wsdl:part name="parameters" element="tns:AnularTuuaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllMolineteSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAllMolinete" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllMolineteSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAllMolineteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarMolineteSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarMolinete" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarMolineteSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarMolineteResponse" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarVentaContingenciaSoapIn">
+    <wsdl:part name="parameters" element="tns:RegistrarVentaContingencia" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarVentaContingenciaSoapOut">
+    <wsdl:part name="parameters" element="tns:RegistrarVentaContingenciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarContingenciaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarContingencia" />
+  </wsdl:message>
+  <wsdl:message name="ListarContingenciaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarContingenciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerFechaActualSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerFechaActual" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerFechaActualSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerFechaActualResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSOperacionSoap">
+    <wsdl:operation name="RegistrarOperacion">
+      <wsdl:input message="tns:RegistrarOperacionSoapIn" />
+      <wsdl:output message="tns:RegistrarOperacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarOpeCaja">
+      <wsdl:input message="tns:RegistrarOpeCajaSoapIn" />
+      <wsdl:output message="tns:RegistrarOpeCajaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTasaCambioPorMoneda">
+      <wsdl:input message="tns:ObtenerTasaCambioPorMonedaSoapIn" />
+      <wsdl:output message="tns:ObtenerTasaCambioPorMonedaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarMonedasInter">
+      <wsdl:input message="tns:ListarMonedasInterSoapIn" />
+      <wsdl:output message="tns:ListarMonedasInterSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarCompraVenta">
+      <wsdl:input message="tns:RegistrarCompraVentaSoapIn" />
+      <wsdl:output message="tns:RegistrarCompraVentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarLimitesPorOperacion">
+      <wsdl:input message="tns:ListarLimitesPorOperacionSoapIn" />
+      <wsdl:output message="tns:ListarLimitesPorOperacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerPrecioTicket">
+      <wsdl:input message="tns:ObtenerPrecioTicketSoapIn" />
+      <wsdl:output message="tns:ObtenerPrecioTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidarTipoTicket">
+      <wsdl:input message="tns:ValidarTipoTicketSoapIn" />
+      <wsdl:output message="tns:ValidarTipoTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarCompaniaxFiltro">
+      <wsdl:input message="tns:ConsultarCompaniaxFiltroSoapIn" />
+      <wsdl:output message="tns:ConsultarCompaniaxFiltroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarVuelosxCompania">
+      <wsdl:input message="tns:ListarVuelosxCompaniaSoapIn" />
+      <wsdl:output message="tns:ListarVuelosxCompaniaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarTicket">
+      <wsdl:input message="tns:RegistrarTicketSoapIn" />
+      <wsdl:output message="tns:RegistrarTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GenerarTicket">
+      <wsdl:input message="tns:GenerarTicketSoapIn" />
+      <wsdl:output message="tns:GenerarTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarRepteCia">
+      <wsdl:input message="tns:ListarRepteCiaSoapIn" />
+      <wsdl:output message="tns:ListarRepteCiaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarVentaMasiva">
+      <wsdl:input message="tns:RegistrarVentaMasivaSoapIn" />
+      <wsdl:output message="tns:RegistrarVentaMasivaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarVentaMasiva">
+      <wsdl:input message="tns:ActualizarVentaMasivaSoapIn" />
+      <wsdl:output message="tns:ActualizarVentaMasivaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarCompaniaxModVenta">
+      <wsdl:input message="tns:ListarCompaniaxModVentaSoapIn" />
+      <wsdl:output message="tns:ListarCompaniaxModVentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarAtributosxModVenta">
+      <wsdl:input message="tns:ListarAtributosxModVentaSoapIn" />
+      <wsdl:output message="tns:ListarAtributosxModVentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarAtributosxModVentaCompania">
+      <wsdl:input message="tns:ListarAtributosxModVentaCompaniaSoapIn" />
+      <wsdl:output message="tns:ListarAtributosxModVentaCompaniaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllTipoTicket">
+      <wsdl:input message="tns:ListarAllTipoTicketSoapIn" />
+      <wsdl:output message="tns:ListarAllTipoTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExtornarCompraVenta">
+      <wsdl:input message="tns:ExtornarCompraVentaSoapIn" />
+      <wsdl:output message="tns:ExtornarCompraVentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExtornarTicket">
+      <wsdl:input message="tns:ExtornarTicketSoapIn" />
+      <wsdl:output message="tns:ExtornarTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExtornoRehabilitacion">
+      <wsdl:input message="tns:ExtornoRehabilitacionSoapIn" />
+      <wsdl:output message="tns:ExtornoRehabilitacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExtenderVigenciaTicket">
+      <wsdl:input message="tns:ExtenderVigenciaTicketSoapIn" />
+      <wsdl:output message="tns:ExtenderVigenciaTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTicket">
+      <wsdl:input message="tns:ActualizarTicketSoapIn" />
+      <wsdl:output message="tns:ActualizarTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AnularTicket">
+      <wsdl:input message="tns:AnularTicketSoapIn" />
+      <wsdl:output message="tns:AnularTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarEstadoBCBP">
+      <wsdl:input message="tns:ActualizarEstadoBCBPSoapIn" />
+      <wsdl:output message="tns:ActualizarEstadoBCBPSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AnularBCBP">
+      <wsdl:input message="tns:AnularBCBPSoapIn" />
+      <wsdl:output message="tns:AnularBCBPSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerVentaTicket">
+      <wsdl:input message="tns:ObtenerVentaTicketSoapIn" />
+      <wsdl:output message="tns:ObtenerVentaTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AnularTuua">
+      <wsdl:input message="tns:AnularTuuaSoapIn" />
+      <wsdl:output message="tns:AnularTuuaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllMolinete">
+      <wsdl:input message="tns:ListarAllMolineteSoapIn" />
+      <wsdl:output message="tns:ListarAllMolineteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarMolinete">
+      <wsdl:input message="tns:ActualizarMolineteSoapIn" />
+      <wsdl:output message="tns:ActualizarMolineteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarVentaContingencia">
+      <wsdl:input message="tns:RegistrarVentaContingenciaSoapIn" />
+      <wsdl:output message="tns:RegistrarVentaContingenciaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarContingencia">
+      <wsdl:input message="tns:ListarContingenciaSoapIn" />
+      <wsdl:output message="tns:ListarContingenciaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFechaActual">
+      <wsdl:input message="tns:ObtenerFechaActualSoapIn" />
+      <wsdl:output message="tns:ObtenerFechaActualSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSOperacionSoap" type="tns:WSOperacionSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RegistrarOperacion">
+      <soap:operation soapAction="http://tempuri.org/RegistrarOperacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarOpeCaja">
+      <soap:operation soapAction="http://tempuri.org/RegistrarOpeCaja" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTasaCambioPorMoneda">
+      <soap:operation soapAction="http://tempuri.org/ObtenerTasaCambioPorMoneda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarMonedasInter">
+      <soap:operation soapAction="http://tempuri.org/ListarMonedasInter" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarCompraVenta">
+      <soap:operation soapAction="http://tempuri.org/RegistrarCompraVenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarLimitesPorOperacion">
+      <soap:operation soapAction="http://tempuri.org/ListarLimitesPorOperacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerPrecioTicket">
+      <soap:operation soapAction="http://tempuri.org/ObtenerPrecioTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarTipoTicket">
+      <soap:operation soapAction="http://tempuri.org/ValidarTipoTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarCompaniaxFiltro">
+      <soap:operation soapAction="http://tempuri.org/ConsultarCompaniaxFiltro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarVuelosxCompania">
+      <soap:operation soapAction="http://tempuri.org/ListarVuelosxCompania" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarTicket">
+      <soap:operation soapAction="http://tempuri.org/RegistrarTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GenerarTicket">
+      <soap:operation soapAction="http://tempuri.org/GenerarTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarRepteCia">
+      <soap:operation soapAction="http://tempuri.org/ListarRepteCia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarVentaMasiva">
+      <soap:operation soapAction="http://tempuri.org/RegistrarVentaMasiva" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarVentaMasiva">
+      <soap:operation soapAction="http://tempuri.org/ActualizarVentaMasiva" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCompaniaxModVenta">
+      <soap:operation soapAction="http://tempuri.org/ListarCompaniaxModVenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAtributosxModVenta">
+      <soap:operation soapAction="http://tempuri.org/ListarAtributosxModVenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAtributosxModVentaCompania">
+      <soap:operation soapAction="http://tempuri.org/ListarAtributosxModVentaCompania" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllTipoTicket">
+      <soap:operation soapAction="http://tempuri.org/ListarAllTipoTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtornarCompraVenta">
+      <soap:operation soapAction="http://tempuri.org/ExtornarCompraVenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtornarTicket">
+      <soap:operation soapAction="http://tempuri.org/ExtornarTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtornoRehabilitacion">
+      <soap:operation soapAction="http://tempuri.org/ExtornoRehabilitacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtenderVigenciaTicket">
+      <soap:operation soapAction="http://tempuri.org/ExtenderVigenciaTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTicket">
+      <soap:operation soapAction="http://tempuri.org/ActualizarTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnularTicket">
+      <soap:operation soapAction="http://tempuri.org/AnularTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarEstadoBCBP">
+      <soap:operation soapAction="http://tempuri.org/ActualizarEstadoBCBP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnularBCBP">
+      <soap:operation soapAction="http://tempuri.org/AnularBCBP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerVentaTicket">
+      <soap:operation soapAction="http://tempuri.org/ObtenerVentaTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnularTuua">
+      <soap:operation soapAction="http://tempuri.org/AnularTuua" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllMolinete">
+      <soap:operation soapAction="http://tempuri.org/ListarAllMolinete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarMolinete">
+      <soap:operation soapAction="http://tempuri.org/ActualizarMolinete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarVentaContingencia">
+      <soap:operation soapAction="http://tempuri.org/RegistrarVentaContingencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarContingencia">
+      <soap:operation soapAction="http://tempuri.org/ListarContingencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFechaActual">
+      <soap:operation soapAction="http://tempuri.org/ObtenerFechaActual" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSOperacionSoap12" type="tns:WSOperacionSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RegistrarOperacion">
+      <soap12:operation soapAction="http://tempuri.org/RegistrarOperacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarOpeCaja">
+      <soap12:operation soapAction="http://tempuri.org/RegistrarOpeCaja" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTasaCambioPorMoneda">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerTasaCambioPorMoneda" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarMonedasInter">
+      <soap12:operation soapAction="http://tempuri.org/ListarMonedasInter" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarCompraVenta">
+      <soap12:operation soapAction="http://tempuri.org/RegistrarCompraVenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarLimitesPorOperacion">
+      <soap12:operation soapAction="http://tempuri.org/ListarLimitesPorOperacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerPrecioTicket">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerPrecioTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarTipoTicket">
+      <soap12:operation soapAction="http://tempuri.org/ValidarTipoTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarCompaniaxFiltro">
+      <soap12:operation soapAction="http://tempuri.org/ConsultarCompaniaxFiltro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarVuelosxCompania">
+      <soap12:operation soapAction="http://tempuri.org/ListarVuelosxCompania" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarTicket">
+      <soap12:operation soapAction="http://tempuri.org/RegistrarTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GenerarTicket">
+      <soap12:operation soapAction="http://tempuri.org/GenerarTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarRepteCia">
+      <soap12:operation soapAction="http://tempuri.org/ListarRepteCia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarVentaMasiva">
+      <soap12:operation soapAction="http://tempuri.org/RegistrarVentaMasiva" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarVentaMasiva">
+      <soap12:operation soapAction="http://tempuri.org/ActualizarVentaMasiva" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCompaniaxModVenta">
+      <soap12:operation soapAction="http://tempuri.org/ListarCompaniaxModVenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAtributosxModVenta">
+      <soap12:operation soapAction="http://tempuri.org/ListarAtributosxModVenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAtributosxModVentaCompania">
+      <soap12:operation soapAction="http://tempuri.org/ListarAtributosxModVentaCompania" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllTipoTicket">
+      <soap12:operation soapAction="http://tempuri.org/ListarAllTipoTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtornarCompraVenta">
+      <soap12:operation soapAction="http://tempuri.org/ExtornarCompraVenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtornarTicket">
+      <soap12:operation soapAction="http://tempuri.org/ExtornarTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtornoRehabilitacion">
+      <soap12:operation soapAction="http://tempuri.org/ExtornoRehabilitacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtenderVigenciaTicket">
+      <soap12:operation soapAction="http://tempuri.org/ExtenderVigenciaTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTicket">
+      <soap12:operation soapAction="http://tempuri.org/ActualizarTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnularTicket">
+      <soap12:operation soapAction="http://tempuri.org/AnularTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarEstadoBCBP">
+      <soap12:operation soapAction="http://tempuri.org/ActualizarEstadoBCBP" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnularBCBP">
+      <soap12:operation soapAction="http://tempuri.org/AnularBCBP" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerVentaTicket">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerVentaTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnularTuua">
+      <soap12:operation soapAction="http://tempuri.org/AnularTuua" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllMolinete">
+      <soap12:operation soapAction="http://tempuri.org/ListarAllMolinete" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarMolinete">
+      <soap12:operation soapAction="http://tempuri.org/ActualizarMolinete" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarVentaContingencia">
+      <soap12:operation soapAction="http://tempuri.org/RegistrarVentaContingencia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarContingencia">
+      <soap12:operation soapAction="http://tempuri.org/ListarContingencia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFechaActual">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerFechaActual" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSOperacion">
+    <wsdl:port name="WSOperacionSoap" binding="tns:WSOperacionSoap">
+      <soap:address location="http://localhost:5078/WSDAO/WSOperacion.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSOperacionSoap12" binding="tns:WSOperacionSoap12">
+      <soap12:address location="http://localhost:5078/WSDAO/WSOperacion.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

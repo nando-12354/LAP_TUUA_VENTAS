@@ -1,0 +1,158 @@
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe.config
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\UTIL.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\bin\Debug\UTIL.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csprojResolveAssemblyReference.cache
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.ACS_FormContingenciaDesktop.resources
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.Properties.Resources.resources
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.GenerateResource.Cache
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.exe
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contigencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe.config
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\UTIL.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\UTIL.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csprojResolveAssemblyReference.cache
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.ACS_FormContingenciaDesktop.resources
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.Properties.Resources.resources
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.GenerateResource.Cache
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.exe
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe.config
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.exe
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\UTIL.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\UTIL.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csprojResolveAssemblyReference.cache
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.ACS_FormContingenciaDesktop.resources
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.Properties.Resources.resources
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.GenerateResource.Cache
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csprojAssemblyReference.cache
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.ACS_FormContingenciaDesktop.resources
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.Properties.Resources.resources
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.GenerateResource.cache
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.CoreCompileInputs.cache
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe.config
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.ALARMAS.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\UTIL.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\UTIL.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.CopyComplete
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.exe
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe.config
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.ALARMAS.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.SuggestedBindingRedirects.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.ACS_FormContingenciaDesktop.resources
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.Properties.Resources.resources
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.GenerateResource.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.CopyComplete
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.exe
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe.config
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.exe
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\swd_TuuaAccesos_Contingencia.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.ALARMAS.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\DATAACCESS.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\ENTIDADES.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\bin\Debug\UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.SuggestedBindingRedirects.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.ACS_FormContingenciaDesktop.resources
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\LAP.TUUA.ACCESOS.Properties.Resources.resources
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.GenerateResource.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.csproj.CopyComplete
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.exe
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos_contingencia\swd_TuuaAccesos\obj\Debug\swd_TuuaAccesos_Contingencia.pdb

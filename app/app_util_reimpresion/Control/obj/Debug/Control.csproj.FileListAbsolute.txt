@@ -1,0 +1,17 @@
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\Control.dll
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\Control.pdb
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\DATAACCESS.dll
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\ENTIDADES.dll
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\Microsoft.Practices.Unity.dll
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\UTIL.dll
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\CryptoHelper.dll
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\LAP\SVN2\ReImpresion\Control\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\LAP\SVN2\ReImpresion\Control\obj\Debug\ResolveAssemblyReference.cache
+C:\LAP\SVN2\ReImpresion\Control\obj\Debug\Control.dll
+C:\LAP\SVN2\ReImpresion\Control\obj\Debug\Control.pdb

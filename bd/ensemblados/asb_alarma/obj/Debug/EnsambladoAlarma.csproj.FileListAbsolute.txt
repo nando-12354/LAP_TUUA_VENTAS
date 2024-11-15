@@ -1,0 +1,10 @@
+D:\EnsambladoCorreo\EnsambladoAlarma\obj\Debug\ResolveAssemblyReference.cache
+D:\EnsambladoCorreo\EnsambladoAlarma\bin\Debug\Alarma.dll
+D:\EnsambladoCorreo\EnsambladoAlarma\bin\Debug\Alarma.pdb
+D:\EnsambladoCorreo\EnsambladoAlarma\obj\Debug\Alarma.dll
+D:\EnsambladoCorreo\EnsambladoAlarma\obj\Debug\Alarma.pdb
+D:\LAP_CLR_EMAIL\asembly alarmas\EnsambladoAlarma\bin\Debug\Alarma.dll
+D:\LAP_CLR_EMAIL\asembly alarmas\EnsambladoAlarma\bin\Debug\Alarma.pdb
+D:\LAP_CLR_EMAIL\asembly alarmas\EnsambladoAlarma\obj\Debug\ResolveAssemblyReference.cache
+D:\LAP_CLR_EMAIL\asembly alarmas\EnsambladoAlarma\obj\Debug\Alarma.dll
+D:\LAP_CLR_EMAIL\asembly alarmas\EnsambladoAlarma\obj\Debug\Alarma.pdb

@@ -1,0 +1,54 @@
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\UTIL.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\UTIL.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\UTIL.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\UTIL.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\LAP.TUUA.UTIL.csprojResolveAssemblyReference.cache
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\UTIL.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\UTIL.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\UTIL.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\UTIL.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\UTIL.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\UTIL.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\LAP.TUUA.UTIL.csproj.CoreCompileInputs.cache
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\LAP.TUUA.UTIL.csproj.CopyComplete
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\UTIL.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\LAP.TUUA.UTIL.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\LAP.TUUA.UTIL.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\LAP.TUUA.UTIL.csproj.CopyComplete
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\LAP.TUUA.UTIL.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\LAP.TUUA.UTIL.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\LAP.TUUA.UTIL.csproj.CopyComplete
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\UTIL\obj\Debug\UTIL.pdb

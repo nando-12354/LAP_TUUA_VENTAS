@@ -1,0 +1,52 @@
+COMENTARIO: Escoje el tipo de separador el cual estara entre los datos->(#)  No cambiar el orden de los parametros
+1 web service verificar red:	#http://172.20.0.125/tuua_api/api/TuuaAccesos/getstatus#
+2 web service registrar trama:	#http://172.20.0.125/tuua_api/api/TuuaAccesos/PostRegistrarTrama#
+3 web service registro contin:	#http://172.20.0.125/tuua_api/api/TuuaAccesos/PostRegistrarTramaContingencia#
+4 web service estado puerta:	#http://172.20.0.125/tuua_api/api/TuuaAccesos/GetMolinetePorCodigo?cod_molinete=#
+5 web service llaves destrabe:	#http://172.20.0.125/tuua_api/api/TuuaAccesos/GetLlavesDestrabe#
+6 Timeout verficar red:		#10#
+7 Timeout registrar trama:	#10#
+8 Timeout registro contin:	#10#
+9 Timeout estado puerta:	#10#
+10 Timeout llaves de destrabe:	#10#
+11 Horas antes:			#12#
+12 Horas despues:		#12#
+13 Borrado base de datos:	#30#
+14 Borrado log:			#30#
+15 Hora de borrado:		#13:06#
+16 Base de datos(l/u/p/n):	#localhost,root,,lap#
+17 Aeropuerto origen:		#LIM#
+18 Nombre puerta:		#L27#
+19 luz scanner:			#COM20#
+20 puerto scanner:		#COM25#
+21 longitud tuua :		#16#
+22 direccion controlador:	#http://192.168.0.200:8081/#
+23 estado cerrado puerta:	#L#
+24 estado abierto puerta:	#O#
+25 estado normal puerta:	#E#
+26 rango de muestreo:		#50#
+27 duracion de muestreo:	#0.5#
+28 status query:		#SQ#
+29 autorizar pase:		#CC#
+30 intento de fraude:		#CR#
+31 Completo pase:		#QBOK#
+32 regreso:			#CNXB#
+33 incompleto pase:		#TODT#
+34 bloqueo:			#FRXO#
+35 paso incorrecto:		#FR2X#
+36 emergencia:			#EXOK#
+37 mnsj bloqueado esp :		#bloqueado#
+38 mnsj bloqueado en :		#locked#
+39 mnsj desbloqueado esp :	#desbloqueado#
+40 mnsj desbloqueado en :	#unlocked#
+41 mnsj mul esp :		#pase ticket (mul)#
+42 mnsj mul en :		#pass ticket (mul)#
+43 mnsj de pase :		#Registro Satisfactorio#
+44 mnsj de no pase por hora:	#Se encuentra fuera del rango de hora#
+45 mnsj de no pase aeropuerto:	#Aeropuerto equivocado#
+46 mnsj de no pase ya utilizado:#Boleto utilizado previamente#
+47 mnsj de no pase :		#No pase#
+48 mnsj de transito :		#PASAJERO EN TRANSITO#
+49 mnsj bienvenido esp :	#Bienvenido#
+50 mnsj bienvenido en :		#Welcome#
+51 pasajero pasando :		#PROK#

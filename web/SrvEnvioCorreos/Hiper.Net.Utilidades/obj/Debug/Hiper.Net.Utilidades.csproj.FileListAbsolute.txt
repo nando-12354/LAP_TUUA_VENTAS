@@ -1,0 +1,17 @@
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Debug\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Debug\Hiper.Net.Utilidades.pdb
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Debug\Hiper.BMatic.Net.mVersion.dll
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Debug\Hiper.BMatic.Net.mVersion.pdb
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\Debug\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\Debug\Hiper.Net.Utilidades.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\Debug\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\Debug\Hiper.Net.Utilidades.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\Debug\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\Debug\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\Debug\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\Debug\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\Debug\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\Debug\Hiper.Net.Utilidades.pdb

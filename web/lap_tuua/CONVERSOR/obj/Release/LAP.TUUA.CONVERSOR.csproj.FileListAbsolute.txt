@@ -1,0 +1,11 @@
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\lap_tuua\CONVERSOR\bin\Release\LAP.TUUA.CONVERSOR.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\lap_tuua\CONVERSOR\bin\Release\LAP.TUUA.CONVERSOR.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\lap_tuua\CONVERSOR\obj\Release\ResolveAssemblyReference.cache
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\lap_tuua\CONVERSOR\obj\Release\LAP.TUUA.CONVERSOR.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\lap_tuua\CONVERSOR\obj\Release\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\bin\Release\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\bin\Release\LAP.TUUA.CONVERSOR.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\obj\Release\LAP.TUUA.CONVERSOR.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\obj\Release\LAP.TUUA.CONVERSOR.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\obj\Release\LAP.TUUA.CONVERSOR.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\web\lap_tuua\CONVERSOR\obj\Release\LAP.TUUA.CONVERSOR.pdb

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://200.37.104.11/uwbs_bp/WSConsultas.asmx?wsdl" docRef="http://200.37.104.11/uwbs_bp/WSConsultas.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://200.37.104.11/uwbs_bp/WSConsultas.asmx" xmlns:q1="http://www.lap.com.pe/" binding="q1:WSConsultasSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://200.37.104.11/uwbs_bp/WSConsultas.asmx" xmlns:q2="http://www.lap.com.pe/" binding="q2:WSConsultasSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

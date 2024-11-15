@@ -1,0 +1,648 @@
+﻿Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service sb_Base...
+Service sb_Base has been successfully installed.
+Creating EventLog source sb_Base in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source sb_Base.
+Service sb_Base is being removed from the system...
+Service sb_Base was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service sb_Base...
+Service sb_Base has been successfully installed.
+Creating EventLog source sb_Base in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source sb_Base.
+Service sb_Base is being removed from the system...
+Service sb_Base was successfully removed from the system.
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source sb_Base.
+Warning: The source sb_Base is not registered on the local machine.
+Service sb_Base is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service sb_Base...
+Service sb_Base has been successfully installed.
+Creating EventLog source sb_Base in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source sb_Base.
+Service sb_Base is being removed from the system...
+Service sb_Base was successfully removed from the system.
+Attempt to stop service sb_Base.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service sb_BaseService...
+Service sb_BaseService has been successfully installed.
+Creating EventLog source sb_BaseService in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source sb_BaseService.
+Service sb_BaseService is being removed from the system...
+Service sb_BaseService was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service sb_BaseService...
+Service sb_BaseService has been successfully installed.
+Creating EventLog source sb_BaseService in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source sb_BaseService.
+Service sb_BaseService is being removed from the system...
+Service sb_BaseService was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service sb_BaseService...
+Service sb_BaseService has been successfully installed.
+Creating EventLog source sb_BaseService in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source sb_BaseService.
+Service sb_BaseService is being removed from the system...
+Service sb_BaseService was successfully removed from the system.
+Attempt to stop service sb_BaseService.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service sb_BaseService...
+Service sb_BaseService has been successfully installed.
+Creating EventLog source sb_BaseService in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source sb_BaseService.
+Service sb_BaseService is being removed from the system...
+Service sb_BaseService was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service sb_BaseService...
+Service sb_BaseService has been successfully installed.
+Creating EventLog source sb_BaseService in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source sb_BaseService.
+Service sb_BaseService is being removed from the system...
+Service sb_BaseService was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service sb_BaseService...
+Service sb_BaseService has been successfully installed.
+Creating EventLog source sb_BaseService in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Warning: The source TUUAServicios is not registered on the local machine.
+Service TUUAServicios is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Service TUUAServicios is being removed from the system...
+Service TUUAServicios was successfully removed from the system.
+Attempt to stop service TUUAServicios.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Service TUUAServicios is being removed from the system...
+Service TUUAServicios was successfully removed from the system.
+Attempt to stop service TUUAServicios.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Service TUUAServicios is being removed from the system...
+Service TUUAServicios was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Service TUUAServicios is being removed from the system...
+Service TUUAServicios was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Service TUUAServicios is being removed from the system...
+Service TUUAServicios was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Service TUUAServicios is being removed from the system...
+Service TUUAServicios was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Service TUUAServicios is being removed from the system...
+Service TUUAServicios was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Creating EventLog source TUUAServicios in log Application...
+Rolling back assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Restoring event log to previous state for source TUUAServicios.
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Service TUUAServicios is being removed from the system...
+Service TUUAServicios was successfully removed from the system.
+Attempt to stop service TUUAServicios.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Service TUUAServicios is being removed from the system...
+Service TUUAServicios was successfully removed from the system.
+Attempt to stop service TUUAServicios.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Uninstalling assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Removing EventLog source TUUAServicios.
+Service TUUAServicios is being removed from the system...
+Service TUUAServicios was successfully removed from the system.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Creating EventLog source TUUAServicios in log Application...
+Rolling back assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Restoring event log to previous state for source TUUAServicios.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Creating EventLog source TUUAServicios in log Application...
+Rolling back assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Restoring event log to previous state for source TUUAServicios.
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Installing service TUUAServicios...
+Service TUUAServicios has been successfully installed.
+Creating EventLog source TUUAServicios in log Application...
+Committing assembly 'D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Instalando ensamblado 'C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Instalando el servicio TUUAServicios...
+El servicio TUUAServicios se ha instalado correctamente.
+Creando el origen de EventLog TUUAServicios en el registro Application...
+Confirmando ensamblado 'C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Desinstalando ensamblado 'C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   logfile = C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Quitando el origen de EventLog TUUAServicios.
+Se está quitando el servicio TUUAServicios del sistema...
+El servicio TUUAServicios se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog
+Instalando el servicio TUUAServicios...
+El servicio TUUAServicios se ha instalado correctamente.
+Creando el origen de EventLog TUUAServicios en el registro Application...
+Confirmando ensamblado 'C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+   i = 
+   logfile = C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.InstallLog

@@ -1,0 +1,145 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="tuua.master.cs" Inherits="LAP.Tuua.Web.tuua" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxControlToolkit" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Reportes TUUA</title>
+    <link href="css/lap.css" rel="stylesheet" type="text/css" />
+    <link href="css/Style.css" rel="stylesheet" type="text/css" />
+
+    <script language="javascript" type="text/javascript">
+        window.history.forward();
+    </script>
+
+    <asp:ContentPlaceHolder ID="cphCabecera" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table style="width: 100%; height: 100%;">
+        <tr>
+            <td valign="top">
+                <table style="width: 100%">
+                    <tr>
+                        <td align="right" style="width: 5%">
+                            <asp:Image ID="imgLogo1" runat="server" AlternateText="Logotipo" ImageUrl="~/Imagenes/logoTuua.jpg" />
+                        </td>
+                        <td style="width: 35%">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <font style="font-family: Verdana; font-size: 10pt;"><b>
+                                            <asp:Label ID="lblAplicacion" runat="server"></asp:Label></b></font>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="right">
+                                        <font color="#e3955f" style="font-family: Verdana; font-size: 10pt;"><b>Sistemas de
+                                            Información LAP</b></font>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td align="right">
+                            <asp:Image ID="imgLogo2" runat="server" AlternateText="Logotipo" ImageUrl="~/Imagenes/Logo.JPG" />
+                        </td>
+                    </tr>
+                </table>
+                <table style="width: 100%">
+                    <tr>
+                        <td class="menuTitulo" style="height: 2px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="menu">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <asp:Menu ID="barMenu" runat="server" Orientation="Horizontal" OnMenuItemClick="barMenu_MenuItemClick"
+                                            MaximumDynamicDisplayLevels="10" StaticSubMenuIndent="">
+                                            <StaticMenuItemStyle CssClass="menu" />
+                                            <StaticMenuStyle CssClass="menu" />
+                                            <StaticSelectedStyle CssClass="menuSelected" />
+                                            <StaticHoverStyle CssClass="menuHover" />
+                                            <DynamicHoverStyle CssClass="menuHover" />
+                                            <DynamicMenuStyle CssClass="menu" />
+                                            <DynamicSelectedStyle CssClass="menuSelected" />
+                                            <DynamicMenuItemStyle CssClass="menu" />
+                                        </asp:Menu>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="menuDatos">
+                            <table style="width: 100%">
+                                <tr>
+                                    <td>
+                                        <asp:Label ID="lblUsuario" runat="server" CssClass="menuDatos" Text="Usuario:"></asp:Label>
+                                        <asp:Label ID="lblUsuarioDesc" runat="server" CssClass="menuDatos"></asp:Label>
+                                    </td>
+                                    <td align="right">
+                                        <asp:Label ID="lblFechaDesc" runat="server" CssClass="menuDatos"></asp:Label>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="menuTitulo" style="height: 2px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" colspan="2">
+                            <asp:Label ID="lblFecha" runat="server" CssClass="mensaje"></asp:Label>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <asp:ContentPlaceHolder ID="cphContenido" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table style="width: 100%">
+                    <tr>
+                        <td colspan="2">
+                            <asp:Label ID="lblMensaje" runat="server" CssClass="mensaje"></asp:Label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 50%">
+                            <asp:Label ID="lblPowered" runat="server" Text="Powered by"></asp:Label>
+                            <asp:HyperLink ID="lnkIntellisoft" runat="server" NavigateUrl="http://www.lap.com.pe"
+                                Target="_blank">IT - LAP 2010</asp:HyperLink>
+                        </td>
+                        <td align="right" style="width: 50%">
+                            <table>
+                                <tr>
+                                    <td style="width: 100px">
+                                    </td>
+                                    <td>
+                                    </td>
+                                    <td align="right" style="width: 100px">
+                                        <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click" CausesValidation="False">[ Cerrar Sesión ]</asp:LinkButton>
+                                    </td>
+                                </tr>
+                            </table>
+                            <ajaxControlToolkit:ConfirmButtonExtender ID="cbeLogout" runat="server" ConfirmOnFormSubmit="True"
+                                ConfirmText="¿Está seguro que desea cerrar la sesión actual?" TargetControlID="btnLogout">
+                            </ajaxControlToolkit:ConfirmButtonExtender>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

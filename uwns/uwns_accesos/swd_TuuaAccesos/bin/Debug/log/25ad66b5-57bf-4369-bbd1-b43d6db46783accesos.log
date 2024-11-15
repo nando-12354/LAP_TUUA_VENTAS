@@ -1,0 +1,24 @@
+20/09/2015 20:15:41:936  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 20:15:42:412  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+20/09/2015 20:15:42:442  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+20/09/2015 20:15:42:450  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Pin Pad
+20/09/2015 20:15:42:452  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Semaforo Molinete
+20/09/2015 20:15:57:373  LAP.TUUA.ACCESOS.ACS_InterfazLector   INICIA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 20:15:57:373  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:0?3DES000006?
+20/09/2015 20:15:57:679  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 20:15:57:689  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 20:15:57:689  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 20:16:40:282  LAP.TUUA.ACCESOS.ACS_InterfazLector   Usuario no autorizado, No se Destraba Molinete
+20/09/2015 20:16:40:283  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 20:16:40:283  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 20:16:40:334  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+20/09/2015 20:16:52:823  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 20:17:02:487  LAP.TUUA.ACCESOS.ACS_InterfazLector   INICIA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 20:17:02:488  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:0?3DES000006?
+20/09/2015 20:17:02:518  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 20:17:02:518  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 20:17:02:518  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 20:18:04:729  LAP.TUUA.ACCESOS.ACS_InterfazLector   Usuario no autorizado, No se Destraba Molinete
+20/09/2015 20:18:04:729  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 20:18:04:729  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 20:18:52:094  LAP.TUUA.ACCESOS.ACS_InterfazLector   LECTOR NO RESPONDE

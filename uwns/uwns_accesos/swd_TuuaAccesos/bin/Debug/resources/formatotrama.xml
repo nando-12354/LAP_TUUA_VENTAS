@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<boarding>
+<formato nombre="format_code" 		tipo="M">
+      <key>
+            <!-- <campo nombre="format_code" />
+            <campo nombre="electronic_ticket_indicator" />
+            <campo nombre="airline_designator" />-->
+            <campo nombre="airline_designator" />
+            <campo nombre="flight_number" />
+            <campo nombre="date_flight" />
+            <campo nombre="seat_number" />
+            <campo nombre="passenger_name" />
+      </key>
+      <general_information>
+            <campo nombre = "format_code"					 	tam="1"/>
+            <campo nombre = "number_segments_encoded"		 	tam="1"/>
+            <campo nombre = "passenger_name"				 	tam="20"/>
+            <campo nombre = "electronic_ticket_indicator"		tam="01"/>
+      </general_information>      
+      <flight_information>
+            <campo nombre = "operating_carrier_pnrcode"	tam="7"/>
+            <campo nombre = "from_city_airport_code"	tam="3"/>
+            <campo nombre = "to_city_airport_code"		tam="3"/>
+            <campo nombre = "airline_designator"		tam="3"/>
+            <campo nombre = "flight_number"				tam="5"/>
+            <campo nombre = "date_flight"				tam="3"/>
+            <campo nombre = "compartment_code"			tam="1"/>
+            <campo nombre = "seat_number"				tam="4"/>
+            <campo nombre = "checkin_sequence_number"	tam="5"/>
+            <campo nombre = "passenger_status"			tam="1"/>
+            <campo nombre = "file_size_individual_use"	tam="2"/>
+      </flight_information>
+</formato>
+
+</boarding>

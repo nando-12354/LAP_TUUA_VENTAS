@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/app/app_ventas/.vs/LAP-TUUA-VENTAS/FileContentIndex/ec770002-0b57-4d27-bd2b-921a23bb005f.vsidx
+
+.vs/
+../../web/componentes comunes/DATAACCESS/obj/
+../../web/componentes comunes/UTIL/obj/

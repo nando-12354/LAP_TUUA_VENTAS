@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\uwbs_bp</_PublishTargetUrl>
+    <History>True|2022-09-20T02:43:19.1572007Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DAO.dll">
+      <publishTime>09/19/2022 21:39:18</publishTime>
+    </File>
+    <File Include="bin/DAO.pdb">
+      <publishTime>09/19/2022 21:39:18</publishTime>
+    </File>
+    <File Include="bin/LAP.EXTRANET.UTIL.dll">
+      <publishTime>09/19/2022 21:39:18</publishTime>
+    </File>
+    <File Include="bin/LAP.EXTRANET.UTIL.pdb">
+      <publishTime>09/19/2022 21:39:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Logging.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ObjectBuilder2.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/WSBP.dll">
+      <publishTime>09/19/2022 21:43:19</publishTime>
+    </File>
+    <File Include="bin/WSBP.pdb">
+      <publishTime>09/19/2022 21:43:19</publishTime>
+    </File>
+    <File Include="resources/spconfig.xml">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/19/2022 21:39:09</publishTime>
+    </File>
+    <File Include="WSConsultas.asmx">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

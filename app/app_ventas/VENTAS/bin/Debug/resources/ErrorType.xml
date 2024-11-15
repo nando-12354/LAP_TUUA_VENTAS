@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ERRORTYPES>
+  <ERRORTYPE>
+    <CODE>000</CODE>
+    <NAME>ERROR NO IDENTIFICADO</NAME>
+    <MESSAGE>Error no identificado.</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>001</CODE>
+    <NAME>ARCHIVO NO ENCONTRADO</NAME>
+    <MESSAGE>El archivo de configuracion no existe.</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>002</CODE>
+    <NAME>ARCHIVO NO ENCONTRADO</NAME>
+    <MESSAGE>El archivo de configuracion de stores no existe.</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>003</CODE>
+    <NAME>ERROR EN CONFIGURACION</NAME>
+    <MESSAGE>El archivo de stores no esta configurado correctamente.</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>004</CODE>
+    <NAME>ERROR EN ARCHIVO DE RECURSOS</NAME>
+    <MESSAGE>El archivo de Recursos no encontrado.</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>005</CODE>
+    <NAME>Operación invalida</NAME>
+    <MESSAGE>No existe objeto en Base de Datos.</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>006</CODE>
+    <NAME>ERROR EN CONEXION</NAME>
+    <MESSAGE>Error en Base de Datos.</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>007</CODE>
+    <NAME>ERROR EN CONFIGURACION</NAME>
+    <MESSAGE>Error en configuracion de Archivo: Config.Properties</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>008</CODE>
+    <NAME>ERROR EN CONFIGURACION</NAME>
+    <MESSAGE>Error de configuracion de Archivo: Label.Properties</MESSAGE>
+  </ERRORTYPE>
+  <ERRORTYPE>
+    <CODE>009</CODE>
+    <NAME>PAGINA NO ENCONTRADA</NAME>
+    <MESSAGE>Archivo no encontrado</MESSAGE>
+  </ERRORTYPE>
+</ERRORTYPES>

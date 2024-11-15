@@ -1,0 +1,23 @@
+﻿Installing assembly 'G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Installing service TUUASincro...
+Service TUUASincro has been successfully installed.
+Creating EventLog source TUUASincro in log Application...
+Committing assembly 'G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Uninstalling assembly 'G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe
+   logfile = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Removing EventLog source TUUASincro.
+Service TUUASincro is being removed from the system...
+Service TUUASincro was successfully removed from the system.

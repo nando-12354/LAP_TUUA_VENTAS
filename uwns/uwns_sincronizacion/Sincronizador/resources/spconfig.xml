@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<procedures>			  
+  <SP nombre="usp_ope_cns_allmolinete_sel"	alias="MSP_LISTARALLMOLINETE">
+    <argumentos>
+      <argumento nombre="Modo_SIN"       		alias="Modo_SIN" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento   nombre="Dsc_Information"     alias="Dsc_Information" />      
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_scz_pcs_centralTolocal_ins"	alias="SP_SINCCENTRALTOLOCAL_TABLAS">
+    <argumentos>
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento   nombre="Dsc_Information"     alias="Dsc_Information" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_scz_pcs_localToCentral_ins"	alias="SP_SINCLOCALTOCENTRAL_TC_BP">
+    <argumentos>
+      <argumento nombre="IP_SERVIDOR"          alias="IP_SERVIDOR" />
+      <argumento nombre="DBName"          alias="DBName" />
+      <argumento nombre="cDsc_IP"    	  	alias="cDsc_IP" />
+      <argumento nombre="nInter_reg"    	  	alias="nInter_reg" />
+      <argumento nombre="Modo_SIN"       		alias="Modo_SIN" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento   nombre="Dsc_Information"     alias="Dsc_Information" />
+    </argumentos>
+  </SP>
+  
+  
+</procedures>

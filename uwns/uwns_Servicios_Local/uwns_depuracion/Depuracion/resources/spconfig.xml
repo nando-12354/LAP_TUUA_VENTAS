@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<procedures>			  
+  <SP nombre="usp_ope_cns_allmolinete_sel"	alias="MSP_LISTARALLMOLINETE">
+    <argumentos>
+      <argumento nombre="Modo_SIN"       		alias="Modo_SIN" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento   nombre="Dsc_Information"     alias="Dsc_Information" />      
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_scz_pcs_DepuracionLocal"	alias="SP_DEPURACIONLOCAL">
+    <argumentos>
+      <argumento nombre="IP_SERVIDOR"    	  	alias="IP_SERVIDOR" />
+      <argumento nombre="cDsc_IP"    	  	alias="cDsc_IP" />
+      <argumento nombre="DBName"    	  	alias="DBName" />
+      <argumento nombre="numero"       		alias="numero" />      
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento nombre="Dsc_Information"     alias="Dsc_Information" />
+      
+    </argumentos>
+  </SP>
+
+
+  
+  
+</procedures>

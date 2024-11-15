@@ -1,0 +1,7 @@
+C:\LAP\SVN2\ReImpresion\PrinterReI\obj\Debug\ResolveAssemblyReference.cache
+C:\LAP\SVN2\ReImpresion\PrinterReI\obj\Debug\LAP.TUUA.PRINTER.frmPrintNet.resources
+C:\LAP\SVN2\ReImpresion\PrinterReI\obj\Debug\PrinterReI.csproj.GenerateResource.Cache
+C:\LAP\SVN2\ReImpresion\PrinterReI\bin\Debug\PrinterReI.dll
+C:\LAP\SVN2\ReImpresion\PrinterReI\bin\Debug\PrinterReI.pdb
+C:\LAP\SVN2\ReImpresion\PrinterReI\obj\Debug\PrinterReI.dll
+C:\LAP\SVN2\ReImpresion\PrinterReI\obj\Debug\PrinterReI.pdb

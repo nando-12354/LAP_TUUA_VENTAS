@@ -1,0 +1,68 @@
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\CONTROL.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\CONTROL.pdb
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\DATAACCESS.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\ENTIDADES.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\UTIL.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\CryptoHelper.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\ENTIDADES.pdb
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\DATAACCESS.pdb
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\UTIL.pdb
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\obj\Debug\ResolveAssemblyReference.cache
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\obj\Debug\CONTROL.dll
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\obj\Debug\CONTROL.pdb
+C:\LAP\SVN\Modulo Archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\CONTROL.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\CONTROL.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\ENTIDADES.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\CryptoHelper.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\ENTIDADES.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\obj\Debug\CONTROL.dll
+C:\Documents and Settings\esilva\Escritorio\V1.3.3.0_HIPER\modulo archivamiento\CONTROL\obj\Debug\CONTROL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\CONTROL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\CONTROL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\DATAACCESS.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\ENTIDADES.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\CryptoHelper.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\ENTIDADES.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\DATAACCESS.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\bin\Debug\UTIL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\obj\Debug\CONTROL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.6\modulo archivamiento\CONTROL\obj\Debug\CONTROL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\CONTROL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\CONTROL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\DATAACCESS.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\ENTIDADES.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\CryptoHelper.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\ENTIDADES.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\DATAACCESS.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\bin\Debug\UTIL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\obj\Debug\CONTROL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo archivamiento\CONTROL\obj\Debug\CONTROL.pdb

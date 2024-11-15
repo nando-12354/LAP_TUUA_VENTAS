@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="txtTitulo1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P1</Value>
+    </Setting>
+    <Setting Name="txtTitulo2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M1</Value>
+    </Setting>
+    <Setting Name="txtTitulo3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M2</Value>
+    </Setting>
+    <Setting Name="txtTitulo4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M3</Value>
+    </Setting>
+    <Setting Name="txtTitulo5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M4</Value>
+    </Setting>
+    <Setting Name="txtTitulo6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

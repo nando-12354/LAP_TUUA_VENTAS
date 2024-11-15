@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="BD_TUUA_PRD" Class="DBTUUADataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=172.20.0.100;Initial Catalog=BD_TUUA_PRD;User ID=usr_tuua" SettingsObjectName="VuelosTUUA.My.MySettings" SettingsPropertyName="BD_TUUA_PRDConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TUA_Compania" Member="TUA_Companias">
+    <Type Name="TUA_Compania">
+      <Column Name="Cod_Compania" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Tip_Compania" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="Dsc_Compania" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Fch_Creacion" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Cod_Especial_Compania" Type="System.String" DbType="Char(3)" CanBeNull="true" />
+      <Column Name="Cod_Aerolinea" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="Cod_SAP" Type="System.String" DbType="Char(16)" CanBeNull="true" />
+      <Column Name="Cod_OACI" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Column Name="Cod_IATA" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Column Name="Dsc_Ruc" Type="System.String" DbType="Char(11)" CanBeNull="true" />
+      <Column Name="Tip_Estado" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="Log_Usuario_Mod" Type="System.String" DbType="Char(7)" CanBeNull="true" />
+      <Column Name="Log_Fecha_Mod" Type="System.String" DbType="Char(8) NOT NULL" CanBeNull="false" />
+      <Column Name="Log_Hora_Mod" Type="System.String" DbType="Char(6) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TUA_VueloProgramado" Member="TUA_VueloProgramados">
+    <Type Name="TUA_VueloProgramado">
+      <Column Name="Cod_Compania" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Num_Vuelo" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Fch_Vuelo" Type="System.String" DbType="Char(8) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Hor_Vuelo" Type="System.String" DbType="Char(6) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Dsc_Vuelo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Tip_Vuelo" Type="System.Char" DbType="Char(1) NOT NULL" CanBeNull="false" />
+      <Column Name="Tip_Estado" Type="System.Char" DbType="Char(1) NOT NULL" CanBeNull="false" />
+      <Column Name="Dsc_Destino" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="Log_Usuario_Mod" Type="System.String" DbType="Char(7)" CanBeNull="true" />
+      <Column Name="Log_Fecha_Mod" Type="System.String" DbType="Char(8)" CanBeNull="true" />
+      <Column Name="Log_Hora_Mod" Type="System.String" DbType="Char(6)" CanBeNull="true" />
+      <Column Name="Flg_Programado" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

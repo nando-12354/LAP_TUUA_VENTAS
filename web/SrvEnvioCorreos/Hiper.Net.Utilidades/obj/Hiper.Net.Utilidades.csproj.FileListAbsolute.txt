@@ -1,0 +1,115 @@
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5_@_\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5_@_\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5_@_\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5_@_\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5_@_\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5_@_\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5_@_\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Debug\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Debug\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Debug\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Debug\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\Debug\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\Debug\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT4\FUENTES\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.1.1.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.4\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.4\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.4\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.4\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.4\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.4\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.4\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.5\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.5\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.5\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.5\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.5\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.5\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT\integracion\V4.1.1.5\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+F:\Sistemas\BMatic\BBVA Colombia\svn\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+F:\Sistemas\BMatic\BBVA Colombia\svn\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+F:\Sistemas\BMatic\BBVA Colombia\svn\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+F:\Sistemas\BMatic\BBVA Colombia\svn\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+F:\Sistemas\BMatic\BBVA Colombia\svn\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Sistemas\BMatic\BBVA Colombia\svn\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+F:\Sistemas\BMatic\BBVA Colombia\svn\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\V4.1.3.1\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\4.1.3.2\V4.1.3.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\4.1.3.2\V4.1.3.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\4.1.3.2\V4.1.3.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\4.1.3.2\V4.1.3.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\4.1.3.2\V4.1.3.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\4.1.3.2\V4.1.3.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\4.1.3.2\V4.1.3.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\CONGELAMIENTOS\V4.1.3.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\CONGELAMIENTOS\V4.1.3.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\CONGELAMIENTOS\V4.1.3.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\CONGELAMIENTOS\V4.1.3.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\HUMBERTO\HIPER\PROYECTOS BMATIC\7597-BBVA\CONGELAMIENTOS\V4.1.3.3\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.1.5.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.1.5.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.1.5.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.1.5.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT\integracion\V4.1.5.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.1.5.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.1.5.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Luz\BMatic\V4.1.5.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.1.5.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Luz\BMatic\V4.1.5.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Luz\BMatic\V4.1.5.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Luz\BMatic\V4.1.5.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Luz\BMatic\V4.1.5.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.1.5.2\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\BMATIC FUENTES\HIPBMAT\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\BMATIC FUENTES\HIPBMAT\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\BMATIC FUENTES\HIPBMAT\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\BMATIC FUENTES\HIPBMAT\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\BMATIC FUENTES\HIPBMAT\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\BMATIC FUENTES\HIPBMAT\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\BMATIC FUENTES\HIPBMAT\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+C:\Users\dcespedes\Documents\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+C:\Users\dcespedes\Documents\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+C:\Users\dcespedes\Documents\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+C:\Users\dcespedes\Documents\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+C:\Users\dcespedes\Documents\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dcespedes\Documents\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+C:\Users\dcespedes\Documents\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb

@@ -1,0 +1,121 @@
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\NATIVO.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\NATIVO.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\UTIL.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\CryptoHelper.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\bin\Debug\UTIL.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\obj\Debug\NATIVO.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\app\app_ventas\NATIVO\obj\Debug\NATIVO.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\NATIVO.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\NATIVO.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\UTIL.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\CryptoHelper.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\bin\Debug\UTIL.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\obj\Debug\ResolveAssemblyReference.cache
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\obj\Debug\NATIVO.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\app\app_ventas\NATIVO\obj\Debug\NATIVO.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\obj\Debug\LAP.TUUA.NATIVO.csproj.AssemblyReference.cache
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\obj\Debug\LAP.TUUA.NATIVO.csproj.CoreCompileInputs.cache
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\NATIVO.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\NATIVO.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\UTIL.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\CryptoHelper.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\Renci.SshNet.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\UTIL.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\bin\Debug\Renci.SshNet.xml
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\obj\Debug\LAP.TUUA.NATIVO.csproj.CopyComplete
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\obj\Debug\NATIVO.dll
+D:\repos\LAP\LAP_TUUA (1)\Fuentes\app\app_ventas\NATIVO\obj\Debug\NATIVO.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\NATIVO.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\NATIVO.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\UTIL.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\CryptoHelper.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\Renci.SshNet.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\UTIL.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.pdb
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\bin\Debug\Renci.SshNet.xml
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\obj\Debug\LAP.TUUA.NATIVO.csprojResolveAssemblyReference.cache
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\obj\Debug\NATIVO.dll
+D:\LAP\Ventas\Fuentes\app\app_ventas\NATIVO\obj\Debug\NATIVO.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\NATIVO.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\NATIVO.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\UTIL.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\CryptoHelper.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\Renci.SshNet.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\UTIL.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\bin\Debug\Renci.SshNet.xml
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\obj\Debug\LAP.TUUA.NATIVO.csproj.AssemblyReference.cache
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\obj\Debug\LAP.TUUA.NATIVO.csproj.CoreCompileInputs.cache
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\obj\Debug\LAP.TUUA.938E1EA7.Up2Date
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\obj\Debug\NATIVO.dll
+C:\Users\Nando\source\repos\LAP_TUUA_BD_SCRIPTS\app\app_ventas\NATIVO\obj\Debug\NATIVO.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\NATIVO.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\NATIVO.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\UTIL.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\CryptoHelper.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\Renci.SshNet.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\DATAACCESS.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\ENTIDADES.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\UTIL.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\LAP.TUUA.CONEXION.pdb
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\bin\Debug\Renci.SshNet.xml
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\obj\Debug\LAP.TUUA.NATIVO.csproj.AssemblyReference.cache
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\obj\Debug\LAP.TUUA.NATIVO.csproj.CoreCompileInputs.cache
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\obj\Debug\LAP.TUUA.938E1EA7.Up2Date
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\obj\Debug\NATIVO.dll
+C:\Users\Nando\source\repos\LAP_TUUA_VENTAS\app\app_ventas\NATIVO\obj\Debug\NATIVO.pdb

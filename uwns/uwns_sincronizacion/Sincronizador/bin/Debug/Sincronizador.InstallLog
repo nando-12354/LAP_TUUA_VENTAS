@@ -1,0 +1,83 @@
+﻿Installing assembly 'G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Installing service TUUASincro...
+Service TUUASincro has been successfully installed.
+Creating EventLog source TUUASincro in log Application...
+Committing assembly 'G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Uninstalling assembly 'G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.exe
+   logfile = G:\PROYECTOS\LAP-TUUA-6533\FUENTES\SINCRO\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Removing EventLog source TUUASincro.
+Service TUUASincro is being removed from the system...
+Service TUUASincro was successfully removed from the system.
+Instalando ensamblado 'D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Instalando el servicio TUUASincro...
+El servicio TUUASincro se ha instalado correctamente.
+Creando el origen de EventLog TUUASincro en el registro Application...
+Confirmando ensamblado 'D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = D:\Proyectos\TUUA\repositorio\V1.4.6.0\Fuentes\uwns\uwns_sincroligth\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Instalando ensamblado 'D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Instalando el servicio TUUASincro...
+El servicio TUUASincro se ha instalado correctamente.
+Creando el origen de EventLog TUUASincro en el registro Application...
+Confirmando ensamblado 'D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Instalando ensamblado 'D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Instalando el servicio TUUASincro...
+Creando el origen de EventLog TUUASincro en el registro Application...
+Deshaciendo ensamblado 'D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen TUUASincro.
+Instalando ensamblado 'D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Instalando el servicio TUUASincro...
+Creando el origen de EventLog TUUASincro en el registro Application...
+Deshaciendo ensamblado 'D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.exe
+   i = 
+   logfile = D:\Luz\LAP\Repositorio\V1.4.6.2\Fuentes\uwns_sincronizacion\Sincronizador\bin\Debug\Sincronizador.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen TUUASincro.

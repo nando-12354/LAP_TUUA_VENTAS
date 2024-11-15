@@ -1,0 +1,297 @@
+﻿@model SEAE_Entidades.TuuaSeae
+
+@{
+    ViewBag.Title = "Comprobante SEAE";
+}
+
+<style>
+    @@media print {
+        #formulario{
+            display: none;
+        }
+        #footer_div{
+            display: none;
+        }
+        #page_footer{
+            display: none;
+        }
+    }
+</style>
+
+<script src="~/Scripts/vue.global.js"></script>
+<script src="~/Scripts/axios.min.js"></script>
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="container" id="vapp">
+
+        <div class="card" id="formulario">
+            <div class="card-header">
+                Impresión del comprobante SEAE (Pago TUUA)
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label" for="compania">Compañía</label>
+                            <div class="col-sm-8">
+                                <select class="form-control" name="compania" id="compania" v-on:change="companiaChange()" v-model="codCompania">
+                                    <option v-for="com in companias" :key="com.Cod_Compania" v-bind:value="com.Cod_Compania">{{com.Dsc_Compania}}</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label" for="fechaVuelo">Fecha de Vuelo</label>
+                            <div class="col-sm-8">
+                                <input type="date" name="fechaVuelo" id="fechaVuelo" class="form-control" v-model="fechaVuelo"/>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label" for="nroVuelo">Nro. de Vuelo</label>
+                            <div class="col-sm-8">
+                                <select class="form-control" name="nroVuelo" id="nroVuelo" v-model="numVuelo">
+                                    <option v-for="vuelo in vuelos" v-bind:value="vuelo.Num_Vuelo">{{vuelo.Num_Vuelo}}</option>
+                                </select>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label" for="nroAsiento">Nro. de Asiento</label>
+                            <div class="col-sm-8">
+                                <input type="text" name="nroAsiento" id="nroAsiento" value="" class="form-control"/>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label" for="nombrePax">Nombre de Pasajero</label>
+                            <div class="col-sm-8">
+                                <input type="text" name="nombrePax" id="nombrePax" value="" class="form-control"/>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Consultar</button>
+
+                    </div>
+
+                </div>
+                @if (!string.IsNullOrEmpty(@ViewBag.MensajeError))
+                {
+                    <div class="row">
+                        <div class="col">
+                            <div class="alert alert-danger">@ViewBag.MensajeError</div>
+                        </div>
+
+                    </div>
+                }
+
+
+
+            </div>
+        </div>
+
+
+        @if (Model != null)
+        {
+            <div class="card" style="margin-top: 15px">
+
+                <div class="card-body" id="comprobanteSEAE">
+
+                    <div class="align-content-center text-center" style="margin-bottom: 15px">
+                        <img src="~/Content/logo_lap.png" alt="Logo LAP" style="max-width: 250px">
+                    </div>
+
+                    <h4 class="text-center">TARIFA UNIFICADA DE USO DEL AEROPUERTO </h4>
+                    <h4 class="text-center">TUUA</h4>
+                    <div class="d-flex justify-content-center">
+
+                        <div style=" width: 60%">
+                            <table class="table table-borderless">
+                                <tr>
+                                    <td colspan="2" class="text-center">
+                                        <img src="data:image/bmp;base64, @Model.QRCode" alt="QR Code">
+                                        <h5 class="text-center">@Model.Num_Serie-@Model.Num_Secuencial </h5>
+                                    </td>
+
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <strong> Fecha Emisión: </strong>
+                                    </td>
+                                    <td>
+                                        @Model.StrFecha
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>Hora Emisión: </strong>
+                                    </td>
+                                    <td>
+                                        @Model.StrHora
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>Ruc Emisor:</strong>
+                                    </td>
+                                    <td>
+                                        20501577252
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>Tipo Documento:</strong>
+                                    </td>
+                                    <td>
+                                        SEAE ELECTRONICO
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>Nro. Documento:</strong>
+                                    </td>
+                                    <td>
+                                        @Model.Cod_Numero_Bcbp
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>Tipo Vuelo:</strong>
+                                    </td>
+                                    <td>
+                                        @if (Model.Tip_Vuelo.Trim() == "N")
+                                        {
+                                            @Html.Raw("NACIONAL")
+                                        }
+                                        else
+                                        {
+                                            @Html.Raw("INTERNACIONAL")
+                                        }
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>Precio:</strong>
+                                    </td>
+                                    <td>
+                                        US$ @Model.Imp_Precio (DÓLARES AMERICANOS)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>Aerolínea:</strong>
+                                    </td>
+                                    <td>
+                                        @Model.Dsc_Compania
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>Número Vuelo:</strong>
+                                    </td>
+                                    <td>
+                                        @Model.Num_Vuelo
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <strong>E-Ticket:</strong>
+                                    </td>
+                                    <td>
+                                        @Model.Cod_Eticket
+                                    </td>
+                                </tr>
+
+                            </table>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card-footer" id="footer_div">
+                    <button type="button" class="btn btn-success" onclick="imprimir()"> Imprimir</button>
+                </div>
+
+            </div>
+        }
+
+    </div>
+}
+<script >
+function imprimir(){
+    window.print();
+}
+
+
+
+const app = Vue.createApp({
+        data(){
+            return {
+                companias: null,
+                vuelos: null,
+                fechaVuelo: "@ViewBag.fechaAyer",
+                codCompania: "@ViewBag.codCompania",
+                numVuelo: "@ViewBag.nroVuelo",
+               
+            }
+        },
+        mounted() {
+            // on load
+            this.obtenerCompanias();
+
+        },
+        methods: {
+            obtenerCompanias: function (){
+                ///api/publicapi/GetCompanias
+                axios
+                    .get(`@ViewBag.urlBase/api/publicapi/GetCompanias`)
+                    .then(response => {
+                        this.companias = response.data;                        
+                        if (this.companias && this.companias[0]) {
+                            if(this.codCompania == null  || this.codCompania.length === 0){
+                                 this.codCompania = this.companias[0].Cod_Compania;
+                            } else {
+                                this.codCompania = "@ViewBag.codCompania";
+                            }
+                           
+                           
+                        } else {
+                            this.codCompania = "";                            
+                        }
+                    });
+            },
+            companiaChange(){
+              console.log(this.codCompania);
+              console.log(this.fechaVuelo);
+              this.obtenerVuelos();
+            },
+            fechaChange(){
+                this.companiaChange();
+            },
+            obtenerVuelos() {
+                ///api/publicapi/GetVuelosCompaniaFecha?codCompania=C000000024&fechaVuelo=2021-08-13
+                
+                if (this.codCompania && this.fechaVuelo) {
+                    axios.get(`@ViewBag.urlBase/api/publicapi/GetVuelosCompaniaFecha?codCompania=${this.codCompania}&fechaVuelo=${this.fechaVuelo}`)
+                        .then(response => {
+                            if (response.data) {
+                                this.vuelos = response.data;
+                                if(this.numVuelo == null || this.numVuelo.length === 0){
+                                    if(this.vuelos[0]) this.numVuelo = this.vuelos[0].Num_Vuelo;
+                                    
+                                } else{
+                                     this.numVuelo = "@ViewBag.nroVuelo";
+                                }
+                               
+                            }
+                            
+                        });
+                }
+
+            }
+        }
+    });
+    const mountedApp = app.mount('#vapp');
+
+</script>

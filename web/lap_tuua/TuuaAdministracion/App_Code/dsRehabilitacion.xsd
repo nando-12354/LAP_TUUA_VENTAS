@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsRehabilitacion" targetNamespace="http://tempuri.org/dsRehabilitacion.xsd" xmlns:mstns="http://tempuri.org/dsRehabilitacion.xsd" xmlns="http://tempuri.org/dsRehabilitacion.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsRehabilitacion" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsRehabilitacion" msprop:Generator_DataSetName="dsRehabilitacion">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtTicket" msprop:Generator_UserTableName="dtTicket" msprop:Generator_RowDeletedName="dtTicketRowDeleted" msprop:Generator_RowChangedName="dtTicketRowChanged" msprop:Generator_RowClassName="dtTicketRow" msprop:Generator_RowChangingName="dtTicketRowChanging" msprop:Generator_RowEvArgName="dtTicketRowChangeEvent" msprop:Generator_RowEvHandlerName="dtTicketRowChangeEventHandler" msprop:Generator_TableClassName="dtTicketDataTable" msprop:Generator_TableVarName="tabledtTicket" msprop:Generator_RowDeletingName="dtTicketRowDeleting" msprop:Generator_TablePropName="dtTicket">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Cod_Numero_Ticket" msprop:Generator_UserColumnName="Cod_Numero_Ticket" msprop:Generator_ColumnVarNameInTable="columnCod_Numero_Ticket" msprop:Generator_ColumnPropNameInRow="Cod_Numero_Ticket" msprop:Generator_ColumnPropNameInTable="Cod_Numero_TicketColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Observacion" msprop:Generator_UserColumnName="Observacion" msprop:Generator_ColumnVarNameInTable="columnObservacion" msprop:Generator_ColumnPropNameInRow="Observacion" msprop:Generator_ColumnPropNameInTable="ObservacionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Check" msprop:Generator_UserColumnName="Check" msprop:Generator_ColumnVarNameInTable="columnCheck" msprop:Generator_ColumnPropNameInRow="Check" msprop:Generator_ColumnPropNameInTable="CheckColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtBCBP" msprop:Generator_UserTableName="dtBCBP" msprop:Generator_RowDeletedName="dtBCBPRowDeleted" msprop:Generator_RowChangedName="dtBCBPRowChanged" msprop:Generator_RowClassName="dtBCBPRow" msprop:Generator_RowChangingName="dtBCBPRowChanging" msprop:Generator_RowEvArgName="dtBCBPRowChangeEvent" msprop:Generator_RowEvHandlerName="dtBCBPRowChangeEventHandler" msprop:Generator_TableClassName="dtBCBPDataTable" msprop:Generator_TableVarName="tabledtBCBP" msprop:Generator_RowDeletingName="dtBCBPRowDeleting" msprop:Generator_TablePropName="dtBCBP">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Dsc_Compania" msprop:Generator_UserColumnName="Dsc_Compania" msprop:Generator_ColumnVarNameInTable="columnDsc_Compania" msprop:Generator_ColumnPropNameInRow="Dsc_Compania" msprop:Generator_ColumnPropNameInTable="Dsc_CompaniaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Num_Vuelo" msprop:Generator_UserColumnName="Num_Vuelo" msprop:Generator_ColumnVarNameInTable="columnNum_Vuelo" msprop:Generator_ColumnPropNameInRow="Num_Vuelo" msprop:Generator_ColumnPropNameInTable="Num_VueloColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Fch_Vuelo" msprop:Generator_UserColumnName="Fch_Vuelo" msprop:Generator_ColumnVarNameInTable="columnFch_Vuelo" msprop:Generator_ColumnPropNameInRow="Fch_Vuelo" msprop:Generator_ColumnPropNameInTable="Fch_VueloColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Num_Asiento" msprop:Generator_UserColumnName="Num_Asiento" msprop:Generator_ColumnVarNameInTable="columnNum_Asiento" msprop:Generator_ColumnPropNameInRow="Num_Asiento" msprop:Generator_ColumnPropNameInTable="Num_AsientoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Nom_Pasajero" msprop:Generator_UserColumnName="Nom_Pasajero" msprop:Generator_ColumnVarNameInTable="columnNom_Pasajero" msprop:Generator_ColumnPropNameInRow="Nom_Pasajero" msprop:Generator_ColumnPropNameInTable="Nom_PasajeroColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Observacion" msprop:Generator_UserColumnName="Observacion" msprop:Generator_ColumnVarNameInTable="columnObservacion" msprop:Generator_ColumnPropNameInRow="Observacion" msprop:Generator_ColumnPropNameInTable="ObservacionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Check" msprop:Generator_UserColumnName="Check" msprop:Generator_ColumnVarNameInTable="columnCheck" msprop:Generator_ColumnPropNameInRow="Check" msprop:Generator_ColumnPropNameInTable="CheckColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

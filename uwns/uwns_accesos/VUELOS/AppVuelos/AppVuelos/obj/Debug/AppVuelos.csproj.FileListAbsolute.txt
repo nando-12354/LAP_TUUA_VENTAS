@@ -1,0 +1,12 @@
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\bin\Debug\AppVuelos.exe.config
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\bin\Debug\AppVuelos.exe
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\bin\Debug\AppVuelos.pdb
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\obj\Debug\ResolveAssemblyReference.cache
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\obj\Debug\AppVuelos.Form1.resources
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\obj\Debug\AppVuelos.Properties.Resources.resources
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\obj\Debug\AppVuelos.csproj.GenerateResource.Cache
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\obj\Debug\AppVuelos.exe
+D:\JCISNEROS\VUELOS\AppVuelos\AppVuelos\obj\Debug\AppVuelos.pdb

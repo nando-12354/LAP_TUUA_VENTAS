@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetErrorCode">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetErrorCodeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetErrorCodeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IsError">
+        <s:complexType />
+      </s:element>
+      <s:element name="IsErrorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="IsErrorResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetErrorCodeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetErrorCode" />
+  </wsdl:message>
+  <wsdl:message name="GetErrorCodeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetErrorCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IsErrorSoapIn">
+    <wsdl:part name="parameters" element="tns:IsError" />
+  </wsdl:message>
+  <wsdl:message name="IsErrorSoapOut">
+    <wsdl:part name="parameters" element="tns:IsErrorResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSErrorSoap">
+    <wsdl:operation name="GetErrorCode">
+      <wsdl:input message="tns:GetErrorCodeSoapIn" />
+      <wsdl:output message="tns:GetErrorCodeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IsError">
+      <wsdl:input message="tns:IsErrorSoapIn" />
+      <wsdl:output message="tns:IsErrorSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSErrorSoap" type="tns:WSErrorSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetErrorCode">
+      <soap:operation soapAction="http://tempuri.org/GetErrorCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsError">
+      <soap:operation soapAction="http://tempuri.org/IsError" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSErrorSoap12" type="tns:WSErrorSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetErrorCode">
+      <soap12:operation soapAction="http://tempuri.org/GetErrorCode" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsError">
+      <soap12:operation soapAction="http://tempuri.org/IsError" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSError">
+    <wsdl:port name="WSErrorSoap" binding="tns:WSErrorSoap">
+      <soap:address location="http://localhost:40758/WSDAO/WSError.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSErrorSoap12" binding="tns:WSErrorSoap12">
+      <soap12:address location="http://localhost:40758/WSDAO/WSError.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,11 @@
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\bin\Debug\tuua_modulo_salida.exe.config
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\bin\Debug\images\logo_lap.PNG
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\bin\Debug\tuua_modulo_salida.exe
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\bin\Debug\tuua_modulo_salida.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\obj\Debug\tuua_modulo_salida.Form1.resources
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\obj\Debug\tuua_modulo_salida.Properties.Resources.resources
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\obj\Debug\tuua_modulo_salida.Resource1.resources
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\obj\Debug\tuua_modulo_salida.csproj.GenerateResource.Cache
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\obj\Debug\tuua_modulo_salida.exe
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\obj\Debug\tuua_modulo_salida.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2018\Tuua_Modulo_Salida\tuua_modulo_salida\tuua_modulo_salida\obj\Debug\tuua_modulo_salida.csprojResolveAssemblyReference.cache

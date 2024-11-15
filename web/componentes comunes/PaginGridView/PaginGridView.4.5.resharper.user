@@ -1,0 +1,34 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="91ECF130-E8F6-4405-B898-D21F4009D79A/f:Default.aspx" caret="640" fromTop="17" />
+      <File id="91ECF130-E8F6-4405-B898-D21F4009D79A/f:Default.aspx.cs" caret="3239" fromTop="28" />
+      <File id="91ECF130-E8F6-4405-B898-D21F4009D79A/f:PagingGridView.cs" caret="2341" fromTop="81" />
+      <File id="91ECF130-E8F6-4405-B898-D21F4009D79A/d:Properties/f:AssemblyInfo.cs" caret="987" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="91ECF130-E8F6-4405-B898-D21F4009D79A/f:Default.aspx" caret="771" fromTop="19" />
+      <File id="91ECF130-E8F6-4405-B898-D21F4009D79A/f:Default.aspx.cs" caret="0" fromTop="0" />
+      <File id="91ECF130-E8F6-4405-B898-D21F4009D79A/f:Default.aspx.cs" caret="484" fromTop="13" />
+      <File id="91ECF130-E8F6-4405-B898-D21F4009D79A/f:PagingGridView.cs" caret="2416" fromTop="16" />
+      <File id="91ECF130-E8F6-4405-B898-D21F4009D79A/f:PagingGridView.cs" caret="2636" fromTop="23" />
+      <File id="91ECF130-E8F6-4405-B898-D21F4009D79A/f:PagingGridView.cs" caret="3087" fromTop="30" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+</Configuration>

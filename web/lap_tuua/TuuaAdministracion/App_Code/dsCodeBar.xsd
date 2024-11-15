@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCodeBar" targetNamespace="http://tempuri.org/dsCodeBar.xsd" xmlns:mstns="http://tempuri.org/dsCodeBar.xsd" xmlns="http://tempuri.org/dsCodeBar.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCodeBar" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsCodeBar" msprop:Generator_DataSetName="dsCodeBar">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtCodeBar" msprop:Generator_UserTableName="dtCodeBar" msprop:Generator_RowDeletedName="dtCodeBarRowDeleted" msprop:Generator_TableClassName="dtCodeBarDataTable" msprop:Generator_RowChangedName="dtCodeBarRowChanged" msprop:Generator_RowClassName="dtCodeBarRow" msprop:Generator_RowChangingName="dtCodeBarRowChanging" msprop:Generator_RowEvArgName="dtCodeBarRowChangeEvent" msprop:Generator_RowEvHandlerName="dtCodeBarRowChangeEventHandler" msprop:Generator_TablePropName="dtCodeBar" msprop:Generator_TableVarName="tabledtCodeBar" msprop:Generator_RowDeletingName="dtCodeBarRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodDestrabe" msprop:Generator_UserColumnName="CodDestrabe" msprop:Generator_ColumnPropNameInRow="CodDestrabe" msprop:Generator_ColumnVarNameInTable="columnCodDestrabe" msprop:Generator_ColumnPropNameInTable="CodDestrabeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CodMolinete" msprop:Generator_UserColumnName="CodMolinete" msprop:Generator_ColumnPropNameInRow="CodMolinete" msprop:Generator_ColumnVarNameInTable="columnCodMolinete" msprop:Generator_ColumnPropNameInTable="CodMolineteColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DesDestrabe" msprop:Generator_UserColumnName="DesDestrabe" msprop:Generator_ColumnPropNameInRow="DesDestrabe" msprop:Generator_ColumnVarNameInTable="columnDesDestrabe" msprop:Generator_ColumnPropNameInTable="DesDestrabeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DesMolinete" msprop:Generator_UserColumnName="DesMolinete" msprop:Generator_ColumnPropNameInRow="DesMolinete" msprop:Generator_ColumnVarNameInTable="columnDesMolinete" msprop:Generator_ColumnPropNameInTable="DesMolineteColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

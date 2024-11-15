@@ -1,0 +1,48 @@
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\obj\Debug\ResolveAssemblyReference.cache
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\bin\Debug\DATAACCESS.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\bin\Debug\DATAACCESS.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\bin\Debug\UTIL.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\bin\Debug\UTIL.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\obj\Debug\DATAACCESS.dll
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\obj\Debug\DATAACCESS.pdb
+D:\V_1_4_3_6\Fuentes\modulo sincronizacion\DATAACCESS\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_source\DATAACCESS\obj\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion_sc\DATAACCESS\obj\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\bin\Debug\UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\bin\Debug\UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Documents and Settings\esilva\Escritorio\modulo sincronizacion\DATAACCESS\obj\Debug\DATAACCESS.pdb

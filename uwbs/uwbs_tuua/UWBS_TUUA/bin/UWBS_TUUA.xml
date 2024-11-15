@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UWBS_TUUA
+</name>
+</assembly>
+<members>
+<member name="M:UWBS_TUUA.WSInterbank.wsTipoCambioLAP.#ctor">
+	<remarks/>
+</member><member name="E:UWBS_TUUA.WSInterbank.wsTipoCambioLAP.fCargaTipoDeCambioCompleted">
+	<remarks/>
+</member><member name="E:UWBS_TUUA.WSInterbank.wsTipoCambioLAP.fCargaTipoDeCambioTodosCompleted">
+	<remarks/>
+</member><member name="M:UWBS_TUUA.WSInterbank.wsTipoCambioLAP.fCargaTipoDeCambio(System.String)">
+	<remarks/>
+</member><member name="M:UWBS_TUUA.WSInterbank.wsTipoCambioLAP.fCargaTipoDeCambioAsync(System.String)">
+	<remarks/>
+</member><member name="M:UWBS_TUUA.WSInterbank.wsTipoCambioLAP.fCargaTipoDeCambioAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:UWBS_TUUA.WSInterbank.wsTipoCambioLAP.fCargaTipoDeCambioTodos">
+	<remarks/>
+</member><member name="M:UWBS_TUUA.WSInterbank.wsTipoCambioLAP.fCargaTipoDeCambioTodosAsync">
+	<remarks/>
+</member><member name="M:UWBS_TUUA.WSInterbank.wsTipoCambioLAP.fCargaTipoDeCambioTodosAsync(System.Object)">
+	<remarks/>
+</member><member name="M:UWBS_TUUA.WSInterbank.wsTipoCambioLAP.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:UWBS_TUUA.WSInterbank.wsTipoCambioLAP">
+	<remarks/>
+</member><member name="T:UWBS_TUUA.WSInterbank.fCargaTipoDeCambioCompletedEventHandler">
+	<remarks/>
+</member><member name="P:UWBS_TUUA.WSInterbank.fCargaTipoDeCambioCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:UWBS_TUUA.WSInterbank.fCargaTipoDeCambioCompletedEventArgs">
+	<remarks/>
+</member><member name="T:UWBS_TUUA.WSInterbank.fCargaTipoDeCambioTodosCompletedEventHandler">
+	<remarks/>
+</member><member name="P:UWBS_TUUA.WSInterbank.fCargaTipoDeCambioTodosCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:UWBS_TUUA.WSInterbank.fCargaTipoDeCambioTodosCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

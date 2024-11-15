@@ -1,0 +1,150 @@
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.XmlSerializers.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.pdb
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\lap.comun.DAO.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Entidades.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Util.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.DAO.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\lap.comun.Entidades.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Control.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\Intellisoft.Seguridad.Entidades.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Util.pdb
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.DAO.pdb
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\lap.comun.Entidades.pdb
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Control.pdb
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\lap.comun.DAO.pdb
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\Intellisoft.Seguridad.Entidades.pdb
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Entidades.pdb
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\obj\Release\ResolveAssemblyReference.cache
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.dll
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.pdb
+D:\LAP\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.XmlSerializers.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.XmlSerializers.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.XmlSerializers.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.DAO.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\lap.comun.Entidades.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Control.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Intellisoft.Seguridad.Entidades.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Util.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.DAO.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\lap.comun.Entidades.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Control.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\lap.comun.DAO.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Intellisoft.Seguridad.Entidades.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Entidades.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.pdb
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.dll
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.XmlSerializers.dll
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.pdb
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.dll
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.pdb
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\ResolveAssemblyReference.cache
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.dll
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.pdb
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.XmlSerializers.dll
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\V_1_4_3_4_ITERACION_V\Fuentes\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.XmlSerializers.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.XmlSerializers.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.XmlSerializers.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.dll
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.pdb
+C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.10\modulo extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.XmlSerializers.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\ResolveAssemblyReference.cache
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.XmlSerializers.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.XmlSerializers.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Comun.Control.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Control.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.DAO.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Util.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.XmlSerializers.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Comun.Control.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Control.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.DAO.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Util.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\ResolveAssemblyReference.cache
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.XmlSerializers.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\resources\ErrorType.xml
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\resources\labels.properties
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\resources\ErrorType.xml
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\resources\labels.properties
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.dll.config
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.XmlSerializers.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Tuua.Web.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Comun.Control.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.EXTRANET.UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Control.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.DAO.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\LAP.Seguridad.Util.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.csproj.CopyComplete
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\obj\Release\LAP.Tuua.Web.XmlSerializers.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Dapper.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\LAP_TUUA\LAP.Tuua.Web\bin\Dapper.xml

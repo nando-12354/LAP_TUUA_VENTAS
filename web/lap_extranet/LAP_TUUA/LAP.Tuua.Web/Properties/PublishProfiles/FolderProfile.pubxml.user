@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\lap_tuua_extranet</_PublishTargetUrl>
+    <History>True|2022-09-20T11:16:45.1223727Z;True|2022-09-20T06:15:36.9550569-05:00;True|2022-09-20T05:55:51.1515401-05:00;True|2022-09-20T05:29:07.7833960-05:00;True|2022-09-19T22:24:47.8077708-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/Dapper.dll">
+      <publishTime>11/03/2021 09:07:30</publishTime>
+    </File>
+    <File Include="bin/LAP.Comun.Control.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/lap.comun.DAO.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/LAP.EXTRANET.UTIL.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/LAP.Seguridad.Control.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/LAP.Seguridad.DAO.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/LAP.Seguridad.Entidades.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/LAP.Seguridad.Util.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/LAP.Tuua.Web.dll">
+      <publishTime>09/20/2022 06:16:44</publishTime>
+    </File>
+    <File Include="bin/LAP.Tuua.Web.pdb">
+      <publishTime>09/20/2022 06:16:44</publishTime>
+    </File>
+    <File Include="bin/LAP.Tuua.Web.XmlSerializers.dll">
+      <publishTime>09/20/2022 06:16:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Logging.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ObjectBuilder.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ObjectBuilder2.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/PaginGridView.dll">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/resources/ErrorType.xml">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="bin/resources/labels.properties">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Cns_BcbpLeidosMolinete.aspx">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Cns_BcbpMensualLeidosMolinete.aspx">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="css/calendar-system.css">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="css/CSS.css">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="css/datagrid.css">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="css/lap.css">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="css/Style.css">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="css/StyleDarck.css">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="excelBP.aspx">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="excelBPMensual.aspx">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Exp_Excel/expRptBcbpDiario.aspx">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Imagenes/aa_icono.jpg">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Imagenes/ajax-loader.gif">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Imagenes/Calendar.bmp">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Imagenes/la_icono.jpg">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Imagenes/Logo.JPG">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Imagenes/logoTuua.jpg">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Imagenes/lp_icono.jpg">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="javascript/Functions.js">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="javascript/KeyPress.js">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="javascript/ValidarFecha.js">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="javascript/validarteclaF5.js">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>09/19/2022 22:18:09</publishTime>
+    </File>
+    <File Include="pages/PagError.aspx">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="pages/Rpt_BcbpDiario.aspx">
+      <publishTime>09/19/2022 23:28:30</publishTime>
+    </File>
+    <File Include="pages/Rpt_BcbpMensual.aspx">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="resources/ErrorType.xml">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="tuua.Master">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="UserControl/CnsDetBoardingPass.ascx">
+      <publishTime>08/16/2022 07:53:23</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/19/2022 22:09:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,885 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Vuelo_Temporada>
+      <Vuelo>
+            <CodEmpresa>NK </CodEmpresa>
+            <NumeroVuelo>0918      </NumeroVuelo>
+            <FechaVuelo>2009-06-16 00:00:00.000</FechaVuelo>
+            <Descripcion>LIMA-MIAMI                     </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MIAMI                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>AA </CodEmpresa>
+            <NumeroVuelo>0918      </NumeroVuelo>
+            <FechaVuelo>2009-06-16 00:00:00.000</FechaVuelo>
+            <Descripcion>LIMA-MIAMI                     </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MIAMI                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>AA </CodEmpresa>
+            <NumeroVuelo>123       </NumeroVuelo>
+            <FechaVuelo>2009-06-01 00:00:00.000</FechaVuelo>
+            <Descripcion>Lima-Miami</Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>Lima-Miami</Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>AA </CodEmpresa>
+            <NumeroVuelo>2110      </NumeroVuelo>
+            <FechaVuelo>2009-02-25 00:00:00.000</FechaVuelo>
+            <Descripcion>SS</Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SS</Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>2I </CodEmpresa>
+            <NumeroVuelo>2I1181    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>P.MALDONAD-CUSCO              </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>P.MALDONAD-CUSCO                                            </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>2I </CodEmpresa>
+            <NumeroVuelo>2I1885    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>MALVINAS                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MALVINAS                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>2I </CodEmpresa>
+            <NumeroVuelo>2I3217    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>IQUITOS-PUCALLPA              </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>IQUITOS-PUCALLPA                                            </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>2I </CodEmpresa>
+            <NumeroVuelo>2I7247    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>IQUITOS-TARAPOTO              </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>IQUITOS-TARAPOTO                                            </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>A7 </CodEmpresa>
+            <NumeroVuelo>A7974     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>MADRID                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MADRID                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>AF </CodEmpresa>
+            <NumeroVuelo>AF8386    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>AMSTERDAM                     </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>AMSTERDAM                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>AT </CodEmpresa>
+            <NumeroVuelo>AT1667    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>MALVINAS                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MALVINAS                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>AV </CodEmpresa>
+            <NumeroVuelo>AV024     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>BOGOTA                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>BOGOTA                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>BA </CodEmpresa>
+            <NumeroVuelo>BA7333    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>MADRID                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MADRID                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>CM </CodEmpresa>
+            <NumeroVuelo>CM358     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>PANAMA                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>PANAMA                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>CM </CodEmpresa>
+            <NumeroVuelo>CM488     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>PANAMA                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>PANAMA                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>CO </CodEmpresa>
+            <NumeroVuelo>CO1038    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>NEWARK                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>NEWARK                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>CO </CodEmpresa>
+            <NumeroVuelo>CO591     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>HOUSTON                       </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>HOUSTON                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>G3 </CodEmpresa>
+            <NumeroVuelo>G37459    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>SANTIAGO                      </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SANTIAGO                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>IB </CodEmpresa>
+            <NumeroVuelo>IB6650    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>MADRID                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MADRID                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>IB </CodEmpresa>
+            <NumeroVuelo>IB7772    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>MADRID                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MADRID                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>KL </CodEmpresa>
+            <NumeroVuelo>KL744     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>AMSTERDAM                     </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>AMSTERDAM                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA2564    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CARACAS                       </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CARACAS                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA2567    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>SANTA CRUZ-LA PAZ             </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SANTA CRUZ-LA PAZ                                           </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA2580    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>MEDELLIN-QUITO                </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MEDELLIN-QUITO                                              </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA2582    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>BOGOTA                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>BOGOTA                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA2630    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>GUAYAQUIL                     </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>GUAYAQUIL                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA2706    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>MADRID                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MADRID                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA4641    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>B.AIRES                       </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>B.AIRES                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA530     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>NUEVA YORK                    </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>NUEVA YORK                                                  </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA635     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>SANTIAGO                      </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SANTIAGO                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA643     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>SANTIAGO                      </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SANTIAGO                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LA </CodEmpresa>
+            <NumeroVuelo>LA941     </NumeroVuelo>
+            <FechaVuelo>2009-09-03 00:00:00.000</FechaVuelo>
+            <Descripcion>SN TIAGO</Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SN TIAGO</Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LCB</CodEmpresa>
+            <NumeroVuelo>LCB1313   </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CAJAMARCA                     </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CAJAMARCA                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LCB</CodEmpresa>
+            <NumeroVuelo>LCB1331   </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>HUANUCO                       </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>HUANUCO                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LCB</CodEmpresa>
+            <NumeroVuelo>LCB1333   </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>HUANUCO                       </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>HUANUCO                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LCB</CodEmpresa>
+            <NumeroVuelo>LCB1341   </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CHIMBOTE                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CHIMBOTE                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LCB</CodEmpresa>
+            <NumeroVuelo>LCB1351   </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>ANDAHUAYLA                    </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>ANDAHUAYLA                                                  </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP027     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CUSCO                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CUSCO                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP029     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CUSCO                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CUSCO                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP031     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CUSCO                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CUSCO                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP035     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CUSCO                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CUSCO                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP039     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CUSCO                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CUSCO                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP041     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CUSCO                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CUSCO                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP043     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CUSCO                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CUSCO                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP071     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>P.MALDONAD-CUSCO              </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>P.MALDONAD-CUSCO                                            </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP100     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>JULIACA-AREQUIPA              </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>JULIACA-AREQUIPA                                            </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP103     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>AREQUIPA                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>AREQUIPA                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP105     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>AREQUIPA                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>AREQUIPA                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP107     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>AREQUIPA                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>AREQUIPA                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP109     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>AREQUIPA                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>AREQUIPA                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP111     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>JULIACA-CUSCO                 </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>JULIACA-CUSCO                                               </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP121     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>AREQUIPA                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>AREQUIPA                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP161     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>TACNA                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>TACNA                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP204     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>TRUJILLO                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>TRUJILLO                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP206     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>TRUJILLO                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>TRUJILLO                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP254     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>TARAPOTO                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>TARAPOTO                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP256     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>TARAPOTO                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>TARAPOTO                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP276     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CHICLAYO                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CHICLAYO                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP278     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CHICLAYO                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CHICLAYO                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP304     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>PIURA                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>PIURA                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP306     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>PIURA                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>PIURA                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP308     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>PIURA                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>PIURA                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP330     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>TUMBES                        </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>TUMBES                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP356     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>PUCALLPA                      </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>PUCALLPA                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP378     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>IQUITOS                       </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>IQUITOS                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP382     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>IQUITOS                       </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>IQUITOS                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP384     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>IQUITOS                       </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>IQUITOS                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP394     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>IQUITOS                       </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>IQUITOS                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP395     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CUSCO                         </Descripcion>
+            <TipoVuelo>N</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CUSCO                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LP </CodEmpresa>
+            <NumeroVuelo>LP5100    </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>MADRID                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MADRID                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>LR </CodEmpresa>
+            <NumeroVuelo>LR610     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>SAN JOSE                      </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SAN JOSE                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>NK </CodEmpresa>
+            <NumeroVuelo>NK978     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>FORT LAUDE                    </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>FORT LAUDE                                                  </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA023     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>B.AIRES                       </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>B.AIRES                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA025     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>B.AIRES                       </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>B.AIRES                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA026     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>GUAYAQUIL                     </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>GUAYAQUIL                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA028     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>SAO PAULO                     </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SAO PAULO                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA032     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>SAN JOSE                      </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SAN JOSE                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA033     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>SANTIAGO                      </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SANTIAGO                                                    </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA034     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>CARACAS                       </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>CARACAS                                                     </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA035     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>LA PAZ                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>LA PAZ                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA040     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>SAN SALVAD                    </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SAN SALVAD                                                  </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA041     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>MONTEVIDEO                    </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>MONTEVIDEO                                                  </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA043     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>QUITO                         </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>QUITO                                                       </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA054     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>GUATEMALA                     </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>GUATEMALA                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA082     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>LA HAVANA                     </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>LA HAVANA                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA130     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>BOGOTA                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>BOGOTA                                                      </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA131     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>SAO PAULO                     </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>SAO PAULO                                                   </Destino>
+      </Vuelo>
+
+      <Vuelo>
+            <CodEmpresa>TA </CodEmpresa>
+            <NumeroVuelo>TA132     </NumeroVuelo>
+            <FechaVuelo>2009-04-07 00:00:00.000</FechaVuelo>
+            <Descripcion>BOGOTA                        </Descripcion>
+            <TipoVuelo>I</TipoVuelo>
+            <Estado>1</Estado>
+            <Destino>BOGOTA                                                      </Destino>
+      </Vuelo>
+
+
+</Vuelo_Temporada>
+

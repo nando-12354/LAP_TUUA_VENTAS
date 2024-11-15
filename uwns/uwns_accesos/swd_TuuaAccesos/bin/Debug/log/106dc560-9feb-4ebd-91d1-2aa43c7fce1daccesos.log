@@ -1,0 +1,10 @@
+20/09/2015 20:11:38:638  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 20:11:39:187  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+20/09/2015 20:11:39:215  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+20/09/2015 20:11:39:221  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Pin Pad
+20/09/2015 20:11:39:221  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Semaforo Molinete
+20/09/2015 20:11:41:805  LAP.TUUA.ACCESOS.ACS_InterfazLector   El puerto está cerrado.
+20/09/2015 20:11:41:805  LAP.TUUA.ACCESOS.ACS_InterfazLector      en System.IO.Ports.SerialPort.ReadExisting()
+   en LAP.TUUA.ACCESOS.ACS_SCom.Leer() en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\ACS_SCom.cs:línea 155
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.LeerLectorCB() en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 467
+   en LAP.TUUA.ACCESOS.ACS_InterfazLector.Ejecutar() en D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\swd_TuuaAccesos\ACS_InterfazLector.cs:línea 203

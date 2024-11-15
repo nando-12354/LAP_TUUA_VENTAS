@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Companias>
+      <Compania>
+            <Codigo>NHK</Codigo>
+            <CodigoAerolinea></CodigoAerolinea>
+            <CodigoSAP></CodigoSAP>
+            <Nombre>CRISTAL    </Nombre>
+            <Ruc>80000000    </Ruc>
+      </Compania>
+      <Compania>
+            <Codigo>ARP</Codigo>
+            <CodigoAerolinea></CodigoAerolinea>
+            <CodigoSAP></CodigoSAP>
+            <Nombre>BOLIVARIANA    </Nombre>
+            <Ruc>80000011    </Ruc>
+      </Compania>
+</Companias>
+

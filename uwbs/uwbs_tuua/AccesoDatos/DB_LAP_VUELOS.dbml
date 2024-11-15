@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="DBLap" Class="DB_LAP_VUELOSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAP05;Initial Catalog=DBLap;User ID=sa" SettingsObjectName="AccesoDatos.My.MySettings" SettingsPropertyName="DBLapConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.lap_entidad" Member="lap_entidads">
+    <Type Name="lap_entidad">
+      <Column Name="cod_entidad" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="dsc_entidad" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="dsc_raz_social" Type="System.String" DbType="VarChar(120)" CanBeNull="true" />
+      <Column Name="dsc_alias" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="abr_entidad" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="dsc_doc_identif" Type="System.String" DbType="Char(25)" CanBeNull="true" />
+      <Column Name="cod_clase_entidad" Type="System.String" DbType="Char(4)" CanBeNull="true" />
+      <Column Name="cod_rubro" Type="System.String" DbType="Char(4)" CanBeNull="true" />
+      <Column Name="dir_calle" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="dir_distrito" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="dir_ciudad" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="dir_pais" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="dir_cod_postal" Type="System.String" DbType="VarChar(6)" CanBeNull="true" />
+      <Column Name="num_tel_ent1" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="num_tel_ent_2" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="dsc_email" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="num_fax" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="url_web_site" Type="System.String" DbType="VarChar(120)" CanBeNull="true" />
+      <Column Name="url_web_site_lap" Type="System.String" DbType="VarChar(120)" CanBeNull="true" />
+      <Column Name="url_adicional_1" Type="System.String" DbType="VarChar(120)" CanBeNull="true" />
+      <Column Name="url_adicional_2" Type="System.String" DbType="VarChar(120)" CanBeNull="true" />
+      <Column Name="cod_oaci" Type="System.String" DbType="Char(4)" CanBeNull="true" />
+      <Column Name="cod_iata" Type="System.String" DbType="Char(4)" CanBeNull="true" />
+      <Column Name="txt_nota" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="flg_activo" Type="System.Char" DbType="Char(1) NOT NULL" CanBeNull="false" />
+      <Column Name="log_usr_cre" Type="System.String" DbType="Char(30)" CanBeNull="true" />
+      <Column Name="log_fch_cre" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="log_usr_mod" Type="System.String" DbType="Char(30)" CanBeNull="true" />
+      <Column Name="log_fch_mod" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="log_hostname" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="msrepl_tran_version" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="cod_cumplimiento" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.lap_vuelo_dia" Member="lap_vuelo_dias">
+    <Type Name="lap_vuelo_dia">
+      <Column Name="cod_vuelo" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="fch_prog" Type="System.DateTime" DbType="DateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="fch_real" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="cod_entidad" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="tip_operacion" Type="System.Char" DbType="Char(1) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tip_origen" Type="System.Char" DbType="Char(1) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="cod_aerop_esc" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Column Name="dsc_escala" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="cod_aerop_fin" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Column Name="dsc_proc_dest_fin" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="dsc_proc_dest" Type="System.String" DbType="VarChar(120)" CanBeNull="true" />
+      <Column Name="tipo_vuelo" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="clase_vuelo" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="num_puerta" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="num_mostrador" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="num_faja" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="abr_obs" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="txt_notas" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="cod_vuelo_oaci" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="fch_temporada" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="log_usr_cre" Type="System.String" DbType="Char(30)" CanBeNull="true" />
+      <Column Name="log_fch_cre" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="log_usr_mod" Type="System.String" DbType="Char(30)" CanBeNull="true" />
+      <Column Name="log_fch_mod" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="log_hostname" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.lap_vuelo_temporada" Member="lap_vuelo_temporadas">
+    <Type Name="lap_vuelo_temporada">
+      <Column Name="cod_vuelo" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="fch_ini_temporada" Type="System.DateTime" DbType="DateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="fch_fin_temporada" Type="System.DateTime" DbType="DateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="num_dia" Type="System.Int16" DbType="SmallInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="cod_entidad" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="tip_operacion" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="tip_origen" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="dsc_proc_dest" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="tipo_vuelo" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="clase_vuelo" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="txt_nota" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="cod_vuelo_oaci" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="log_usr_cre" Type="System.String" DbType="Char(30)" CanBeNull="true" />
+      <Column Name="log_fch_cre" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="log_usr_mod" Type="System.String" DbType="Char(30)" CanBeNull="true" />
+      <Column Name="log_fch_mod" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="log_hostname" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

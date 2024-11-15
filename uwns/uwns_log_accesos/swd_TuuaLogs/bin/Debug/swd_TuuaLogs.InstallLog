@@ -1,0 +1,13 @@
+﻿Desinstalando ensamblado 'C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\swd_TuuaLogs.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\swd_TuuaLogs.exe
+   logfile = C:\Users\eochoa\Desktop\TUUA_WEB v1.4.3.4\modulo servicios generales e interfaces\swd_TuuaLogs\swd_TuuaLogs\bin\Debug\swd_TuuaLogs.InstallLog
+Quitando el origen de EventLog TUUALogs.
+Excepción durante la desinstalación del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
+Quitando el origen de EventLog TUUALogs.
+Excepción durante la desinstalación del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.

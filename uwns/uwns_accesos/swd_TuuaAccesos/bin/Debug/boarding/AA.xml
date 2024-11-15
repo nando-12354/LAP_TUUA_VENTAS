@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<boarding>
+      <individual_airline>
+            <campo nombre = "Flg_BCBP"	            tam="1"/>
+            <campo nombre = "Cod_Unico_BCBP"	    tam="4"/>
+            <campo nombre = "Cod_Unico_BCBP_Rel"	tam="4"/>
+      </individual_airline>
+ </boarding>

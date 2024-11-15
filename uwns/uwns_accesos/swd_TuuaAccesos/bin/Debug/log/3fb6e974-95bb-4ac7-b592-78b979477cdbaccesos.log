@@ -1,0 +1,22 @@
+20/09/2015 20:20:35:390  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 20:20:35:978  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Activa 
+20/09/2015 20:20:36:011  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+20/09/2015 20:20:36:018  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Pin Pad
+20/09/2015 20:20:36:018  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Semaforo Molinete
+20/09/2015 20:20:41:105  LAP.TUUA.ACCESOS.ACS_InterfazLector   INICIA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 20:20:41:106  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:0?3DES000006?
+20/09/2015 20:20:41:223  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 20:20:41:231  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 20:20:41:231  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 20:20:41:350  LAP.TUUA.ACCESOS.ACS_InterfazLector   Usuario no autorizado, No se Destraba Molinete
+20/09/2015 20:20:41:350  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 20:20:41:350  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 20:20:42:049  LAP.TUUA.ACCESOS.ACS_InterfazLector   INICIA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 20:20:42:049  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:0?3DES000006?
+20/09/2015 20:20:42:090  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 20:20:42:090  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 20:20:42:090  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 20:20:42:192  LAP.TUUA.ACCESOS.ACS_InterfazLector   Usuario no autorizado, No se Destraba Molinete
+20/09/2015 20:20:42:192  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 20:20:42:192  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 20:23:04:676  LAP.TUUA.ACCESOS.ACS_InterfazLector   LECTOR NO RESPONDE

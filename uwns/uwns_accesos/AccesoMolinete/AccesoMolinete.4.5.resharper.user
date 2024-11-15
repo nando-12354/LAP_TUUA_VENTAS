@@ -1,0 +1,306 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:cConfigXml.cs" caret="0" fromTop="0" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:Escenario.Designer.cs" caret="165" fromTop="7" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Util.cs" caret="1631" fromTop="6" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:Define.cs" caret="265" fromTop="10" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:PLC.config" caret="0" fromTop="0" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:UtilPLC.cs" caret="0" fromTop="0" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:PLCDiscapacitados.config" caret="279" fromTop="7" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:PLC.cs" caret="7436" fromTop="77" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:Escenario.cs" caret="6481" fromTop="33" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:EscenarioDiscapacitados.cs" caret="1169" fromTop="0" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Molinete.config" caret="647" fromTop="13" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Define.cs" caret="730" fromTop="20" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:StartPoint.cs" caret="0" fromTop="0" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:PLCDiscapacitados.cs" caret="0" fromTop="0" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:MolineteDiscapacitados.config" caret="38" fromTop="1" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Global.cs" caret="0" fromTop="0" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Molinete.cs" caret="1422" fromTop="36" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:MolineteDiscapacitados.cs" caret="3135" fromTop="75" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:OptionForm.cs" caret="224" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:OptionForm.cs" caret="1500" fromTop="19" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:OptionForm.cs" caret="782" fromTop="26" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:OptionForm.cs" caret="1611" fromTop="26" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:EscenarioDiscapacitados.cs" caret="8736" fromTop="15" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:EscenarioDiscapacitados.cs" caret="8719" fromTop="15" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:Escenario.cs" caret="6887" fromTop="14" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:Escenario.cs" caret="6460" fromTop="22" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Global.cs" caret="7034" fromTop="33" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Global.cs" caret="5261" fromTop="90" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Global.cs" caret="1244" fromTop="6" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Global.cs" caret="1752" fromTop="27" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:MolineteDiscapacitados.cs" caret="2384" fromTop="45" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:PLCDiscapacitados.cs" caret="7109" fromTop="25" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Global.cs" caret="5174" fromTop="114" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Global.cs" caret="1097" fromTop="20" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:PLCDiscapacitados.cs" caret="8008" fromTop="30" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:PLCDiscapacitados.cs" caret="7540" fromTop="22" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Global.cs" caret="0" fromTop="0" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Molinete.cs" caret="1813" fromTop="48" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Molinete.cs" caret="1330" fromTop="31" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Molinete.cs" caret="1453" fromTop="39" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Molinete.cs" caret="6762" fromTop="34" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:Molinete.cs" caret="3703" fromTop="39" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:MolineteDiscapacitados.cs" caret="1720" fromTop="36" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:MolineteDiscapacitados.cs" caret="2030" fromTop="43" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:MolineteDiscapacitados.cs" caret="1526" fromTop="26" />
+      <File id="129B35EC-C893-47DA-8F90-F686DE56F60A/f:MolineteDiscapacitados.cs" caret="3135" fromTop="42" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:OptionForm.cs" caret="576" fromTop="22" />
+      <File id="9E4EEC4B-82F8-4A4F-9A20-20BE1E33AA23/f:OptionForm.cs" caret="1112" fromTop="35" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="23" />
+      <Item value="Molinete" priority="4" />
+      <Item value="OpenPort" priority="0" />
+      <Item value="private" priority="23" />
+      <Item value="String" priority="4" />
+      <Item value="void" priority="19" />
+      <Item value="for" priority="0" />
+      <Item value="int" priority="31" />
+      <Item value="i" priority="3" />
+      <Item value="iWriteSensors" priority="0" />
+      <Item value="htWriters" priority="0" />
+      <Item value="sConfig" priority="1" />
+      <Item value="sCode" priority="0" />
+      <Item value="lecturaConfig" priority="0" />
+      <Item value="myPlayer" priority="0" />
+      <Item value="const" priority="1" />
+      <Item value="IFormattable" priority="2" />
+      <Item value="if" priority="26" />
+      <Item value="typeSonidoVerde" priority="0" />
+      <Item value="else" priority="17" />
+      <Item value="System" priority="10" />
+      <Item value="Threading" priority="4" />
+      <Item value="Thread" priority="12" />
+      <Item value="new" priority="26" />
+      <Item value="class" priority="2" />
+      <Item value="ThreadStaticAttribute" priority="0" />
+      <Item value="using" priority="5" />
+      <Item value="ThreadStart" priority="2" />
+      <Item value="setDefaultPulsadorAccionMolinete" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="ReadPuerto" priority="1" />
+      <Item value="return" priority="16" />
+      <Item value="res" priority="0" />
+      <Item value="Timer" priority="8" />
+      <Item value="timerLuzVerde" priority="0" />
+      <Item value="TimerCallback" priority="0" />
+      <Item value="Timers" priority="1" />
+      <Item value="true" priority="6" />
+      <Item value="Hashtable" priority="10" />
+      <Item value="object" priority="1" />
+      <Item value="h" priority="0" />
+      <Item value="this" priority="10" />
+      <Item value="timeoutSemaforoRojo" priority="0" />
+      <Item value="timeoutSemaforoVerde" priority="2" />
+      <Item value="timerSemaforoVerde" priority="2" />
+      <Item value="timeoutSemaforoAmbar" priority="0" />
+      <Item value="soundFileSemaforoRojo" priority="0" />
+      <Item value="soundFileSemaforoAmbar" priority="0" />
+      <Item value="soundFileSemaforoVerde" priority="0" />
+      <Item value="bool" priority="3" />
+      <Item value="false" priority="12" />
+      <Item value="forcedClosedMolinete" priority="0" />
+      <Item value="Escenario" priority="2" />
+      <Item value="ProfessionalColorTable" priority="0" />
+      <Item value="molinete" priority="4" />
+      <Item value="btnPasarTicketOk" priority="0" />
+      <Item value="btnPasarTicketNoOk" priority="0" />
+      <Item value="btnPasarTicketEspecialOk" priority="0" />
+      <Item value="btnIngresaPasajero" priority="1" />
+      <Item value="runPasarTicketEspecialOk" priority="0" />
+      <Item value="delegate" priority="1" />
+      <Item value="Console" priority="0" />
+      <Item value="static" priority="2" />
+      <Item value="byte" priority="1" />
+      <Item value="iPort" priority="7" />
+      <Item value="ports" priority="2" />
+      <Item value="iSet" priority="3" />
+      <Item value="switch" priority="2" />
+      <Item value="case" priority="6" />
+      <Item value="break" priority="6" />
+      <Item value="strbyte" priority="0" />
+      <Item value="Int32" priority="2" />
+      <Item value="intbyte" priority="1" />
+      <Item value="Byte" priority="1" />
+      <Item value="Convert" priority="0" />
+      <Item value="LAP.TUUA.AccesoMolinete" priority="1" />
+      <Item value="PLC" priority="4" />
+      <Item value="Global" priority="0" />
+      <Item value="escenario" priority="5" />
+      <Item value="tmrOpenMolinete" priority="2" />
+      <Item value="GetSemaforoRojo" priority="1" />
+      <Item value="default" priority="0" />
+      <Item value="InstanceCreationEditor" priority="0" />
+      <Item value="statusSemRojo" priority="0" />
+      <Item value="lblStatusMolinete" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="Define" priority="0" />
+      <Item value="Color" priority="0" />
+      <Item value="GetOpenMolinete" priority="0" />
+      <Item value="plc" priority="2" />
+      <Item value="iBit" priority="1" />
+      <Item value="counterTimer" priority="0" />
+      <Item value="MessageBox" priority="0" />
+      <Item value="Util" priority="1" />
+      <Item value="LAP" priority="0" />
+      <Item value="TUUA" priority="0" />
+      <Item value="AccesoMolinete" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="throw" priority="1" />
+      <Item value="NotImplementedException" priority="0" />
+      <Item value="Boolean" priority="0" />
+      <Item value="try" priority="1" />
+      <Item value="catch" priority="1" />
+      <Item value="Exception" priority="2" />
+      <Item value="ex" priority="0" />
+      <Item value="prop" priority="0" />
+      <Item value="htDefaultBits" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="status" priority="4" />
+      <Item value="bitReadClosingMolinete" priority="0" />
+      <Item value="defaultClosingMolinete" priority="0" />
+      <Item value="timeoutCloseVerde" priority="1" />
+      <Item value="timeoutOpenVerde" priority="1" />
+      <Item value="timeoutCloseAmbar" priority="0" />
+      <Item value="timeoutOpenAmbar" priority="0" />
+      <Item value="timeSemaforoVerde" priority="0" />
+      <Item value="MolineteDiscapacitados" priority="0" />
+      <Item value="PLCDiscapacitados" priority="0" />
+      <Item value="tmrOpenMolinete_Elapsed" priority="0" />
+      <Item value="isOpenPressed" priority="0" />
+      <Item value="tmr_STATUS_Molinete" priority="0" />
+      <Item value="isOpenUnPressed" priority="0" />
+      <Item value="molineteDiscapacitados" priority="1" />
+      <Item value="Close" priority="0" />
+      <Item value="OptionForm" priority="1" />
+      <Item value="optionForm" priority="0" />
+      <Item value="plcDiscapacitados" priority="1" />
+      <Item value="PaletaProgressBar" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Hashtable">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals" priority="2" />
+      <Item value="ToUpper" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Media.SoundPlayer">
+      <Item value="PlayLooping" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Timers.Timer">
+      <Item value="AutoReset" priority="0" />
+      <Item value="Interval" priority="1" />
+      <Item value="Start" priority="0" />
+      <Item value="Elapsed" priority="1" />
+      <Item value="Enabled" priority="1" />
+      <Item value="Stop" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LAP.TUUA.AccesoMolinete.Molinete">
+      <Item value="timeoutSemaforoRojo" priority="0" />
+      <Item value="soundFileSemaforoRojo" priority="0" />
+      <Item value="MolineteAprobadoNormal" priority="0" />
+      <Item value="MolineteDenegado" priority="0" />
+      <Item value="MolineteAprobadoEspecial" priority="0" />
+      <Item value="OpenDriverMolinetes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="Equals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Image" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DemoAccesoMolinete.Escenario">
+      <Item value="CounterProgressBar" priority="0" />
+      <Item value="SetEnableButtons" priority="0" />
+      <Item value="SetMostrarSemaforo" priority="0" />
+      <Item value="SetChangeStatusMolinete" priority="0" />
+      <Item value="plc" priority="0" />
+      <Item value="setPLC" priority="0" />
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ProgressBar">
+      <Item value="Value" priority="1" />
+      <Item value="Maximum" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDecimal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DemoAccesoMolinete.PLC">
+      <Item value="molinete" priority="0" />
+      <Item value="escenario" priority="0" />
+      <Item value="Iniciar" priority="0" />
+      <Item value="MolineteGirado" priority="0" />
+      <Item value="GetCloseMolinete" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+      <Item value="ForeColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DemoAccesoMolinete.Define">
+      <Item value="TEXTOCLOSED" priority="0" />
+      <Item value="GIRO_MOLINETE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Red" priority="0" />
+      <Item value="MediumBlue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Interval" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LAP.TUUA.AccesoMolinete.DriverNT">
+      <Item value="WritePort" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LAP.TUUA.AccesoMolinete.Global">
+      <Item value="WritePortVirtual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DemoAccesoMolinete.EscenarioDiscapacitados">
+      <Item value="molineteDiscapacitados" priority="0" />
+      <Item value="PaletaProgressBar" priority="0" />
+      <Item value="SetEnablePaletaTimer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DemoAccesoMolinete.OptionForm">
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LAP.TUUA.AccesoMolinete.MolineteDiscapacitados">
+      <Item value="OpenDriverMolinetes" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

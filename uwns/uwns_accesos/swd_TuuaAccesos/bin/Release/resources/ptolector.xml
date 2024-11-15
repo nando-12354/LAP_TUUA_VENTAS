@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<puerto tipo="SERIAL">
+      <PortName>COM7</PortName>
+      <BaudRate>9600</BaudRate>
+      <Parity>0</Parity>
+      <BitsData>8</BitsData>
+      <StopBits>1</StopBits>
+</puerto>

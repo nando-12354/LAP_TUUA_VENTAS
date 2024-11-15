@@ -1,0 +1,276 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using LAP.TUUA.CONTROL;
+using LAP.TUUA.UTIL;
+using Microsoft.Practices.EnterpriseLibrary.Data;
+using Microsoft.SqlServer.Management.Common;
+using Microsoft.SqlServer.Management.Smo;
+using Database=Microsoft.SqlServer.Management.Smo.Database;
+
+namespace LAP.TUUA.ARCHIVAMIENTO
+{
+    public class BDTUUAHistorica
+    {
+        private BO_Configuracion objBOConfiguracion;
+
+        public BDTUUAHistorica(BO_Configuracion objBOConfiguracion)
+        {
+            this.objBOConfiguracion = objBOConfiguracion;
+        }
+
+        public void Iniciar(){
+            DataTable dtReturn = objBOConfiguracion.ListarParametros(Define.ID_CONFIG_CONEXION_ARCHIVAMIENTO);
+            if(dtReturn.Rows.Count==0)
+            {
+                return;
+            }
+            String configConexionArchivamiento = dtReturn.Rows[0]["Valor"].ToString();
+            String[] configuracionCnxArch = configConexionArchivamiento.Split(';');
+            if(configuracionCnxArch.Length != 4)
+            {
+                return;
+            }
+            String ipArchivamiento = "";
+            String dataBaseArchivamiento = "";
+            String userArchivamiento = "";
+            String passwordArchivamiento = "";
+            for(int i=0; i < configuracionCnxArch.Length; i++)
+            {
+                String[] split = configuracionCnxArch[i].Split('=');
+                if(split[0].Equals("IP"))
+                {
+                    ipArchivamiento = split[1].Trim();
+                }
+                else if (split[0].Equals("DataBase"))
+                {
+                    dataBaseArchivamiento = split[1].Trim();
+                }
+                else if (split[0].Equals("User"))
+                {
+                    userArchivamiento = split[1].Trim();
+                }
+                else if (split[0].Equals("Password"))
+                {
+                    passwordArchivamiento = split[1].Trim();
+                }
+            }
+
+            ServerConnection connArchivamiento = new ServerConnection(ipArchivamiento);
+            //connArchivamiento.LoginSecure = false;
+            connArchivamiento.Login = userArchivamiento;
+            connArchivamiento.Password = passwordArchivamiento;
+
+            //string connectionString = "Data Source=172.15.1.10;Initial Catalog=DBTUUA;User ID=sa;Password=123456";
+            //SqlConnection Connection = new SqlConnection(connectionString);
+
+            //ServerConnection connArchivamiento = new ServerConnection(Connection);
+
+            Server srvArchivamiento = new Server(connArchivamiento);
+
+            //Console.WriteLine(srv.Name + " " + srv.Information.VersionString);
+            //Console.Out.WriteLine("The DBTUUA database was created at " + srv.Databases["DBTUUA"].CreateDate.ToString());
+
+            Database archivingDB;
+            if (srvArchivamiento.Databases[dataBaseArchivamiento] == null)
+            {
+                archivingDB = new Database(srvArchivamiento, dataBaseArchivamiento);
+                archivingDB.Create();
+            }
+            else
+            {
+                archivingDB = srvArchivamiento.Databases[dataBaseArchivamiento];
+            }
+
+            #region Creando de una forma el TUA_Ticket  -- Comentado --
+            /*
+             
+                if (archivingDB.Tables["TUA_Ticket"] == null)
+                {
+                    Table tbl_TUA_Ticket = new Table(archivingDB, "TUA_Ticket");
+                    //+ new DateTime().Date.ToShortDateString());
+
+                    Column Cod_Numero_Ticket = new Column(tbl_TUA_Ticket, "Cod_Numero_Ticket", DataType.Char(12));
+                    Column Cod_Compania = new Column(tbl_TUA_Ticket, "Cod_Compania", DataType.Char(10));
+                    Column Cod_Venta_Masiva = new Column(tbl_TUA_Ticket, "Cod_Venta_Masiva", DataType.Char(5));
+                    Column Dsc_Num_Vuelo = new Column(tbl_TUA_Ticket, "Dsc_Num_Vuelo", DataType.Char(10));
+                    Column Fch_Vuelo = new Column(tbl_TUA_Ticket, "Fch_Vuelo", DataType.Char(8));
+                    Column Tip_Estado_Actual = new Column(tbl_TUA_Ticket, "Tip_Estado_Actual", DataType.Char(1));
+                    Column Tip_Anulacion = new Column(tbl_TUA_Ticket, "Tip_Anulacion", DataType.Char(1));
+                    Column Fch_Creacion = new Column(tbl_TUA_Ticket, "Fch_Creacion", DataType.Char(8));
+                    Column Hor_Creacion = new Column(tbl_TUA_Ticket, "Hor_Creacion", DataType.Char(6));
+                    Column Cod_Turno = new Column(tbl_TUA_Ticket, "Cod_Turno", DataType.Char(6));
+                    Column Imp_Precio = new Column(tbl_TUA_Ticket, "Imp_Precio", DataType.Numeric(2, 12));
+                        //ESTO ES AL REVEZ
+
+                    Column Cod_Moneda = new Column(tbl_TUA_Ticket, "Cod_Moneda", DataType.Char(3));
+                    Column Fch_Vencimiento = new Column(tbl_TUA_Ticket, "Fch_Vencimiento", DataType.Char(8));
+                    Column Cod_Modalidad_Venta = new Column(tbl_TUA_Ticket, "Cod_Modalidad_Venta", DataType.Char(5));
+                    Column Num_Rehabilitaciones = new Column(tbl_TUA_Ticket, "Num_Rehabilitaciones", DataType.Int);
+                    Column Cod_Tipo_Ticket = new Column(tbl_TUA_Ticket, "Cod_Tipo_Ticket", DataType.Char(3));
+                    Column Num_Referencia = new Column(tbl_TUA_Ticket, "Num_Referencia", DataType.Char(10));
+                    Column Flg_Contingencia = new Column(tbl_TUA_Ticket, "Flg_Contingencia", DataType.Char(1));
+                    Column Num_Extensiones = new Column(tbl_TUA_Ticket, "Num_Extensiones", DataType.Int);
+                    Column Tip_Pago = new Column(tbl_TUA_Ticket, "Tip_Pago", DataType.Char(2));
+                    Column Flg_Cobro = new Column(tbl_TUA_Ticket, "Flg_Cobro", DataType.Char(1));
+                    Column Log_Usuario_Mod = new Column(tbl_TUA_Ticket, "Log_Usuario_Mod", DataType.Char(8));
+                    Column Log_Fecha_Mod = new Column(tbl_TUA_Ticket, "Log_Fecha_Mod", DataType.Char(8));
+                    Column Log_Hora_Mod = new Column(tbl_TUA_Ticket, "Log_Hora_Mod", DataType.Char(6));
+
+
+
+                    Cod_Numero_Ticket.Nullable = false;
+                    Tip_Estado_Actual.Nullable = false;
+                    Fch_Creacion.Nullable = false;
+                    Hor_Creacion.Nullable = false;
+                    Imp_Precio.Nullable = false;
+                    Cod_Moneda.Nullable = false;
+                    Fch_Vencimiento.Nullable = false;
+                    Num_Rehabilitaciones.Nullable = false;
+                    Cod_Tipo_Ticket.Nullable = false;
+                    Flg_Contingencia.Nullable = false;
+                    Num_Extensiones.Nullable = false;
+                    Flg_Cobro.Nullable = false;
+                    Log_Fecha_Mod.Nullable = false;
+                    Log_Hora_Mod.Nullable = false;
+
+                    tbl_TUA_Ticket.Columns.Add(Cod_Numero_Ticket);
+                    tbl_TUA_Ticket.Columns.Add(Cod_Compania);
+                    tbl_TUA_Ticket.Columns.Add(Cod_Venta_Masiva);
+                    tbl_TUA_Ticket.Columns.Add(Dsc_Num_Vuelo);
+                    tbl_TUA_Ticket.Columns.Add(Fch_Vuelo);
+                    tbl_TUA_Ticket.Columns.Add(Tip_Estado_Actual);
+                    tbl_TUA_Ticket.Columns.Add(Tip_Anulacion);
+                    tbl_TUA_Ticket.Columns.Add(Fch_Creacion);
+                    tbl_TUA_Ticket.Columns.Add(Hor_Creacion);
+                    tbl_TUA_Ticket.Columns.Add(Cod_Turno);
+                    tbl_TUA_Ticket.Columns.Add(Imp_Precio);
+
+                    tbl_TUA_Ticket.Columns.Add(Cod_Moneda);
+                    tbl_TUA_Ticket.Columns.Add(Fch_Vencimiento);
+                    tbl_TUA_Ticket.Columns.Add(Cod_Modalidad_Venta);
+                    tbl_TUA_Ticket.Columns.Add(Num_Rehabilitaciones);
+                    tbl_TUA_Ticket.Columns.Add(Cod_Tipo_Ticket);
+                    tbl_TUA_Ticket.Columns.Add(Num_Referencia);
+                    tbl_TUA_Ticket.Columns.Add(Flg_Contingencia);
+                    tbl_TUA_Ticket.Columns.Add(Num_Extensiones);
+                    tbl_TUA_Ticket.Columns.Add(Tip_Pago);
+                    tbl_TUA_Ticket.Columns.Add(Flg_Cobro);
+                    tbl_TUA_Ticket.Columns.Add(Log_Usuario_Mod);
+                    tbl_TUA_Ticket.Columns.Add(Log_Fecha_Mod);
+                    tbl_TUA_Ticket.Columns.Add(Log_Hora_Mod);
+
+                    tbl_TUA_Ticket.Create();
+
+
+
+                    bool aceptaNulo = Flg_Cobro.Nullable;
+
+                    Console.WriteLine("" + aceptaNulo);
+                }
+
+            */
+            #endregion
+            
+            Microsoft.Practices.EnterpriseLibrary.Data.Database databaseOperativoDefault = DatabaseFactory.CreateDatabase();
+            ServerConnection connOperativo = new ServerConnection();
+            connOperativo.ConnectionString = databaseOperativoDefault.ConnectionString;
+            Server srvOperativo = new Server(connArchivamiento);
+
+            Database databaseOperativo = srvOperativo.Databases["DBTUUA"];
+
+            #region Script  -- Comentado --
+            /*
+
+                Scripter scripter = new Scripter(srvOperativo);
+
+                scripter.Options.FileName = @"C:\SQLLAbs\scripter.txt";
+                scripter.Options.AppendToFile = true;
+                scripter.Options.IncludeHeaders = true;
+
+
+
+                SqlSmoObject[] smoObjects = new SqlSmoObject[1];
+                int i = 0;
+                foreach (Table tbl in (databaseOperativo.Tables))
+                {
+                    if (!tbl.IsSystemObject)
+                    {
+                        if (tbl.Schema == "dbo" && tbl.Name.Equals("TUA_Ticket"))
+                        {
+                            smoObjects[0] = tbl;
+                            i++;
+                        }
+                    }
+                }
+                scripter.Script(smoObjects);
+
+            */
+            #endregion
+
+
+
+            if (archivingDB.Tables["TUA_Ticket"] == null)
+            {
+                Table tbl_TUA_Ticket = new Table(archivingDB, "TUA_Ticket");
+            }
+
+            Table TestTable = new Table(archivingDB, "TUA_BoardingBcbp_10082009");
+            Column tempC;
+            Table SourceTable = databaseOperativo.Tables["TUA_BoardingBcbp"];
+
+            foreach (Column dc in SourceTable.Columns)
+            {
+                tempC = new Column(TestTable, dc.Name);
+                tempC.DataType = dc.DataType;
+                tempC.Nullable = dc.Nullable;
+                //tempC.Identity = dc.Identity;
+                //tempC.IdentityIncrement = dc.IdentityIncrement;
+                //tempC.IdentitySeed = dc.IdentitySeed;
+                
+                TestTable.Columns.Add(dc);
+            }
+            TestTable.Create();
+            
+
+
+            Console.Out.WriteLine("");
+
+            /*
+            //Open a connection with destination database;
+            using (SqlConnection connection =
+                   new SqlConnection(connectionString))
+            {
+                connection.Open();
+
+                //Open bulkcopy connection.
+                using (SqlBulkCopy bulkcopy = new SqlBulkCopy(connection))
+                {
+                    //Set destination table name
+                    //to table previously created.
+                    bulkcopy.DestinationTableName = "TUA_BoardingBcbp_10082009";
+
+                    try
+                    {
+                        
+                        
+                        
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
+
+                    connection.Close();
+                }
+            }
+            */
+
+
+        }
+
+    }
+}

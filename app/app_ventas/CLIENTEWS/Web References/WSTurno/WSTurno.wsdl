@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="autenticar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCuenta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sClave" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="autenticarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="autenticarResult" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Usuario">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNomUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SApeUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCtaUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SPwdActualUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFlgCambioClave" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipoEstadoActual" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DtFchVigencia" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipoGrupo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscEstadoActual" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscGrupo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFchCreacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SHoraCreacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuarioCreacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFlgUsuarioPinPad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SPwdUsuarioPinpad" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="crearTurno">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_cod_secuencial" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_cod_usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_cod_equipo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurnoError" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="crearTurnoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="crearTurnoResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurnoError" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarTurno">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objTurno" type="tns:Turno" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Turno">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodTurno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DtFchInicio" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DtFchFin" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuarioCierre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodEquipo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SHoraInicio" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SHoraFin" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ActualizarTurnoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarTurnoResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerTurnoIniciado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_usuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerTurnoIniciadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerTurnoIniciadoResult" type="tns:Turno" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="registrarTurnoMonto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listaMontos" type="tns:ArrayOfTurnoMonto" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTurnoMonto">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TurnoMonto" nillable="true" type="tns:TurnoMonto" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TurnoMonto">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="DImpMontoInicial" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="DImpMontoFinal" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="DImpMontoActual" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodTurno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodMoneda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DscMoneda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DscSimbolo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Imp_Transferencia" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Imp_Cheque" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Imp_Tarjeta" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tip_Pago" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="registrarTurnoMontoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="registrarTurnoMontoResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarTurnoMonto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listaMontos" type="tns:ArrayOfTurnoMonto" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarTurnoMontoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarTurnoMontoResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="verificarTurnoCerradoxUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_usuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="verificarTurnoCerradoxUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="verificarTurnoCerradoxUsuarioResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="verificarTurnoCerradoxPtoVenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_ptoventa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="verificarTurnoCerradoxPtoVentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="verificarTurnoCerradoxPtoVentaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarMonedas">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarMonedasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarMonedasResult" type="tns:ArrayOfMoneda" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfMoneda">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Moneda" nillable="true" type="tns:Moneda" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Moneda">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodMoneda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscMoneda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscSimbolo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNemonico" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DtLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SModulo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SSubModulo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarTurnoMontosPorTurno">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="scodturno" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTurnoMontosPorTurnoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTurnoMontosPorTurnoResult" type="tns:ArrayOfTurnoMonto" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTasaCambio">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarTasaCambioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTasaCambioResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="autenticarSoapIn">
+    <wsdl:part name="parameters" element="tns:autenticar" />
+  </wsdl:message>
+  <wsdl:message name="autenticarSoapOut">
+    <wsdl:part name="parameters" element="tns:autenticarResponse" />
+  </wsdl:message>
+  <wsdl:message name="crearTurnoSoapIn">
+    <wsdl:part name="parameters" element="tns:crearTurno" />
+  </wsdl:message>
+  <wsdl:message name="crearTurnoSoapOut">
+    <wsdl:part name="parameters" element="tns:crearTurnoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarTurnoSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarTurno" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarTurnoSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarTurnoResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerTurnoIniciadoSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerTurnoIniciado" />
+  </wsdl:message>
+  <wsdl:message name="obtenerTurnoIniciadoSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerTurnoIniciadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="registrarTurnoMontoSoapIn">
+    <wsdl:part name="parameters" element="tns:registrarTurnoMonto" />
+  </wsdl:message>
+  <wsdl:message name="registrarTurnoMontoSoapOut">
+    <wsdl:part name="parameters" element="tns:registrarTurnoMontoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarTurnoMontoSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarTurnoMonto" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarTurnoMontoSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarTurnoMontoResponse" />
+  </wsdl:message>
+  <wsdl:message name="verificarTurnoCerradoxUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:verificarTurnoCerradoxUsuario" />
+  </wsdl:message>
+  <wsdl:message name="verificarTurnoCerradoxUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:verificarTurnoCerradoxUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="verificarTurnoCerradoxPtoVentaSoapIn">
+    <wsdl:part name="parameters" element="tns:verificarTurnoCerradoxPtoVenta" />
+  </wsdl:message>
+  <wsdl:message name="verificarTurnoCerradoxPtoVentaSoapOut">
+    <wsdl:part name="parameters" element="tns:verificarTurnoCerradoxPtoVentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarMonedasSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarMonedas" />
+  </wsdl:message>
+  <wsdl:message name="ListarMonedasSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarMonedasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTurnoMontosPorTurnoSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTurnoMontosPorTurno" />
+  </wsdl:message>
+  <wsdl:message name="ListarTurnoMontosPorTurnoSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTurnoMontosPorTurnoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTasaCambioSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTasaCambio" />
+  </wsdl:message>
+  <wsdl:message name="ListarTasaCambioSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTasaCambioResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSTurnoSoap">
+    <wsdl:operation name="autenticar">
+      <wsdl:input message="tns:autenticarSoapIn" />
+      <wsdl:output message="tns:autenticarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="crearTurno">
+      <wsdl:input message="tns:crearTurnoSoapIn" />
+      <wsdl:output message="tns:crearTurnoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTurno">
+      <wsdl:input message="tns:ActualizarTurnoSoapIn" />
+      <wsdl:output message="tns:ActualizarTurnoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerTurnoIniciado">
+      <wsdl:input message="tns:obtenerTurnoIniciadoSoapIn" />
+      <wsdl:output message="tns:obtenerTurnoIniciadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="registrarTurnoMonto">
+      <wsdl:input message="tns:registrarTurnoMontoSoapIn" />
+      <wsdl:output message="tns:registrarTurnoMontoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTurnoMonto">
+      <wsdl:input message="tns:ActualizarTurnoMontoSoapIn" />
+      <wsdl:output message="tns:ActualizarTurnoMontoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="verificarTurnoCerradoxUsuario">
+      <wsdl:input message="tns:verificarTurnoCerradoxUsuarioSoapIn" />
+      <wsdl:output message="tns:verificarTurnoCerradoxUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="verificarTurnoCerradoxPtoVenta">
+      <wsdl:input message="tns:verificarTurnoCerradoxPtoVentaSoapIn" />
+      <wsdl:output message="tns:verificarTurnoCerradoxPtoVentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarMonedas">
+      <wsdl:input message="tns:ListarMonedasSoapIn" />
+      <wsdl:output message="tns:ListarMonedasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTurnoMontosPorTurno">
+      <wsdl:input message="tns:ListarTurnoMontosPorTurnoSoapIn" />
+      <wsdl:output message="tns:ListarTurnoMontosPorTurnoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTasaCambio">
+      <wsdl:input message="tns:ListarTasaCambioSoapIn" />
+      <wsdl:output message="tns:ListarTasaCambioSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSTurnoSoap" type="tns:WSTurnoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="autenticar">
+      <soap:operation soapAction="http://tempuri.org/autenticar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="crearTurno">
+      <soap:operation soapAction="http://tempuri.org/crearTurno" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTurno">
+      <soap:operation soapAction="http://tempuri.org/ActualizarTurno" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerTurnoIniciado">
+      <soap:operation soapAction="http://tempuri.org/obtenerTurnoIniciado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarTurnoMonto">
+      <soap:operation soapAction="http://tempuri.org/registrarTurnoMonto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTurnoMonto">
+      <soap:operation soapAction="http://tempuri.org/ActualizarTurnoMonto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="verificarTurnoCerradoxUsuario">
+      <soap:operation soapAction="http://tempuri.org/verificarTurnoCerradoxUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="verificarTurnoCerradoxPtoVenta">
+      <soap:operation soapAction="http://tempuri.org/verificarTurnoCerradoxPtoVenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarMonedas">
+      <soap:operation soapAction="http://tempuri.org/ListarMonedas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTurnoMontosPorTurno">
+      <soap:operation soapAction="http://tempuri.org/ListarTurnoMontosPorTurno" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTasaCambio">
+      <soap:operation soapAction="http://tempuri.org/ListarTasaCambio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSTurnoSoap12" type="tns:WSTurnoSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="autenticar">
+      <soap12:operation soapAction="http://tempuri.org/autenticar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="crearTurno">
+      <soap12:operation soapAction="http://tempuri.org/crearTurno" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTurno">
+      <soap12:operation soapAction="http://tempuri.org/ActualizarTurno" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerTurnoIniciado">
+      <soap12:operation soapAction="http://tempuri.org/obtenerTurnoIniciado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarTurnoMonto">
+      <soap12:operation soapAction="http://tempuri.org/registrarTurnoMonto" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTurnoMonto">
+      <soap12:operation soapAction="http://tempuri.org/ActualizarTurnoMonto" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="verificarTurnoCerradoxUsuario">
+      <soap12:operation soapAction="http://tempuri.org/verificarTurnoCerradoxUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="verificarTurnoCerradoxPtoVenta">
+      <soap12:operation soapAction="http://tempuri.org/verificarTurnoCerradoxPtoVenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarMonedas">
+      <soap12:operation soapAction="http://tempuri.org/ListarMonedas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTurnoMontosPorTurno">
+      <soap12:operation soapAction="http://tempuri.org/ListarTurnoMontosPorTurno" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTasaCambio">
+      <soap12:operation soapAction="http://tempuri.org/ListarTasaCambio" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSTurno">
+    <wsdl:port name="WSTurnoSoap" binding="tns:WSTurnoSoap">
+      <soap:address location="http://localhost:5078/WSDAO/WSTurno.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSTurnoSoap12" binding="tns:WSTurnoSoap12">
+      <soap12:address location="http://localhost:5078/WSDAO/WSTurno.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="registrarUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objUsuario" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Usuario">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNomUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SApeUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCtaUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SPwdActualUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFlgCambioClave" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipoEstadoActual" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DtFchVigencia" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipoGrupo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscEstadoActual" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscGrupo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFchCreacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SHoraCreacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuarioCreacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFlgUsuarioPinPad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SPwdUsuarioPinpad" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="registrarUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="registrarUsuarioResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objUsuario" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="actualizarUsuarioResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarContraseñaUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sContraseña" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="DtFchVigencia" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarContraseñaUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="actualizarContraseñaUsuarioResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarEstadoUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sEstado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFlagCambPw" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarEstadoUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="actualizarEstadoUsuarioResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="eliminarUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCod_Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Log_Usuario_Mod" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="eliminarUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="eliminarUsuarioResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarUsuario">
+        <s:complexType />
+      </s:element>
+      <s:element name="listarUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarUsuarioResult" type="tns:ArrayOfUsuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfUsuario">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Usuario" nillable="true" type="tns:Usuario" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="obtenerUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodUsuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerUsuarioResult" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerUsuarioxCuenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCuentaUsuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerUsuarioxCuentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerUsuarioxCuentaResult" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarAllUsuario">
+        <s:complexType />
+      </s:element>
+      <s:element name="listarAllUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarAllUsuarioResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="autenticar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCuenta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sClave" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="autenticarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="autenticarResult" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerFecha">
+        <s:complexType />
+      </s:element>
+      <s:element name="obtenerFechaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerFechaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="registrarUsuarioRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objUsuarioRol" type="tns:UsuarioRol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="UsuarioRol">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodRol" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="registrarUsuarioRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="registrarUsuarioRolResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="eliminarUsuarioRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCod_Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCod_Rol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="eliminarUsuarioRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="eliminarUsuarioRolResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerUsuarioRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCod_Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCod_Rol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerUsuarioRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerUsuarioRolResult" type="tns:UsuarioRol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerUsuarioRolxCodRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCod_Rol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerUsuarioRolxCodRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerUsuarioRolxCodRolResult" type="tns:UsuarioRol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarUsuarioRolxCodUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodUsuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarUsuarioRolxCodUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarUsuarioRolxCodUsuarioResult" type="tns:ArrayOfUsuarioRol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfUsuarioRol">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="UsuarioRol" nillable="true" type="tns:UsuarioRol" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ObtenerArbolModulo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodModulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodProceso" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodRol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerArbolModuloResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerArbolModuloResult" type="tns:ArbolModulo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArbolModulo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodProceso" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodProcesoPadre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodModulo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SIdProceso" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscProceso" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ITipNivel" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipEstado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFlgPermitido" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscArchivo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscIcono" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscTextoAyuda" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscIndCritic" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscColorCritic" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscTabFiltro" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscLicencia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscModulo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNomRol" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="INumPosProceso" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="INumPosModulo" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="STipModulo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="listarArbolModulo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodigo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarArbolModuloResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarArbolModuloResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarArbolModuloxRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodRol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarArbolModuloxRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarArbolModuloxRolResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarPerfilVenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strUsuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarPerfilVentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarPerfilVentaResult" type="tns:ArrayOfArbolModulo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfArbolModulo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ArbolModulo" nillable="true" type="tns:ArbolModulo" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="registrarRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objRol" type="tns:Rol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Rol">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodRol" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodPadreRol" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SNomRol" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="registrarRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="registrarRolResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objRol" type="tns:Rol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="actualizarRolResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="eliminarRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCod_Rol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="eliminarRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="eliminarRolResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarRoles">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarRolesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarRolesResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listaDeRoles">
+        <s:complexType />
+      </s:element>
+      <s:element name="listaDeRolesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listaDeRolesResult" type="tns:ArrayOfRol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfRol">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Rol" nillable="true" type="tns:Rol" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="listarRolesAsignados">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodUsuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarRolesAsignadosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarRolesAsignadosResult" type="tns:ArrayOfRol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarRolesSinAsignar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodUsuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarRolesSinAsignarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarRolesSinAsignarResult" type="tns:ArrayOfRol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerRolxNombre">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sNomRol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerRolxNombreResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerRolxNombreResult" type="tns:Rol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerRolxCodigo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodRol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerRolxCodigoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerRolxCodigoResult" type="tns:Rol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerRolHijo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodRol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerRolHijoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="obtenerRolHijoResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="registrarPerfilRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objPerfilRol" type="tns:PerfilRol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="PerfilRol">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodProceso" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodModulo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SCodRol" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SFlgPermitido" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscProceso" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="registrarPerfilRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="registrarPerfilRolResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarPerfilRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objPerfilRol" type="tns:PerfilRol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarPerfilRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="actualizarPerfilRolResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarPerfilRolxRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodRol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarPerfilRolxRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarPerfilRolxRolResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListadoPerfilRolxRol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodRol" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListadoPerfilRolxRolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListadoPerfilRolxRolResult" type="tns:ArrayOfPerfilRol" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfPerfilRol">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="PerfilRol" nillable="true" type="tns:PerfilRol" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="FlagPerfilRolxOpcion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodRol" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sDscArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sOpcion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FlagPerfilRolxOpcionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FlagPerfilRolxOpcionResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerClaveUsuHist">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SDscClave" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iNum" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerClaveUsuHistResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="obtenerClaveUsuHistResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerUsuarioHist">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodUsuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerUsuarioHistResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerUsuarioHistResult" type="tns:ClaveUsuHist" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ClaveUsuHist">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SCodUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogFechaMod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDscClave" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogUsuarioMod" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="INumContadorUsuario" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="SLogHoraMod" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarAllModulo">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarAllModuloResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAllModuloResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="registrarUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:registrarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="registrarUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:registrarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="actualizarUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:actualizarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="actualizarUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:actualizarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="actualizarContraseñaUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:actualizarContraseñaUsuario" />
+  </wsdl:message>
+  <wsdl:message name="actualizarContraseñaUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:actualizarContraseñaUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="actualizarEstadoUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:actualizarEstadoUsuario" />
+  </wsdl:message>
+  <wsdl:message name="actualizarEstadoUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:actualizarEstadoUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="eliminarUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:eliminarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="eliminarUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:eliminarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:listarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="listarUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:listarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerUsuario" />
+  </wsdl:message>
+  <wsdl:message name="obtenerUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerUsuarioxCuentaSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerUsuarioxCuenta" />
+  </wsdl:message>
+  <wsdl:message name="obtenerUsuarioxCuentaSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerUsuarioxCuentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarAllUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:listarAllUsuario" />
+  </wsdl:message>
+  <wsdl:message name="listarAllUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:listarAllUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="autenticarSoapIn">
+    <wsdl:part name="parameters" element="tns:autenticar" />
+  </wsdl:message>
+  <wsdl:message name="autenticarSoapOut">
+    <wsdl:part name="parameters" element="tns:autenticarResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerFechaSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerFecha" />
+  </wsdl:message>
+  <wsdl:message name="obtenerFechaSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerFechaResponse" />
+  </wsdl:message>
+  <wsdl:message name="registrarUsuarioRolSoapIn">
+    <wsdl:part name="parameters" element="tns:registrarUsuarioRol" />
+  </wsdl:message>
+  <wsdl:message name="registrarUsuarioRolSoapOut">
+    <wsdl:part name="parameters" element="tns:registrarUsuarioRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="eliminarUsuarioRolSoapIn">
+    <wsdl:part name="parameters" element="tns:eliminarUsuarioRol" />
+  </wsdl:message>
+  <wsdl:message name="eliminarUsuarioRolSoapOut">
+    <wsdl:part name="parameters" element="tns:eliminarUsuarioRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerUsuarioRolSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerUsuarioRol" />
+  </wsdl:message>
+  <wsdl:message name="obtenerUsuarioRolSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerUsuarioRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerUsuarioRolxCodRolSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerUsuarioRolxCodRol" />
+  </wsdl:message>
+  <wsdl:message name="obtenerUsuarioRolxCodRolSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerUsuarioRolxCodRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarUsuarioRolxCodUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarUsuarioRolxCodUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ListarUsuarioRolxCodUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarUsuarioRolxCodUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerArbolModuloSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerArbolModulo" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerArbolModuloSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerArbolModuloResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarArbolModuloSoapIn">
+    <wsdl:part name="parameters" element="tns:listarArbolModulo" />
+  </wsdl:message>
+  <wsdl:message name="listarArbolModuloSoapOut">
+    <wsdl:part name="parameters" element="tns:listarArbolModuloResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarArbolModuloxRolSoapIn">
+    <wsdl:part name="parameters" element="tns:listarArbolModuloxRol" />
+  </wsdl:message>
+  <wsdl:message name="listarArbolModuloxRolSoapOut">
+    <wsdl:part name="parameters" element="tns:listarArbolModuloxRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarPerfilVentaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarPerfilVenta" />
+  </wsdl:message>
+  <wsdl:message name="ListarPerfilVentaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarPerfilVentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="registrarRolSoapIn">
+    <wsdl:part name="parameters" element="tns:registrarRol" />
+  </wsdl:message>
+  <wsdl:message name="registrarRolSoapOut">
+    <wsdl:part name="parameters" element="tns:registrarRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="actualizarRolSoapIn">
+    <wsdl:part name="parameters" element="tns:actualizarRol" />
+  </wsdl:message>
+  <wsdl:message name="actualizarRolSoapOut">
+    <wsdl:part name="parameters" element="tns:actualizarRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="eliminarRolSoapIn">
+    <wsdl:part name="parameters" element="tns:eliminarRol" />
+  </wsdl:message>
+  <wsdl:message name="eliminarRolSoapOut">
+    <wsdl:part name="parameters" element="tns:eliminarRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarRolesSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarRoles" />
+  </wsdl:message>
+  <wsdl:message name="ListarRolesSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarRolesResponse" />
+  </wsdl:message>
+  <wsdl:message name="listaDeRolesSoapIn">
+    <wsdl:part name="parameters" element="tns:listaDeRoles" />
+  </wsdl:message>
+  <wsdl:message name="listaDeRolesSoapOut">
+    <wsdl:part name="parameters" element="tns:listaDeRolesResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarRolesAsignadosSoapIn">
+    <wsdl:part name="parameters" element="tns:listarRolesAsignados" />
+  </wsdl:message>
+  <wsdl:message name="listarRolesAsignadosSoapOut">
+    <wsdl:part name="parameters" element="tns:listarRolesAsignadosResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarRolesSinAsignarSoapIn">
+    <wsdl:part name="parameters" element="tns:listarRolesSinAsignar" />
+  </wsdl:message>
+  <wsdl:message name="listarRolesSinAsignarSoapOut">
+    <wsdl:part name="parameters" element="tns:listarRolesSinAsignarResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerRolxNombreSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerRolxNombre" />
+  </wsdl:message>
+  <wsdl:message name="obtenerRolxNombreSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerRolxNombreResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerRolxCodigoSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerRolxCodigo" />
+  </wsdl:message>
+  <wsdl:message name="obtenerRolxCodigoSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerRolxCodigoResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerRolHijoSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerRolHijo" />
+  </wsdl:message>
+  <wsdl:message name="obtenerRolHijoSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerRolHijoResponse" />
+  </wsdl:message>
+  <wsdl:message name="registrarPerfilRolSoapIn">
+    <wsdl:part name="parameters" element="tns:registrarPerfilRol" />
+  </wsdl:message>
+  <wsdl:message name="registrarPerfilRolSoapOut">
+    <wsdl:part name="parameters" element="tns:registrarPerfilRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="actualizarPerfilRolSoapIn">
+    <wsdl:part name="parameters" element="tns:actualizarPerfilRol" />
+  </wsdl:message>
+  <wsdl:message name="actualizarPerfilRolSoapOut">
+    <wsdl:part name="parameters" element="tns:actualizarPerfilRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarPerfilRolxRolSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarPerfilRolxRol" />
+  </wsdl:message>
+  <wsdl:message name="ListarPerfilRolxRolSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarPerfilRolxRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListadoPerfilRolxRolSoapIn">
+    <wsdl:part name="parameters" element="tns:ListadoPerfilRolxRol" />
+  </wsdl:message>
+  <wsdl:message name="ListadoPerfilRolxRolSoapOut">
+    <wsdl:part name="parameters" element="tns:ListadoPerfilRolxRolResponse" />
+  </wsdl:message>
+  <wsdl:message name="FlagPerfilRolxOpcionSoapIn">
+    <wsdl:part name="parameters" element="tns:FlagPerfilRolxOpcion" />
+  </wsdl:message>
+  <wsdl:message name="FlagPerfilRolxOpcionSoapOut">
+    <wsdl:part name="parameters" element="tns:FlagPerfilRolxOpcionResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerClaveUsuHistSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerClaveUsuHist" />
+  </wsdl:message>
+  <wsdl:message name="obtenerClaveUsuHistSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerClaveUsuHistResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerUsuarioHistSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerUsuarioHist" />
+  </wsdl:message>
+  <wsdl:message name="obtenerUsuarioHistSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerUsuarioHistResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllModuloSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAllModulo" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllModuloSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAllModuloResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSSeguridadSoap">
+    <wsdl:operation name="registrarUsuario">
+      <wsdl:input message="tns:registrarUsuarioSoapIn" />
+      <wsdl:output message="tns:registrarUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="actualizarUsuario">
+      <wsdl:input message="tns:actualizarUsuarioSoapIn" />
+      <wsdl:output message="tns:actualizarUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="actualizarContraseñaUsuario">
+      <wsdl:input message="tns:actualizarContraseñaUsuarioSoapIn" />
+      <wsdl:output message="tns:actualizarContraseñaUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="actualizarEstadoUsuario">
+      <wsdl:input message="tns:actualizarEstadoUsuarioSoapIn" />
+      <wsdl:output message="tns:actualizarEstadoUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="eliminarUsuario">
+      <wsdl:input message="tns:eliminarUsuarioSoapIn" />
+      <wsdl:output message="tns:eliminarUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarUsuario">
+      <wsdl:input message="tns:listarUsuarioSoapIn" />
+      <wsdl:output message="tns:listarUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuario">
+      <wsdl:input message="tns:obtenerUsuarioSoapIn" />
+      <wsdl:output message="tns:obtenerUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioxCuenta">
+      <wsdl:input message="tns:obtenerUsuarioxCuentaSoapIn" />
+      <wsdl:output message="tns:obtenerUsuarioxCuentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarAllUsuario">
+      <wsdl:input message="tns:listarAllUsuarioSoapIn" />
+      <wsdl:output message="tns:listarAllUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="autenticar">
+      <wsdl:input message="tns:autenticarSoapIn" />
+      <wsdl:output message="tns:autenticarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerFecha">
+      <wsdl:input message="tns:obtenerFechaSoapIn" />
+      <wsdl:output message="tns:obtenerFechaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="registrarUsuarioRol">
+      <wsdl:input message="tns:registrarUsuarioRolSoapIn" />
+      <wsdl:output message="tns:registrarUsuarioRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="eliminarUsuarioRol">
+      <wsdl:input message="tns:eliminarUsuarioRolSoapIn" />
+      <wsdl:output message="tns:eliminarUsuarioRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioRol">
+      <wsdl:input message="tns:obtenerUsuarioRolSoapIn" />
+      <wsdl:output message="tns:obtenerUsuarioRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioRolxCodRol">
+      <wsdl:input message="tns:obtenerUsuarioRolxCodRolSoapIn" />
+      <wsdl:output message="tns:obtenerUsuarioRolxCodRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarUsuarioRolxCodUsuario">
+      <wsdl:input message="tns:ListarUsuarioRolxCodUsuarioSoapIn" />
+      <wsdl:output message="tns:ListarUsuarioRolxCodUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerArbolModulo">
+      <wsdl:input message="tns:ObtenerArbolModuloSoapIn" />
+      <wsdl:output message="tns:ObtenerArbolModuloSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarArbolModulo">
+      <wsdl:input message="tns:listarArbolModuloSoapIn" />
+      <wsdl:output message="tns:listarArbolModuloSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarArbolModuloxRol">
+      <wsdl:input message="tns:listarArbolModuloxRolSoapIn" />
+      <wsdl:output message="tns:listarArbolModuloxRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarPerfilVenta">
+      <wsdl:input message="tns:ListarPerfilVentaSoapIn" />
+      <wsdl:output message="tns:ListarPerfilVentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="registrarRol">
+      <wsdl:input message="tns:registrarRolSoapIn" />
+      <wsdl:output message="tns:registrarRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="actualizarRol">
+      <wsdl:input message="tns:actualizarRolSoapIn" />
+      <wsdl:output message="tns:actualizarRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="eliminarRol">
+      <wsdl:input message="tns:eliminarRolSoapIn" />
+      <wsdl:output message="tns:eliminarRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarRoles">
+      <wsdl:input message="tns:ListarRolesSoapIn" />
+      <wsdl:output message="tns:ListarRolesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listaDeRoles">
+      <wsdl:input message="tns:listaDeRolesSoapIn" />
+      <wsdl:output message="tns:listaDeRolesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarRolesAsignados">
+      <wsdl:input message="tns:listarRolesAsignadosSoapIn" />
+      <wsdl:output message="tns:listarRolesAsignadosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarRolesSinAsignar">
+      <wsdl:input message="tns:listarRolesSinAsignarSoapIn" />
+      <wsdl:output message="tns:listarRolesSinAsignarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerRolxNombre">
+      <wsdl:input message="tns:obtenerRolxNombreSoapIn" />
+      <wsdl:output message="tns:obtenerRolxNombreSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerRolxCodigo">
+      <wsdl:input message="tns:obtenerRolxCodigoSoapIn" />
+      <wsdl:output message="tns:obtenerRolxCodigoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerRolHijo">
+      <wsdl:input message="tns:obtenerRolHijoSoapIn" />
+      <wsdl:output message="tns:obtenerRolHijoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="registrarPerfilRol">
+      <wsdl:input message="tns:registrarPerfilRolSoapIn" />
+      <wsdl:output message="tns:registrarPerfilRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="actualizarPerfilRol">
+      <wsdl:input message="tns:actualizarPerfilRolSoapIn" />
+      <wsdl:output message="tns:actualizarPerfilRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarPerfilRolxRol">
+      <wsdl:input message="tns:ListarPerfilRolxRolSoapIn" />
+      <wsdl:output message="tns:ListarPerfilRolxRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListadoPerfilRolxRol">
+      <wsdl:input message="tns:ListadoPerfilRolxRolSoapIn" />
+      <wsdl:output message="tns:ListadoPerfilRolxRolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FlagPerfilRolxOpcion">
+      <wsdl:input message="tns:FlagPerfilRolxOpcionSoapIn" />
+      <wsdl:output message="tns:FlagPerfilRolxOpcionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerClaveUsuHist">
+      <wsdl:input message="tns:obtenerClaveUsuHistSoapIn" />
+      <wsdl:output message="tns:obtenerClaveUsuHistSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioHist">
+      <wsdl:input message="tns:obtenerUsuarioHistSoapIn" />
+      <wsdl:output message="tns:obtenerUsuarioHistSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllModulo">
+      <wsdl:input message="tns:ListarAllModuloSoapIn" />
+      <wsdl:output message="tns:ListarAllModuloSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSSeguridadSoap" type="tns:WSSeguridadSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="registrarUsuario">
+      <soap:operation soapAction="http://tempuri.org/registrarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarUsuario">
+      <soap:operation soapAction="http://tempuri.org/actualizarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarContraseñaUsuario">
+      <soap:operation soapAction="http://tempuri.org/actualizarContraseñaUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarEstadoUsuario">
+      <soap:operation soapAction="http://tempuri.org/actualizarEstadoUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarUsuario">
+      <soap:operation soapAction="http://tempuri.org/eliminarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarUsuario">
+      <soap:operation soapAction="http://tempuri.org/listarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuario">
+      <soap:operation soapAction="http://tempuri.org/obtenerUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioxCuenta">
+      <soap:operation soapAction="http://tempuri.org/obtenerUsuarioxCuenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarAllUsuario">
+      <soap:operation soapAction="http://tempuri.org/listarAllUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="autenticar">
+      <soap:operation soapAction="http://tempuri.org/autenticar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerFecha">
+      <soap:operation soapAction="http://tempuri.org/obtenerFecha" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarUsuarioRol">
+      <soap:operation soapAction="http://tempuri.org/registrarUsuarioRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarUsuarioRol">
+      <soap:operation soapAction="http://tempuri.org/eliminarUsuarioRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioRol">
+      <soap:operation soapAction="http://tempuri.org/obtenerUsuarioRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioRolxCodRol">
+      <soap:operation soapAction="http://tempuri.org/obtenerUsuarioRolxCodRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarUsuarioRolxCodUsuario">
+      <soap:operation soapAction="http://tempuri.org/ListarUsuarioRolxCodUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerArbolModulo">
+      <soap:operation soapAction="http://tempuri.org/ObtenerArbolModulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarArbolModulo">
+      <soap:operation soapAction="http://tempuri.org/listarArbolModulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarArbolModuloxRol">
+      <soap:operation soapAction="http://tempuri.org/listarArbolModuloxRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarPerfilVenta">
+      <soap:operation soapAction="http://tempuri.org/ListarPerfilVenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarRol">
+      <soap:operation soapAction="http://tempuri.org/registrarRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarRol">
+      <soap:operation soapAction="http://tempuri.org/actualizarRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarRol">
+      <soap:operation soapAction="http://tempuri.org/eliminarRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarRoles">
+      <soap:operation soapAction="http://tempuri.org/ListarRoles" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listaDeRoles">
+      <soap:operation soapAction="http://tempuri.org/listaDeRoles" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarRolesAsignados">
+      <soap:operation soapAction="http://tempuri.org/listarRolesAsignados" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarRolesSinAsignar">
+      <soap:operation soapAction="http://tempuri.org/listarRolesSinAsignar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerRolxNombre">
+      <soap:operation soapAction="http://tempuri.org/obtenerRolxNombre" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerRolxCodigo">
+      <soap:operation soapAction="http://tempuri.org/obtenerRolxCodigo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerRolHijo">
+      <soap:operation soapAction="http://tempuri.org/obtenerRolHijo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarPerfilRol">
+      <soap:operation soapAction="http://tempuri.org/registrarPerfilRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarPerfilRol">
+      <soap:operation soapAction="http://tempuri.org/actualizarPerfilRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarPerfilRolxRol">
+      <soap:operation soapAction="http://tempuri.org/ListarPerfilRolxRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListadoPerfilRolxRol">
+      <soap:operation soapAction="http://tempuri.org/ListadoPerfilRolxRol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FlagPerfilRolxOpcion">
+      <soap:operation soapAction="http://tempuri.org/FlagPerfilRolxOpcion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerClaveUsuHist">
+      <soap:operation soapAction="http://tempuri.org/obtenerClaveUsuHist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioHist">
+      <soap:operation soapAction="http://tempuri.org/obtenerUsuarioHist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllModulo">
+      <soap:operation soapAction="http://tempuri.org/ListarAllModulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSSeguridadSoap12" type="tns:WSSeguridadSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="registrarUsuario">
+      <soap12:operation soapAction="http://tempuri.org/registrarUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarUsuario">
+      <soap12:operation soapAction="http://tempuri.org/actualizarUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarContraseñaUsuario">
+      <soap12:operation soapAction="http://tempuri.org/actualizarContraseñaUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarEstadoUsuario">
+      <soap12:operation soapAction="http://tempuri.org/actualizarEstadoUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarUsuario">
+      <soap12:operation soapAction="http://tempuri.org/eliminarUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarUsuario">
+      <soap12:operation soapAction="http://tempuri.org/listarUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuario">
+      <soap12:operation soapAction="http://tempuri.org/obtenerUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioxCuenta">
+      <soap12:operation soapAction="http://tempuri.org/obtenerUsuarioxCuenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarAllUsuario">
+      <soap12:operation soapAction="http://tempuri.org/listarAllUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="autenticar">
+      <soap12:operation soapAction="http://tempuri.org/autenticar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerFecha">
+      <soap12:operation soapAction="http://tempuri.org/obtenerFecha" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarUsuarioRol">
+      <soap12:operation soapAction="http://tempuri.org/registrarUsuarioRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarUsuarioRol">
+      <soap12:operation soapAction="http://tempuri.org/eliminarUsuarioRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioRol">
+      <soap12:operation soapAction="http://tempuri.org/obtenerUsuarioRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioRolxCodRol">
+      <soap12:operation soapAction="http://tempuri.org/obtenerUsuarioRolxCodRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarUsuarioRolxCodUsuario">
+      <soap12:operation soapAction="http://tempuri.org/ListarUsuarioRolxCodUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerArbolModulo">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerArbolModulo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarArbolModulo">
+      <soap12:operation soapAction="http://tempuri.org/listarArbolModulo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarArbolModuloxRol">
+      <soap12:operation soapAction="http://tempuri.org/listarArbolModuloxRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarPerfilVenta">
+      <soap12:operation soapAction="http://tempuri.org/ListarPerfilVenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarRol">
+      <soap12:operation soapAction="http://tempuri.org/registrarRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarRol">
+      <soap12:operation soapAction="http://tempuri.org/actualizarRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminarRol">
+      <soap12:operation soapAction="http://tempuri.org/eliminarRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarRoles">
+      <soap12:operation soapAction="http://tempuri.org/ListarRoles" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listaDeRoles">
+      <soap12:operation soapAction="http://tempuri.org/listaDeRoles" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarRolesAsignados">
+      <soap12:operation soapAction="http://tempuri.org/listarRolesAsignados" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarRolesSinAsignar">
+      <soap12:operation soapAction="http://tempuri.org/listarRolesSinAsignar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerRolxNombre">
+      <soap12:operation soapAction="http://tempuri.org/obtenerRolxNombre" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerRolxCodigo">
+      <soap12:operation soapAction="http://tempuri.org/obtenerRolxCodigo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerRolHijo">
+      <soap12:operation soapAction="http://tempuri.org/obtenerRolHijo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="registrarPerfilRol">
+      <soap12:operation soapAction="http://tempuri.org/registrarPerfilRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarPerfilRol">
+      <soap12:operation soapAction="http://tempuri.org/actualizarPerfilRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarPerfilRolxRol">
+      <soap12:operation soapAction="http://tempuri.org/ListarPerfilRolxRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListadoPerfilRolxRol">
+      <soap12:operation soapAction="http://tempuri.org/ListadoPerfilRolxRol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FlagPerfilRolxOpcion">
+      <soap12:operation soapAction="http://tempuri.org/FlagPerfilRolxOpcion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerClaveUsuHist">
+      <soap12:operation soapAction="http://tempuri.org/obtenerClaveUsuHist" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerUsuarioHist">
+      <soap12:operation soapAction="http://tempuri.org/obtenerUsuarioHist" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllModulo">
+      <soap12:operation soapAction="http://tempuri.org/ListarAllModulo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSSeguridad">
+    <wsdl:port name="WSSeguridadSoap" binding="tns:WSSeguridadSoap">
+      <soap:address location="http://localhost:5078/WSDAO/WSSeguridad.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSSeguridadSoap12" binding="tns:WSSeguridadSoap12">
+      <soap12:address location="http://localhost:5078/WSDAO/WSSeguridad.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

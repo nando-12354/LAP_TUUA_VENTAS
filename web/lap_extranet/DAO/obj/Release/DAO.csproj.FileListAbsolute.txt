@@ -1,0 +1,33 @@
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\DAO\obj\Release\ResolveAssemblyReference.cache
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\DAO.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\DAO.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\LAP.EXTRANET.UTIL.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\LAP.EXTRANET.UTIL.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\DAO\obj\Release\DAO.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\DAO\obj\Release\DAO.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\DAO\bin\Release\DAO.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\DAO\bin\Release\DAO.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\DAO\bin\Release\LAP.EXTRANET.UTIL.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\DAO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\DAO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\DAO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\DAO\bin\Release\LAP.EXTRANET.UTIL.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\DAO\obj\Release\ResolveAssemblyReference.cache
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\DAO\obj\Release\DAO.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\DAO\obj\Release\DAO.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\obj\Release\DAO.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\obj\Release\DAO.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\DAO.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\DAO.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\LAP.EXTRANET.UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\bin\Release\LAP.EXTRANET.UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\obj\Release\DAO.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\DAO\obj\Release\DAO.csproj.CopyComplete

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pantalla Transito</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/eel.js"></script>
+    <script type="text/javascript" src="js/vue.js"></script>
+    <script type="text/javascript" src="js/util.js"></script>
+</head>
+
+<body>
+
+    <div id="app">
+        <div id="cabecera" class="row">
+            <div id="logo" class="col-sm-6">
+                <img src="img/logoLAPsmall.png" alt="" srcset=""> 
+            </div>
+            <div id="div_reloj" class="col-sm-6 text-right">
+                <img src="img/reloj.PNG" style="max-height: 30px;">
+                <span id="reloj"></span>
+
+            </div>
+        </div>
+
+        <div id="pagina1" class="contenido" v-show="pantalla==1">
+
+            <div class="text-center">
+                <h1 style="color:#0051a0; font-size:50px"> <b> <img src="img/LogoOrig.PNG" alt="" srcset="" style="height: 90px;" class="img-fluid"> ORIGEN/ORIGIN </b> </h1>
+            </div>
+
+            <div class="row justify-content-center" style="padding-top: 50px;">
+                <img src="img/escanee_boarding.PNG" style="max-width: 400px;">
+            </div>
+
+            <div class="row justify-content-center">
+                <img src="img/or.PNG" style="max-height: 70px;">
+            </div>
+
+            <div class="row justify-content-center">
+                <input type="image" src="img/seleccione_su_vuelo.PNG" style="max-width: 400px;"
+                    v-on:click="mostrar_lista_vuelos">
+            </div>
+
+        </div>
+        <div id="pagina2" class="contenido" v-show="pantalla==2">
+            <div class="text-center">
+                 <h1 style="color:#0051a0; font-size:50px"> <b> <img src="img/LogoOrig.PNG" alt="" srcset="" style="height: 90px;" class="img-fluid"> ORIGEN/ORIGIN </b> </h1>
+            </div>
+            <div style="padding-top: 40px;">
+
+                <table class="table table-hover">
+                    <thead>
+                        <tr class="plomo">
+                            <th>Origen / Origin</th>
+                            <th class="text-right"></th>
+                            <th class="text-right">Vuelo / Flight</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr v-for="vuelo in lista_vuelos" v-on:click="seleccionar_vuelo_llegada(vuelo)"
+                            class="azul_oscuro">
+                            <td><b> {{vuelo.Dsc_Proc_Destino}} </b></td>
+                            <td class="text-right"><img v-bind:src="'img/airlines/' + vuelo.Cod_Iata +'.png'"
+                                    style="max-height: 40px; max-width: 100px;" /></td>
+                            <td class="text-right"><b> {{vuelo.Num_Vuelo}} </b></td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+
+            <div class="row">
+                <div class="col-sm-4 offset-sm-8 text-right">
+                    <input type="image" src="img/regresar.PNG" v-on:click="regresar" style="max-height: 60px;">
+                </div>
+            </div>
+
+        </div>
+        <div id="pagina3" class="contenido" v-show="pantalla==3">
+            <div class="text-center">
+                 <h1 style="color:#1ab5f0; font-size:50px "> <b> <img src="img/logoDest.PNG" alt="" srcset="" style="height: 90px;" class="img-fluid"> DESTINO/DESTINATION </b> </h1>
+                
+            </div>
+
+            <div class="alert alert-info text-center" role="alert" v-show="vuelo_llegada">
+                <b> Origen/Origin: </b> {{vuelo_llegada.Dsc_Proc_Destino}}     <b>Vuelo/Flight:</b> {{vuelo_llegada.Num_Vuelo }}
+            </div>
+
+
+            <div class="row justify-content-center" style="padding-top: 20px;">
+                <img src="img/escanee_boarding.PNG" style="max-width: 400px;">
+            </div>
+
+            <div class="row justify-content-center">
+                <img src="img/or.PNG" style="max-height: 70px;">
+            </div>
+
+            <div class="row justify-content-center">
+                <input type="image" src="img/seleccione_su_vuelo.PNG" style="max-width: 400px;"
+                    v-on:click="mostrar_aerolineas">
+            </div>
+
+            <div class="row">
+                <div class="col-sm-4 offset-sm-8 text-right">
+                    <input type="image" src="img/regresar.PNG" v-on:click="regresar" style="max-height: 60px;">
+                </div>
+            </div>
+
+        </div>
+        <div id="pagina4" class="contenido" v-show="pantalla==4">
+        <div class="text-center">
+            <h1 style="color:#1ab5f0; font-size:50px"> <b> <img src="img/logoDest.PNG" alt="" srcset="" style="height: 90px;" class="img-fluid"> DESTINO/DESTINATION </b> </h1>
+        </div>
+            <div class="alert alert-info text-center" role="alert" v-show="vuelo_llegada">
+                <b> Origen/Origin: </b> {{vuelo_llegada.Dsc_Proc_Destino}}     <b>Vuelo/Flight:</b> {{vuelo_llegada.Num_Vuelo }}
+            </div>
+
+            <div class="card-deck" style="padding-top: 20px; padding-bottom: 50px;" >
+                <div class="card bg-light" v-for="aerolinea in aerolineas"
+                    v-on:click="mostrar_vuelos_salida(aerolinea.Cod_Iata)" style="min-width: 160px; max-width: 160px; margin-top: 15px;">
+                    <div class="card-body text-center">
+                        <input type="image" v-bind:src="'img/airlines/' + aerolinea.Cod_Iata +'.png'"
+                            style="max-height: 40px;" v-on:click="mostrar_vuelos_salida(aerolinea.Cod_Iata)"
+                            class="img-fluid">
+
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted" style="font-size: xx-small;">{{aerolinea.Dsc_Aerolinea}}</small>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4 offset-sm-8 text-right">
+                    <input type="image" src="img/regresar.PNG" v-on:click="regresar" style="max-height: 60px;">
+                </div>
+            </div>
+        </div>
+        <div id="pagina5" class="contenido" v-show="pantalla==5">
+            <div class="text-center">
+                <h1 style="color:#1ab5f0; font-size:50px"> <b> <img src="img/logoDest.PNG" alt="" srcset="" style="height: 90px;" class="img-fluid"> DESTINO/DESTINATION </b> </h1>
+            </div>
+            <div class="alert alert-info text-center" role="alert" v-show="vuelo_llegada">
+                <b> Origen/Origin: </b> {{vuelo_llegada.Dsc_Proc_Destino}}     <b>Vuelo/Flight:</b> {{vuelo_llegada.Num_Vuelo }}
+            </div>
+
+            <div style="padding-top: 20px;">
+
+                <table class="table table-hover">
+                    <thead>
+                        <tr class="plomo">
+                            <th>Destino / Destination</th>
+                            <th class="text-right"></th>
+                            <th class="text-right">Vuelo / Flight</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr v-for="vuelo in lista_vuelos_salida" v-on:click="seleccionar_vuelo_salida(vuelo)"
+                            class="azul_oscuro">
+                            <td><b> {{vuelo.Dsc_Proc_Destino}} </b></td>
+                            <td class="text-right"><img v-bind:src="'img/airlines/' + vuelo.Cod_Iata +'.png'"
+                                    style="max-height: 30px;" /></td>
+                            <td class="text-right"><b> {{vuelo.Num_Vuelo}} </b></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="row">
+                <div class="col-sm-4 offset-sm-8 text-right">
+                    <input type="image" src="img/regresar.PNG" v-on:click="regresar" style="max-height: 60px;">
+                </div>
+            </div>
+
+        </div>
+        <div id="pagina6" v-show="pantalla==6" class="exito">
+            <div class="contenido text-center" style="padding-top: 100px;">
+                <img src="img/pase.PNG" alt="" srcset="" class="img-fluid" style="max-width: 400px;">
+                <br>
+                <br>
+                <h3> <b>BIENVENIDO</b> </h3>
+            </div>
+        </div>
+        <div id="pagina99" v-show="pantalla==99" class="error">
+            <div class="contenido text-center" style="padding-top: 100px;">
+                <img src="img/error.PNG" alt="" srcset="" class="img-fluid" style="max-width: 400px;">
+                <br>
+                <br>
+                <h3> <b>Ha ocurrido un error</b> </h3>
+            </div>
+
+        </div>
+
+    </div>
+
+    <script type="text/javascript" src="js/inicio.js"></script>
+</body>
+
+</html>

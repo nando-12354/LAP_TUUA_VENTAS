@@ -1,0 +1,11 @@
+Instrucciones para instalar el Scanner en el modulo web de Administracion.
+==========================================================================
+
+1.-Descomprimir mscomm32.cab
+2.-Click derecho en mscomm32.inf y dar en Install.
+3.-Ir a Inicio-Ejecutar: "regsvr32  mscomm32.ocx"
+4.-Doble click en AllowActiveXMSComm32.reg
+4.-El Scanner debe estar en el puerto COM configurado en el archivo config.properties:
+Ejemplo del config.properties:
+		#Puerto asignado al Lector de ticket y BCBP
+		COM_SERIAL_LECTOR=1

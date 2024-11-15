@@ -1,0 +1,173 @@
+20/09/2015 12:54:01:462  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+20/09/2015 12:54:49:754  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Local Inactiva 
+20/09/2015 12:54:49:809  LAP.TUUA.ACCESOS.ACS_Controlador   Estado de Molinete INACTIVO 
+20/09/2015 13:07:03:815  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 14:51:16:955  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 14:52:48:694  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 14:53:27:008  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 14:56:03:293  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 14:56:03:733  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+20/09/2015 14:56:16:005  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    6000600313651073
+20/09/2015 14:56:16:520  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 14:56:16:531  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 14:56:16:532  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 14:56:17:008  LAP.TUUA.ACCESOS.ACS_Ticket   Encender Luz Roja
+20/09/2015 14:56:17:008  LAP.TUUA.ACCESOS.ACS_Ticket   ;ERROR DE TICKET;;6000600313651073;;,Ticket No Existe
+20/09/2015 14:56:17:062  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 14:56:17:062  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 14:56:22:681  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    6000600313651072
+20/09/2015 14:56:22:728  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 14:56:22:728  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 14:56:22:728  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 14:56:22:791  LAP.TUUA.ACCESOS.ACS_Ticket   Encender Luz Roja
+20/09/2015 14:56:22:792  LAP.TUUA.ACCESOS.ACS_Ticket   ;ERROR DE TICKET;;6000600313651072;;,Ticket No Existe
+20/09/2015 14:56:22:924  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 14:56:22:924  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 14:56:25:521  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    6000600313651071
+20/09/2015 14:56:25:553  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 14:56:25:554  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 14:56:25:554  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 14:56:25:622  LAP.TUUA.ACCESOS.ACS_Ticket   Encender Luz Roja
+20/09/2015 14:56:25:623  LAP.TUUA.ACCESOS.ACS_Ticket   ;ERROR DE TICKET;;6000600313651071;;,Ticket No Existe
+20/09/2015 14:56:25:640  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 14:56:25:641  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 14:56:29:294  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    6000600313651070
+20/09/2015 14:56:29:327  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 14:56:29:327  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 14:56:29:327  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 14:56:29:380  LAP.TUUA.ACCESOS.ACS_Ticket   Encender Luz Roja
+20/09/2015 14:56:29:381  LAP.TUUA.ACCESOS.ACS_Ticket   ;ERROR DE TICKET;;6000600313651070;;,Ticket No Existe
+20/09/2015 14:56:29:410  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 14:56:29:410  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 14:56:39:288  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    6000600313651070
+20/09/2015 14:56:39:323  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 14:56:39:324  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 14:56:39:324  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 14:56:39:377  LAP.TUUA.ACCESOS.ACS_Ticket   Encender Luz Roja
+20/09/2015 14:56:39:377  LAP.TUUA.ACCESOS.ACS_Ticket   ;ERROR DE TICKET;;6000600313651070;;,Ticket No Existe
+20/09/2015 14:56:39:395  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 14:56:39:395  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 14:57:24:322  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 14:57:24:710  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+20/09/2015 14:57:28:850  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    1000602306057078
+20/09/2015 14:57:29:312  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 14:57:29:324  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 14:57:29:324  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 14:57:29:533  LAP.TUUA.ACCESOS.ACS_Ticket   Encender Luz Roja
+20/09/2015 14:57:29:534  LAP.TUUA.ACCESOS.ACS_Ticket   ;ERROR DE TICKET;;1000602306057078;;,Ticket No Existe
+20/09/2015 14:57:29:601  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 14:57:29:602  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 14:57:33:218  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    1000602306057077
+20/09/2015 14:57:33:264  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 14:57:33:264  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 14:57:33:264  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 14:57:33:320  LAP.TUUA.ACCESOS.ACS_Ticket   Encender Luz Roja
+20/09/2015 14:57:33:320  LAP.TUUA.ACCESOS.ACS_Ticket   ;ERROR DE TICKET;;1000602306057077;;,Ticket No Existe
+20/09/2015 14:57:33:339  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 14:57:33:339  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 14:57:36:293  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    1000602306057076
+20/09/2015 14:57:36:374  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 14:57:36:374  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 14:57:36:374  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 14:57:36:517  LAP.TUUA.ACCESOS.ACS_Ticket   Encender Luz Roja
+20/09/2015 14:57:36:518  LAP.TUUA.ACCESOS.ACS_Ticket   ;ERROR DE TICKET;;1000602306057076;;,Ticket No Existe
+20/09/2015 14:57:36:552  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 14:57:36:552  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 14:57:39:620  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    1000602306057075
+20/09/2015 14:57:39:658  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+20/09/2015 14:57:39:658  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+20/09/2015 14:57:39:658  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+20/09/2015 14:57:39:712  LAP.TUUA.ACCESOS.ACS_Ticket   Encender Luz Roja
+20/09/2015 14:57:39:713  LAP.TUUA.ACCESOS.ACS_Ticket   ;ERROR DE TICKET;;1000602306057075;;,Ticket No Existe
+20/09/2015 14:57:39:731  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+20/09/2015 14:57:39:731  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+20/09/2015 15:22:06:282  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+20/09/2015 15:22:06:673  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+16/11/2014 10:04:25:406  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+16/11/2014 10:04:25:536  LAP.TUUA.ACCESOS.ACS_Controlador   Estado de Molinete INACTIVO 
+16/11/2014 10:05:28:946  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1T-T                 EHRLJKW LIMBOGVVC0311 319Y00070007 100
+16/11/2014 10:05:28:986  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+16/11/2014 10:05:29:026  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+16/11/2014 10:05:29:026  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+16/11/2014 10:05:29:036  LAP.TUUA.ACCESOS.ACS_Boarding   Encender Luz Roja
+16/11/2014 10:05:29:036  LAP.TUUA.ACCESOS.ACS_Boarding   Documento debe ser 
+16/11/2014 10:05:29:036  LAP.TUUA.ACCESOS.ACS_InterfazLector   Documento debe ser 
+16/11/2014 10:05:29:036  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+16/11/2014 10:05:29:036  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+16/11/2014 10:05:39:456  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1T-T                 EHRLJKW LIMBOGVVC0311 319Y00070007 100
+16/11/2014 10:05:39:456  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+16/11/2014 10:05:39:456  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+16/11/2014 10:05:39:456  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+16/11/2014 10:05:39:456  LAP.TUUA.ACCESOS.ACS_Boarding   Encender Luz Roja
+16/11/2014 10:05:39:466  LAP.TUUA.ACCESOS.ACS_Boarding   Documento debe ser 
+16/11/2014 10:05:39:466  LAP.TUUA.ACCESOS.ACS_InterfazLector   Documento debe ser 
+16/11/2014 10:05:39:466  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+16/11/2014 10:05:39:466  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+16/11/2014 10:05:49:196  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1T-T                 EHRLJKW LIMBOGVVC0311 319Y00070007 100
+16/11/2014 10:05:49:196  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+16/11/2014 10:05:49:196  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+16/11/2014 10:05:49:196  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+16/11/2014 10:05:49:196  LAP.TUUA.ACCESOS.ACS_Boarding   Encender Luz Roja
+16/11/2014 10:05:49:196  LAP.TUUA.ACCESOS.ACS_Boarding   Documento debe ser 
+16/11/2014 10:05:49:196  LAP.TUUA.ACCESOS.ACS_InterfazLector   Documento debe ser 
+16/11/2014 10:05:49:196  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+16/11/2014 10:05:49:196  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+16/11/2014 10:10:14:127  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+16/11/2014 10:10:15:467  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+16/11/2014 10:10:22:097  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1T-T                 EHRLJKW LIMBOGVVC0311 319Y00070007 100
+16/11/2014 10:10:24:807  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+16/11/2014 10:10:24:827  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+16/11/2014 10:10:24:827  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+16/11/2014 10:10:25:817  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+16/11/2014 10:10:25:817  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+16/11/2014 10:10:26:277  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:I
+16/11/2014 10:10:26:277  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:I - ObjvueloProgram:I
+16/11/2014 10:10:30:347  LAP.TUUA.ACCESOS.ACS_Boarding   Encender Luz Roja
+16/11/2014 10:10:30:347  LAP.TUUA.ACCESOS.ACS_Boarding   ERROR DE BOARDING;;,FECHA DE VUELO EXPIRADO
+16/11/2014 10:10:30:387  LAP.TUUA.ACCESOS.ACS_InterfazLector   FINALIZA FLUJO AUTOMATICO DESDE LECTOR
+16/11/2014 10:10:30:387  LAP.TUUA.ACCESOS.ACS_InterfazLector   =========================================
+15/11/2014 10:11:39:300  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+15/11/2014 10:11:39:410  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+15/11/2014 10:11:43:680  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1T-T                 EHRLJKW LIMBOGVVC0311 319Y00070007 100
+15/11/2014 10:11:43:770  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+15/11/2014 10:11:43:780  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+15/11/2014 10:11:43:780  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+15/11/2014 10:11:43:840  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+15/11/2014 10:11:43:840  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+15/11/2014 10:11:43:850  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:I
+15/11/2014 10:11:43:850  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:I - ObjvueloProgram:I
+15/11/2014 10:11:43:860  LAP.TUUA.ACCESOS.ACS_Boarding   Fin Validaciones Internas
+15/11/2014 10:11:43:860  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP
+15/11/2014 10:11:43:860  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1
+15/11/2014 10:11:43:860  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1.1
+15/11/2014 10:12:33:580  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+15/11/2014 10:12:33:690  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+15/11/2014 10:12:37:830  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1T-T                 EHRLJKW LIMBOGVVC0311 319Y00070007 100
+15/11/2014 10:12:37:940  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+15/11/2014 10:12:37:950  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+15/11/2014 10:12:37:950  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+15/11/2014 10:12:38:000  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+15/11/2014 10:12:38:000  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+15/11/2014 10:12:38:010  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:I
+15/11/2014 10:12:38:010  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:I - ObjvueloProgram:I
+15/11/2014 10:12:38:020  LAP.TUUA.ACCESOS.ACS_Boarding   Fin Validaciones Internas
+15/11/2014 10:12:38:020  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP
+15/11/2014 10:12:38:020  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1
+15/11/2014 10:12:38:020  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1.1
+15/11/2014 10:15:52:050  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Inactiva
+15/11/2014 10:15:52:050  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+15/11/2014 10:15:52:380  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+15/11/2014 10:17:42:340  LAP.TUUA.ACCESOS.ACS_Controlador   Conexion Remota Activa
+15/11/2014 10:17:42:480  LAP.TUUA.ACCESOS.ACS_Controlador   Iniciando ...Modulo Lector
+15/11/2014 10:17:56:620  LAP.TUUA.ACCESOS.ACS_InterfazLector   Trama Recibida:    M1T-T                 EHRLJKW LIMBOGVVC0311 319Y00070007 100
+15/11/2014 10:17:56:720  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Conversion Trama
+15/11/2014 10:17:56:730  LAP.TUUA.ACCESOS.ACS_InterfazLector   Fin Conversion Trama
+15/11/2014 10:17:56:730  LAP.TUUA.ACCESOS.ACS_InterfazLector   Inicio Validaciones Internas
+15/11/2014 10:17:56:790  LAP.TUUA.ACCESOS.ACS_Boarding   Aeropuerto: LIM
+15/11/2014 10:17:56:790  LAP.TUUA.ACCESOS.ACS_Boarding   AEROPUERTO VALIDO
+15/11/2014 10:17:56:800  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO MOL:I
+15/11/2014 10:17:56:800  LAP.TUUA.ACCESOS.ACS_Boarding   TIPO VUELO:I - ObjvueloProgram:I
+15/11/2014 10:17:56:810  LAP.TUUA.ACCESOS.ACS_Boarding   Fin Validaciones Internas
+15/11/2014 10:17:56:810  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP
+15/11/2014 10:17:56:810  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1
+15/11/2014 10:17:56:810  LAP.TUUA.ACCESOS.ACS_Boarding   Inicio Registro BP - 1.1

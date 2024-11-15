@@ -1,0 +1,71 @@
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\DATAACCESS.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\DATAACCESS.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\ENTIDADES.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\UTIL.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\ENTIDADES.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\UTIL.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csprojResolveAssemblyReference.cache
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\DATAACCESS.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\DATAACCESS.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\DATAACCESS.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\DATAACCESS.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\ENTIDADES.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\UTIL.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\ENTIDADES.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\UTIL.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csprojResolveAssemblyReference.cache
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\DATAACCESS.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\DATAACCESS.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\DATAACCESS.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\DATAACCESS.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\ENTIDADES.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\UTIL.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\ENTIDADES.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\UTIL.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csprojAssemblyReference.cache
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csproj.CoreCompileInputs.cache
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csproj.CopyComplete
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\DATAACCESS.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\DATAACCESS.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\ENTIDADES.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\ENTIDADES.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csproj.CopyComplete
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\DATAACCESS.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\ENTIDADES.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\ENTIDADES.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\bin\Debug\UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\LAP.TUUA.DAO.csproj.CopyComplete
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\DATAACCESS\obj\Debug\DATAACCESS.pdb

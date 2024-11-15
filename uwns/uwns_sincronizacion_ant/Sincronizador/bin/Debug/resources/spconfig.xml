@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<procedures>			  
+  <SP nombre="usp_ope_cns_allmolinete_sel"	alias="MSP_LISTARALLMOLINETE">
+    <argumentos>
+    </argumentos>
+  </SP>
+  <SP nombre="usp_scz_pcs_centralTolocal_upd"	alias="SP_SINCCENTRALTOLOCAL_TICKET">
+    <argumentos>
+      <argumento nombre="Cod_Master"    	  	alias="Cod_Master" />
+      <argumento nombre="hostSlaves"     	  	alias="hostSlaves" />
+      <argumento nombre="Can_Slaves"       		alias="Can_Slaves" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+	  <argumento   nombre="Dsc_Information"     alias="Dsc_Information" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_scz_pcs_localToCentral_upd"	alias="SP_SINCLOCALTOCENTRAL_TICKET">
+    <argumentos>
+      <argumento nombre="Cod_Master"    	  	alias="Cod_Master" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento   nombre="Dsc_Information"     alias="Dsc_Information" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_scz_pcs_slavesTomaster_upd"	alias="SP_SINCSLAVESTOMASTER_TICKET">
+    <argumentos>
+      <argumento nombre="Cod_Master"    	  	alias="Cod_Master" />
+      <argumento nombre="hostSlaves"     	  	alias="hostSlaves" />
+      <argumento nombre="Can_Slaves"       		alias="Can_Slaves" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_scz_pcs_masterToslaves_upd"	alias="SP_SINCMASTERTOSLAVES_TICKET">
+    <argumentos>
+      <argumento nombre="Cod_Master"    	  	alias="Cod_Master" />
+      <argumento nombre="hostSlaves"     	  	alias="hostSlaves" />
+      <argumento nombre="Can_Slaves"       		alias="Can_Slaves" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento nombre="Dsc_Information"     alias="Dsc_Information" />
+    </argumentos>
+  </SP>
+
+
+  <SP nombre="usp_scz_pcs_centralTolocalbcbp_upd"	alias="SP_SINCCENTRALTOLOCAL_BCBP">
+    <argumentos>
+      <argumento nombre="Cod_Master"    	  	alias="Cod_Master" />
+      <argumento nombre="hostSlaves"     	  	alias="hostSlaves" />
+      <argumento nombre="Can_Slaves"       		alias="Can_Slaves" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento   nombre="Dsc_Information"     alias="Dsc_Information" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_scz_pcs_localToCentralbcbp_upd"	alias="SP_SINCLOCALTOCENTRAL_BCBP">
+    <argumentos>
+      <argumento nombre="Cod_Master"    	  	alias="Cod_Master" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento   nombre="Dsc_Information"     alias="Dsc_Information" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_scz_pcs_slavesTomasterbcbp_upd"	alias="SP_SINCSLAVESTOMASTER_BCBP">
+    <argumentos>
+      <argumento nombre="Cod_Master"    	  	alias="Cod_Master" />
+      <argumento nombre="hostSlaves"     	  	alias="hostSlaves" />
+      <argumento nombre="Can_Slaves"       		alias="Can_Slaves" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_scz_pcs_masterToslavesbcbp_upd"	alias="SP_SINCMASTERTOSLAVES_BCBP">
+    <argumentos>
+      <argumento nombre="Cod_Master"    	  	alias="Cod_Master" />
+      <argumento nombre="hostSlaves"     	  	alias="hostSlaves" />
+      <argumento nombre="Can_Slaves"       		alias="Can_Slaves" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento nombre="Dsc_Information"     alias="Dsc_Information" />
+    </argumentos>
+  </SP>
+
+  <SP nombre="usp_scz_pcs_centralTolocalbcbpatr_upd"	alias="SP_SINCCENTRALTOLOCAL_ATR">
+    <argumentos>
+      <argumento nombre="Cod_Master"    	  	alias="Cod_Master" />
+      <argumento nombre="hostSlaves"     	  	alias="hostSlaves" />
+      <argumento nombre="Can_Slaves"       		alias="Can_Slaves" />
+      <argumento nombre="Dsc_Message"       	alias="Dsc_Message" />
+      <argumento   nombre="Dsc_Information"     alias="Dsc_Information" />
+    </argumentos>
+  </SP>
+</procedures>

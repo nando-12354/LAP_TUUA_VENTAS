@@ -1,0 +1,359 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="Current">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F1B9B0FA-FFF9-4BBF-AD27-CB231457E8E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LAP.TUUA.VENTAS</RootNamespace>
+    <AssemblyName>VENTAS</AssemblyName>
+    <ApplicationIcon>SETUP1.ICO</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LAP.TUUA.ALARMAS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLL\LAP.TUUA.ALARMAS.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CajaEgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CajaEgreso.Designer.cs">
+      <DependentUpon>CajaEgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CajaIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CajaIngreso.Designer.cs">
+      <DependentUpon>CajaIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculo.Designer.cs">
+      <DependentUpon>Calculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clave.Designer.cs">
+      <DependentUpon>Clave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cierre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cierre.Designer.cs">
+      <DependentUpon>Cierre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClaveTurno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClaveTurno.Designer.cs">
+      <DependentUpon>ClaveTurno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompraVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompraVenta.Designer.cs">
+      <DependentUpon>CompraVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\OutlookBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\OutlookBar.designer.cs">
+      <DependentUpon>OutlookBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuadre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuadre.Designer.cs">
+      <DependentUpon>Cuadre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleTicket.Designer.cs">
+      <DependentUpon>DetalleTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Efectivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Efectivo.Designer.cs">
+      <DependentUpon>Efectivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExtornoTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExtornoTicket.Designer.cs">
+      <DependentUpon>ExtornoTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masivo.Designer.cs">
+      <DependentUpon>Masivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageFilter .cs" />
+    <Compile Include="Normal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Normal.Designer.cs">
+      <DependentUpon>Normal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logueo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logueo.Designer.cs">
+      <DependentUpon>Logueo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Supervisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor.Designer.cs">
+      <DependentUpon>Supervisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TurnoInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TurnoInicio.designer.cs">
+      <DependentUpon>TurnoInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CajaEgreso.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CajaEgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CajaIngreso.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CajaIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Calculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cierre.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Cierre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clave.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Clave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClaveTurno.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ClaveTurno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompraVenta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CompraVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\OutlookBar.resx">
+      <DependentUpon>OutlookBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuadre.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Cuadre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleTicket.resx">
+      <DependentUpon>DetalleTicket.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Efectivo.resx">
+      <DependentUpon>Efectivo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExtornoTicket.resx">
+      <DependentUpon>ExtornoTicket.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masivo.resx">
+      <DependentUpon>Masivo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Normal.resx">
+      <DependentUpon>Normal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logueo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Logueo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supervisor.resx">
+      <DependentUpon>Supervisor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TurnoInicio.resx">
+      <DependentUpon>TurnoInicio.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta.resx">
+      <DependentUpon>Venta.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\web\componentes comunes\DATAACCESS\LAP.TUUA.DAO.csproj">
+      <Project>{90842E9D-9217-42D5-A693-E0759F06FAEC}</Project>
+      <Name>LAP.TUUA.DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\web\componentes comunes\ENTIDADES\LAP.TUUA.ENTIDADES.csproj">
+      <Project>{113ffe71-c275-4a6a-bd2b-70e76f0ac4a8}</Project>
+      <Name>LAP.TUUA.ENTIDADES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\web\componentes comunes\UTIL\LAP.TUUA.UTIL.csproj">
+      <Project>{92a7a1c8-96f5-4992-a363-c6fc4c60e85e}</Project>
+      <Name>LAP.TUUA.UTIL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CONTROL\LAP.TUUA.CONTROL.csproj">
+      <Project>{4791B653-B957-47F8-AD33-F439D2A44EFA}</Project>
+      <Name>LAP.TUUA.CONTROL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PRINTER\LAP.TUUA.PRINTER.csproj">
+      <Project>{E3E3B472-089C-43C0-AD27-2E16CF26578E}</Project>
+      <Name>LAP.TUUA.PRINTER</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\lupa.png" />
+    <Content Include="SETUP1.ICO" />
+    <None Include="App.config" />
+    <None Include="DLL\App.config" />
+    <None Include="Properties\DataSources\LAP.TUUA.ENTIDADES.ModVentaComp.datasource" />
+    <None Include="Properties\DataSources\LAP.TUUA.ENTIDADES.RepresentantCia.datasource" />
+    <None Include="Properties\DataSources\LAP.TUUA.ENTITY.Moneda.datasource" />
+    <None Include="Properties\DataSources\LAP.TUUA.ENTITY.VueloProgramado.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,265 @@
+2I 1162 	N	S	STP 	2I  	STAR PERU                     	19/04/2011	12:05	     	JUL 	JULIACA                       	AQP 	AREQUIPA                      	     	  -  	                    	     	
+LA 2567 	I	L	LAN 	LA  	LAN                           	19/04/2011	18:10	     	VVI 	SANTA CRUZ                    	LPB 	LA PAZ                        	     	  -  	                    	     	0
+2I 2121 	N	L	STP 	2I  	STAR PERU                     	19/04/2011	09:45	10:01	TRU 	TRUJILLO                      	CIX 	CHICLAYO                      	4    	  -  	ATERRIZO            	     	
+LA 2511 	I	L	LAN 	LA  	LAN                           	19/04/2011	04:35	     	MIA 	MIAMI                         	    	                              	     	  -  	DEMORADO            	     	
+AT 1803 	N	L	AMP 	AT  	ATSA                          	19/04/2011	09:00	09:40	CGL 	CHAGUAL                       	    	                              	1    	  -  	ATERRIZO            	     	0
+AT 1630 	N	L	AMP 	AT  	ATSA                          	19/04/2011	09:00	09:40	PIS 	PIAS                          	    	                              	1    	  -  	ATERRIZO            	     	0
+TA 008  	N	L	TPU 	TA  	TACA                          	19/04/2011	09:21	09:41	CUZ 	CUSCO                         	    	                              	3    	  -  	ATERRIZO            	     	0
+TA 143  	I	L	TPU 	TA  	TACA                          	19/04/2011	09:29	09:28	    	R.JANEIRO                     	    	                              	3    	  -  	ATERRIZO            	     	0
+P9 231  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	09:30	09:49	AQP 	AREQUIPA                      	    	                              	1    	  -  	ATERRIZO            	     	
+TA 081  	I	L	TPU 	TA  	TACA                          	19/04/2011	09:30	10:40	BSB 	BRASILIA                      	    	                              	     	  -  	CONFIRMADO          	     	0
+LR 624  	I	L	LRC 	LR  	LACSA                         	19/04/2011	09:30	09:23	SCL 	SANTIAGO                      	    	                              	1    	  -  	ATERRIZO            	     	0
+TA 042  	I	L	TPU 	TA  	TACA                          	19/04/2011	09:35	09:26	UIO 	QUITO                         	    	                              	2    	  -  	ATERRIZO            	     	0
+TA 038  	I	L	TPU 	TA  	TACA                          	19/04/2011	09:40	09:43	LPB 	LA PAZ                        	    	                              	5    	  -  	ATERRIZO            	     	P
+TA 137  	I	L	TPU 	TA  	TACA                          	19/04/2011	09:40	09:19	    	SAO PAULO                     	    	                              	1    	  -  	ATERRIZO            	     	0
+LA 2010 	N	L	LAN 	LA  	LAN                           	19/04/2011	09:45	09:47	CUZ 	CUSCO                         	    	                              	2    	  -  	ATERRIZO            	     	0
+LA 1631 	I	L	LAN 	LA  	LAN                           	19/04/2011	09:45	09:37	GYE 	GUAYAQUIL                     	    	                              	6    	  -  	ATERRIZO            	     	0
+TA 040  	I	L	TPU 	TA  	TACA                          	19/04/2011	09:45	09:17	MVD 	MONTEVIDEO                    	    	                              	5    	  -  	ATERRIZO            	     	0
+TA 089  	I	L	TPU 	TA  	TACA                          	19/04/2011	09:45	11:30	POA 	PORTO ALEG                    	    	                              	     	  -  	DEMORADO            	     	0
+LA 2634 	I	L	LAN 	LA  	LAN                           	19/04/2011	09:45	09:35	SCL 	SANTIAGO                      	    	                              	6    	  -  	ATERRIZO            	     	0
+TA 108  	N	L	TPU 	TA  	TACA                          	19/04/2011	09:45	10:03	TPP 	TARAPOTO                      	    	                              	3    	  -  	CONFIRMADO          	     	0
+W4 1312 	N	L	LCB 	W4  	LC BUSRE                      	19/04/2011	09:55	09:30	CJA 	CAJAMARCA                     	    	                              	1    	  -  	ATERRIZO            	     	0
+LA 2162 	N	L	LAN 	LA  	LAN                           	19/04/2011	09:55	09:37	TCQ 	TACNA                         	    	                              	2    	  -  	ATERRIZO            	     	0
+LA 2021 	N	S	LAN 	LA  	LAN                           	19/04/2011	10:00	09:49	CUZ 	CUSCO                         	    	                              	     	39-54	FIN EMBARQ          	     	0
+P9 411  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	10:00	10:31	PIU 	PIURA                         	    	                              	     	  -  	CONFIRMADO          	     	
+TA 009  	N	S	TPU 	TA  	TACA                          	19/04/2011	10:10	10:10	CUZ 	CUSCO                         	    	                              	     	6 -22	EMBARCANDO          	13   	0
+P9 214  	N	S	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	10:15	13:30	CUZ 	CUSCO                         	    	                              	     	1 -5 	DEMORADO            	     	
+TA 028  	I	S	TPU 	TA  	TACA                          	19/04/2011	10:15	10:15	    	SAO PAULO                     	    	                              	     	6 -22	UL LLAMADA          	26   	P
+LH 7415 	I	S	DLH 	LH  	LUFTHANSA                     	19/04/2011	10:15	10:15	    	SAO PAULO                     	    	                              	     	6 -22	UL LLAMADA          	26   	S
+2I 1112 	N	L	STP 	2I  	STAR PERU                     	19/04/2011	10:20	10:03	CUZ 	CUSCO                         	    	                              	     	  -  	ATERRIZO            	     	
+TA 034  	I	S	TPU 	TA  	TACA                          	19/04/2011	10:25	10:25	CCS 	CARACAS                       	    	                              	     	6 -22	UL LLAMADA          	19   	P
+LH 7411 	I	S	DLH 	LH  	LUFTHANSA                     	19/04/2011	10:25	10:25	CCS 	CARACAS                       	    	                              	     	6 -22	UL LLAMADA          	19   	S
+TA 5011 	N	S	TPU 	TA  	TACA                          	19/04/2011	10:30	     	CUZ 	CUSCO                         	    	                              	     	6 -22	DEMORADO            	3    	0
+W4 1331 	N	S	LCB 	W4  	LC BUSRE                      	19/04/2011	10:30	10:30	HUU 	HUANUCO                       	    	                              	     	37-37	LLAMADA             	1    	0
+P9 121  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	10:30	10:12	IQT 	IQUITOS                       	    	                              	     	  -  	ATERRIZO            	     	
+TA 082  	I	S	TPU 	TA  	TACA                          	19/04/2011	10:30	10:30	    	LA HABANA                     	    	                              	     	6 -22	EMBARCANDO          	17   	0
+TA 030  	I	S	TPU 	TA  	TACA                          	19/04/2011	10:30	10:30	MIA 	MIAMI                         	    	                              	     	6 -22	LLAMADA             	16   	0
+AT 1875 	N	L	AMP 	AT  	ATSA                          	19/04/2011	10:30	     	PIS 	PIAS                          	    	                              	     	  -  	                    	     	0
+TA 018  	I	S	TPU 	TA  	TACA                          	19/04/2011	10:33	12:30	MEX 	MEXICO                        	    	                              	     	6 -22	DEMORADO            	     	0
+TA 416  	I	S	TPU 	TA  	TACA                          	19/04/2011	10:35	10:35	SAL 	SAN SALVAD                    	    	                              	     	6 -22	LLAMADA             	23   	P
+TA 138  	I	S	TPU 	TA  	TACA                          	19/04/2011	10:38	10:38	CLO 	CALI                          	GYE 	GUAYAQUIL                     	     	6 -22	EMBARCANDO          	24   	0
+LA 2115 	N	L	LAN 	LA  	LAN                           	19/04/2011	10:40	     	JUL 	JULIACA                       	CUZ 	CUSCO                         	     	  -  	                    	     	0
+TA 134  	I	S	TPU 	TA  	TACA                          	19/04/2011	10:40	10:40	    	MEDELLIN                      	UIO 	QUITO                         	     	6 -22	LLAMADA             	25   	0
+TA 055  	I	S	TPU 	TA  	TACA                          	19/04/2011	10:42	10:42	SCL 	SANTIAGO                      	    	                              	     	6 -22	LLAMADA             	20   	0
+TA 025  	I	S	TPU 	TA  	TACA                          	19/04/2011	10:45	10:45	    	B.AIRES                       	    	                              	     	6 -22	LLAMADA             	15   	0
+LA 1630 	I	S	LAN 	LA  	LAN                           	19/04/2011	10:45	10:45	GYE 	GUAYAQUIL                     	    	                              	     	39-54	EMBARCANDO          	21   	0
+LR 624  	I	S	LRC 	LR  	LACSA                         	19/04/2011	10:50	10:50	SJO 	SAN JOSE                      	    	                              	     	6 -22	EMBARCANDO          	14   	P
+UA 5392 	I	S	UAL 	UA  	UNITED AIRLINES               	19/04/2011	10:50	10:50	SJO 	SAN JOSE                      	    	                              	     	6 -22	EMBARCANDO          	14   	S
+W4 1362 	N	L	LCB 	W4  	LC BUSRE                      	19/04/2011	10:55	10:27	    	HUARAZ                        	    	                              	     	  -  	CONFIRMADO          	     	0
+2I 100  	N	S	STP 	2I  	STAR PERU                     	19/04/2011	11:00	11:00	MVV 	MALVINAS                      	    	                              	     	33-36	LLAMADA             	4    	
+LA 2638 	I	L	LAN 	LA  	LAN                           	19/04/2011	11:00	10:51	SCL 	SANTIAGO                      	    	                              	     	  -  	CONFIRMADO          	     	0
+LA 4640 	I	L	LAN 	LA  	LAN                           	19/04/2011	11:10	10:39	    	B.AIRES                       	    	                              	     	  -  	CONFIRMADO          	     	0
+LA 2424 	I	L	LAN 	LA  	LAN                           	19/04/2011	11:10	10:56	COR 	CORDOBA                       	    	                              	     	  -  	CONFIRMADO          	     	0
+LA 2096 	N	L	LAN 	LA  	LAN                           	19/04/2011	11:10	10:48	JUL 	JULIACA                       	    	                              	     	  -  	CONFIRMADO          	     	0
+LA 2567 	I	S	LAN 	LA  	LAN                           	19/04/2011	11:10	11:10	LPB 	LA PAZ                        	VVI 	SANTA CRUZ                    	     	39-54	LLAMADA             	22   	0
+LA 2033 	N	S	LAN 	LA  	LAN                           	19/04/2011	11:15	11:15	CUZ 	CUSCO                         	    	                              	     	39-54	                    	     	0
+W4 139  	N	S	LCB 	W4  	LC BUSRE                      	19/04/2011	11:20	11:20	AYP 	AYACUCHO                      	    	                              	     	37-37	                    	     	P
+LA 2772 	I	L	LAN 	LA  	LAN                           	19/04/2011	11:20	11:09	BSB 	BRASILIA                      	    	                              	     	  -  	CONFIRMADO          	     	0
+LA 2024 	N	L	LAN 	LA  	LAN                           	19/04/2011	11:20	10:55	CUZ 	CUSCO                         	    	                              	     	  -  	CONFIRMADO          	     	0
+LA 2668 	I	L	LAN 	LA  	LAN                           	19/04/2011	11:25	11:10	MVD 	MONTEVIDEO                    	    	                              	     	  -  	CONFIRMADO          	     	0
+2I 3115 	N	S	STP 	2I  	STAR PERU                     	19/04/2011	11:30	11:30	IQT 	IQUITOS                       	TPP 	TARAPOTO                      	     	33-36	                    	5    	
+LA 636  	I	L	LAN 	LA  	LAN                           	19/04/2011	11:30	11:16	SCL 	SANTIAGO                      	    	                              	     	  -  	CONFIRMADO          	     	0
+LA 2591 	I	L	LAN 	LA  	LAN                           	19/04/2011	11:35	11:10	UIO 	QUITO                         	    	                              	     	  -  	CONFIRMADO          	     	0
+JJ 8066 	I	L	TAM 	JJ  	TAM                           	19/04/2011	11:40	     	    	SAO PAULO                     	    	                              	     	  -  	                    	     	0
+W4 1352 	N	L	LCB 	W4  	LC BUSRE                      	19/04/2011	11:45	     	ANS 	ANDAHUAYLA                    	    	                              	     	  -  	                    	     	0
+LA 2124 	N	L	LAN 	LA  	LAN                           	19/04/2011	11:45	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	0
+LA 2604 	I	L	LAN 	LA  	LAN                           	19/04/2011	11:45	     	    	B.AIRES                       	    	                              	     	  -  	                    	     	0
+TA 011  	N	S	TPU 	TA  	TACA                          	19/04/2011	11:45	11:45	CUZ 	CUSCO                         	    	                              	     	7 -22	                    	     	0
+LA 2071 	N	S	LAN 	LA  	LAN                           	19/04/2011	11:45	11:45	PEM 	P.MALDONAD                    	CUZ 	CUSCO                         	     	39-54	                    	     	0
+P9 234  	N	S	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	12:00	12:00	AQP 	AREQUIPA                      	    	                              	     	1 -5 	                    	2    	
+LA 2296 	N	S	LAN 	LA  	LAN                           	19/04/2011	12:00	12:00	CJA 	CAJAMARCA                     	    	                              	     	39-54	                    	     	0
+LA 2026 	N	L	LAN 	LA  	LAN                           	19/04/2011	12:00	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+P9 270  	N	S	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	12:00	12:00	TCQ 	TACNA                         	    	                              	     	1 -5 	                    	     	
+2I 1118 	N	L	STP 	2I  	STAR PERU                     	19/04/2011	12:15	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	
+LA 2141 	N	S	LAN 	LA  	LAN                           	19/04/2011	12:20	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	0
+LA 2037 	N	S	LAN 	LA  	LAN                           	19/04/2011	12:20	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+LA 2022 	N	L	LAN 	LA  	LAN                           	19/04/2011	12:25	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+P9 217  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	12:25	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	
+LA 4641 	I	S	LAN 	LA  	LAN                           	19/04/2011	12:35	     	    	B.AIRES                       	    	                              	     	  -  	                    	     	0
+LA 2604 	I	S	LAN 	LA  	LAN                           	19/04/2011	12:40	     	LAX 	L.ANGELES                     	    	                              	     	  -  	                    	     	0
+LA 2510 	I	S	LAN 	LA  	LAN                           	19/04/2011	12:40	     	MIA 	MIAMI                         	    	                              	     	  -  	                    	     	0
+LA 2594 	I	S	LAN 	LA  	LAN                           	19/04/2011	12:40	     	PUJ 	PUNTA CANA                    	    	                              	     	  -  	                    	     	0
+JJ 8067 	I	S	TAM 	JJ  	TAM                           	19/04/2011	12:40	     	    	SAO PAULO                     	    	                              	     	  -  	                    	     	0
+LA 2582 	I	S	LAN 	LA  	LAN                           	19/04/2011	12:45	     	BOG 	BOGOTA                        	    	                              	     	  -  	                    	     	0
+LA 2564 	I	S	LAN 	LA  	LAN                           	19/04/2011	12:45	     	CCS 	CARACAS                       	    	                              	     	  -  	                    	     	
+LA 2588 	I	S	LAN 	LA  	LAN                           	19/04/2011	12:50	     	CLO 	CALI                          	UIO 	QUITO                         	     	  -  	                    	     	
+P9 215  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	12:50	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	
+LA 2313 	N	L	LAN 	LA  	LAN                           	19/04/2011	12:50	     	PIU 	PIURA                         	    	                              	     	  -  	                    	     	0
+LA 2443 	I	S	LAN 	LA  	LAN                           	19/04/2011	12:55	     	IGR 	IGUAZU                        	    	                              	     	  -  	                    	     	0
+2I 4220 	N	S	STP 	2I  	STAR PERU                     	19/04/2011	13:00	     	HUU 	HUANUCO                       	    	                              	     	  -  	                    	     	
+2I 3217 	N	S	STP 	2I  	STAR PERU                     	19/04/2011	13:00	     	IQT 	IQUITOS                       	PCL 	PUCALLPA                      	     	  -  	                    	     	
+2I 200  	N	S	STP 	2I  	STAR PERU                     	19/04/2011	13:00	     	MVV 	MALVINAS                      	    	                              	     	  -  	                    	     	
+AT  1629	N	S	AMP 	AT  	ATSA                          	19/04/2011	13:00	     	    	NVO MUNDO                     	    	                              	     	  -  	                    	     	
+LA 637  	I	S	LAN 	LA  	LAN                           	19/04/2011	13:00	     	SCL 	SANTIAGO                      	    	                              	     	  -  	                    	     	0
+LA 2255 	N	L	LAN 	LA  	LAN                           	19/04/2011	13:00	     	TPP 	TARAPOTO                      	    	                              	     	  -  	                    	     	0
+P9 444  	N	S	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	13:00	     	TBP 	TUMBES                        	    	                              	     	1 -5 	                    	3    	
+CM 475  	I	L	CMP 	CM  	COPA AIRLINES                 	19/04/2011	13:03	     	    	PANAMA                        	    	                              	     	  -  	                    	     	P
+LA 2020 	N	L	LAN 	LA  	LAN                           	19/04/2011	13:10	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+LA 2128 	N	L	LAN 	LA  	LAN                           	19/04/2011	13:15	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	0
+W4 1332 	N	L	LCB 	W4  	LC BUSRE                      	19/04/2011	13:15	     	HUU 	HUANUCO                       	    	                              	     	  -  	                    	     	0
+LP 626  	I	S	LPE 	LP  	LAN                           	19/04/2011	13:15	     	MEX 	MEXICO                        	    	                              	     	  -  	                    	     	P
+LA 2111 	N	S	LAN 	LA  	LAN                           	19/04/2011	13:20	     	JUL 	JULIACA                       	CUZ 	CUSCO                         	     	  -  	                    	     	0
+TA 010  	N	L	TPU 	TA  	TACA                          	19/04/2011	13:30	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+2I 101  	N	L	STP 	2I  	STAR PERU                     	19/04/2011	13:30	     	MVV 	MALVINAS                      	    	                              	     	  -  	                    	     	
+LA 2043 	N	S	LAN 	LA  	LAN                           	19/04/2011	13:35	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+LA 2395 	N	L	LAN 	LA  	LAN                           	19/04/2011	13:35	     	IQT 	IQUITOS                       	    	                              	     	  -  	                    	     	0
+LA 2121 	N	S	LAN 	LA  	LAN                           	19/04/2011	13:40	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	0
+LA 2047 	N	S	LAN 	LA  	LAN                           	19/04/2011	13:50	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+TA 5012 	N	L	TPU 	TA  	TACA                          	19/04/2011	13:55	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+AT  1667	N	S	AMP 	AT  	ATSA                          	19/04/2011	14:00	     	    	NVO MUNDO                     	    	                              	     	  -  	                    	     	
+AT  1875	N	S	AMP 	AT  	ATSA                          	19/04/2011	14:00	     	    	NVO MUNDO                     	    	                              	     	  -  	                    	     	
+LA 2395 	N	S	LAN 	LA  	LAN                           	19/04/2011	14:10	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+CM 476  	I	S	CMP 	CM  	COPA AIRLINES                 	19/04/2011	14:13	     	    	PANAMA                        	    	                              	     	  -  	                    	     	P
+KL 3012 	I	S	KLM 	KL  	K.L.M.                        	19/04/2011	14:13	     	    	PANAMA                        	    	                              	     	  -  	                    	     	S
+2I 1182 	N	L	STP 	2I  	STAR PERU                     	19/04/2011	14:20	     	PEM 	P.MALDONAD                    	CUZ 	CUSCO                         	     	  -  	                    	     	
+2I 104  	N	S	STP 	2I  	STAR PERU                     	19/04/2011	14:30	     	MVV 	MALVINAS                      	    	                              	     	  -  	                    	     	
+LA 2032 	N	L	LAN 	LA  	LAN                           	19/04/2011	14:40	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+W4 139  	N	L	LCB 	W4  	LC BUSRE                      	19/04/2011	14:50	     	AYP 	AYACUCHO                      	    	                              	     	  -  	                    	     	P
+LA 2297 	N	L	LAN 	LA  	LAN                           	19/04/2011	14:55	     	CJA 	CAJAMARCA                     	    	                              	     	  -  	                    	     	0
+P9 271  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	14:55	     	TCQ 	TACNA                         	    	                              	     	  -  	                    	     	
+2I 4221 	N	L	STP 	2I  	STAR PERU                     	19/04/2011	15:00	     	HUU 	HUANUCO                       	    	                              	     	  -  	                    	     	
+2I 108  	N	S	STP 	2I  	STAR PERU                     	19/04/2011	15:00	     	MVV 	MALVINAS                      	    	                              	     	  -  	                    	     	
+CM 393  	I	L	CMP 	CM  	COPA AIRLINES                 	19/04/2011	15:06	     	    	PANAMA                        	    	                              	     	  -  	                    	     	P
+TA 012  	N	L	TPU 	TA  	TACA                          	19/04/2011	15:15	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+LA 2294 	N	S	LAN 	LA  	LAN                           	19/04/2011	15:20	     	CJA 	CAJAMARCA                     	    	                              	     	  -  	                    	     	0
+W4 1313 	N	S	LCB 	W4  	LC BUSRE                      	19/04/2011	15:20	     	CJA 	CAJAMARCA                     	    	                              	     	  -  	                    	     	0
+LA 2074 	N	L	LAN 	LA  	LAN                           	19/04/2011	15:20	     	PEM 	P.MALDONAD                    	CUZ 	CUSCO                         	     	  -  	                    	     	0
+P9 235  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	15:30	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	
+W4 1323 	N	S	LCB 	W4  	LC BUSRE                      	19/04/2011	15:30	     	AYP 	AYACUCHO                      	    	                              	     	  -  	                    	     	P
+LA 2036 	N	L	LAN 	LA  	LAN                           	19/04/2011	15:30	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+LA 2382 	N	S	LAN 	LA  	LAN                           	19/04/2011	15:40	     	IQT 	IQUITOS                       	    	                              	     	  -  	                    	     	0
+P9 236  	N	S	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	15:45	     	AQP 	AREQUIPA                      	    	                              	     	1 -5 	                    	     	
+2I 201  	N	L	STP 	2I  	STAR PERU                     	19/04/2011	15:45	     	MVV 	MALVINAS                      	    	                              	     	  -  	                    	     	
+LA 2109 	N	S	LAN 	LA  	LAN                           	19/04/2011	15:50	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	0
+LA 2140 	N	L	LAN 	LA  	LAN                           	19/04/2011	15:50	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	0
+LA 2276 	N	S	LAN 	LA  	LAN                           	19/04/2011	16:10	     	CIX 	CHICLAYO                      	    	                              	     	  -  	                    	     	0
+LA 2308 	N	S	LAN 	LA  	LAN                           	19/04/2011	16:20	     	PIU 	PIURA                         	    	                              	     	  -  	                    	     	0
+LA 2206 	N	S	LAN 	LA  	LAN                           	19/04/2011	16:25	     	TRU 	TRUJILLO                      	    	                              	     	  -  	                    	     	0
+CM 394  	I	S	CMP 	CM  	COPA AIRLINES                 	19/04/2011	16:28	     	    	PANAMA                        	    	                              	     	  -  	                    	     	P
+AV 025  	I	L	AVA 	AV  	AVIANCA                       	19/04/2011	16:30	     	BOG 	BOGOTA                        	    	                              	     	  -  	                    	     	P
+2I 105  	N	L	STP 	2I  	STAR PERU                     	19/04/2011	16:30	     	MVV 	MALVINAS                      	    	                              	     	  -  	                    	     	
+TA 003  	N	S	TPU 	TA  	TACA                          	19/04/2011	16:35	     	JUL 	JULIACA                       	    	                              	     	  -  	                    	     	0
+LA 632  	I	L	LAN 	LA  	LAN                           	19/04/2011	16:40	     	SCL 	SANTIAGO                      	    	                              	     	  -  	                    	     	0
+LA 2042 	N	L	LAN 	LA  	LAN                           	19/04/2011	16:55	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+LA 2046 	N	L	LAN 	LA  	LAN                           	19/04/2011	17:00	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+P9 445  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	17:00	     	TBP 	TUMBES                        	    	                              	     	  -  	                    	     	
+LA 2120 	N	L	LAN 	LA  	LAN                           	19/04/2011	17:15	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	0
+H2 802  	I	L	SKU 	H2  	SKY AIRLINES                  	19/04/2011	17:15	     	SCL 	SANTIAGO                      	ANF 	ANTOFAGAST                    	     	  -  	                    	     	0
+TA 105  	N	S	TPU 	TA  	TACA                          	19/04/2011	17:15	     	TPP 	TARAPOTO                      	    	                              	     	  -  	                    	     	0
+LA 2100 	N	S	LAN 	LA  	LAN                           	19/04/2011	17:20	     	JUL 	JULIACA                       	AQP 	AREQUIPA                      	     	  -  	                    	     	0
+LA 2394 	N	L	LAN 	LA  	LAN                           	19/04/2011	17:25	     	CUZ 	CUSCO                         	    	                              	     	  -  	                    	     	0
+AV 024  	I	S	AVA 	AV  	AVIANCA                       	19/04/2011	17:30	     	BOG 	BOGOTA                        	    	                              	     	  -  	                    	     	P
+TA 6054 	I	S	TPU 	TA  	TACA                          	19/04/2011	17:30	     	BOG 	BOGOTA                        	    	                              	     	  -  	                    	     	S
+P9 122  	N	S	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	17:30	     	IQT 	IQUITOS                       	    	                              	     	1 -5 	                    	     	
+IB 6651 	I	L	IBE 	IB  	IBERIA                        	19/04/2011	17:35	     	MAD 	MADRID                        	    	                              	     	  -  	                    	     	P
+BA 7332 	I	L	BAW 	BA  	BRITISH AIRWAYS               	19/04/2011	17:35	     	MAD 	MADRID                        	    	                              	     	  -  	                    	     	S
+2I 109  	N	L	STP 	2I  	STAR PERU                     	19/04/2011	17:40	     	MVV 	MALVINAS                      	    	                              	     	  -  	                    	     	
+LA 2334 	N	S	LAN 	LA  	LAN                           	19/04/2011	17:40	     	TBP 	TUMBES                        	    	                              	     	  -  	                    	     	0
+LA 2072 	N	L	LAN 	LA  	LAN                           	19/04/2011	17:45	     	PEM 	P.MALDONAD                    	CUZ 	CUSCO                         	     	  -  	                    	     	0
+LA 633  	I	S	LAN 	LA  	LAN                           	19/04/2011	17:50	     	SCL 	SANTIAGO                      	    	                              	     	  -  	                    	     	P
+2I 3116 	N	L	STP 	2I  	STAR PERU                     	19/04/2011	17:55	     	IQT 	IQUITOS                       	TPP 	TARAPOTO                      	     	  -  	                    	     	
+LA 2394 	N	S	LAN 	LA  	LAN                           	19/04/2011	18:00	     	IQT 	IQUITOS                       	    	                              	     	  -  	                    	     	0
+P9 416  	N	S	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	18:00	     	PIU 	PIURA                         	    	                              	     	1 -5 	                    	     	
+KL 743  	I	L	KLM 	KL  	K.L.M.                        	19/04/2011	18:10	     	AMS 	AMSTERDAM                     	    	                              	     	  -  	                    	     	P
+AF 8433 	I	L	AFR 	AF  	AIR FRANCE                    	19/04/2011	18:10	     	AMS 	AMSTERDAM                     	    	                              	     	  -  	                    	     	S
+LA 2310 	N	S	LAN 	LA  	LAN                           	19/04/2011	18:10	     	PIU 	PIURA                         	    	                              	     	  -  	                    	     	0
+2I 1239 	N	S	STP 	2I  	STAR PERU                     	19/04/2011	18:15	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	
+LA 2295 	N	L	LAN 	LA  	LAN                           	19/04/2011	18:15	     	CJA 	CAJAMARCA                     	    	                              	     	  -  	                    	     	0
+2I 2213 	N	S	STP 	2I  	STAR PERU                     	19/04/2011	18:15	     	TRU 	TRUJILLO                      	CIX 	CHICLAYO                      	     	  -  	                    	     	
+W4 1324 	N	L	LCB 	W4  	LC BUSRE                      	19/04/2011	18:35	     	AYP 	AYACUCHO                      	    	                              	     	  -  	                    	     	P
+2I 3239 	N	S	STP 	2I  	STAR PERU                     	19/04/2011	18:35	     	TPP 	TARAPOTO                      	PCL 	PUCALLPA                      	     	  -  	                    	     	
+P9 237  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	18:45	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	
+LA 2256 	N	S	LAN 	LA  	LAN                           	19/04/2011	18:50	     	TPP 	TARAPOTO                      	    	                              	     	  -  	                    	     	0
+2I 3218 	N	L	STP 	2I  	STAR PERU                     	19/04/2011	18:55	     	IQT 	IQUITOS                       	PCL 	PUCALLPA                      	     	  -  	                    	     	
+P9 232  	N	S	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	19:00	     	AQP 	AREQUIPA                      	    	                              	     	1 -5 	                    	     	
+H2 803  	I	S	SKU 	H2  	SKY AIRLINES                  	19/04/2011	19:00	     	SCL 	SANTIAGO                      	ANF 	ANTOFAGAST                    	     	  -  	                    	     	0
+LA 2161 	N	S	LAN 	LA  	LAN                           	19/04/2011	19:00	     	TCQ 	TACNA                         	    	                              	     	  -  	                    	     	0
+W4 1314 	N	L	LCB 	W4  	LC BUSRE                      	19/04/2011	19:05	     	CJA 	CAJAMARCA                     	    	                              	     	  -  	                    	     	0
+LA 2706 	I	S	LAN 	LA  	LAN                           	19/04/2011	19:10	     	MAD 	MADRID                        	    	                              	     	  -  	                    	     	P
+IB 7758 	I	S	IBE 	IB  	IBERIA                        	19/04/2011	19:10	     	MAD 	MADRID                        	    	                              	     	  -  	                    	     	S
+LA 2207 	N	L	LAN 	LA  	LAN                           	19/04/2011	19:10	     	TRU 	TRUJILLO                      	    	                              	     	  -  	                    	     	0
+LA 2108 	N	L	LAN 	LA  	LAN                           	19/04/2011	19:20	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	0
+LA 2277 	N	L	LAN 	LA  	LAN                           	19/04/2011	19:20	     	CIX 	CHICLAYO                      	    	                              	     	  -  	                    	     	0
+LA 2383 	N	L	LAN 	LA  	LAN                           	19/04/2011	19:40	     	IQT 	IQUITOS                       	    	                              	     	  -  	                    	     	0
+LA 2111 	N	L	LAN 	LA  	LAN                           	19/04/2011	19:40	     	JUL 	JULIACA                       	AQP 	AREQUIPA                      	     	  -  	                    	     	0
+IB 6650 	I	S	IBE 	IB  	IBERIA                        	19/04/2011	19:45	     	MAD 	MADRID                        	    	                              	     	  -  	                    	     	P
+LP 5100 	I	S	LPE 	LP  	LAN                           	19/04/2011	19:45	     	MAD 	MADRID                        	    	                              	     	  -  	                    	     	S
+BA 7233 	I	S	BAW 	BA  	BRITISH AIRWAYS               	19/04/2011	19:45	     	MAD 	MADRID                        	    	                              	     	  -  	                    	     	S
+LA 2304 	N	S	LAN 	LA  	LAN                           	19/04/2011	19:45	     	PIU 	PIURA                         	    	                              	     	  -  	                    	     	0
+LA 2107 	N	S	LAN 	LA  	LAN                           	19/04/2011	19:55	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	0
+LA 2584 	I	S	LAN 	LA  	LAN                           	19/04/2011	19:55	     	BOG 	BOGOTA                        	    	                              	     	  -  	                    	     	
+LA 2278 	N	S	LAN 	LA  	LAN                           	19/04/2011	20:00	     	CIX 	CHICLAYO                      	    	                              	     	  -  	                    	     	0
+LA 2309 	N	L	LAN 	LA  	LAN                           	19/04/2011	20:00	     	PIU 	PIURA                         	    	                              	     	  -  	                    	     	0
+KL 744  	I	S	KLM 	KL  	K.L.M.                        	19/04/2011	20:05	     	AMS 	AMSTERDAM                     	    	                              	     	  -  	                    	     	P
+AF 8432 	I	S	AFR 	AF  	AIR FRANCE                    	19/04/2011	20:05	     	AMS 	AMSTERDAM                     	    	                              	     	  -  	                    	     	S
+LA 2356 	N	S	LAN 	LA  	LAN                           	19/04/2011	20:15	     	PCL 	PUCALLPA                      	    	                              	     	  -  	                    	     	0
+LR 625  	I	L	LRC 	LR  	LACSA                         	19/04/2011	20:25	     	SJO 	SAN JOSE                      	    	                              	     	  -  	                    	     	0
+TA 417  	I	L	TPU 	TA  	TACA                          	19/04/2011	20:25	     	SAL 	SAN SALVAD                    	    	                              	     	  -  	                    	     	0
+LA 2635 	I	S	LAN 	LA  	LAN                           	19/04/2011	20:25	     	SCL 	SANTIAGO                      	    	                              	     	  -  	                    	     	0
+TA 139  	I	L	TPU 	TA  	TACA                          	19/04/2011	20:30	     	CLO 	CALI                          	GYE 	GUAYAQUIL                     	     	  -  	                    	     	0
+TA 106  	N	L	TPU 	TA  	TACA                          	19/04/2011	20:30	     	TPP 	TARAPOTO                      	    	                              	     	  -  	                    	     	0
+TA 054  	I	L	TPU 	TA  	TACA                          	19/04/2011	20:35	     	SCL 	SANTIAGO                      	    	                              	     	  -  	                    	     	0
+LA 2204 	N	S	LAN 	LA  	LAN                           	19/04/2011	20:35	     	TRU 	TRUJILLO                      	    	                              	     	  -  	                    	     	0
+TA 004  	N	L	TPU 	TA  	TACA                          	19/04/2011	20:40	     	JUL 	JULIACA                       	    	                              	     	  -  	                    	     	0
+TA 017  	I	L	TPU 	TA  	TACA                          	19/04/2011	20:45	     	MEX 	MEXICO                        	    	                              	     	  -  	                    	     	0
+TA 024  	I	L	TPU 	TA  	TACA                          	19/04/2011	20:50	     	    	B.AIRES                       	    	                              	     	  -  	                    	     	0
+TA 135  	I	L	TPU 	TA  	TACA                          	19/04/2011	20:53	     	    	MEDELLIN                      	UIO 	QUITO                         	     	  -  	                    	     	0
+TA 035  	I	L	TPU 	TA  	TACA                          	19/04/2011	20:55	     	CCS 	CARACAS                       	    	                              	     	  -  	                    	     	P
+TA 031  	I	L	TPU 	TA  	TACA                          	19/04/2011	21:00	     	MIA 	MIAMI                         	    	                              	     	  -  	                    	     	0
+TA 029  	I	L	TPU 	TA  	TACA                          	19/04/2011	21:05	     	    	SAO PAULO                     	    	                              	     	  -  	                    	     	0
+AA 917  	I	L	AAL 	AA  	AMERICAN AIRLINES             	19/04/2011	21:10	     	MIA 	MIAMI                         	    	                              	     	  -  	                    	     	0
+CO 1874 	I	L	COA 	CO  	CONTINENTAL AIRLINES          	19/04/2011	21:10	     	EWR 	NEWARK                        	    	                              	     	  -  	                    	     	P
+TA 127  	I	L	TPU 	TA  	TACA                          	19/04/2011	21:13	     	GYE 	GUAYAQUIL                     	    	                              	     	  -  	                    	     	0
+TA 103  	N	S	TPU 	TA  	TACA                          	19/04/2011	21:15	     	TRU 	TRUJILLO                      	    	                              	     	  -  	                    	     	0
+P9 417  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	21:30	     	PIU 	PIURA                         	    	                              	     	  -  	                    	     	
+2I 1240 	N	L	STP 	2I  	STAR PERU                     	19/04/2011	21:35	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	
+LA 2442 	I	L	LAN 	LA  	LAN                           	19/04/2011	21:40	     	IGU 	F.IGUAZU                      	    	                              	     	  -  	                    	     	0
+P9 123  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	21:40	     	IQT 	IQUITOS                       	    	                              	     	  -  	                    	     	
+TA 130  	I	S	TPU 	TA  	TACA                          	19/04/2011	21:45	     	BOG 	BOGOTA                        	    	                              	     	  -  	                    	     	P
+AV 6592 	I	S	AVA 	AV  	AVIANCA                       	19/04/2011	21:45	     	BOG 	BOGOTA                        	    	                              	     	  -  	                    	     	S
+TA 036  	I	S	TPU 	TA  	TACA                          	19/04/2011	21:45	     	CCS 	CARACAS                       	    	                              	     	  -  	                    	     	0
+LA 2335 	N	L	LAN 	LA  	LAN                           	19/04/2011	21:45	     	TBP 	TUMBES                        	    	                              	     	  -  	                    	     	0
+TA 035  	I	S	TPU 	TA  	TACA                          	19/04/2011	21:47	     	VVI 	SANTA CRUZ                    	LPB 	LA PAZ                        	     	  -  	                    	     	P
+5L 1405 	I	S	ASU 	5L  	AEROSUR                       	19/04/2011	21:47	     	VVI 	SANTA CRUZ                    	LPB 	LA PAZ                        	     	  -  	                    	     	S
+TA 041  	I	S	TPU 	TA  	TACA                          	19/04/2011	21:50	     	MVD 	MONTEVIDEO                    	    	                              	     	  -  	                    	     	P
+LA 2311 	N	L	LAN 	LA  	LAN                           	19/04/2011	21:50	     	PIU 	PIURA                         	    	                              	     	  -  	                    	     	0
+TA 142  	I	S	TPU 	TA  	TACA                          	19/04/2011	21:50	     	    	R.JANEIRO                     	    	                              	     	  -  	                    	     	0
+TA 044  	I	S	TPU 	TA  	TACA                          	19/04/2011	21:52	     	ASU 	ASUNCION                      	    	                              	     	  -  	                    	     	P
+AV 6672 	I	S	AVA 	AV  	AVIANCA                       	19/04/2011	21:52	     	MVD 	MONTEVIDEO                    	ASU 	ASUNCION                      	     	  -  	                    	     	S
+LA 2257 	N	L	LAN 	LA  	LAN                           	19/04/2011	21:55	     	TPP 	TARAPOTO                      	    	                              	     	  -  	                    	     	0
+TA 043  	I	S	TPU 	TA  	TACA                          	19/04/2011	21:56	     	UIO 	QUITO                         	    	                              	     	  -  	                    	     	0
+TA 125  	I	S	TPU 	TA  	TACA                          	19/04/2011	21:58	     	    	B.AIRES                       	    	                              	     	  -  	                    	     	0
+2I 2213 	N	L	STP 	2I  	STAR PERU                     	19/04/2011	22:00	     	CIX 	CHICLAYO                      	TRU 	TRUJILLO                      	     	  -  	                    	     	
+LA 2377 	N	L	LAN 	LA  	LAN                           	19/04/2011	22:00	     	IQT 	IQUITOS                       	    	                              	     	  -  	                    	     	0
+LR 625  	I	S	LRC 	LR  	LACSA                         	19/04/2011	22:00	     	SCL 	SANTIAGO                      	    	                              	     	  -  	                    	     	P
+TA 023  	I	S	TPU 	TA  	TACA                          	19/04/2011	22:02	     	    	B.AIRES                       	    	                              	     	  -  	                    	     	P
+TA 136  	I	S	TPU 	TA  	TACA                          	19/04/2011	22:10	     	    	SAO PAULO                     	    	                              	     	  -  	                    	     	0
+CM 489  	I	L	CMP 	CM  	COPA AIRLINES                 	19/04/2011	22:17	     	    	PANAMA                        	    	                              	     	  -  	                    	     	P
+KL 3011 	I	L	KLM 	KL  	K.L.M.                        	19/04/2011	22:17	     	    	PANAMA                        	    	                              	     	  -  	                    	     	S
+LA 2100 	N	L	LAN 	LA  	LAN                           	19/04/2011	22:25	     	AQP 	AREQUIPA                      	JUL 	JULIACA                       	     	  -  	                    	     	0
+AR 1364 	I	L	ARG 	AR  	AEROLINEAS ARGENTINA          	19/04/2011	22:25	     	    	B.AIRES                       	    	                              	     	  -  	                    	     	0
+UA 854  	I	L	UAL 	UA  	UNITED AIRLINES               	19/04/2011	22:25	     	    	HOUSTON                       	    	                              	     	  -  	                    	     	
+P9 233  	N	L	PAL 	P9  	PERUVIAN AIRLINES             	19/04/2011	22:30	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	
+CO 1875 	I	S	COA 	CO  	CONTINENTAL AIRLINES          	19/04/2011	22:35	     	EWR 	NEWARK                        	    	                              	     	  -  	                    	     	P
+TA 093  	I	S	TPU 	TA  	TACA                          	19/04/2011	22:37	     	ANF 	ANTOFAGAST                    	    	                              	     	  -  	                    	     	P
+AA 918  	I	S	AAL 	AA  	AMERICAN AIRLINES             	19/04/2011	22:40	     	MIA 	MIAMI                         	    	                              	     	  -  	                    	     	0
+2I 3239 	N	L	STP 	2I  	STAR PERU                     	19/04/2011	22:45	     	PCL 	PUCALLPA                      	TPP 	TARAPOTO                      	     	  -  	                    	     	
+LA 2428 	I	L	LAN 	LA  	LAN                           	19/04/2011	22:55	     	    	B.AIRES                       	    	                              	     	  -  	                    	     	0
+LA 2589 	I	L	LAN 	LA  	LAN                           	19/04/2011	22:55	     	CLO 	CALI                          	UIO 	QUITO                         	     	  -  	                    	     	0
+LA 600  	I	L	LAN 	LA  	LAN                           	19/04/2011	22:55	     	SCL 	SANTIAGO                      	    	                              	     	  -  	                    	     	P
+LA 2608 	I	L	LAN 	LA  	LAN                           	19/04/2011	22:55	     	    	SAO PAULO                     	    	                              	     	  -  	                    	     	0
+LA 2357 	N	L	LAN 	LA  	LAN                           	19/04/2011	23:05	     	PCL 	PUCALLPA                      	    	                              	     	  -  	                    	     	0
+DL 151  	I	L	DAL 	DL  	DELTA AIRLINES                	19/04/2011	23:10	     	ATL 	ATLANTA                       	    	                              	     	  -  	                    	     	P
+LA 2583 	I	L	LAN 	LA  	LAN                           	19/04/2011	23:10	     	BOG 	BOGOTA                        	    	                              	     	  -  	                    	     	0
+LA 2160 	N	L	LAN 	LA  	LAN                           	19/04/2011	23:10	     	TCQ 	TACNA                         	    	                              	     	  -  	                    	     	0
+LA 2279 	N	L	LAN 	LA  	LAN                           	19/04/2011	23:15	     	CIX 	CHICLAYO                      	    	                              	     	  -  	                    	     	0
+AM 18   	I	L	AMX 	AM  	AEROMEXICO                    	19/04/2011	23:15	     	MEX 	MEXICO                        	    	                              	     	  -  	                    	     	0
+LA 2106 	N	L	LAN 	LA  	LAN                           	19/04/2011	23:20	     	AQP 	AREQUIPA                      	    	                              	     	  -  	                    	     	0
+LA 2565 	I	L	LAN 	LA  	LAN                           	19/04/2011	23:20	     	CCS 	CARACAS                       	    	                              	     	  -  	                    	     	0
+LA 2305 	N	L	LAN 	LA  	LAN                           	19/04/2011	23:20	     	PIU 	PIURA                         	    	                              	     	  -  	                    	     	0
+LA 2205 	N	L	LAN 	LA  	LAN                           	19/04/2011	23:20	     	TRU 	TRUJILLO                      	    	                              	     	  -  	                    	     	0
+AR 1365 	I	S	ARG 	AR  	AEROLINEAS ARGENTINA          	19/04/2011	23:25	     	    	B.AIRES                       	    	                              	     	  -  	                    	     	0
+LA 530  	I	L	LAN 	LA  	LAN                           	19/04/2011	23:35	     	SCL 	SANTIAGO                      	    	                              	     	  -  	                    	     	P
+UA 855  	I	S	UAL 	UA  	UNITED AIRLINES               	19/04/2011	23:50	     	    	HOUSTON                       	    	                              	     	  -  	                    	     	
+LA 601  	I	L	LAN 	LA  	LAN                           	19/04/2011	23:55	     	LAX 	L.ANGELES                     	    	                              	     	  -  	                    	     	P
+LA 2515 	I	L	LAN 	LA  	LAN                           	19/04/2011	23:55	     	MIA 	MIAMI                         	    	                              	     	  -  	                    	     	0

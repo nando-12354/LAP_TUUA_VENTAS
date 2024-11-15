@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+;Valores:
+;0:Permitido
+;1:Pregunta antes
+;3:Prohibido
+
+;Nivel Intranet
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\1]
+"1201"=dword:00000001
+
+;Nivel Internet
+;[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3]
+;"2005"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3]
+"1201"=dword:00000001
+
+;Licensia del MSComm32.ocx
+[HKEY_CLASSES_ROOT\Licenses\4250E830-6AC2-11cf-8ADB-00AA00C00905]
+@="kjljvjjjoquqmjjjvpqqkqmqykypoqjquoun"

@@ -1,0 +1,53 @@
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\bin\WSBP.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\bin\WSBP.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\bin\DAO.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\bin\LAP.EXTRANET.UTIL.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\bin\DAO.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\bin\LAP.EXTRANET.UTIL.pdb
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\obj\Release\WSBP.dll
+C:\Documents and Settings\esilva\Escritorio\V1.4.3.4_HIPER\modulo extranet\WSBP\obj\Release\WSBP.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\obj\Release\ResolveAssemblyReference.cache
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\obj\Release\WSBP.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\WSBP.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\WSBP.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\DAO.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\LAP.EXTRANET.UTIL.dll
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\DAO.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\LAP.EXTRANET.UTIL.pdb
+D:\Subversion\Branches\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\obj\Release\WSBP.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\bin\WSBP.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\bin\WSBP.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\bin\DAO.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\bin\LAP.EXTRANET.UTIL.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\bin\DAO.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\bin\LAP.EXTRANET.UTIL.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\obj\Release\ResolveAssemblyReference.cache
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\obj\Release\WSBP.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\web\lap_extranet\WSBP\obj\Release\WSBP.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\obj\Release\WSBP.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\obj\Release\WSBP.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\WSBP.dll.config
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\WSBP.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\WSBP.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\DAO.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\LAP.EXTRANET.UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\DAO.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\bin\LAP.EXTRANET.UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\obj\Release\WSBP.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\obj\Release\WSBP.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\web\lap_extranet\WSBP\obj\Release\WSBP.csproj.CopyComplete

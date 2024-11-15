@@ -1,0 +1,2325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ListarAllTurno">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_codturno" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAllTurnoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAllTurnoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CantidadMonedasTurno">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_codturno" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CantidadMonedasTurnoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CantidadMonedasTurnoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalladoCantidadMonedas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_codturno" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_codmoneda" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_iddetalle" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalladoCantidadMonedasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalladoCantidadMonedasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarTurnoxFiltro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_fchIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_fchFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_codusuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_ptoventa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_HoraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_HoraHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_FlgReporte" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarTurnoxFiltroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarTurnoxFiltroResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaUsuariosxFiltro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_rol" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_estado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_grupo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sfiltro" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sOrdenacion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaUsuariosxFiltroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaUsuariosxFiltroResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarAllUsuario">
+        <s:complexType />
+      </s:element>
+      <s:element name="listarAllUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarAllUsuarioResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarAllCompanias">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarAllCompaniasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarAllCompaniasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaCompaniaxFiltro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strEstado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sfiltro" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sOrdenacion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaCompaniaxFiltroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaCompaniaxFiltroResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarParametrosGeneral">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_identificador" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarParametrosGeneralResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarParametrosGeneralResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDetalleTicket">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_numeroticket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_ticketdesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_tickethasta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDetalleTicketResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarDetalleTicketResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDetalleTicketPagin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_numeroticket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_ticketdesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_tickethasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sColumnSort" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iIniRows" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="iMaxRows" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTotalRows" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDetalleTicketPaginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarDetalleTicketPaginResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDetalleTicket_Reh">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_numeroticket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_ticketdesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_tickethasta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDetalleTicket_RehResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarDetalleTicket_RehResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDetalleTicket2_Reh">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_numeroticket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_ticketdesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_tickethasta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDetalleTicket2_RehResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarDetalleTicket2_RehResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDetalleTicket_Ope">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_numeroticket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_ticketdesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_tickethasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_tipoticket" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDetalleTicket_OpeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarDetalleTicket_OpeResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketxFecha">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_FchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_FchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_CodCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_TipoTicket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_EstadoTicket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_TipoPersona" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_filtro" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_Ordenacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_HoraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_HoraHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurno" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketxFechaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTicketxFechaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketxFechaPagin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_TipDoc" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_FchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_FchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_HoraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_HoraHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_CodCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_EstadoTicket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_TipoTicket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_TipoPersona" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_TipoVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_CodBoarding" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_Turno" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_FlgCobro" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_FlgMasiva" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sColumnSort" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iIniRows" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="iMaxRows" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTotalRows" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketxFechaPaginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTicketxFechaPaginResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketxFecha_Reh">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_FchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_FchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_CodCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_TipoTicket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_EstadoTicket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_TipoPersona" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_filtro" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_Ordenacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_HoraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_HoraHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurno" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketxFecha_RehResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTicketxFecha_RehResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerCuadreTicketEmitidos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_FchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_FchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_TipoDocumento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_FlagAnulado" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerCuadreTicketEmitidosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerCuadreTicketEmitidosResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketEstHist">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_numeroticket" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketEstHistResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTicketEstHistResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketEstHist_Arch">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_numeroticket" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketEstHist_ArchResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTicketEstHist_ArchResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerTicketBoardingUsados">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sFechaDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFechaHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipoVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipoPasajero" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipoDocumento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipoTrasbordo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFechaVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sEstado" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerTicketBoardingUsadosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerTicketBoardingUsadosResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarCampoxNombre">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_nombre" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarCampoxNombreResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarCampoxNombreResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarCampoxNombreOrderByDesc">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_nombre" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarCampoxNombreOrderByDescResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarCampoxNombreOrderByDescResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarRoles">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarRolesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarRolesResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoarding">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCodCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFechVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumAsiento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strPasajero" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tipEstado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Cod_Unico_Bcbp" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBoardingResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingPagin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCodCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFechVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumAsiento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strPasajero" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tipEstado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Cod_Unico_Bcbp" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sColumnSort" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iIniRows" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="iMaxRows" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTotalRows" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingPaginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBoardingPaginResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoarding_REH">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCodCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFechVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strNumAsiento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strPasajero" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tipEstado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Cod_Unico_Bcbp" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Flag_Fch_Vuelo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoarding_REHResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBoarding_REHResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingArchivado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingArchivadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBoardingArchivadoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarBoardingAsociados">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarBoardingAsociadosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarBoardingAsociadosResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="validarAsocBCBP">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sNumAsiento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNomPersona" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodBcbpBase" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="validarAsocBCBPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="validarAsocBCBPResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerDetalleWebBCBP">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNroVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sAsiento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sPasajero" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerDetalleWebBCBPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerDetalleWebBCBPResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingEstHist">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingEstHistResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBoardingEstHistResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingEstHist_Arch">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingEstHist_ArchResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBoardingEstHist_ArchResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerUsuarioxFechaOperacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strFechaOperacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTipoOperacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodMoneda" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerUsuarioxFechaOperacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerUsuarioxFechaOperacionResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerDetallexLineaVuelo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strFechaDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFechaHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodCompania" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerDetallexLineaVueloResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerDetallexLineaVueloResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FiltrosAuditorias">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCodModulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFlgSubModulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTablaXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FiltrosAuditoriasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FiltrosAuditoriasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerConsultaAuditorias">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strTipOperacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodModulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodSubModulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strHraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strHraHasta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerConsultaAuditoriasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerConsultaAuditoriasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerConsultaAuditoriasPagin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strTipOperacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodModulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodSubModulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strHraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strHraHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sColumnSort" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iIniRows" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="iMaxRows" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTotalRows" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerConsultaAuditoriasPaginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerConsultaAuditoriasPaginResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerDetalleAuditoria">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strNombreTabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strContador" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerDetalleAuditoriaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerDetalleAuditoriaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTurnoxFiltro2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strFchIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFchFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCodTurno" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTurnoxFiltro2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTurnoxFiltro2Result">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketProcesado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCodTurno" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketProcesadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTicketProcesadoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketVendido">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strTipo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strHorIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strHorFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurnoIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurnoFin" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTicketVendidoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTicketVendidoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarResumenCompraVenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strTipo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strHorIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strHorFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurnoIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurnoFin" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarResumenCompraVentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarResumenCompraVentaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarResumenTasaCambio">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strTipo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strHorIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strFecFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strHorFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurnoIni" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strTurnoFin" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarResumenTasaCambioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarResumenTasaCambioResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ListarAllTurnoSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAllTurno" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllTurnoSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAllTurnoResponse" />
+  </wsdl:message>
+  <wsdl:message name="CantidadMonedasTurnoSoapIn">
+    <wsdl:part name="parameters" element="tns:CantidadMonedasTurno" />
+  </wsdl:message>
+  <wsdl:message name="CantidadMonedasTurnoSoapOut">
+    <wsdl:part name="parameters" element="tns:CantidadMonedasTurnoResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalladoCantidadMonedasSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalladoCantidadMonedas" />
+  </wsdl:message>
+  <wsdl:message name="DetalladoCantidadMonedasSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalladoCantidadMonedasResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarTurnoxFiltroSoapIn">
+    <wsdl:part name="parameters" element="tns:listarTurnoxFiltro" />
+  </wsdl:message>
+  <wsdl:message name="listarTurnoxFiltroSoapOut">
+    <wsdl:part name="parameters" element="tns:listarTurnoxFiltroResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaUsuariosxFiltroSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaUsuariosxFiltro" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaUsuariosxFiltroSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaUsuariosxFiltroResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarAllUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:listarAllUsuario" />
+  </wsdl:message>
+  <wsdl:message name="listarAllUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:listarAllUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllCompaniasSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarAllCompanias" />
+  </wsdl:message>
+  <wsdl:message name="ListarAllCompaniasSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarAllCompaniasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaCompaniaxFiltroSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaCompaniaxFiltro" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaCompaniaxFiltroSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaCompaniaxFiltroResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarParametrosGeneralSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarParametrosGeneral" />
+  </wsdl:message>
+  <wsdl:message name="ListarParametrosGeneralSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarParametrosGeneralResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarDetalleTicketSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarDetalleTicket" />
+  </wsdl:message>
+  <wsdl:message name="ListarDetalleTicketSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarDetalleTicketResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarDetalleTicketPaginSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarDetalleTicketPagin" />
+  </wsdl:message>
+  <wsdl:message name="ListarDetalleTicketPaginSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarDetalleTicketPaginResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarDetalleTicket_RehSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarDetalleTicket_Reh" />
+  </wsdl:message>
+  <wsdl:message name="ListarDetalleTicket_RehSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarDetalleTicket_RehResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarDetalleTicket2_RehSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarDetalleTicket2_Reh" />
+  </wsdl:message>
+  <wsdl:message name="ListarDetalleTicket2_RehSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarDetalleTicket2_RehResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarDetalleTicket_OpeSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarDetalleTicket_Ope" />
+  </wsdl:message>
+  <wsdl:message name="ListarDetalleTicket_OpeSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarDetalleTicket_OpeResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketxFechaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTicketxFecha" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketxFechaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTicketxFechaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketxFechaPaginSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTicketxFechaPagin" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketxFechaPaginSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTicketxFechaPaginResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketxFecha_RehSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTicketxFecha_Reh" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketxFecha_RehSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTicketxFecha_RehResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerCuadreTicketEmitidosSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerCuadreTicketEmitidos" />
+  </wsdl:message>
+  <wsdl:message name="obtenerCuadreTicketEmitidosSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerCuadreTicketEmitidosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketEstHistSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTicketEstHist" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketEstHistSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTicketEstHistResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketEstHist_ArchSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTicketEstHist_Arch" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketEstHist_ArchSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTicketEstHist_ArchResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerTicketBoardingUsadosSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerTicketBoardingUsados" />
+  </wsdl:message>
+  <wsdl:message name="obtenerTicketBoardingUsadosSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerTicketBoardingUsadosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarCampoxNombreSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarCampoxNombre" />
+  </wsdl:message>
+  <wsdl:message name="ListarCampoxNombreSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarCampoxNombreResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarCampoxNombreOrderByDescSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarCampoxNombreOrderByDesc" />
+  </wsdl:message>
+  <wsdl:message name="ListarCampoxNombreOrderByDescSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarCampoxNombreOrderByDescResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarRolesSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarRoles" />
+  </wsdl:message>
+  <wsdl:message name="ListarRolesSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarRolesResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBoarding" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingPaginSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingPagin" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingPaginSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingPaginResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoarding_REHSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBoarding_REH" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoarding_REHSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBoarding_REHResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingArchivadoSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingArchivado" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingArchivadoSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingArchivadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarBoardingAsociadosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarBoardingAsociados" />
+  </wsdl:message>
+  <wsdl:message name="ListarBoardingAsociadosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarBoardingAsociadosResponse" />
+  </wsdl:message>
+  <wsdl:message name="validarAsocBCBPSoapIn">
+    <wsdl:part name="parameters" element="tns:validarAsocBCBP" />
+  </wsdl:message>
+  <wsdl:message name="validarAsocBCBPSoapOut">
+    <wsdl:part name="parameters" element="tns:validarAsocBCBPResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerDetalleWebBCBPSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerDetalleWebBCBP" />
+  </wsdl:message>
+  <wsdl:message name="obtenerDetalleWebBCBPSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerDetalleWebBCBPResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingEstHistSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingEstHist" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingEstHistSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingEstHistResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingEstHist_ArchSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingEstHist_Arch" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingEstHist_ArchSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingEstHist_ArchResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerUsuarioxFechaOperacionSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerUsuarioxFechaOperacion" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerUsuarioxFechaOperacionSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerUsuarioxFechaOperacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerDetallexLineaVueloSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerDetallexLineaVuelo" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerDetallexLineaVueloSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerDetallexLineaVueloResponse" />
+  </wsdl:message>
+  <wsdl:message name="FiltrosAuditoriasSoapIn">
+    <wsdl:part name="parameters" element="tns:FiltrosAuditorias" />
+  </wsdl:message>
+  <wsdl:message name="FiltrosAuditoriasSoapOut">
+    <wsdl:part name="parameters" element="tns:FiltrosAuditoriasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerConsultaAuditoriasSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerConsultaAuditorias" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerConsultaAuditoriasSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerConsultaAuditoriasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerConsultaAuditoriasPaginSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerConsultaAuditoriasPagin" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerConsultaAuditoriasPaginSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerConsultaAuditoriasPaginResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerDetalleAuditoriaSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerDetalleAuditoria" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerDetalleAuditoriaSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerDetalleAuditoriaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTurnoxFiltro2SoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTurnoxFiltro2" />
+  </wsdl:message>
+  <wsdl:message name="ListarTurnoxFiltro2SoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTurnoxFiltro2Response" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketProcesadoSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTicketProcesado" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketProcesadoSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTicketProcesadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketVendidoSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTicketVendido" />
+  </wsdl:message>
+  <wsdl:message name="ListarTicketVendidoSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTicketVendidoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarResumenCompraVentaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarResumenCompraVenta" />
+  </wsdl:message>
+  <wsdl:message name="ListarResumenCompraVentaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarResumenCompraVentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarResumenTasaCambioSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarResumenTasaCambio" />
+  </wsdl:message>
+  <wsdl:message name="ListarResumenTasaCambioSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarResumenTasaCambioResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSConsultasSoap">
+    <wsdl:operation name="ListarAllTurno">
+      <wsdl:input message="tns:ListarAllTurnoSoapIn" />
+      <wsdl:output message="tns:ListarAllTurnoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CantidadMonedasTurno">
+      <wsdl:input message="tns:CantidadMonedasTurnoSoapIn" />
+      <wsdl:output message="tns:CantidadMonedasTurnoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalladoCantidadMonedas">
+      <wsdl:input message="tns:DetalladoCantidadMonedasSoapIn" />
+      <wsdl:output message="tns:DetalladoCantidadMonedasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarTurnoxFiltro">
+      <wsdl:input message="tns:listarTurnoxFiltroSoapIn" />
+      <wsdl:output message="tns:listarTurnoxFiltroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaUsuariosxFiltro">
+      <wsdl:input message="tns:ConsultaUsuariosxFiltroSoapIn" />
+      <wsdl:output message="tns:ConsultaUsuariosxFiltroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarAllUsuario">
+      <wsdl:input message="tns:listarAllUsuarioSoapIn" />
+      <wsdl:output message="tns:listarAllUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllCompanias">
+      <wsdl:input message="tns:ListarAllCompaniasSoapIn" />
+      <wsdl:output message="tns:ListarAllCompaniasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaCompaniaxFiltro">
+      <wsdl:input message="tns:ConsultaCompaniaxFiltroSoapIn" />
+      <wsdl:output message="tns:ConsultaCompaniaxFiltroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarParametrosGeneral">
+      <wsdl:input message="tns:ListarParametrosGeneralSoapIn" />
+      <wsdl:output message="tns:ListarParametrosGeneralSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket">
+      <wsdl:input message="tns:ListarDetalleTicketSoapIn" />
+      <wsdl:output message="tns:ListarDetalleTicketSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicketPagin">
+      <wsdl:input message="tns:ListarDetalleTicketPaginSoapIn" />
+      <wsdl:output message="tns:ListarDetalleTicketPaginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket_Reh">
+      <wsdl:input message="tns:ListarDetalleTicket_RehSoapIn" />
+      <wsdl:output message="tns:ListarDetalleTicket_RehSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket2_Reh">
+      <wsdl:input message="tns:ListarDetalleTicket2_RehSoapIn" />
+      <wsdl:output message="tns:ListarDetalleTicket2_RehSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket_Ope">
+      <wsdl:input message="tns:ListarDetalleTicket_OpeSoapIn" />
+      <wsdl:output message="tns:ListarDetalleTicket_OpeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketxFecha">
+      <wsdl:input message="tns:ListarTicketxFechaSoapIn" />
+      <wsdl:output message="tns:ListarTicketxFechaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketxFechaPagin">
+      <wsdl:input message="tns:ListarTicketxFechaPaginSoapIn" />
+      <wsdl:output message="tns:ListarTicketxFechaPaginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketxFecha_Reh">
+      <wsdl:input message="tns:ListarTicketxFecha_RehSoapIn" />
+      <wsdl:output message="tns:ListarTicketxFecha_RehSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerCuadreTicketEmitidos">
+      <wsdl:input message="tns:obtenerCuadreTicketEmitidosSoapIn" />
+      <wsdl:output message="tns:obtenerCuadreTicketEmitidosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketEstHist">
+      <wsdl:input message="tns:ListarTicketEstHistSoapIn" />
+      <wsdl:output message="tns:ListarTicketEstHistSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketEstHist_Arch">
+      <wsdl:input message="tns:ListarTicketEstHist_ArchSoapIn" />
+      <wsdl:output message="tns:ListarTicketEstHist_ArchSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerTicketBoardingUsados">
+      <wsdl:input message="tns:obtenerTicketBoardingUsadosSoapIn" />
+      <wsdl:output message="tns:obtenerTicketBoardingUsadosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarCampoxNombre">
+      <wsdl:input message="tns:ListarCampoxNombreSoapIn" />
+      <wsdl:output message="tns:ListarCampoxNombreSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarCampoxNombreOrderByDesc">
+      <wsdl:input message="tns:ListarCampoxNombreOrderByDescSoapIn" />
+      <wsdl:output message="tns:ListarCampoxNombreOrderByDescSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarRoles">
+      <wsdl:input message="tns:ListarRolesSoapIn" />
+      <wsdl:output message="tns:ListarRolesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoarding">
+      <wsdl:input message="tns:DetalleBoardingSoapIn" />
+      <wsdl:output message="tns:DetalleBoardingSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingPagin">
+      <wsdl:input message="tns:DetalleBoardingPaginSoapIn" />
+      <wsdl:output message="tns:DetalleBoardingPaginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoarding_REH">
+      <wsdl:input message="tns:DetalleBoarding_REHSoapIn" />
+      <wsdl:output message="tns:DetalleBoarding_REHSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingArchivado">
+      <wsdl:input message="tns:DetalleBoardingArchivadoSoapIn" />
+      <wsdl:output message="tns:DetalleBoardingArchivadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingAsociados">
+      <wsdl:input message="tns:ListarBoardingAsociadosSoapIn" />
+      <wsdl:output message="tns:ListarBoardingAsociadosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="validarAsocBCBP">
+      <wsdl:input message="tns:validarAsocBCBPSoapIn" />
+      <wsdl:output message="tns:validarAsocBCBPSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerDetalleWebBCBP">
+      <wsdl:input message="tns:obtenerDetalleWebBCBPSoapIn" />
+      <wsdl:output message="tns:obtenerDetalleWebBCBPSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHist">
+      <wsdl:input message="tns:DetalleBoardingEstHistSoapIn" />
+      <wsdl:output message="tns:DetalleBoardingEstHistSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHist_Arch">
+      <wsdl:input message="tns:DetalleBoardingEstHist_ArchSoapIn" />
+      <wsdl:output message="tns:DetalleBoardingEstHist_ArchSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerUsuarioxFechaOperacion">
+      <wsdl:input message="tns:ObtenerUsuarioxFechaOperacionSoapIn" />
+      <wsdl:output message="tns:ObtenerUsuarioxFechaOperacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerDetallexLineaVuelo">
+      <wsdl:input message="tns:ObtenerDetallexLineaVueloSoapIn" />
+      <wsdl:output message="tns:ObtenerDetallexLineaVueloSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FiltrosAuditorias">
+      <wsdl:input message="tns:FiltrosAuditoriasSoapIn" />
+      <wsdl:output message="tns:FiltrosAuditoriasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerConsultaAuditorias">
+      <wsdl:input message="tns:ObtenerConsultaAuditoriasSoapIn" />
+      <wsdl:output message="tns:ObtenerConsultaAuditoriasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerConsultaAuditoriasPagin">
+      <wsdl:input message="tns:ObtenerConsultaAuditoriasPaginSoapIn" />
+      <wsdl:output message="tns:ObtenerConsultaAuditoriasPaginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerDetalleAuditoria">
+      <wsdl:input message="tns:ObtenerDetalleAuditoriaSoapIn" />
+      <wsdl:output message="tns:ObtenerDetalleAuditoriaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTurnoxFiltro2">
+      <wsdl:input message="tns:ListarTurnoxFiltro2SoapIn" />
+      <wsdl:output message="tns:ListarTurnoxFiltro2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketProcesado">
+      <wsdl:input message="tns:ListarTicketProcesadoSoapIn" />
+      <wsdl:output message="tns:ListarTicketProcesadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketVendido">
+      <wsdl:input message="tns:ListarTicketVendidoSoapIn" />
+      <wsdl:output message="tns:ListarTicketVendidoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarResumenCompraVenta">
+      <wsdl:input message="tns:ListarResumenCompraVentaSoapIn" />
+      <wsdl:output message="tns:ListarResumenCompraVentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarResumenTasaCambio">
+      <wsdl:input message="tns:ListarResumenTasaCambioSoapIn" />
+      <wsdl:output message="tns:ListarResumenTasaCambioSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSConsultasSoap" type="tns:WSConsultasSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ListarAllTurno">
+      <soap:operation soapAction="http://tempuri.org/ListarAllTurno" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CantidadMonedasTurno">
+      <soap:operation soapAction="http://tempuri.org/CantidadMonedasTurno" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalladoCantidadMonedas">
+      <soap:operation soapAction="http://tempuri.org/DetalladoCantidadMonedas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarTurnoxFiltro">
+      <soap:operation soapAction="http://tempuri.org/listarTurnoxFiltro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaUsuariosxFiltro">
+      <soap:operation soapAction="http://tempuri.org/ConsultaUsuariosxFiltro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarAllUsuario">
+      <soap:operation soapAction="http://tempuri.org/listarAllUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllCompanias">
+      <soap:operation soapAction="http://tempuri.org/ListarAllCompanias" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaCompaniaxFiltro">
+      <soap:operation soapAction="http://tempuri.org/ConsultaCompaniaxFiltro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarParametrosGeneral">
+      <soap:operation soapAction="http://tempuri.org/ListarParametrosGeneral" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket">
+      <soap:operation soapAction="http://tempuri.org/ListarDetalleTicket" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicketPagin">
+      <soap:operation soapAction="http://tempuri.org/ListarDetalleTicketPagin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket_Reh">
+      <soap:operation soapAction="http://tempuri.org/ListarDetalleTicket_Reh" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket2_Reh">
+      <soap:operation soapAction="http://tempuri.org/ListarDetalleTicket2_Reh" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket_Ope">
+      <soap:operation soapAction="http://tempuri.org/ListarDetalleTicket_Ope" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketxFecha">
+      <soap:operation soapAction="http://tempuri.org/ListarTicketxFecha" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketxFechaPagin">
+      <soap:operation soapAction="http://tempuri.org/ListarTicketxFechaPagin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketxFecha_Reh">
+      <soap:operation soapAction="http://tempuri.org/ListarTicketxFecha_Reh" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerCuadreTicketEmitidos">
+      <soap:operation soapAction="http://tempuri.org/obtenerCuadreTicketEmitidos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketEstHist">
+      <soap:operation soapAction="http://tempuri.org/ListarTicketEstHist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketEstHist_Arch">
+      <soap:operation soapAction="http://tempuri.org/ListarTicketEstHist_Arch" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerTicketBoardingUsados">
+      <soap:operation soapAction="http://tempuri.org/obtenerTicketBoardingUsados" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCampoxNombre">
+      <soap:operation soapAction="http://tempuri.org/ListarCampoxNombre" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCampoxNombreOrderByDesc">
+      <soap:operation soapAction="http://tempuri.org/ListarCampoxNombreOrderByDesc" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarRoles">
+      <soap:operation soapAction="http://tempuri.org/ListarRoles" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoarding">
+      <soap:operation soapAction="http://tempuri.org/DetalleBoarding" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingPagin">
+      <soap:operation soapAction="http://tempuri.org/DetalleBoardingPagin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoarding_REH">
+      <soap:operation soapAction="http://tempuri.org/DetalleBoarding_REH" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingArchivado">
+      <soap:operation soapAction="http://tempuri.org/DetalleBoardingArchivado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingAsociados">
+      <soap:operation soapAction="http://tempuri.org/ListarBoardingAsociados" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validarAsocBCBP">
+      <soap:operation soapAction="http://tempuri.org/validarAsocBCBP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerDetalleWebBCBP">
+      <soap:operation soapAction="http://tempuri.org/obtenerDetalleWebBCBP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHist">
+      <soap:operation soapAction="http://tempuri.org/DetalleBoardingEstHist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHist_Arch">
+      <soap:operation soapAction="http://tempuri.org/DetalleBoardingEstHist_Arch" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerUsuarioxFechaOperacion">
+      <soap:operation soapAction="http://tempuri.org/ObtenerUsuarioxFechaOperacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerDetallexLineaVuelo">
+      <soap:operation soapAction="http://tempuri.org/ObtenerDetallexLineaVuelo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FiltrosAuditorias">
+      <soap:operation soapAction="http://tempuri.org/FiltrosAuditorias" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerConsultaAuditorias">
+      <soap:operation soapAction="http://tempuri.org/ObtenerConsultaAuditorias" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerConsultaAuditoriasPagin">
+      <soap:operation soapAction="http://tempuri.org/ObtenerConsultaAuditoriasPagin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerDetalleAuditoria">
+      <soap:operation soapAction="http://tempuri.org/ObtenerDetalleAuditoria" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTurnoxFiltro2">
+      <soap:operation soapAction="http://tempuri.org/ListarTurnoxFiltro2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketProcesado">
+      <soap:operation soapAction="http://tempuri.org/ListarTicketProcesado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketVendido">
+      <soap:operation soapAction="http://tempuri.org/ListarTicketVendido" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarResumenCompraVenta">
+      <soap:operation soapAction="http://tempuri.org/ListarResumenCompraVenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarResumenTasaCambio">
+      <soap:operation soapAction="http://tempuri.org/ListarResumenTasaCambio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSConsultasSoap12" type="tns:WSConsultasSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ListarAllTurno">
+      <soap12:operation soapAction="http://tempuri.org/ListarAllTurno" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CantidadMonedasTurno">
+      <soap12:operation soapAction="http://tempuri.org/CantidadMonedasTurno" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalladoCantidadMonedas">
+      <soap12:operation soapAction="http://tempuri.org/DetalladoCantidadMonedas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarTurnoxFiltro">
+      <soap12:operation soapAction="http://tempuri.org/listarTurnoxFiltro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaUsuariosxFiltro">
+      <soap12:operation soapAction="http://tempuri.org/ConsultaUsuariosxFiltro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarAllUsuario">
+      <soap12:operation soapAction="http://tempuri.org/listarAllUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarAllCompanias">
+      <soap12:operation soapAction="http://tempuri.org/ListarAllCompanias" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaCompaniaxFiltro">
+      <soap12:operation soapAction="http://tempuri.org/ConsultaCompaniaxFiltro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarParametrosGeneral">
+      <soap12:operation soapAction="http://tempuri.org/ListarParametrosGeneral" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket">
+      <soap12:operation soapAction="http://tempuri.org/ListarDetalleTicket" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicketPagin">
+      <soap12:operation soapAction="http://tempuri.org/ListarDetalleTicketPagin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket_Reh">
+      <soap12:operation soapAction="http://tempuri.org/ListarDetalleTicket_Reh" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket2_Reh">
+      <soap12:operation soapAction="http://tempuri.org/ListarDetalleTicket2_Reh" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDetalleTicket_Ope">
+      <soap12:operation soapAction="http://tempuri.org/ListarDetalleTicket_Ope" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketxFecha">
+      <soap12:operation soapAction="http://tempuri.org/ListarTicketxFecha" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketxFechaPagin">
+      <soap12:operation soapAction="http://tempuri.org/ListarTicketxFechaPagin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketxFecha_Reh">
+      <soap12:operation soapAction="http://tempuri.org/ListarTicketxFecha_Reh" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerCuadreTicketEmitidos">
+      <soap12:operation soapAction="http://tempuri.org/obtenerCuadreTicketEmitidos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketEstHist">
+      <soap12:operation soapAction="http://tempuri.org/ListarTicketEstHist" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketEstHist_Arch">
+      <soap12:operation soapAction="http://tempuri.org/ListarTicketEstHist_Arch" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerTicketBoardingUsados">
+      <soap12:operation soapAction="http://tempuri.org/obtenerTicketBoardingUsados" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCampoxNombre">
+      <soap12:operation soapAction="http://tempuri.org/ListarCampoxNombre" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCampoxNombreOrderByDesc">
+      <soap12:operation soapAction="http://tempuri.org/ListarCampoxNombreOrderByDesc" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarRoles">
+      <soap12:operation soapAction="http://tempuri.org/ListarRoles" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoarding">
+      <soap12:operation soapAction="http://tempuri.org/DetalleBoarding" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingPagin">
+      <soap12:operation soapAction="http://tempuri.org/DetalleBoardingPagin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoarding_REH">
+      <soap12:operation soapAction="http://tempuri.org/DetalleBoarding_REH" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingArchivado">
+      <soap12:operation soapAction="http://tempuri.org/DetalleBoardingArchivado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingAsociados">
+      <soap12:operation soapAction="http://tempuri.org/ListarBoardingAsociados" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validarAsocBCBP">
+      <soap12:operation soapAction="http://tempuri.org/validarAsocBCBP" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerDetalleWebBCBP">
+      <soap12:operation soapAction="http://tempuri.org/obtenerDetalleWebBCBP" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHist">
+      <soap12:operation soapAction="http://tempuri.org/DetalleBoardingEstHist" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHist_Arch">
+      <soap12:operation soapAction="http://tempuri.org/DetalleBoardingEstHist_Arch" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerUsuarioxFechaOperacion">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerUsuarioxFechaOperacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerDetallexLineaVuelo">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerDetallexLineaVuelo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FiltrosAuditorias">
+      <soap12:operation soapAction="http://tempuri.org/FiltrosAuditorias" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerConsultaAuditorias">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerConsultaAuditorias" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerConsultaAuditoriasPagin">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerConsultaAuditoriasPagin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerDetalleAuditoria">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerDetalleAuditoria" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTurnoxFiltro2">
+      <soap12:operation soapAction="http://tempuri.org/ListarTurnoxFiltro2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketProcesado">
+      <soap12:operation soapAction="http://tempuri.org/ListarTicketProcesado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTicketVendido">
+      <soap12:operation soapAction="http://tempuri.org/ListarTicketVendido" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarResumenCompraVenta">
+      <soap12:operation soapAction="http://tempuri.org/ListarResumenCompraVenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarResumenTasaCambio">
+      <soap12:operation soapAction="http://tempuri.org/ListarResumenTasaCambio" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSConsultas">
+    <wsdl:port name="WSConsultasSoap" binding="tns:WSConsultasSoap">
+      <soap:address location="http://localhost:5078/WSDAO/WSConsultas.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSConsultasSoap12" binding="tns:WSConsultasSoap12">
+      <soap12:address location="http://localhost:5078/WSDAO/WSConsultas.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

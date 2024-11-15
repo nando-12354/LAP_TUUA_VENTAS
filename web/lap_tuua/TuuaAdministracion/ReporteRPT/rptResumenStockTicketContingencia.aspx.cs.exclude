@@ -1,0 +1,92 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using LAP.TUUA.UTIL;
+using LAP.TUUA.CONTROL;
+
+public partial class ReporteRPT_rptResumenStockTicketContingencia : System.Web.UI.Page
+{
+
+    protected bool Flg_Error;
+    DataTable dt_consulta = new DataTable();
+    BO_Reportes objConsulta = new BO_Reportes();
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        String sFecha = Request.QueryString["fecha"];
+        String sCodTipoTicket = Request.QueryString["valuetipoticket"];
+        String sDesTipoTicket = Request.QueryString["texttipoticket"];
+
+        if (Session["ConsultaStockTicketConti"] != null)
+        {
+            dt_consulta = (DataTable)Session["ConsultaStockTicketConti"];
+            generarReporte(sCodTipoTicket, sDesTipoTicket, sFecha);
+        }
+        else
+        {
+            consultarDatos(sFecha, sCodTipoTicket);
+            generarReporte(sCodTipoTicket, sDesTipoTicket, sFecha);
+        }
+    }
+
+    public void generarReporte(String sCodTipoTicket, String sDesTipoTicket, String sFecha)
+    {
+        try
+        {           
+
+            if (dt_consulta == null || dt_consulta.Rows.Count == 0)
+            {
+                //Response.Write("La busqueda no retorna resultado, regrese a la consulta para un nuevo filtro");
+                lblmensaje.Text = "La busqueda no retorna resultado, regrese a la consulta para un nuevo filtro";
+            }
+            else
+            {
+                //Pintar el reporte                 
+                CrystalDecisions.CrystalReports.Engine.ReportDocument obRpt = new CrystalDecisions.CrystalReports.Engine.ReportDocument();
+                obRpt.Load(Server.MapPath("").ToString() + @"\rptStockTicketContingencia.rpt");
+
+                obRpt.SetDataSource(dt_consulta);
+                obRpt.SetParameterValue("pFecha", sFecha);
+                String sTipoTicket = "";
+                if (sCodTipoTicket == "0")
+                {
+                    sTipoTicket = "Todos";
+                }
+                else
+                {
+                    sTipoTicket = sDesTipoTicket;
+                }
+                obRpt.SetParameterValue("pTipoTicket", sTipoTicket);
+
+                crptvStockTicketContingencia.ReportSource = obRpt;
+            }
+        }
+        catch (Exception ex)
+        {
+            Flg_Error = true;
+            ErrorHandler.Trace(ErrorHandler.Desc_Mensaje, ex.Message);
+        }
+        finally
+        {
+            if (Flg_Error)
+            {
+                Response.Redirect("PaginaError.aspx");
+            }
+        }
+
+    }
+
+    public void consultarDatos(String sFecha, String sCodTipoTicket)
+    {
+        if (sFecha != "" && sFecha != null)
+        {
+            string[] wordsFechaDesde = sFecha.Split('/');
+            sFecha = wordsFechaDesde[2] + "" + wordsFechaDesde[1] + "" + wordsFechaDesde[0];
+        }
+        dt_consulta = objConsulta.obtenerResumenStockTicketContingencia(sCodTipoTicket, sFecha);
+    }
+}

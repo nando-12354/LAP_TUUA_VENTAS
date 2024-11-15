@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LAP_SEAE", ".", "{809F9974-8C84-4FDC-B1E7-C4085040F949}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{92A7A1C8-96F5-4992-A363-C6FC4C60E85E}|UTIL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/LAP_SEAE"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Escritorio\MODULO COMPROBANTE PAGO\LAP_SEAE\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\LAP_SEAE\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/LAP_SEAE"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Escritorio\MODULO COMPROBANTE PAGO\LAP_SEAE\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\LAP_SEAE\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1551"
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TUUACOMPROBANTE", "..\..\..\Mis documentos\Visual Studio 2008\Projects\TUUACOMPROBANTE\TUUACOMPROBANTE.vdproj", "{C51741B0-DBB0-4DE9-BBAB-AD03654F4BBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAP.TUUA.UTIL", "..\..\UTIL\LAP.TUUA.UTIL.csproj", "{92A7A1C8-96F5-4992-A363-C6FC4C60E85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809F9974-8C84-4FDC-B1E7-C4085040F949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809F9974-8C84-4FDC-B1E7-C4085040F949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809F9974-8C84-4FDC-B1E7-C4085040F949}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{809F9974-8C84-4FDC-B1E7-C4085040F949}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C51741B0-DBB0-4DE9-BBAB-AD03654F4BBB}.Debug|Any CPU.ActiveCfg = Debug
+		{C51741B0-DBB0-4DE9-BBAB-AD03654F4BBB}.Release|Any CPU.ActiveCfg = Release
+		{92A7A1C8-96F5-4992-A363-C6FC4C60E85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A7A1C8-96F5-4992-A363-C6FC4C60E85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A7A1C8-96F5-4992-A363-C6FC4C60E85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A7A1C8-96F5-4992-A363-C6FC4C60E85E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

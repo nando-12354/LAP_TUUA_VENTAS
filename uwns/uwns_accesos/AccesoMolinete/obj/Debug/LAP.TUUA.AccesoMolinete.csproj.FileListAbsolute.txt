@@ -1,0 +1,56 @@
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\UTIL.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\UTIL.pdb
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csprojResolveAssemblyReference.cache
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.dll
+D:\proyectos\tuua\repository\git\bratch-1.1\TUUA-LAP\V1.4.8.0\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\UTIL.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\UTIL.pdb
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csprojResolveAssemblyReference.cache
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.dll
+D:\DANIEL\Proyectos\TUUA\MEJORAS TUUA 2015\PASE A PRODUCCION !!!!!!!\CD LAP-TUUA V1.4.8.1\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\UTIL.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\UTIL.pdb
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csprojAssemblyReference.cache
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csproj.CoreCompileInputs.cache
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csproj.CopyComplete
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.dll
+Z:\Subversion\TUUA\2019 10 09 HD 193702 DCASTILLO\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csproj.CopyComplete
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA_TMP\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\LAP.TUUA.AccesoMolinete.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\LAP.TUUA.AccesoMolinete.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\UTIL.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\bin\Debug\UTIL.pdb
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csproj.AssemblyReference.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csproj.CoreCompileInputs.cache
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.csproj.CopyComplete
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.dll
+C:\Git\LAP_DEVOPS\LAP_TUUA\Fuentes\uwns\uwns_accesos\AccesoMolinete\obj\Debug\LAP.TUUA.AccesoMolinete.pdb

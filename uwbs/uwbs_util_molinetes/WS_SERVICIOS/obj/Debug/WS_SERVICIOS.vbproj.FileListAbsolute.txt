@@ -1,0 +1,36 @@
+C:\Users\Paulo\Documents\Visual Studio 2008\Projects\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.dll
+C:\Users\Paulo\Documents\Visual Studio 2008\Projects\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.pdb
+C:\Users\Paulo\Documents\Visual Studio 2008\Projects\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.xml
+C:\Users\Paulo\Documents\Visual Studio 2008\Projects\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2008\Projects\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.Resources.resources
+C:\Users\Paulo\Documents\Visual Studio 2008\Projects\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.vbproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\Visual Studio 2008\Projects\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.dll
+C:\Users\Paulo\Documents\Visual Studio 2008\Projects\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.xml
+C:\Users\Paulo\Documents\Visual Studio 2008\Projects\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.pdb
+C:\Users\Paulo\Desktop\Documentos\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.dll
+C:\Users\Paulo\Desktop\Documentos\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.pdb
+C:\Users\Paulo\Desktop\Documentos\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.xml
+C:\Users\Paulo\Desktop\Documentos\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Documentos\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.Resources.resources
+C:\Users\Paulo\Desktop\Documentos\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.vbproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\Documentos\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.dll
+C:\Users\Paulo\Desktop\Documentos\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.xml
+C:\Users\Paulo\Desktop\Documentos\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.pdb
+C:\Documents and Settings\polarte.LAP\Desktop\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.dll
+C:\Documents and Settings\polarte.LAP\Desktop\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.pdb
+C:\Documents and Settings\polarte.LAP\Desktop\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.xml
+C:\Documents and Settings\polarte.LAP\Desktop\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\polarte.LAP\Desktop\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.Resources.resources
+C:\Documents and Settings\polarte.LAP\Desktop\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.vbproj.GenerateResource.Cache
+C:\Documents and Settings\polarte.LAP\Desktop\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.dll
+C:\Documents and Settings\polarte.LAP\Desktop\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.xml
+C:\Documents and Settings\polarte.LAP\Desktop\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.pdb
+D:\Proyectos\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.dll
+D:\Proyectos\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.pdb
+D:\Proyectos\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\bin\WS_SERVICIOS.xml
+D:\Proyectos\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.Resources.resources
+D:\Proyectos\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.vbproj.GenerateResource.Cache
+D:\Proyectos\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.dll
+D:\Proyectos\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.xml
+D:\Proyectos\WS_SERVICIOS\WS_SERVICIOS\WS_SERVICIOS\obj\Debug\WS_SERVICIOS.pdb

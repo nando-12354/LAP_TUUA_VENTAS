@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Tasa_Cambio_Moneda>
+<Tipo_Moneda>
+     <Id>DOL</Id>
+     <Compra>3.3000</Compra>
+     <Venta>3.3100</Venta>
+</Tipo_Moneda>
+<Tipo_Moneda>
+     <Id>EUR</Id>
+     <Compra>4.5000</Compra>
+     <Venta>4.5100</Venta>
+</Tipo_Moneda>
+</Tasa_Cambio_Moneda>
+      
+ 

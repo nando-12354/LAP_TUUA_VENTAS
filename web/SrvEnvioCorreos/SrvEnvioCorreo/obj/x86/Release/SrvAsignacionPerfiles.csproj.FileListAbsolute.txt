@@ -1,0 +1,251 @@
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\log4net.dll
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.CONFIGURACION.dll
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.CONFIGURACION.pdb
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csproj.GenerateResource.Cache
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+D:\Documents and Settings\James\Mis documentos\Downloads\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csproj.GenerateResource.Cache
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csproj.GenerateResource.Cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csproj.GenerateResource.Cache
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csproj.GenerateResource.Cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csproj.GenerateResource.Cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csproj.GenerateResource.Cache
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csproj.GenerateResource.Cache
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csprojResolveAssemblyReference.cache
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csproj.GenerateResource.Cache
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csprojResolveAssemblyReference.cache
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.csproj.GenerateResource.Cache
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BE.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.BL.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DA.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.DataSource.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\Modelo.UtilitarioEncript.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.ProjectInstaller.resources
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.SrvAsignacionPerfiles.resources
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvAsignacionPerfiles\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\SrvAsignacionPerfiles\bin\x86\Release\SrvAsignacionPerfiles.exe.config
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.exe
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\SrvAsignacionPerfiles\obj\x86\Release\SrvAsignacionPerfiles.pdb

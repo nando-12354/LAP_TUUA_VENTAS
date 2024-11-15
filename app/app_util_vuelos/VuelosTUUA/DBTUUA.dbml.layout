@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DBTUUA">
+  <DataContextMoniker Name="/DBTUUADataContext" />
+  <nestedChildShapes>
+    <classShape Id="b94f8186-fe41-427e-8544-9510f051c8a5" absoluteBounds="0.875, 2.375, 2, 3.0683211263020831">
+      <DataClassMoniker Name="/DBTUUADataContext/TUA_Compania" />
+      <nestedChildShapes>
+        <elementListCompartment Id="595ee3d4-4530-4edd-92ff-4f685522d420" absoluteBounds="0.88999999999999968, 2.835, 1.9700000000000002, 2.508321126302083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="366b6a39-dc34-4da0-9315-f664f71532e3" absoluteBounds="4.875, 2.625, 2, 2.73962646484375">
+      <DataClassMoniker Name="/DBTUUADataContext/TUA_VueloProgramado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2ed13bf6-6626-47c6-9200-6f3aba3af4b6" absoluteBounds="4.89, 3.085, 1.9700000000000002, 2.17962646484375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,87 @@
+﻿using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using LAP.TUUA.CONTROL;
+using LAP.TUUA.UTIL;
+
+public partial class ReporteCNS_rptSticketAnuladosPrint : System.Web.UI.Page
+{
+    BO_Consultas objConsulta = new BO_Consultas();
+    bool Flg_Error;
+    DataTable dt_consulta = new DataTable();
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        try
+        {
+            CargarDataReporte();
+        }
+        catch (Exception ex)
+        {
+            Flg_Error = true;
+            ErrorHandler.Trace(ErrorHandler.Desc_Mensaje, ex.Message);
+        }
+        finally
+        {
+            if (Flg_Error)
+            {
+                Response.Redirect("PaginaError.aspx");
+            }
+        }
+    }
+
+    public void CargarDataReporte()
+    {
+        string FechaDesde = Request.QueryString["sFechaDesde"];
+        string FechaHasta = Request.QueryString["sFechaHasta"];
+
+        if (FechaDesde != "")
+        {
+            string[] wordsFechaDesde = FechaDesde.Split('/');
+            FechaDesde = wordsFechaDesde[2] + "" + wordsFechaDesde[1] + "" + wordsFechaDesde[0];
+        }
+        else { FechaDesde = ""; }
+
+        if (FechaHasta != "")
+        {
+            string[] wordsFechaHasta = FechaHasta.Split('/');
+            FechaHasta = wordsFechaHasta[2] + "" + wordsFechaHasta[1] + "" + wordsFechaHasta[0];
+        }
+        else { FechaHasta = ""; }
+
+
+        
+
+        dt_consulta = objConsulta.obtenerCuadreTickesEmitidos(FechaDesde, FechaHasta, "", "1");
+
+
+        if (dt_consulta.Rows.Count == 0)
+        {
+            lblMensajeError.Text = "La busqueda no retorna resultado";
+        }
+        else
+        {
+            lblMensajeError.Text = "";
+            CrystalDecisions.CrystalReports.Engine.ReportDocument obRpt = new CrystalDecisions.CrystalReports.Engine.ReportDocument();
+            //Pintar el reporte                 
+            obRpt.Load(Server.MapPath("").ToString() + @"\rptTicketsAnulados.rpt");
+            //Poblar el reporte con el datatable
+            obRpt.SetDataSource(dt_consulta);
+            obRpt.SetParameterValue("sFechaInicio", Request.QueryString["sFechaDesde"]);
+            obRpt.SetParameterValue("sFechaFinal", Request.QueryString["sFechaHasta"]);
+            obRpt.SetParameterValue("pCuenta", (string)Session["Cta_Usuario"]);
+            crvStickerAnulados.ReportSource = obRpt;
+            //crvStickerAnulados.Zoom(100);
+            crvStickerAnulados.DataBind();
+
+        }
+    }
+
+}

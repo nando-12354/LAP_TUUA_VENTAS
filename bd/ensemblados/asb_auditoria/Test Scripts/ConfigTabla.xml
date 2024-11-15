@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TABLAS>
+      <TABLA>
+            <NOMBRE_TABLE>TUA_BoardingBcbp</NOMBRE_TABLE>
+            <ALIAS_TABLE>Boarding</ALIAS_TABLE>
+            <AUDITABLE>TRUE</AUDITABLE>
+            <SUBMODULOS>
+                  <SUBMODULO>M01*E9000</SUBMODULO>
+            </SUBMODULOS>
+            <COLUMNAS>
+                  
+                  <COLUMNA>
+                        <ORDINAL_ID>NS</ORDINAL_ID>
+                        <NOMBRE_COL>Num_Secuencial</NOMBRE_COL>
+                        <ALIAS_COL>Num_Secuencial</ALIAS_COL>
+                        <RELATION></RELATION>
+                        <TIPO>TEXT</TIPO>
+                        <OPTIONS></OPTIONS>
+                  </COLUMNA>
+                  
+                  <COLUMNA>
+                        <ORDINAL_ID>CC</ORDINAL_ID>
+                        <NOMBRE_COL>Cod_Compania</NOMBRE_COL>
+                        <ALIAS_COL>Cod_Compania</ALIAS_COL>
+                        <RELATION>
+                              <TABLA_NOM>TUA_Compania</TABLA_NOM>
+                              <CAMPO_ID>Cod_Compania</CAMPO_ID>
+                              <CAMPO_DESC>Dsc_Compania</CAMPO_DESC>
+                              <IS_TMAESTRA>FALSE</IS_TMAESTRA>
+                        </RELATION>
+                        <TIPO>TEXT</TIPO>
+                        <OPTIONS>
+                        </OPTIONS>
+                  </COLUMNA>
+
+                  <COLUMNA>
+                        <ORDINAL_ID>NV</ORDINAL_ID>
+                        <NOMBRE_COL>Num_Vuelo</NOMBRE_COL>
+                        <ALIAS_COL>Num_Vuelo</ALIAS_COL>
+                        <RELATION>
+                              <TABLA_NOM>TUA_Compania</TABLA_NOM>
+                              <CAMPO_ID>Cod_Compania</CAMPO_ID>
+                              <CAMPO_DESC>Dsc_Compania</CAMPO_DESC>
+                              <IS_TMAESTRA>FALSE</IS_TMAESTRA>
+                        </RELATION>
+                        <TIPO>TEXT</TIPO>
+                        <OPTIONS>
+                        </OPTIONS>
+                  </COLUMNA>
+                  
+                  
+                  
+                  
+            </COLUMNAS>
+      </TABLA>
+      
+      <TABLA>
+            <NOMBRE_TABLE>TUA_Compania</NOMBRE_TABLE>
+            <ALIAS_TABLE>TUA_Compania</ALIAS_TABLE>
+            <AUDITABLE>TRUE</AUDITABLE>
+            <SUBMODULOS>
+                  <SUBMODULO>M01*E9000</SUBMODULO>
+            </SUBMODULOS>
+            <COLUMNAS>
+                  <COLUMNA>
+                        <ORDINAL_ID>CC</ORDINAL_ID>
+                        <NOMBRE_COL>Cod_Compania</NOMBRE_COL>
+                        <ALIAS_COL>Cod_Compania</ALIAS_COL>
+                        <RELATION></RELATION>
+                        <TIPO>TEXT</TIPO>
+                        <OPTIONS></OPTIONS>
+                  </COLUMNA>
+                  <COLUMNA>
+                        <ORDINAL_ID>TC</ORDINAL_ID>
+                        <NOMBRE_COL>Tip_Compania</NOMBRE_COL>
+                        <ALIAS_COL>Tip_Compania</ALIAS_COL>
+                        <RELATION></RELATION>
+                        <TIPO>TEXT</TIPO>
+                        <OPTIONS>
+                              <OPTION>
+                                    <VALOR>1</VALOR>
+                                    <DESCRIPCION>Aerolinea</DESCRIPCION>
+                              </OPTION>
+                              <OPTION>
+                                    <VALOR>2</VALOR>
+                                    <DESCRIPCION>Agencia</DESCRIPCION>
+                              </OPTION>
+                        </OPTIONS>
+                  </COLUMNA>
+                  <COLUMNA>
+                        <ORDINAL_ID>DC</ORDINAL_ID>
+                        <NOMBRE_COL>Dsc_Compania</NOMBRE_COL>
+                        <ALIAS_COL>Dsc_Compania</ALIAS_COL>
+                        <RELATION></RELATION>
+                        <TIPO>TEXT</TIPO>
+                        <OPTIONS></OPTIONS>
+                  </COLUMNA>
+            </COLUMNAS>
+            
+      </TABLA>
+</TABLAS>

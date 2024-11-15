@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.lap.com.pe/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://www.lap.com.pe/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.lap.com.pe/">
+      <s:element name="ConsultaBcbpMensualLeidosMolinete">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sFchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipPersona" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodIATA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sSort" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iFila" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="iMaxFila" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sPaginacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sMostrarResumen" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTotalRows" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sExcel" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaBcbpMensualLeidosMolineteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaBcbpMensualLeidosMolineteResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarBoardingLeidosMolinete">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sFchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNumAsiento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNomPasajero" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNroBoarding" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sEticket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sEstado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodIATA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sSort" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iFila" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="iMaxFila" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sPaginacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sMostrarResumen" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFlagTotalRows" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFlgExcel" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarBoardingLeidosMolineteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultarBoardingLeidosMolineteResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarCamposxNombre">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCampos" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarCamposxNombreResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarCamposxNombreResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingHistorica">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingHistoricaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBoardingHistoricaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingEstHist">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingEstHistResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBoardingEstHistResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarBoardingAsociados">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarBoardingAsociadosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarBoardingAsociadosResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarParametros">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sIdentificador" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarParametrosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarParametrosResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidarCompaniaBCBP">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCod_IATA" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidarCompaniaBCBPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidarCompaniaBCBPResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaBcbpMensualLeidosMolineteXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sFchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipPersona" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodIATA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sSort" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iFila" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="iMaxFila" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sPaginacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sMostrarResumen" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTotalRows" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sExcel" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaBcbpMensualLeidosMolineteXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaBcbpMensualLeidosMolineteXMLResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarBoardingLeidosMolineteXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sFchDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFchVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNumAsiento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNomPasajero" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNroBoarding" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sEticket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sEstado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodIATA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sSort" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iFila" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="iMaxFila" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sPaginacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sMostrarResumen" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFlagTotalRows" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFlgExcel" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarBoardingLeidosMolineteXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultarBoardingLeidosMolineteXMLResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarCamposxNombreXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCampos" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listarCamposxNombreXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listarCamposxNombreXMLResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingHistoricaXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingHistoricaXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBoardingHistoricaXMLResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingEstHistXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBoardingEstHistXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBoardingEstHistXMLResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarBoardingAsociadosXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Num_Secuencial_Bcbp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarBoardingAsociadosXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarBoardingAsociadosXMLResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarParametrosXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sIdentificador" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarParametrosXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarParametrosXMLResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidarCompaniaBCBPXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCod_IATA" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidarCompaniaBCBPXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidarCompaniaBCBPXMLResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarBoardingDiario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sFechaDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFechaHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraDesde" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sHoraHasta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodCompania" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipoPasajero" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipoVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipoTrasbordo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFechaVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNumVuelo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sPasajero" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sNumAsiento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodIata" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sPassword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTipReporte" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sColumnSort" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iIniRows" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="iMaxRows" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sTotalRows" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarBoardingDiarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarBoardingDiarioResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ConsultaBcbpMensualLeidosMolineteSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaBcbpMensualLeidosMolinete" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaBcbpMensualLeidosMolineteSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaBcbpMensualLeidosMolineteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarBoardingLeidosMolineteSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultarBoardingLeidosMolinete" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarBoardingLeidosMolineteSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultarBoardingLeidosMolineteResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarCamposxNombreSoapIn">
+    <wsdl:part name="parameters" element="tns:listarCamposxNombre" />
+  </wsdl:message>
+  <wsdl:message name="listarCamposxNombreSoapOut">
+    <wsdl:part name="parameters" element="tns:listarCamposxNombreResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingHistoricaSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingHistorica" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingHistoricaSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingHistoricaResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingEstHistSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingEstHist" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingEstHistSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingEstHistResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarBoardingAsociadosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarBoardingAsociados" />
+  </wsdl:message>
+  <wsdl:message name="ListarBoardingAsociadosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarBoardingAsociadosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarParametrosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarParametros" />
+  </wsdl:message>
+  <wsdl:message name="ListarParametrosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarParametrosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidarCompaniaBCBPSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidarCompaniaBCBP" />
+  </wsdl:message>
+  <wsdl:message name="ValidarCompaniaBCBPSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidarCompaniaBCBPResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaBcbpMensualLeidosMolineteXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaBcbpMensualLeidosMolineteXML" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaBcbpMensualLeidosMolineteXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaBcbpMensualLeidosMolineteXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarBoardingLeidosMolineteXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultarBoardingLeidosMolineteXML" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarBoardingLeidosMolineteXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultarBoardingLeidosMolineteXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="listarCamposxNombreXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:listarCamposxNombreXML" />
+  </wsdl:message>
+  <wsdl:message name="listarCamposxNombreXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:listarCamposxNombreXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingHistoricaXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingHistoricaXML" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingHistoricaXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingHistoricaXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingEstHistXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingEstHistXML" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBoardingEstHistXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBoardingEstHistXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarBoardingAsociadosXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarBoardingAsociadosXML" />
+  </wsdl:message>
+  <wsdl:message name="ListarBoardingAsociadosXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarBoardingAsociadosXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarParametrosXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarParametrosXML" />
+  </wsdl:message>
+  <wsdl:message name="ListarParametrosXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarParametrosXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidarCompaniaBCBPXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidarCompaniaBCBPXML" />
+  </wsdl:message>
+  <wsdl:message name="ValidarCompaniaBCBPXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidarCompaniaBCBPXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarBoardingDiarioSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarBoardingDiario" />
+  </wsdl:message>
+  <wsdl:message name="ListarBoardingDiarioSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarBoardingDiarioResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSConsultasSoap">
+    <wsdl:operation name="ConsultaBcbpMensualLeidosMolinete">
+      <wsdl:input message="tns:ConsultaBcbpMensualLeidosMolineteSoapIn" />
+      <wsdl:output message="tns:ConsultaBcbpMensualLeidosMolineteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarBoardingLeidosMolinete">
+      <wsdl:input message="tns:ConsultarBoardingLeidosMolineteSoapIn" />
+      <wsdl:output message="tns:ConsultarBoardingLeidosMolineteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarCamposxNombre">
+      <wsdl:input message="tns:listarCamposxNombreSoapIn" />
+      <wsdl:output message="tns:listarCamposxNombreSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingHistorica">
+      <wsdl:input message="tns:DetalleBoardingHistoricaSoapIn" />
+      <wsdl:output message="tns:DetalleBoardingHistoricaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHist">
+      <wsdl:input message="tns:DetalleBoardingEstHistSoapIn" />
+      <wsdl:output message="tns:DetalleBoardingEstHistSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingAsociados">
+      <wsdl:input message="tns:ListarBoardingAsociadosSoapIn" />
+      <wsdl:output message="tns:ListarBoardingAsociadosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarParametros">
+      <wsdl:input message="tns:ListarParametrosSoapIn" />
+      <wsdl:output message="tns:ListarParametrosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidarCompaniaBCBP">
+      <wsdl:input message="tns:ValidarCompaniaBCBPSoapIn" />
+      <wsdl:output message="tns:ValidarCompaniaBCBPSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaBcbpMensualLeidosMolineteXML">
+      <wsdl:input message="tns:ConsultaBcbpMensualLeidosMolineteXMLSoapIn" />
+      <wsdl:output message="tns:ConsultaBcbpMensualLeidosMolineteXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarBoardingLeidosMolineteXML">
+      <wsdl:input message="tns:ConsultarBoardingLeidosMolineteXMLSoapIn" />
+      <wsdl:output message="tns:ConsultarBoardingLeidosMolineteXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listarCamposxNombreXML">
+      <wsdl:input message="tns:listarCamposxNombreXMLSoapIn" />
+      <wsdl:output message="tns:listarCamposxNombreXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingHistoricaXML">
+      <wsdl:input message="tns:DetalleBoardingHistoricaXMLSoapIn" />
+      <wsdl:output message="tns:DetalleBoardingHistoricaXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHistXML">
+      <wsdl:input message="tns:DetalleBoardingEstHistXMLSoapIn" />
+      <wsdl:output message="tns:DetalleBoardingEstHistXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingAsociadosXML">
+      <wsdl:input message="tns:ListarBoardingAsociadosXMLSoapIn" />
+      <wsdl:output message="tns:ListarBoardingAsociadosXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarParametrosXML">
+      <wsdl:input message="tns:ListarParametrosXMLSoapIn" />
+      <wsdl:output message="tns:ListarParametrosXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidarCompaniaBCBPXML">
+      <wsdl:input message="tns:ValidarCompaniaBCBPXMLSoapIn" />
+      <wsdl:output message="tns:ValidarCompaniaBCBPXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingDiario">
+      <wsdl:input message="tns:ListarBoardingDiarioSoapIn" />
+      <wsdl:output message="tns:ListarBoardingDiarioSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSConsultasSoap" type="tns:WSConsultasSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultaBcbpMensualLeidosMolinete">
+      <soap:operation soapAction="http://www.lap.com.pe/ConsultaBcbpMensualLeidosMolinete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarBoardingLeidosMolinete">
+      <soap:operation soapAction="http://www.lap.com.pe/ConsultarBoardingLeidosMolinete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarCamposxNombre">
+      <soap:operation soapAction="http://www.lap.com.pe/listarCamposxNombre" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingHistorica">
+      <soap:operation soapAction="http://www.lap.com.pe/DetalleBoardingHistorica" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHist">
+      <soap:operation soapAction="http://www.lap.com.pe/DetalleBoardingEstHist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingAsociados">
+      <soap:operation soapAction="http://www.lap.com.pe/ListarBoardingAsociados" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarParametros">
+      <soap:operation soapAction="http://www.lap.com.pe/ListarParametros" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarCompaniaBCBP">
+      <soap:operation soapAction="http://www.lap.com.pe/ValidarCompaniaBCBP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaBcbpMensualLeidosMolineteXML">
+      <soap:operation soapAction="http://www.lap.com.pe/ConsultaBcbpMensualLeidosMolineteXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarBoardingLeidosMolineteXML">
+      <soap:operation soapAction="http://www.lap.com.pe/ConsultarBoardingLeidosMolineteXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarCamposxNombreXML">
+      <soap:operation soapAction="http://www.lap.com.pe/listarCamposxNombreXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingHistoricaXML">
+      <soap:operation soapAction="http://www.lap.com.pe/DetalleBoardingHistoricaXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHistXML">
+      <soap:operation soapAction="http://www.lap.com.pe/DetalleBoardingEstHistXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingAsociadosXML">
+      <soap:operation soapAction="http://www.lap.com.pe/ListarBoardingAsociadosXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarParametrosXML">
+      <soap:operation soapAction="http://www.lap.com.pe/ListarParametrosXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarCompaniaBCBPXML">
+      <soap:operation soapAction="http://www.lap.com.pe/ValidarCompaniaBCBPXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingDiario">
+      <soap:operation soapAction="http://www.lap.com.pe/ListarBoardingDiario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSConsultasSoap12" type="tns:WSConsultasSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultaBcbpMensualLeidosMolinete">
+      <soap12:operation soapAction="http://www.lap.com.pe/ConsultaBcbpMensualLeidosMolinete" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarBoardingLeidosMolinete">
+      <soap12:operation soapAction="http://www.lap.com.pe/ConsultarBoardingLeidosMolinete" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarCamposxNombre">
+      <soap12:operation soapAction="http://www.lap.com.pe/listarCamposxNombre" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingHistorica">
+      <soap12:operation soapAction="http://www.lap.com.pe/DetalleBoardingHistorica" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHist">
+      <soap12:operation soapAction="http://www.lap.com.pe/DetalleBoardingEstHist" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingAsociados">
+      <soap12:operation soapAction="http://www.lap.com.pe/ListarBoardingAsociados" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarParametros">
+      <soap12:operation soapAction="http://www.lap.com.pe/ListarParametros" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarCompaniaBCBP">
+      <soap12:operation soapAction="http://www.lap.com.pe/ValidarCompaniaBCBP" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaBcbpMensualLeidosMolineteXML">
+      <soap12:operation soapAction="http://www.lap.com.pe/ConsultaBcbpMensualLeidosMolineteXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarBoardingLeidosMolineteXML">
+      <soap12:operation soapAction="http://www.lap.com.pe/ConsultarBoardingLeidosMolineteXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarCamposxNombreXML">
+      <soap12:operation soapAction="http://www.lap.com.pe/listarCamposxNombreXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingHistoricaXML">
+      <soap12:operation soapAction="http://www.lap.com.pe/DetalleBoardingHistoricaXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBoardingEstHistXML">
+      <soap12:operation soapAction="http://www.lap.com.pe/DetalleBoardingEstHistXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingAsociadosXML">
+      <soap12:operation soapAction="http://www.lap.com.pe/ListarBoardingAsociadosXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarParametrosXML">
+      <soap12:operation soapAction="http://www.lap.com.pe/ListarParametrosXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarCompaniaBCBPXML">
+      <soap12:operation soapAction="http://www.lap.com.pe/ValidarCompaniaBCBPXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarBoardingDiario">
+      <soap12:operation soapAction="http://www.lap.com.pe/ListarBoardingDiario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSConsultas">
+    <wsdl:port name="WSConsultasSoap" binding="tns:WSConsultasSoap">
+      <soap:address location="http://200.37.104.11/uwbs_bp/WSConsultas.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSConsultasSoap12" binding="tns:WSConsultasSoap12">
+      <soap12:address location="http://200.37.104.11/uwbs_bp/WSConsultas.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+***********************************************************************************************
+website.publishproj
+
+WARNING: DO NOT MODIFY this file, it is used for the web publish process.
+
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+***********************************************************************************************
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.30319</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{78fd8a12-bd73-4be0-8d38-26596521f5d1}</ProjectGuid>
+    <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
+    <SourceWebVirtualPath>/TuuaAdministracion</SourceWebVirtualPath>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <SourceWebProject>
+    </SourceWebProject>
+    <SourceWebMetabasePath>
+    </SourceWebMetabasePath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <!-- for VS2010 we need to use 10.5 but for VS2012+ we should use VisualStudioVersion -->
+    <WebPublishTargetsVersion Condition=" '$(WebPublishTargetsVersion)' =='' and '$(VisualStudioVersion)' == 10.0 ">10.5</WebPublishTargetsVersion>
+    <WebPublishTargetsVersion Condition=" '$(WebPublishTargetsVersion)'=='' ">$(VisualStudioVersion)</WebPublishTargetsVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(WebPublishTargetsVersion)</VSToolsPath>
+    <_WebPublishTargetsPath Condition=" '$(_WebPublishTargetsPath)'=='' ">$(VSToolsPath)</_WebPublishTargetsPath>
+    <AssemblyFileVersion Condition="'$(AssemblyFileVersion)' == ''">1.0.0.0</AssemblyFileVersion>
+    <AssemblyVersion Condition="'$(AssemblyVersion)' == ''">1.0.0.0</AssemblyVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyAttributes Include="AssemblyFileVersion">
+      <Value>$(AssemblyFileVersion)</Value>
+    </AssemblyAttributes>
+    <AssemblyAttributes Include="AssemblyVersion">
+      <Value>$(AssemblyVersion)</Value>
+    </AssemblyAttributes>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\componentes comunes\ALARMAS\LAP.TUUA.ALARMAS.csproj">
+      <Project>{F66FF05F-24E9-48C4-A2FF-75B06205811E}</Project>
+      <Name>LAP.TUUA.ALARMAS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\componentes comunes\CLIENTEWS\LAP.TUUA.CLIENTEWS.csproj">
+      <Project>{385041FE-FFD1-4114-8929-BF8A3FBE4945}</Project>
+      <Name>LAP.TUUA.CLIENTEWS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\componentes comunes\CONEXION\LAP.TUUA.CONEXION.csproj">
+      <Project>{555AE05D-0223-406B-9F7F-EECB0B9DE8DB}</Project>
+      <Name>LAP.TUUA.CONEXION</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\componentes comunes\DATAACCESS\LAP.TUUA.DAO.csproj">
+      <Project>{90842E9D-9217-42D5-A693-E0759F06FAEC}</Project>
+      <Name>LAP.TUUA.DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\componentes comunes\ENTIDADES\LAP.TUUA.ENTIDADES.csproj">
+      <Project>{113FFE71-C275-4A6A-BD2B-70E76F0AC4A8}</Project>
+      <Name>LAP.TUUA.ENTIDADES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\componentes comunes\NATIVO\LAP.TUUA.NATIVO.csproj">
+      <Project>{4B704D3A-533A-4F74-8922-63A722146552}</Project>
+      <Name>LAP.TUUA.NATIVO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\componentes comunes\PRINTERWEB\LAP.TUUA.PRINTER.csproj">
+      <Project>{E3E3B472-089C-43C0-AD27-2E16CF26578E}</Project>
+      <Name>LAP.TUUA.PRINTER</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\componentes comunes\RESOLVER\LAP.TUUA.RESOLVER.csproj">
+      <Project>{2B9C33B4-DA4C-4C10-AD5E-966BDC90AFA1}</Project>
+      <Name>LAP.TUUA.RESOLVER</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\componentes comunes\UTIL\LAP.TUUA.UTIL.csproj">
+      <Project>{92A7A1C8-96F5-4992-A363-C6FC4C60E85E}</Project>
+      <Name>LAP.TUUA.UTIL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CONTROL\LAP.TUUA.CONTROL.csproj">
+      <Project>{D17B7B60-8773-45A4-B826-93B167DCA49E}</Project>
+      <Name>LAP.TUUA.CONTROL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CONVERSOR\LAP.TUUA.CONVERSOR.csproj">
+      <Project>{7DD1F7EF-9858-44D0-8C5C-9E971805328D}</Project>
+      <Name>LAP.TUUA.CONVERSOR</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(_WebPublishTargetsPath)\Web\Microsoft.WebSite.Publishing.targets" />
+</Project>

@@ -1,0 +1,164 @@
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\obj\Debug\ResolveAssemblyReference.cache
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.csproj.GenerateResource.Cache
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.exe
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\obj\Debug\LAP.TUUA.SERVICIOS.SVC_Base.resources
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe.config
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\DATAACCESS.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\ENTIDADES.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\UTIL.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\Microsoft.Practices.Unity.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\DATAACCESS.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\ENTIDADES.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\UTIL.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACION4\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe.config
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\DATAACCESS.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\ENTIDADES.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\UTIL.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\Microsoft.Practices.Unity.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\ENTIDADES.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\DATAACCESS.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\bin\Debug\UTIL.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\obj\Debug\ResolveAssemblyReference.cache
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\obj\Debug\LAP.TUUA.SERVICIOS.SVC_Base.resources
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.csproj.GenerateResource.Cache
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.exe
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETE\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.pdb
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe.config
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.pdb
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\DATAACCESS.dll
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\ENTIDADES.dll
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\UTIL.dll
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\ENTIDADES.pdb
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\DATAACCESS.pdb
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\UTIL.pdb
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\LAP.TUUA.SERVICIOS.SVC_Base.resources
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.csproj.GenerateResource.Cache
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.exe
+C:\Documents and Settings\gchavez\Escritorio\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.pdb
+D:\RAMIROFUENTES\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe.config
+D:\RAMIROFUENTES\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.exe
+D:\RAMIROFUENTES\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.pdb
+D:\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe.config
+D:\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.exe
+D:\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe.config
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\DATAACCESS.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\ENTIDADES.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\LAP.TUUA.ALARMAS.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\UTIL.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.Unity.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\LAP.TUUA.ALARMAS.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\ENTIDADES.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\DATAACCESS.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\bin\Debug\UTIL.pdb
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\ResolveAssemblyReference.cache
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\LAP.TUUA.SERVICIOS.SVC_Base.resources
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.csproj.GenerateResource.Cache
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.exe
+D:\FOLDER\desarrollo\LAP\INTEGRACIONMOLINETEOK\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.pdb
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe.config
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.pdb
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\DATAACCESS.DLL
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\ENTIDADES.DLL
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\LAP.TUUA.ALARMAS.DLL
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\UTIL.DLL
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.Unity.dll
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.xml
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\ResolveAssemblyReference.cache
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\LAP.TUUA.SERVICIOS.SVC_Base.resources
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.csproj.GenerateResource.Cache
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.exe
+D:\V_1_4_3_6\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe.config
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.exe
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.pdb
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\DATAACCESS.DLL
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\ENTIDADES.DLL
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\LAP.TUUA.ALARMAS.DLL
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\UTIL.DLL
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.xml
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\LAP.TUUA.SERVICIOS.SVC_Base.resources
+C:\Documents and Settings\esilva\Escritorio\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.csproj.GenerateResource.Cache
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe.config
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.exe
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.pdb
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\ResolveAssemblyReference.cache
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\LAP.TUUA.SERVICIOS.SVC_Base.resources
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\obj\Debug\swd_TuuaServicios.csproj.GenerateResource.Cache
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.exe
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\swd_TuuaServicios.pdb
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\DATAACCESS.DLL
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\ENTIDADES.DLL
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\LAP.TUUA.ALARMAS.DLL
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\UTIL.DLL
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.Unity.dll
+C:\PROYECTOS\LAP-TUUA-8183\V 1.4.4.2\Fuentes\modulo servicios generales e interfaces\swd_TuuaServicios\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml

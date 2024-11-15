@@ -1,0 +1,51 @@
+COMENTARIO: Escoje el tipo de separador el cual estara entre los datos->(#)  No cambiar el orden de los parametros
+1 web service verificar red:	#http://172.20.0.125/tuua_api_qas/api/TuuaAccesos/getstatus#
+2 web service vuelos salidas:	#http://172.20.0.125/tuua_api_qas/api/TuuaAccesos/GetVuelosProgramados?tipo_operacion=S&tipo_vuelo=I#
+3 web service vuelos llegadas:	#http://172.20.0.125/tuua_api_qas/api/TuuaAccesos/GetVuelosProgramados?tipo_operacion=L&tipo_vuelo=I#
+4 web post vuelo salida:	#http://172.20.0.125/tuua_api_qas/api/TuuaAccesos/PostObtenerVueloTrama?tip_operacion=S# 
+5 web post vuelo llegada:	#http://172.20.0.125/tuua_api_qas/api/TuuaAccesos/PostObtenerVueloTrama?tip_operacion=L#
+6 web service post de datos:	#http://172.20.0.125/tuua_api_qas/api/TuuaAccesos/PostRegistrarPaxTransito#
+7 Timeout verficar red:		#0.3#
+8 Timeout vuelos salidas:	#3#
+9 Timeout vuelos llegadas:	#3#
+10 Timeout post vuelo salida:	#3#
+11 Timeout post vuelo llegada:	#3#
+12 Timeout post de datos:	#0.3#
+13 tiempo de reinicio segundos:	#30#
+14 tipo de letra botones:	#Helvetica#
+15 Nombre puerta:		#L21#
+16 Base de datos(l/u/p/n):	#localhost,root,,lapTransito#
+17 Hora de borrado:		#13:06#
+18 Borrado base de datos:	#30#
+19 Borrado log:			#10#
+20 Aeropuerto origen:		#LIM#
+21 luz scanner:			#COM7#
+22 puerto scanner:		#COM19#
+23 longitud tuua :		#16#
+24 direccion controlador:	#http://192.168.0.200:8081/#
+25 estado cerrado puerta:	#L#
+26 estado abierto puerta:	#O#
+27 estado normal puerta:	#E#
+28 rango de muestreo:		#40#
+29 duracion de muestreo:	#0.5#
+30 status query:		#SQ#
+31 autorizar pase:		#CC#
+32 intento de fraude:		#CR#
+33 Completo pase:		#QBOK#
+34 regreso:			#CNXB#
+35 incompleto pase:		#TODT#
+36 bloqueo:			#FRXO#
+37 paso incorrecto:		#FR2X#
+38 emergencia:			#EXOK#
+39 mnsj bloqueado esp :		#bloqueado#
+40 mnsj bloqueado en :		#locked#
+41 mnsj desbloqueado esp :	#desbloqueado#
+42 mnsj desbloqueado en :	#unlocked#
+43 mnsj de pase :		#Registro Satisfactorio#
+44 mnsj de no pase :		#No pase#
+45 mnsj bienvenido esp :	#Bienvenido#
+46 mnsj bienvenido en :		#Welcome#
+47 pasajero pasando :		#PROK#
+48 web service llaves destrabe:	#http://172.20.0.125/tuua_api_qas/api/TuuaAccesos/GetLlavesDestrabe#
+49 Timeout llaves de destrabe:	#3#
+50 mnsj de espera:		#Espere/wait...#

@@ -1,0 +1,76 @@
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.2.2.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\bin\x86\Release\Hiper.BMatic.Net.mVersion.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.3.0\fuentes\HERRAMIENTAS\REUTILIZABLES NET2K5\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Miscelan\HIPER\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Luz\BMatic\V4.2.6.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT\integracion\V4.2.8.2\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+D:\Proyectos\HIPBMAT5\integracion\V5.0.0.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.0\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.1.1\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\Banco Popular\V5.0.2.0 Nueva\fuentes\SERVICIOS\SrvAsignacionPerfiles\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\HIPBMAT5\integracion\V5.0.2.4\fuentes\SERVICIOS\SrvEnvioCorreos\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+C:\Projects\Examples\SrvEnvioCorreos\SrvEnvioCorreos\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\SrvEnvioCorreos\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\SrvEnvioCorreos\Hiper.Net.Utilidades\bin\x86\Release\Hiper.Net.Utilidades.pdb
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\SrvEnvioCorreos\Hiper.Net.Utilidades\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\SrvEnvioCorreos\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.dll
+E:\Proyectos\LAPTUUA\integracion\V1.4.8.0\Fuentes\web\SrvEnvioCorreos\Hiper.Net.Utilidades\obj\x86\Release\Hiper.Net.Utilidades.pdb
